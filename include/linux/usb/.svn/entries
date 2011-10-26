@@ -1,0 +1,343 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/include/linux/usb
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+cdc.h
+file
+
+
+
+add
+
+gadget.h
+file
+
+
+
+add
+
+ch11.h
+file
+
+
+
+add
+
+langwell_udc.h
+file
+
+
+
+add
+
+net2280.h
+file
+
+
+
+add
+
+f_mtp.h
+file
+
+
+
+add
+
+musb.h
+file
+
+
+
+add
+
+atmel_usba_udc.h
+file
+
+
+
+add
+
+m66592.h
+file
+
+
+
+add
+
+g_hid.h
+file
+
+
+
+add
+
+rndis_host.h
+file
+
+
+
+add
+
+iowarrior.h
+file
+
+
+
+add
+
+quirks.h
+file
+
+
+
+add
+
+serial.h
+file
+
+
+
+add
+
+irda.h
+file
+
+
+
+add
+
+wusb.h
+file
+
+
+
+add
+
+midi.h
+file
+
+
+
+add
+
+ch9.h
+file
+
+
+
+add
+
+gadgetfs.h
+file
+
+
+
+add
+
+Kbuild
+file
+
+
+
+add
+
+wusb-wa.h
+file
+
+
+
+add
+
+otg.h
+file
+
+
+
+add
+
+g_printer.h
+file
+
+
+
+add
+
+gpio_vbus.h
+file
+
+
+
+add
+
+hcd.h
+file
+
+
+
+add
+
+input.h
+file
+
+
+
+add
+
+f_accessory.h
+file
+
+
+
+add
+
+usbnet.h
+file
+
+
+
+add
+
+audio.h
+file
+
+
+
+add
+
+composite.h
+file
+
+
+
+add
+
+android_composite.h
+file
+
+
+
+add
+
+video.h
+file
+
+
+
+add
+
+isp1362.h
+file
+
+
+
+add
+
+sl811.h
+file
+
+
+
+add
+
+ulpi.h
+file
+
+
+
+add
+
+isp1760.h
+file
+
+
+
+add
+
+isp116x.h
+file
+
+
+
+add
+
+r8a66597.h
+file
+
+
+
+add
+
+association.h
+file
+
+
+
+add
+
+ncm.h
+file
+
+
+
+add
+
+functionfs.h
+file
+
+
+
+add
+
+tmc.h
+file
+
+
+
+add
+
+audio-v2.h
+file
+
+
+
+add
+
+ehci_def.h
+file
+
+
+
+add
+
+c67x00.h
+file
+
+
+
+add
+

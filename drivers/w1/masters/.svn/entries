@@ -1,0 +1,91 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/w1/masters
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+mxc_w1.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+matrox_w1.c
+file
+
+
+
+add
+
+w1-gpio.c
+file
+
+
+
+add
+
+ds2490.c
+file
+
+
+
+add
+
+ds2482.c
+file
+
+
+
+add
+
+omap_hdq.c
+file
+
+
+
+add
+
+ds1wm.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

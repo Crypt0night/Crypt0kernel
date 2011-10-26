@@ -1,0 +1,112 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/fs/notify/inotify
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+.inotify_fsnotify.o.cmd
+file
+
+
+
+add
+
+inotify_user.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+.built-in.o.cmd
+file
+
+
+
+add
+
+modules.order
+file
+
+
+
+add
+
+inotify.c
+file
+
+
+
+add
+
+inotify_fsnotify.c
+file
+
+
+
+add
+
+inotify.h
+file
+
+
+
+add
+
+.inotify_user.o.cmd
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+modules.builtin
+file
+
+
+
+add
+
+.inotify.o.cmd
+file
+
+
+
+add
+

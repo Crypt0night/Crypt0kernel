@@ -1,0 +1,84 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/Documentation/aoe
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+udev-install.sh
+file
+
+
+
+add
+
+udev.txt
+file
+
+
+
+add
+
+autoload.sh
+file
+
+
+
+add
+
+mkdevs.sh
+file
+
+
+
+add
+
+aoe.txt
+file
+
+
+
+add
+
+mkshelf.sh
+file
+
+
+
+add
+
+todo.txt
+file
+
+
+
+add
+
+status.sh
+file
+
+
+
+add
+

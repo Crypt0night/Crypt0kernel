@@ -1,0 +1,119 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/fs/cachefiles
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+rdwr.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+interface.c
+file
+
+
+
+add
+
+internal.h
+file
+
+
+
+add
+
+xattr.c
+file
+
+
+
+add
+
+daemon.c
+file
+
+
+
+add
+
+proc.c
+file
+
+
+
+add
+
+main.c
+file
+
+
+
+add
+
+security.c
+file
+
+
+
+add
+
+key.c
+file
+
+
+
+add
+
+namei.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+bind.c
+file
+
+
+
+add
+

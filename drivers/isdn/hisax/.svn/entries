@@ -1,0 +1,728 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/isdn/hisax
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+isar.c
+file
+
+
+
+add
+
+isdnl1.h
+file
+
+
+
+add
+
+bkm_a8.c
+file
+
+
+
+add
+
+isdnl3.h
+file
+
+
+
+add
+
+w6692.h
+file
+
+
+
+add
+
+arcofi.c
+file
+
+
+
+add
+
+isar.h
+file
+
+
+
+add
+
+teleint.c
+file
+
+
+
+add
+
+config.c
+file
+
+
+
+add
+
+sportster.c
+file
+
+
+
+add
+
+amd7930_fn.c
+file
+
+
+
+add
+
+arcofi.h
+file
+
+
+
+add
+
+l3dss1.c
+file
+
+
+
+add
+
+hisax_isac.c
+file
+
+
+
+add
+
+amd7930_fn.h
+file
+
+
+
+add
+
+hfcscard.c
+file
+
+
+
+add
+
+st5481.h
+file
+
+
+
+add
+
+l3dss1.h
+file
+
+
+
+add
+
+hisax_isac.h
+file
+
+
+
+add
+
+saphir.c
+file
+
+
+
+add
+
+nj_s.c
+file
+
+
+
+add
+
+avma1_cs.c
+file
+
+
+
+add
+
+ix1_micro.c
+file
+
+
+
+add
+
+s0box.c
+file
+
+
+
+add
+
+sedlbauer_cs.c
+file
+
+
+
+add
+
+nj_u.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+enternow_pci.c
+file
+
+
+
+add
+
+teles_cs.c
+file
+
+
+
+add
+
+lmgr.c
+file
+
+
+
+add
+
+gazel.c
+file
+
+
+
+add
+
+avm_a1.c
+file
+
+
+
+add
+
+hscx.c
+file
+
+
+
+add
+
+mic.c
+file
+
+
+
+add
+
+telespci.c
+file
+
+
+
+add
+
+hfc_usb.c
+file
+
+
+
+add
+
+st5481_b.c
+file
+
+
+
+add
+
+hscx.h
+file
+
+
+
+add
+
+st5481_d.c
+file
+
+
+
+add
+
+hfc_usb.h
+file
+
+
+
+add
+
+isac.c
+file
+
+
+
+add
+
+hscx_irq.c
+file
+
+
+
+add
+
+st5481_usb.c
+file
+
+
+
+add
+
+ipac.h
+file
+
+
+
+add
+
+bkm_a4t.c
+file
+
+
+
+add
+
+tei.c
+file
+
+
+
+add
+
+avm_a1p.c
+file
+
+
+
+add
+
+isac.h
+file
+
+
+
+add
+
+netjet.c
+file
+
+
+
+add
+
+hfc_2bds0.c
+file
+
+
+
+add
+
+isdnl2.c
+file
+
+
+
+add
+
+netjet.h
+file
+
+
+
+add
+
+hfc_2bds0.h
+file
+
+
+
+add
+
+teles3.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+isdnl2.h
+file
+
+
+
+add
+
+ipacx.c
+file
+
+
+
+add
+
+bkm_ax.h
+file
+
+
+
+add
+
+ipacx.h
+file
+
+
+
+add
+
+hfc_sx.c
+file
+
+
+
+add
+
+hfc_sx.h
+file
+
+
+
+add
+
+hfc_2bs0.c
+file
+
+
+
+add
+
+isurf.c
+file
+
+
+
+add
+
+l3_1tr6.c
+file
+
+
+
+add
+
+hfc_2bs0.h
+file
+
+
+
+add
+
+hfc_pci.c
+file
+
+
+
+add
+
+q931.c
+file
+
+
+
+add
+
+elsa_ser.c
+file
+
+
+
+add
+
+hisax_fcpcipnp.c
+file
+
+
+
+add
+
+icc.c
+file
+
+
+
+add
+
+l3_1tr6.h
+file
+
+
+
+add
+
+hisax_if.h
+file
+
+
+
+add
+
+hfc_pci.h
+file
+
+
+
+add
+
+hisax_cfg.h
+file
+
+
+
+add
+
+icc.h
+file
+
+
+
+add
+
+hisax_fcpcipnp.h
+file
+
+
+
+add
+
+jade.c
+file
+
+
+
+add
+
+niccy.c
+file
+
+
+
+add
+
+sedlbauer.c
+file
+
+
+
+add
+
+jade.h
+file
+
+
+
+add
+
+elsa_cs.c
+file
+
+
+
+add
+
+asuscom.c
+file
+
+
+
+add
+
+hfc4s8s_l1.c
+file
+
+
+
+add
+
+avm_pci.c
+file
+
+
+
+add
+
+callc.c
+file
+
+
+
+add
+
+jade_irq.c
+file
+
+
+
+add
+
+hisax.h
+file
+
+
+
+add
+
+hfc4s8s_l1.h
+file
+
+
+
+add
+
+diva.c
+file
+
+
+
+add
+
+elsa.c
+file
+
+
+
+add
+
+fsm.c
+file
+
+
+
+add
+
+l3ni1.c
+file
+
+
+
+add
+
+hisax_debug.h
+file
+
+
+
+add
+
+isdnl1.c
+file
+
+
+
+add
+
+fsm.h
+file
+
+
+
+add
+
+st5481_init.c
+file
+
+
+
+add
+
+l3ni1.h
+file
+
+
+
+add
+
+teles0.c
+file
+
+
+
+add
+
+isdnl3.c
+file
+
+
+
+add
+
+w6692.c
+file
+
+
+
+add
+

@@ -1,0 +1,70 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/um/kernel/skas
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+mmu.c
+file
+
+
+
+add
+
+process.c
+file
+
+
+
+add
+
+clone.c
+file
+
+
+
+add
+
+uaccess.c
+file
+
+
+
+add
+
+syscall.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

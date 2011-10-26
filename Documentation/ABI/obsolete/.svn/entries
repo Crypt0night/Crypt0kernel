@@ -1,0 +1,56 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/Documentation/ABI/obsolete
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+o2cb
+file
+
+
+
+add
+
+sysfs-bus-usb
+file
+
+
+
+add
+
+dv1394
+file
+
+
+
+add
+
+sysfs-class-rfkill
+file
+
+
+
+add
+

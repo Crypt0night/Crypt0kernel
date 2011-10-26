@@ -1,0 +1,77 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/infiniband/ulp/iser
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+iscsi_iser.h
+file
+
+
+
+add
+
+iser_verbs.c
+file
+
+
+
+add
+
+iser_initiator.c
+file
+
+
+
+add
+
+iser_memory.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+iscsi_iser.c
+file
+
+
+
+add
+

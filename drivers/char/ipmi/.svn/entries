@@ -1,0 +1,105 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/char/ipmi
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+ipmi_watchdog.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+ipmi_bt_sm.c
+file
+
+
+
+add
+
+ipmi_msghandler.c
+file
+
+
+
+add
+
+ipmi_poweroff.c
+file
+
+
+
+add
+
+ipmi_smic_sm.c
+file
+
+
+
+add
+
+ipmi_si_intf.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+ipmi_si_sm.h
+file
+
+
+
+add
+
+ipmi_kcs_sm.c
+file
+
+
+
+add
+
+ipmi_devintf.c
+file
+
+
+
+add
+

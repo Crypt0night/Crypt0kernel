@@ -1,0 +1,329 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/arm/mach-s3c64xx/include/mach
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+regs-irq.h
+file
+
+
+
+add
+
+pwm-clock.h
+file
+
+
+
+add
+
+vmalloc.h
+file
+
+
+
+add
+
+hardware.h
+file
+
+
+
+add
+
+gpio.h
+file
+
+
+
+add
+
+regs-modem.h
+file
+
+
+
+add
+
+debug-macro.S
+file
+
+
+
+add
+
+s3c6400.h
+file
+
+
+
+add
+
+pm-core.h
+file
+
+
+
+add
+
+io.h
+file
+
+
+
+add
+
+regs-gpio-memport.h
+file
+
+
+
+add
+
+irqs.h
+file
+
+
+
+add
+
+system.h
+file
+
+
+
+add
+
+gpio-bank-a.h
+file
+
+
+
+add
+
+gpio-bank-b.h
+file
+
+
+
+add
+
+gpio-bank-c.h
+file
+
+
+
+add
+
+pll.h
+file
+
+
+
+add
+
+gpio-bank-d.h
+file
+
+
+
+add
+
+gpio-bank-e.h
+file
+
+
+
+add
+
+regs-clock.h
+file
+
+
+
+add
+
+gpio-bank-f.h
+file
+
+
+
+add
+
+tick.h
+file
+
+
+
+add
+
+gpio-bank-g.h
+file
+
+
+
+add
+
+regs-gpio.h
+file
+
+
+
+add
+
+gpio-bank-h.h
+file
+
+
+
+add
+
+gpio-bank-i.h
+file
+
+
+
+add
+
+gpio-bank-j.h
+file
+
+
+
+add
+
+uncompress.h
+file
+
+
+
+add
+
+dma.h
+file
+
+
+
+add
+
+gpio-bank-n.h
+file
+
+
+
+add
+
+gpio-bank-o.h
+file
+
+
+
+add
+
+s3c6410.h
+file
+
+
+
+add
+
+gpio-bank-p.h
+file
+
+
+
+add
+
+gpio-bank-q.h
+file
+
+
+
+add
+
+regs-syscon-power.h
+file
+
+
+
+add
+
+spi-clocks.h
+file
+
+
+
+add
+
+memory.h
+file
+
+
+
+add
+
+entry-macro.S
+file
+
+
+
+add
+
+regs-sys.h
+file
+
+
+
+add
+
+map.h
+file
+
+
+
+add
+
+regs-srom.h
+file
+
+
+
+add
+
+regs-fb.h
+file
+
+
+
+add
+
+timex.h
+file
+
+
+
+add
+

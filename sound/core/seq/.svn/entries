@@ -1,0 +1,245 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/sound/core/seq
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+seq_lock.c
+file
+
+
+
+add
+
+seq_system.h
+file
+
+
+
+add
+
+seq_clientmgr.h
+file
+
+
+
+add
+
+seq_prioq.c
+file
+
+
+
+add
+
+seq_info.c
+file
+
+
+
+add
+
+seq_lock.h
+file
+
+
+
+add
+
+seq_device.c
+file
+
+
+
+add
+
+seq_prioq.h
+file
+
+
+
+add
+
+seq_info.h
+file
+
+
+
+add
+
+seq_ports.c
+file
+
+
+
+add
+
+seq_memory.c
+file
+
+
+
+add
+
+seq_ports.h
+file
+
+
+
+add
+
+seq_memory.h
+file
+
+
+
+add
+
+seq_timer.c
+file
+
+
+
+add
+
+seq_fifo.c
+file
+
+
+
+add
+
+seq_midi_event.c
+file
+
+
+
+add
+
+seq_compat.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+seq_queue.c
+file
+
+
+
+add
+
+seq_timer.h
+file
+
+
+
+add
+
+seq_fifo.h
+file
+
+
+
+add
+
+seq_queue.h
+file
+
+
+
+add
+
+seq_dummy.c
+file
+
+
+
+add
+
+seq_virmidi.c
+file
+
+
+
+add
+
+seq_midi_emul.c
+file
+
+
+
+add
+
+oss
+dir
+
+
+
+add
+
+seq.c
+file
+
+
+
+add
+
+seq_midi.c
+file
+
+
+
+add
+
+seq_clientmgr.c
+file
+
+
+
+add
+
+seq_system.c
+file
+
+
+
+add
+

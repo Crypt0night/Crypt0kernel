@@ -1,0 +1,175 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/arm/mach-ns9xxx
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+gpio-ns9360.c
+file
+
+
+
+add
+
+time-ns9360.c
+file
+
+
+
+add
+
+Makefile.boot
+file
+
+
+
+add
+
+gpio.c
+file
+
+
+
+add
+
+board-a9m9750dev.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+clock.h
+file
+
+
+
+add
+
+board-jscc9p9360.c
+file
+
+
+
+add
+
+include
+dir
+
+
+
+add
+
+gpio-ns9360.h
+file
+
+
+
+add
+
+board-a9m9750dev.h
+file
+
+
+
+add
+
+board-jscc9p9360.h
+file
+
+
+
+add
+
+generic.c
+file
+
+
+
+add
+
+processor-ns9360.c
+file
+
+
+
+add
+
+generic.h
+file
+
+
+
+add
+
+mach-cc9p9360js.c
+file
+
+
+
+add
+
+mach-cc9p9360dev.c
+file
+
+
+
+add
+
+irq.c
+file
+
+
+
+add
+
+clock.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+plat-serial8250.c
+file
+
+
+
+add
+

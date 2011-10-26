@@ -1,0 +1,70 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/avr32/boards
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+favr-32
+dir
+
+
+
+add
+
+atngw100
+dir
+
+
+
+add
+
+merisc
+dir
+
+
+
+add
+
+atstk1000
+dir
+
+
+
+add
+
+mimc200
+dir
+
+
+
+add
+
+hammerhead
+dir
+
+
+
+add
+

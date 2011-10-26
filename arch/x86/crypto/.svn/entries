@@ -1,0 +1,140 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/x86/crypto
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+twofish_glue.c
+file
+
+
+
+add
+
+salsa20-i586-asm_32.S
+file
+
+
+
+add
+
+aes-i586-asm_32.S
+file
+
+
+
+add
+
+salsa20-x86_64-asm_64.S
+file
+
+
+
+add
+
+aes-x86_64-asm_64.S
+file
+
+
+
+add
+
+twofish-i586-asm_32.S
+file
+
+
+
+add
+
+ghash-clmulni-intel_glue.c
+file
+
+
+
+add
+
+salsa20_glue.c
+file
+
+
+
+add
+
+ghash-clmulni-intel_asm.S
+file
+
+
+
+add
+
+aes_glue.c
+file
+
+
+
+add
+
+aesni-intel_glue.c
+file
+
+
+
+add
+
+twofish-x86_64-asm_64.S
+file
+
+
+
+add
+
+aesni-intel_asm.S
+file
+
+
+
+add
+
+crc32c-intel.c
+file
+
+
+
+add
+
+fpu.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

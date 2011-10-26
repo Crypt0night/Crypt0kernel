@@ -1,0 +1,98 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/cris
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+kernel
+dir
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+arch-v10
+dir
+
+
+
+add
+
+include
+dir
+
+
+
+add
+
+boot
+dir
+
+
+
+add
+
+arch-v32
+dir
+
+
+
+add
+
+Kconfig.debug
+file
+
+
+
+add
+
+configs
+dir
+
+
+
+add
+
+mm
+dir
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

@@ -1,0 +1,238 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/net/sctp
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+input.c
+file
+
+
+
+add
+
+sm_sideeffect.c
+file
+
+
+
+add
+
+output.c
+file
+
+
+
+add
+
+protocol.c
+file
+
+
+
+add
+
+ssnmap.c
+file
+
+
+
+add
+
+auth.c
+file
+
+
+
+add
+
+ulpevent.c
+file
+
+
+
+add
+
+tsnmap.c
+file
+
+
+
+add
+
+proc.c
+file
+
+
+
+add
+
+sm_make_chunk.c
+file
+
+
+
+add
+
+ulpqueue.c
+file
+
+
+
+add
+
+bind_addr.c
+file
+
+
+
+add
+
+probe.c
+file
+
+
+
+add
+
+primitive.c
+file
+
+
+
+add
+
+chunk.c
+file
+
+
+
+add
+
+sm_statefuns.c
+file
+
+
+
+add
+
+inqueue.c
+file
+
+
+
+add
+
+outqueue.c
+file
+
+
+
+add
+
+endpointola.c
+file
+
+
+
+add
+
+associola.c
+file
+
+
+
+add
+
+command.c
+file
+
+
+
+add
+
+objcnt.c
+file
+
+
+
+add
+
+sysctl.c
+file
+
+
+
+add
+
+ipv6.c
+file
+
+
+
+add
+
+debug.c
+file
+
+
+
+add
+
+sm_statetable.c
+file
+
+
+
+add
+
+socket.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+transport.c
+file
+
+
+
+add
+

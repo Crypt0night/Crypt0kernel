@@ -1,0 +1,581 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arm-2010q1/arm-none-linux-gnueabi/libc/usr/include/sys
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+vt.h
+file
+
+
+
+add
+
+gmon.h
+file
+
+
+
+add
+
+ustat.h
+file
+
+
+
+add
+
+socketvar.h
+file
+
+
+
+add
+
+poll.h
+file
+
+
+
+add
+
+elf.h
+file
+
+
+
+add
+
+personality.h
+file
+
+
+
+add
+
+ucontext.h
+file
+
+
+
+add
+
+ioctl.h
+file
+
+
+
+add
+
+stropts.h
+file
+
+
+
+add
+
+user.h
+file
+
+
+
+add
+
+syslog.h
+file
+
+
+
+add
+
+un.h
+file
+
+
+
+add
+
+soundcard.h
+file
+
+
+
+add
+
+cdefs.h
+file
+
+
+
+add
+
+quota.h
+file
+
+
+
+add
+
+statvfs.h
+file
+
+
+
+add
+
+sysinfo.h
+file
+
+
+
+add
+
+profil.h
+file
+
+
+
+add
+
+time.h
+file
+
+
+
+add
+
+vfs.h
+file
+
+
+
+add
+
+param.h
+file
+
+
+
+add
+
+xattr.h
+file
+
+
+
+add
+
+vlimit.h
+file
+
+
+
+add
+
+statfs.h
+file
+
+
+
+add
+
+ttydefaults.h
+file
+
+
+
+add
+
+fsuid.h
+file
+
+
+
+add
+
+acct.h
+file
+
+
+
+add
+
+epoll.h
+file
+
+
+
+add
+
+kdaemon.h
+file
+
+
+
+add
+
+sysctl.h
+file
+
+
+
+add
+
+times.h
+file
+
+
+
+add
+
+termios.h
+file
+
+
+
+add
+
+prctl.h
+file
+
+
+
+add
+
+sem.h
+file
+
+
+
+add
+
+sendfile.h
+file
+
+
+
+add
+
+raw.h
+file
+
+
+
+add
+
+reboot.h
+file
+
+
+
+add
+
+timerfd.h
+file
+
+
+
+add
+
+eventfd.h
+file
+
+
+
+add
+
+procfs.h
+file
+
+
+
+add
+
+klog.h
+file
+
+
+
+add
+
+uio.h
+file
+
+
+
+add
+
+kd.h
+file
+
+
+
+add
+
+ultrasound.h
+file
+
+
+
+add
+
+wait.h
+file
+
+
+
+add
+
+types.h
+file
+
+
+
+add
+
+fcntl.h
+file
+
+
+
+add
+
+io.h
+file
+
+
+
+add
+
+mtio.h
+file
+
+
+
+add
+
+swap.h
+file
+
+
+
+add
+
+syscall.h
+file
+
+
+
+add
+
+ipc.h
+file
+
+
+
+add
+
+stat.h
+file
+
+
+
+add
+
+select.h
+file
+
+
+
+add
+
+inotify.h
+file
+
+
+
+add
+
+shm.h
+file
+
+
+
+add
+
+resource.h
+file
+
+
+
+add
+
+timeb.h
+file
+
+
+
+add
+
+ttychars.h
+file
+
+
+
+add
+
+mount.h
+file
+
+
+
+add
+
+unistd.h
+file
+
+
+
+add
+
+vtimes.h
+file
+
+
+
+add
+
+pci.h
+file
+
+
+
+add
+
+utsname.h
+file
+
+
+
+add
+
+signal.h
+file
+
+
+
+add
+
+dir.h
+file
+
+
+
+add
+
+ptrace.h
+file
+
+
+
+add
+
+file.h
+file
+
+
+
+add
+
+bitypes.h
+file
+
+
+
+add
+
+sysmacros.h
+file
+
+
+
+add
+
+queue.h
+file
+
+
+
+add
+
+errno.h
+file
+
+
+
+add
+
+msg.h
+file
+
+
+
+add
+
+timex.h
+file
+
+
+
+add
+
+signalfd.h
+file
+
+
+
+add
+
+gmon_out.h
+file
+
+
+
+add
+
+socket.h
+file
+
+
+
+add
+
+mman.h
+file
+
+
+
+add
+

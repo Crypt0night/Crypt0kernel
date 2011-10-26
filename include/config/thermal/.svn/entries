@@ -1,0 +1,49 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/include/config/thermal
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+tsens.h
+file
+
+
+
+add
+
+pm8901.h
+file
+
+
+
+add
+
+pm8058.h
+file
+
+
+
+add
+

@@ -1,0 +1,315 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/scripts/kconfig
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+zconf.gperf
+file
+
+
+
+add
+
+zconf.hash.c
+file
+
+
+
+add
+
+mconf.c
+file
+
+
+
+add
+
+nconf.c
+file
+
+
+
+add
+
+conf
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+symbol.c
+file
+
+
+
+add
+
+check.sh
+file
+
+
+
+add
+
+nconf.h
+file
+
+
+
+add
+
+POTFILES.in
+file
+
+
+
+add
+
+qconf.h
+file
+
+
+
+add
+
+zconf.hash.c_shipped
+file
+
+
+
+add
+
+util.c
+file
+
+
+
+add
+
+.zconf.tab.o.cmd
+file
+
+
+
+add
+
+.conf.o.cmd
+file
+
+
+
+add
+
+lxdialog
+dir
+
+
+
+add
+
+.kxgettext.o.cmd
+file
+
+
+
+add
+
+zconf.tab.c
+file
+
+
+
+add
+
+conf.c
+file
+
+
+
+add
+
+nconf.gui.c
+file
+
+
+
+add
+
+gconf.glade
+file
+
+
+
+add
+
+kxgettext.c
+file
+
+
+
+add
+
+zconf.l
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+zconf.tab.c_shipped
+file
+
+
+
+add
+
+lkc_proto.h
+file
+
+
+
+add
+
+menu.c
+file
+
+
+
+add
+
+images.c
+file
+
+
+
+add
+
+zconf.y
+file
+
+
+
+add
+
+lex.zconf.c
+file
+
+
+
+add
+
+qconf.cc
+file
+
+
+
+add
+
+expr.c
+file
+
+
+
+add
+
+lkc.h
+file
+
+
+
+add
+
+confdata.c
+file
+
+
+
+add
+
+kconfig_load.c
+file
+
+
+
+add
+
+streamline_config.pl
+file
+
+
+
+add
+
+lex.zconf.c_shipped
+file
+
+
+
+add
+
+expr.h
+file
+
+
+
+add
+
+.conf.cmd
+file
+
+
+
+add
+
+.gitignore
+file
+
+
+
+add
+
+gconf.c
+file
+
+
+
+add
+

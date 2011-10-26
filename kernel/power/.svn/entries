@@ -1,0 +1,259 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/kernel/power
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+.console.o.cmd
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+snapshot.c
+file
+
+
+
+add
+
+userwakelock.c
+file
+
+
+
+add
+
+wakelock.c
+file
+
+
+
+add
+
+power.h
+file
+
+
+
+add
+
+modules.order
+file
+
+
+
+add
+
+hibernate.c
+file
+
+
+
+add
+
+consoleearlysuspend.c
+file
+
+
+
+add
+
+console.c
+file
+
+
+
+add
+
+.process.o.cmd
+file
+
+
+
+add
+
+.earlysuspend.o.cmd
+file
+
+
+
+add
+
+swap.c
+file
+
+
+
+add
+
+earlysuspend.c
+file
+
+
+
+add
+
+process.c
+file
+
+
+
+add
+
+user.c
+file
+
+
+
+add
+
+.fbearlysuspend.o.cmd
+file
+
+
+
+add
+
+.poweroff.o.cmd
+file
+
+
+
+add
+
+fbearlysuspend.c
+file
+
+
+
+add
+
+poweroff.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+.nvs.o.cmd
+file
+
+
+
+add
+
+nvs.c
+file
+
+
+
+add
+
+.suspend.o.cmd
+file
+
+
+
+add
+
+.built-in.o.cmd
+file
+
+
+
+add
+
+suspend_test.c
+file
+
+
+
+add
+
+.main.o.cmd
+file
+
+
+
+add
+
+suspend.c
+file
+
+
+
+add
+
+block_io.c
+file
+
+
+
+add
+
+main.c
+file
+
+
+
+add
+
+.userwakelock.o.cmd
+file
+
+
+
+add
+
+.wakelock.o.cmd
+file
+
+
+
+add
+
+modules.builtin
+file
+
+
+
+add
+

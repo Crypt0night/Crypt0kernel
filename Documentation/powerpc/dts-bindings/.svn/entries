@@ -1,0 +1,119 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/Documentation/powerpc/dts-bindings
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+spi-bus.txt
+file
+
+
+
+add
+
+marvell.txt
+file
+
+
+
+add
+
+can
+dir
+
+
+
+add
+
+mtd-physmap.txt
+file
+
+
+
+add
+
+mmc-spi-slot.txt
+file
+
+
+
+add
+
+ecm.txt
+file
+
+
+
+add
+
+4xx
+dir
+
+
+
+add
+
+fsl
+dir
+
+
+
+add
+
+xilinx.txt
+file
+
+
+
+add
+
+usb-ehci.txt
+file
+
+
+
+add
+
+nintendo
+dir
+
+
+
+add
+
+gpio
+dir
+
+
+
+add
+
+phy.txt
+file
+
+
+
+add
+

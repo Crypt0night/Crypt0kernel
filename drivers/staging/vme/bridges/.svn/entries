@@ -1,0 +1,70 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/staging/vme/bridges
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+vme_tsi148.c
+file
+
+
+
+add
+
+vme_ca91cx42.c
+file
+
+
+
+add
+
+vme_tsi148.h
+file
+
+
+
+add
+
+vme_ca91cx42.h
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

@@ -1,0 +1,301 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/s390/cio
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+qdio.h
+file
+
+
+
+add
+
+device_status.c
+file
+
+
+
+add
+
+qdio_debug.c
+file
+
+
+
+add
+
+device_pgid.c
+file
+
+
+
+add
+
+device_fsm.c
+file
+
+
+
+add
+
+itcw.c
+file
+
+
+
+add
+
+qdio_debug.h
+file
+
+
+
+add
+
+idset.c
+file
+
+
+
+add
+
+blacklist.c
+file
+
+
+
+add
+
+chp.c
+file
+
+
+
+add
+
+blacklist.h
+file
+
+
+
+add
+
+chsc_sch.c
+file
+
+
+
+add
+
+idset.h
+file
+
+
+
+add
+
+chp.h
+file
+
+
+
+add
+
+chsc_sch.h
+file
+
+
+
+add
+
+ccwgroup.c
+file
+
+
+
+add
+
+crw.c
+file
+
+
+
+add
+
+airq.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+device.c
+file
+
+
+
+add
+
+qdio_main.c
+file
+
+
+
+add
+
+device.h
+file
+
+
+
+add
+
+cmf.c
+file
+
+
+
+add
+
+io_sch.h
+file
+
+
+
+add
+
+cio.c
+file
+
+
+
+add
+
+device_id.c
+file
+
+
+
+add
+
+qdio_setup.c
+file
+
+
+
+add
+
+ioasm.h
+file
+
+
+
+add
+
+isc.c
+file
+
+
+
+add
+
+cio.h
+file
+
+
+
+add
+
+chsc.c
+file
+
+
+
+add
+
+device_ops.c
+file
+
+
+
+add
+
+fcx.c
+file
+
+
+
+add
+
+ccwreq.c
+file
+
+
+
+add
+
+cio_debug.h
+file
+
+
+
+add
+
+chsc.h
+file
+
+
+
+add
+
+css.c
+file
+
+
+
+add
+
+qdio_thinint.c
+file
+
+
+
+add
+
+css.h
+file
+
+
+
+add
+

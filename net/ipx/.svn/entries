@@ -1,0 +1,70 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/net/ipx
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+ipx_route.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+ipx_proc.c
+file
+
+
+
+add
+
+af_ipx.c
+file
+
+
+
+add
+
+sysctl_net_ipx.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

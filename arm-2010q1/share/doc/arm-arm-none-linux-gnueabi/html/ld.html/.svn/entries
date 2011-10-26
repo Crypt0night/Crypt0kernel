@@ -1,0 +1,602 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arm-2010q1/share/doc/arm-arm-none-linux-gnueabi/html/ld.html
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Simple-Assignments.html
+file
+
+
+
+add
+
+Simple-Example.html
+file
+
+
+
+add
+
+Expressions.html
+file
+
+
+
+add
+
+Output-Section-Description.html
+file
+
+
+
+add
+
+Output-Section-Constraint.html
+file
+
+
+
+add
+
+SECTIONS.html
+file
+
+
+
+add
+
+BFD.html
+file
+
+
+
+add
+
+Options.html
+file
+
+
+
+add
+
+Basic-Script-Concepts.html
+file
+
+
+
+add
+
+Input-Section.html
+file
+
+
+
+add
+
+HPPA-ELF32.html
+file
+
+
+
+add
+
+Xtensa.html
+file
+
+
+
+add
+
+Overview.html
+file
+
+
+
+add
+
+BFD-outline.html
+file
+
+
+
+add
+
+Forced-Input-Alignment.html
+file
+
+
+
+add
+
+Orphan-Sections.html
+file
+
+
+
+add
+
+Builtin-Functions.html
+file
+
+
+
+add
+
+Forced-Output-Alignment.html
+file
+
+
+
+add
+
+Canonical-format.html
+file
+
+
+
+add
+
+File-Commands.html
+file
+
+
+
+add
+
+Operators.html
+file
+
+
+
+add
+
+Output-Section-Type.html
+file
+
+
+
+add
+
+Bug-Reporting.html
+file
+
+
+
+add
+
+Output-Section-Address.html
+file
+
+
+
+add
+
+Location-Counter.html
+file
+
+
+
+add
+
+M68K.html
+file
+
+
+
+add
+
+TI-COFF.html
+file
+
+
+
+add
+
+Format-Commands.html
+file
+
+
+
+add
+
+Entry-Point.html
+file
+
+
+
+add
+
+Input-Section-Example.html
+file
+
+
+
+add
+
+BFD-information-loss.html
+file
+
+
+
+add
+
+Overlay-Description.html
+file
+
+
+
+add
+
+Source-Code-Reference.html
+file
+
+
+
+add
+
+Output-Section-LMA.html
+file
+
+
+
+add
+
+M68HC11_002f68HC12.html
+file
+
+
+
+add
+
+Constants.html
+file
+
+
+
+add
+
+Output-Section-Name.html
+file
+
+
+
+add
+
+Input-Section-Keep.html
+file
+
+
+
+add
+
+VERSION.html
+file
+
+
+
+add
+
+Output-Section-Attributes.html
+file
+
+
+
+add
+
+Input-Section-Common.html
+file
+
+
+
+add
+
+REGION_005fALIAS.html
+file
+
+
+
+add
+
+Simple-Commands.html
+file
+
+
+
+add
+
+H8_002f300.html
+file
+
+
+
+add
+
+Script-Format.html
+file
+
+
+
+add
+
+Output-Section-Phdr.html
+file
+
+
+
+add
+
+GNU-Free-Documentation-License.html
+file
+
+
+
+add
+
+Expression-Section.html
+file
+
+
+
+add
+
+Miscellaneous-Commands.html
+file
+
+
+
+add
+
+Input-Section-Basics.html
+file
+
+
+
+add
+
+LD-Index.html
+file
+
+
+
+add
+
+Environment.html
+file
+
+
+
+add
+
+Evaluation.html
+file
+
+
+
+add
+
+PowerPC64-ELF64.html
+file
+
+
+
+add
+
+Reporting-Bugs.html
+file
+
+
+
+add
+
+Machine-Dependent.html
+file
+
+
+
+add
+
+MMIX.html
+file
+
+
+
+add
+
+SPU-ELF.html
+file
+
+
+
+add
+
+Bug-Criteria.html
+file
+
+
+
+add
+
+PROVIDE_005fHIDDEN.html
+file
+
+
+
+add
+
+ARM.html
+file
+
+
+
+add
+
+PHDRS.html
+file
+
+
+
+add
+
+Implicit-Linker-Scripts.html
+file
+
+
+
+add
+
+Output-Section-Region.html
+file
+
+
+
+add
+
+MSP430.html
+file
+
+
+
+add
+
+Output-Section-Fill.html
+file
+
+
+
+add
+
+MRI.html
+file
+
+
+
+add
+
+Scripts.html
+file
+
+
+
+add
+
+i960.html
+file
+
+
+
+add
+
+PowerPC-ELF32.html
+file
+
+
+
+add
+
+Symbols.html
+file
+
+
+
+add
+
+Symbolic-Constants.html
+file
+
+
+
+add
+
+Assignments.html
+file
+
+
+
+add
+
+WIN32.html
+file
+
+
+
+add
+
+Output-Section-Keywords.html
+file
+
+
+
+add
+
+Output-Section-Discarding.html
+file
+
+
+
+add
+
+index.html
+file
+
+
+
+add
+
+MEMORY.html
+file
+
+
+
+add
+
+PROVIDE.html
+file
+
+
+
+add
+
+Output-Section-Data.html
+file
+
+
+
+add
+
+Invocation.html
+file
+
+
+
+add
+
+Input-Section-Wildcards.html
+file
+
+
+
+add
+

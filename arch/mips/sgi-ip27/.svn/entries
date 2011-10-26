@@ -1,0 +1,140 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/mips/sgi-ip27
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+ip27-timer.c
+file
+
+
+
+add
+
+ip27-reset.c
+file
+
+
+
+add
+
+ip27-nmi.c
+file
+
+
+
+add
+
+ip27-xtalk.c
+file
+
+
+
+add
+
+ip27-klnuma.c
+file
+
+
+
+add
+
+ip27-berr.c
+file
+
+
+
+add
+
+ip27-irq.c
+file
+
+
+
+add
+
+ip27-klconfig.c
+file
+
+
+
+add
+
+ip27-smp.c
+file
+
+
+
+add
+
+ip27-console.c
+file
+
+
+
+add
+
+ip27-init.c
+file
+
+
+
+add
+
+TODO
+file
+
+
+
+add
+
+ip27-hubio.c
+file
+
+
+
+add
+
+ip27-memory.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

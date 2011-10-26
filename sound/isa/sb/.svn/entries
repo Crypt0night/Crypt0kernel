@@ -1,0 +1,168 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/sound/isa/sb
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+emu8000.c
+file
+
+
+
+add
+
+sb8_midi.c
+file
+
+
+
+add
+
+sb8_main.c
+file
+
+
+
+add
+
+modules.order
+file
+
+
+
+add
+
+sbawe.c
+file
+
+
+
+add
+
+sb_mixer.c
+file
+
+
+
+add
+
+emu8000_callback.c
+file
+
+
+
+add
+
+sb16.c
+file
+
+
+
+add
+
+sb_common.c
+file
+
+
+
+add
+
+emu8000_patch.c
+file
+
+
+
+add
+
+emu8000_local.h
+file
+
+
+
+add
+
+.built-in.o.cmd
+file
+
+
+
+add
+
+sb16_main.c
+file
+
+
+
+add
+
+sb16_csp.c
+file
+
+
+
+add
+
+emu8000_synth.c
+file
+
+
+
+add
+
+jazz16.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+sb8.c
+file
+
+
+
+add
+
+modules.builtin
+file
+
+
+
+add
+
+emu8000_pcm.c
+file
+
+
+
+add
+

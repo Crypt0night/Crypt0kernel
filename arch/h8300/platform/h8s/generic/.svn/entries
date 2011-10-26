@@ -1,0 +1,49 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/h8300/platform/h8s/generic
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+crt0_rom.S
+file
+
+
+
+add
+
+crt0_ram.S
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

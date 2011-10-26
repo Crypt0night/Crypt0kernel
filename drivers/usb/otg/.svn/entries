@@ -1,0 +1,126 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/usb/otg
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+nop-usb-xceiv.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+.built-in.o.cmd
+file
+
+
+
+add
+
+modules.order
+file
+
+
+
+add
+
+twl4030-usb.c
+file
+
+
+
+add
+
+.otg.o.cmd
+file
+
+
+
+add
+
+.msm72k_otg.o.cmd
+file
+
+
+
+add
+
+msm72k_otg.c
+file
+
+
+
+add
+
+otg.c
+file
+
+
+
+add
+
+ulpi.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+isp1301_omap.c
+file
+
+
+
+add
+
+modules.builtin
+file
+
+
+
+add
+
+gpio_vbus.c
+file
+
+
+
+add
+

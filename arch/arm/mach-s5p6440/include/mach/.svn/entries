@@ -1,0 +1,161 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/arm/mach-s5p6440/include/mach
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+regs-clock.h
+file
+
+
+
+add
+
+regs-irq.h
+file
+
+
+
+add
+
+tick.h
+file
+
+
+
+add
+
+pwm-clock.h
+file
+
+
+
+add
+
+regs-gpio.h
+file
+
+
+
+add
+
+vmalloc.h
+file
+
+
+
+add
+
+hardware.h
+file
+
+
+
+add
+
+gpio.h
+file
+
+
+
+add
+
+uncompress.h
+file
+
+
+
+add
+
+debug-macro.S
+file
+
+
+
+add
+
+dma.h
+file
+
+
+
+add
+
+spi-clocks.h
+file
+
+
+
+add
+
+io.h
+file
+
+
+
+add
+
+memory.h
+file
+
+
+
+add
+
+entry-macro.S
+file
+
+
+
+add
+
+map.h
+file
+
+
+
+add
+
+irqs.h
+file
+
+
+
+add
+
+system.h
+file
+
+
+
+add
+
+timex.h
+file
+
+
+
+add
+

@@ -1,0 +1,217 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/sound/pci/asihpi
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+hpidspcd.c
+file
+
+
+
+add
+
+modules.order
+file
+
+
+
+add
+
+hpi6205.h
+file
+
+
+
+add
+
+hpioctl.c
+file
+
+
+
+add
+
+hpidspcd.h
+file
+
+
+
+add
+
+hpioctl.h
+file
+
+
+
+add
+
+hpimsginit.c
+file
+
+
+
+add
+
+asihpi.c
+file
+
+
+
+add
+
+hpicmn.c
+file
+
+
+
+add
+
+.built-in.o.cmd
+file
+
+
+
+add
+
+hpimsgx.c
+file
+
+
+
+add
+
+hpimsginit.h
+file
+
+
+
+add
+
+hpi_internal.h
+file
+
+
+
+add
+
+hpios.c
+file
+
+
+
+add
+
+hpicmn.h
+file
+
+
+
+add
+
+hpimsgx.h
+file
+
+
+
+add
+
+hpi.h
+file
+
+
+
+add
+
+hpi6000.c
+file
+
+
+
+add
+
+hpipcida.h
+file
+
+
+
+add
+
+hpidebug.c
+file
+
+
+
+add
+
+hpios.h
+file
+
+
+
+add
+
+hpi6000.h
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+hpidebug.h
+file
+
+
+
+add
+
+hpifunc.c
+file
+
+
+
+add
+
+modules.builtin
+file
+
+
+
+add
+
+hpi6205.c
+file
+
+
+
+add
+

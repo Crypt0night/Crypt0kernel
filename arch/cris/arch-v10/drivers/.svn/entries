@@ -1,0 +1,98 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/cris/arch-v10/drivers
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+pcf8563.c
+file
+
+
+
+add
+
+gpio.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+axisflashmap.c
+file
+
+
+
+add
+
+i2c.h
+file
+
+
+
+add
+
+eeprom.c
+file
+
+
+
+add
+
+sync_serial.c
+file
+
+
+
+add
+
+ds1302.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+i2c.c
+file
+
+
+
+add
+

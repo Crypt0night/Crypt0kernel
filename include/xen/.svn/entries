@@ -1,0 +1,112 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/include/xen
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+xen-ops.h
+file
+
+
+
+add
+
+xen.h
+file
+
+
+
+add
+
+interface
+dir
+
+
+
+add
+
+page.h
+file
+
+
+
+add
+
+features.h
+file
+
+
+
+add
+
+hvc-console.h
+file
+
+
+
+add
+
+grant_table.h
+file
+
+
+
+add
+
+xenbus.h
+file
+
+
+
+add
+
+Kbuild
+file
+
+
+
+add
+
+events.h
+file
+
+
+
+add
+
+xencomm.h
+file
+
+
+
+add
+
+evtchn.h
+file
+
+
+
+add
+

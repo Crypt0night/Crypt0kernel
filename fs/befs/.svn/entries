@@ -1,0 +1,161 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/fs/befs
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+inode.c
+file
+
+
+
+add
+
+super.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+befs_fs_types.h
+file
+
+
+
+add
+
+btree.c
+file
+
+
+
+add
+
+endian.h
+file
+
+
+
+add
+
+super.h
+file
+
+
+
+add
+
+inode.h
+file
+
+
+
+add
+
+ChangeLog
+file
+
+
+
+add
+
+btree.h
+file
+
+
+
+add
+
+io.c
+file
+
+
+
+add
+
+io.h
+file
+
+
+
+add
+
+linuxvfs.c
+file
+
+
+
+add
+
+befs.h
+file
+
+
+
+add
+
+TODO
+file
+
+
+
+add
+
+datastream.c
+file
+
+
+
+add
+
+debug.c
+file
+
+
+
+add
+
+datastream.h
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

@@ -1,0 +1,350 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/include/scsi
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+scsi_ioctl.h
+file
+
+
+
+add
+
+scsi_tgt_if.h
+file
+
+
+
+add
+
+scsi_netlink_fc.h
+file
+
+
+
+add
+
+scsi_host.h
+file
+
+
+
+add
+
+scsi_transport_srp.h
+file
+
+
+
+add
+
+scsi.h
+file
+
+
+
+add
+
+fc_frame.h
+file
+
+
+
+add
+
+fc
+dir
+
+
+
+add
+
+scsi_scan.h
+file
+
+
+
+add
+
+fc_encode.h
+file
+
+
+
+add
+
+scsi_transport_iscsi.h
+file
+
+
+
+add
+
+libiscsi_tcp.h
+file
+
+
+
+add
+
+osd_initiator.h
+file
+
+
+
+add
+
+sg.h
+file
+
+
+
+add
+
+scsi_eh.h
+file
+
+
+
+add
+
+osd_sec.h
+file
+
+
+
+add
+
+scsicam.h
+file
+
+
+
+add
+
+osd_sense.h
+file
+
+
+
+add
+
+scsi_transport_sas.h
+file
+
+
+
+add
+
+Kbuild
+file
+
+
+
+add
+
+scsi_transport_fc.h
+file
+
+
+
+add
+
+scsi_netlink.h
+file
+
+
+
+add
+
+iscsi_if.h
+file
+
+
+
+add
+
+osd_attributes.h
+file
+
+
+
+add
+
+libsrp.h
+file
+
+
+
+add
+
+iscsi_proto.h
+file
+
+
+
+add
+
+libiscsi.h
+file
+
+
+
+add
+
+scsi_cmnd.h
+file
+
+
+
+add
+
+libfcoe.h
+file
+
+
+
+add
+
+srp.h
+file
+
+
+
+add
+
+scsi_bsg_fc.h
+file
+
+
+
+add
+
+osd_protocol.h
+file
+
+
+
+add
+
+scsi_tcq.h
+file
+
+
+
+add
+
+osd_types.h
+file
+
+
+
+add
+
+scsi_devinfo.h
+file
+
+
+
+add
+
+sas_ata.h
+file
+
+
+
+add
+
+scsi_dh.h
+file
+
+
+
+add
+
+scsi_driver.h
+file
+
+
+
+add
+
+scsi_transport.h
+file
+
+
+
+add
+
+libsas.h
+file
+
+
+
+add
+
+scsi_dbg.h
+file
+
+
+
+add
+
+libfc.h
+file
+
+
+
+add
+
+scsi_tgt.h
+file
+
+
+
+add
+
+scsi_device.h
+file
+
+
+
+add
+
+sas.h
+file
+
+
+
+add
+
+scsi_transport_spi.h
+file
+
+
+
+add
+

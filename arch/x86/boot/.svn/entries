@@ -1,0 +1,287 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/x86/boot
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+install.sh
+file
+
+
+
+add
+
+video-bios.c
+file
+
+
+
+add
+
+video-vesa.c
+file
+
+
+
+add
+
+printf.c
+file
+
+
+
+add
+
+string.c
+file
+
+
+
+add
+
+bioscall.S
+file
+
+
+
+add
+
+cmdline.c
+file
+
+
+
+add
+
+apm.c
+file
+
+
+
+add
+
+setup.ld
+file
+
+
+
+add
+
+tools
+dir
+
+
+
+add
+
+video-vga.c
+file
+
+
+
+add
+
+a20.c
+file
+
+
+
+add
+
+cpu.c
+file
+
+
+
+add
+
+copy.S
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+mca.c
+file
+
+
+
+add
+
+regs.c
+file
+
+
+
+add
+
+code16gcc.h
+file
+
+
+
+add
+
+vesa.h
+file
+
+
+
+add
+
+bitops.h
+file
+
+
+
+add
+
+video.c
+file
+
+
+
+add
+
+header.S
+file
+
+
+
+add
+
+memory.c
+file
+
+
+
+add
+
+mkcpustr.c
+file
+
+
+
+add
+
+boot.h
+file
+
+
+
+add
+
+video.h
+file
+
+
+
+add
+
+pm.c
+file
+
+
+
+add
+
+tty.c
+file
+
+
+
+add
+
+compressed
+dir
+
+
+
+add
+
+.gitignore
+file
+
+
+
+add
+
+main.c
+file
+
+
+
+add
+
+mtools.conf.in
+file
+
+
+
+add
+
+version.c
+file
+
+
+
+add
+
+cpucheck.c
+file
+
+
+
+add
+
+pmjump.S
+file
+
+
+
+add
+
+video-mode.c
+file
+
+
+
+add
+
+edd.c
+file
+
+
+
+add
+

@@ -1,0 +1,168 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/mips/loongson/common
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+gpio.c
+file
+
+
+
+add
+
+time.c
+file
+
+
+
+add
+
+setup.c
+file
+
+
+
+add
+
+early_printk.c
+file
+
+
+
+add
+
+init.c
+file
+
+
+
+add
+
+uart_base.c
+file
+
+
+
+add
+
+cs5536
+dir
+
+
+
+add
+
+machtype.c
+file
+
+
+
+add
+
+pci.c
+file
+
+
+
+add
+
+cmdline.c
+file
+
+
+
+add
+
+pm.c
+file
+
+
+
+add
+
+mem.c
+file
+
+
+
+add
+
+serial.c
+file
+
+
+
+add
+
+reset.c
+file
+
+
+
+add
+
+bonito-irq.c
+file
+
+
+
+add
+
+platform.c
+file
+
+
+
+add
+
+env.c
+file
+
+
+
+add
+
+rtc.c
+file
+
+
+
+add
+
+irq.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

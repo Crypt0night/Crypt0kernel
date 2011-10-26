@@ -1,0 +1,112 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/usb/host/whci
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+hw.c
+file
+
+
+
+add
+
+hcd.c
+file
+
+
+
+add
+
+asl.c
+file
+
+
+
+add
+
+wusb.c
+file
+
+
+
+add
+
+init.c
+file
+
+
+
+add
+
+pzl.c
+file
+
+
+
+add
+
+debug.c
+file
+
+
+
+add
+
+whci-hc.h
+file
+
+
+
+add
+
+Kbuild
+file
+
+
+
+add
+
+whcd.h
+file
+
+
+
+add
+
+int.c
+file
+
+
+
+add
+
+qset.c
+file
+
+
+
+add
+

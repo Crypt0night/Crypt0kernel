@@ -1,0 +1,231 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/include/linux/spi
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+spidev.h
+file
+
+
+
+add
+
+spi.h
+file
+
+
+
+add
+
+flash.h
+file
+
+
+
+add
+
+max7301.h
+file
+
+
+
+add
+
+ads7846.h
+file
+
+
+
+add
+
+orion_spi.h
+file
+
+
+
+add
+
+tle62x0.h
+file
+
+
+
+add
+
+l4f00242t03.h
+file
+
+
+
+add
+
+mc33880.h
+file
+
+
+
+add
+
+wl12xx.h
+file
+
+
+
+add
+
+at73c213.h
+file
+
+
+
+add
+
+sh_msiof.h
+file
+
+
+
+add
+
+spi_gpio.h
+file
+
+
+
+add
+
+tdo24m.h
+file
+
+
+
+add
+
+lms283gf05.h
+file
+
+
+
+add
+
+mcp23s08.h
+file
+
+
+
+add
+
+ds1305.h
+file
+
+
+
+add
+
+libertas_spi.h
+file
+
+
+
+add
+
+spi_bitbang.h
+file
+
+
+
+add
+
+ad7877.h
+file
+
+
+
+add
+
+spi_aic3254_reg.h
+file
+
+
+
+add
+
+ad7879.h
+file
+
+
+
+add
+
+Kbuild
+file
+
+
+
+add
+
+dw_spi.h
+file
+
+
+
+add
+
+corgi_lcd.h
+file
+
+
+
+add
+
+spi_aic3254.h
+file
+
+
+
+add
+
+xilinx_spi.h
+file
+
+
+
+add
+
+mmc_spi.h
+file
+
+
+
+add
+
+eeprom.h
+file
+
+
+
+add
+

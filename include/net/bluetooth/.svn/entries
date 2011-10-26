@@ -1,0 +1,70 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/include/net/bluetooth
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+hci_core.h
+file
+
+
+
+add
+
+l2cap.h
+file
+
+
+
+add
+
+hci.h
+file
+
+
+
+add
+
+rfcomm.h
+file
+
+
+
+add
+
+sco.h
+file
+
+
+
+add
+
+bluetooth.h
+file
+
+
+
+add
+

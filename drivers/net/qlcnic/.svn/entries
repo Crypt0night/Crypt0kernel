@@ -1,0 +1,84 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/net/qlcnic
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+qlcnic.h
+file
+
+
+
+add
+
+qlcnic_ethtool.c
+file
+
+
+
+add
+
+qlcnic_hw.c
+file
+
+
+
+add
+
+qlcnic_ctx.c
+file
+
+
+
+add
+
+qlcnic_hdr.h
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+qlcnic_init.c
+file
+
+
+
+add
+
+qlcnic_main.c
+file
+
+
+
+add
+

@@ -1,0 +1,896 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/powerpc/boot/dts
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+taishan.dts
+file
+
+
+
+add
+
+holly.dts
+file
+
+
+
+add
+
+uc101.dts
+file
+
+
+
+add
+
+mpc8272ads.dts
+file
+
+
+
+add
+
+eiger.dts
+file
+
+
+
+add
+
+mpc8541cds.dts
+file
+
+
+
+add
+
+mpc832x_rdb.dts
+file
+
+
+
+add
+
+mpc8536ds.dts
+file
+
+
+
+add
+
+mpc8572ds.dts
+file
+
+
+
+add
+
+sam440ep.dts
+file
+
+
+
+add
+
+sbc8641d.dts
+file
+
+
+
+add
+
+sbc8349.dts
+file
+
+
+
+add
+
+mpc8555cds.dts
+file
+
+
+
+add
+
+sbc8548.dts
+file
+
+
+
+add
+
+pq2fads.dts
+file
+
+
+
+add
+
+mgcoge.dts
+file
+
+
+
+add
+
+redwood.dts
+file
+
+
+
+add
+
+hcu4.dts
+file
+
+
+
+add
+
+mgsuvd.dts
+file
+
+
+
+add
+
+mpc8349emitxgp.dts
+file
+
+
+
+add
+
+arches.dts
+file
+
+
+
+add
+
+cm5200.dts
+file
+
+
+
+add
+
+p1021mds.dts
+file
+
+
+
+add
+
+tqm8548-bigflash.dts
+file
+
+
+
+add
+
+gamecube.dts
+file
+
+
+
+add
+
+mpc836x_rdk.dts
+file
+
+
+
+add
+
+xpedite5200.dts
+file
+
+
+
+add
+
+warp.dts
+file
+
+
+
+add
+
+mpc834x_mds.dts
+file
+
+
+
+add
+
+xpedite5200_xmon.dts
+file
+
+
+
+add
+
+mpc866ads.dts
+file
+
+
+
+add
+
+ebony.dts
+file
+
+
+
+add
+
+mpc8349emitx.dts
+file
+
+
+
+add
+
+mpc8569mds.dts
+file
+
+
+
+add
+
+gef_sbc610.dts
+file
+
+
+
+add
+
+amigaone.dts
+file
+
+
+
+add
+
+mpc8641_hpcn_36b.dts
+file
+
+
+
+add
+
+mpc8540ads.dts
+file
+
+
+
+add
+
+iss4xx-mpic.dts
+file
+
+
+
+add
+
+mpc8377_wlan.dts
+file
+
+
+
+add
+
+mpc8560ads.dts
+file
+
+
+
+add
+
+p2020rdb.dts
+file
+
+
+
+add
+
+ep405.dts
+file
+
+
+
+add
+
+bamboo.dts
+file
+
+
+
+add
+
+acadia.dts
+file
+
+
+
+add
+
+mpc8548cds.dts
+file
+
+
+
+add
+
+haleakala.dts
+file
+
+
+
+add
+
+ps3.dts
+file
+
+
+
+add
+
+kuroboxHD.dts
+file
+
+
+
+add
+
+kuroboxHG.dts
+file
+
+
+
+add
+
+adder875-uboot.dts
+file
+
+
+
+add
+
+makalu.dts
+file
+
+
+
+add
+
+mpc8377_mds.dts
+file
+
+
+
+add
+
+kilauea.dts
+file
+
+
+
+add
+
+mpc8378_mds.dts
+file
+
+
+
+add
+
+mpc885ads.dts
+file
+
+
+
+add
+
+xpedite5330.dts
+file
+
+
+
+add
+
+mpc8379_mds.dts
+file
+
+
+
+add
+
+mpc8568mds.dts
+file
+
+
+
+add
+
+c2k.dts
+file
+
+
+
+add
+
+mpc5121ads.dts
+file
+
+
+
+add
+
+xpedite5370.dts
+file
+
+
+
+add
+
+tqm8540.dts
+file
+
+
+
+add
+
+tqm8541.dts
+file
+
+
+
+add
+
+mpc8572ds_camp_core0.dts
+file
+
+
+
+add
+
+mpc8572ds_camp_core1.dts
+file
+
+
+
+add
+
+storcenter.dts
+file
+
+
+
+add
+
+sbc8560.dts
+file
+
+
+
+add
+
+tqm8548.dts
+file
+
+
+
+add
+
+p2020ds.dts
+file
+
+
+
+add
+
+prpmc2800.dts
+file
+
+
+
+add
+
+gef_ppc9a.dts
+file
+
+
+
+add
+
+yosemite.dts
+file
+
+
+
+add
+
+ep8248e.dts
+file
+
+
+
+add
+
+pcm030.dts
+file
+
+
+
+add
+
+p4080ds.dts
+file
+
+
+
+add
+
+pcm032.dts
+file
+
+
+
+add
+
+lite5200.dts
+file
+
+
+
+add
+
+sequoia.dts
+file
+
+
+
+add
+
+mpc8572ds_36b.dts
+file
+
+
+
+add
+
+lite5200b.dts
+file
+
+
+
+add
+
+glacier.dts
+file
+
+
+
+add
+
+mpc8536ds_36b.dts
+file
+
+
+
+add
+
+mpc832x_mds.dts
+file
+
+
+
+add
+
+kmeter1.dts
+file
+
+
+
+add
+
+tqm5200.dts
+file
+
+
+
+add
+
+stx_gp3_8560.dts
+file
+
+
+
+add
+
+walnut.dts
+file
+
+
+
+add
+
+mpc8641_hpcn.dts
+file
+
+
+
+add
+
+mpc836x_mds.dts
+file
+
+
+
+add
+
+xpedite5301.dts
+file
+
+
+
+add
+
+mucmc52.dts
+file
+
+
+
+add
+
+virtex440-ml507.dts
+file
+
+
+
+add
+
+gef_sbc310.dts
+file
+
+
+
+add
+
+adder875-redboot.dts
+file
+
+
+
+add
+
+xcalibur1501.dts
+file
+
+
+
+add
+
+digsy_mtc.dts
+file
+
+
+
+add
+
+socrates.dts
+file
+
+
+
+add
+
+media5200.dts
+file
+
+
+
+add
+
+motionpro.dts
+file
+
+
+
+add
+
+icon.dts
+file
+
+
+
+add
+
+tqm8555.dts
+file
+
+
+
+add
+
+wii.dts
+file
+
+
+
+add
+
+rainier.dts
+file
+
+
+
+add
+
+p1020rdb.dts
+file
+
+
+
+add
+
+mpc8544ds.dts
+file
+
+
+
+add
+
+mpc8313erdb.dts
+file
+
+
+
+add
+
+mpc8610_hpcd.dts
+file
+
+
+
+add
+
+mpc8315erdb.dts
+file
+
+
+
+add
+
+mpc8377_rdb.dts
+file
+
+
+
+add
+
+mpc8378_rdb.dts
+file
+
+
+
+add
+
+mpc8379_rdb.dts
+file
+
+
+
+add
+
+iss4xx.dts
+file
+
+
+
+add
+
+virtex440-ml510.dts
+file
+
+
+
+add
+
+asp834x-redboot.dts
+file
+
+
+
+add
+
+katmai.dts
+file
+
+
+
+add
+
+ksi8560.dts
+file
+
+
+
+add
+
+canyonlands.dts
+file
+
+
+
+add
+
+ep88xc.dts
+file
+
+
+
+add
+
+hotfoot.dts
+file
+
+
+
+add
+
+p2020rdb_camp_core0.dts
+file
+
+
+
+add
+
+mpc7448hpc2.dts
+file
+
+
+
+add
+
+p2020rdb_camp_core1.dts
+file
+
+
+
+add
+
+tqm8560.dts
+file
+
+
+
+add
+

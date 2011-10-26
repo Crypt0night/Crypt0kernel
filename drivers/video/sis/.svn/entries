@@ -1,0 +1,161 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/video/sis
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+300vtbl.h
+file
+
+
+
+add
+
+310vtbl.h
+file
+
+
+
+add
+
+sis_main.c
+file
+
+
+
+add
+
+sis.h
+file
+
+
+
+add
+
+init.c
+file
+
+
+
+add
+
+osdef.h
+file
+
+
+
+add
+
+sis_main.h
+file
+
+
+
+add
+
+vgatypes.h
+file
+
+
+
+add
+
+oem300.h
+file
+
+
+
+add
+
+initextlfb.c
+file
+
+
+
+add
+
+init.h
+file
+
+
+
+add
+
+oem310.h
+file
+
+
+
+add
+
+vstruct.h
+file
+
+
+
+add
+
+sis_accel.c
+file
+
+
+
+add
+
+init301.c
+file
+
+
+
+add
+
+initdef.h
+file
+
+
+
+add
+
+sis_accel.h
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+init301.h
+file
+
+
+
+add
+

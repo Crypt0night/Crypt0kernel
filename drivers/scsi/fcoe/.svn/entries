@@ -1,0 +1,56 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/scsi/fcoe
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+fcoe.h
+file
+
+
+
+add
+
+libfcoe.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+fcoe.c
+file
+
+
+
+add
+

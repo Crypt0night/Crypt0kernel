@@ -1,0 +1,994 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/powerpc/kernel
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+module_64.c
+file
+
+
+
+add
+
+smp.c
+file
+
+
+
+add
+
+prom_init.c
+file
+
+
+
+add
+
+legacy_serial.c
+file
+
+
+
+add
+
+setup_32.c
+file
+
+
+
+add
+
+prom_parse.c
+file
+
+
+
+add
+
+compat_audit.c
+file
+
+
+
+add
+
+rtasd.c
+file
+
+
+
+add
+
+cpu_setup_pa6t.S
+file
+
+
+
+add
+
+signal_32.c
+file
+
+
+
+add
+
+power7-pmu.c
+file
+
+
+
+add
+
+rtas_flash.c
+file
+
+
+
+add
+
+swsusp_32.S
+file
+
+
+
+add
+
+irq.c
+file
+
+
+
+add
+
+ppc32.h
+file
+
+
+
+add
+
+pci_dn.c
+file
+
+
+
+add
+
+cpu_setup_6xx.S
+file
+
+
+
+add
+
+idle_power4.S
+file
+
+
+
+add
+
+time.c
+file
+
+
+
+add
+
+tau_6xx.c
+file
+
+
+
+add
+
+smp-tbsync.c
+file
+
+
+
+add
+
+vdso32
+dir
+
+
+
+add
+
+idle_6xx.S
+file
+
+
+
+add
+
+vmlinux.lds.S
+file
+
+
+
+add
+
+ftrace.c
+file
+
+
+
+add
+
+isa-bridge.c
+file
+
+
+
+add
+
+pmc.c
+file
+
+
+
+add
+
+cacheinfo.c
+file
+
+
+
+add
+
+cacheinfo.h
+file
+
+
+
+add
+
+prom_init_check.sh
+file
+
+
+
+add
+
+module.c
+file
+
+
+
+add
+
+iommu.c
+file
+
+
+
+add
+
+idle_e500.S
+file
+
+
+
+add
+
+l2cr_6xx.S
+file
+
+
+
+add
+
+entry_64.S
+file
+
+
+
+add
+
+align.c
+file
+
+
+
+add
+
+power5+-pmu.c
+file
+
+
+
+add
+
+rtas-rtc.c
+file
+
+
+
+add
+
+kgdb.c
+file
+
+
+
+add
+
+io.c
+file
+
+
+
+add
+
+exceptions-64s.S
+file
+
+
+
+add
+
+head_40x.S
+file
+
+
+
+add
+
+idle.c
+file
+
+
+
+add
+
+pci_32.c
+file
+
+
+
+add
+
+power6-pmu.c
+file
+
+
+
+add
+
+of_device.c
+file
+
+
+
+add
+
+vecemu.c
+file
+
+
+
+add
+
+perf_event_fsl_emb.c
+file
+
+
+
+add
+
+head_32.S
+file
+
+
+
+add
+
+crash_dump.c
+file
+
+
+
+add
+
+cpu_setup_44x.S
+file
+
+
+
+add
+
+module_32.c
+file
+
+
+
+add
+
+softemu8xx.c
+file
+
+
+
+add
+
+nvram_64.c
+file
+
+
+
+add
+
+perf_event.c
+file
+
+
+
+add
+
+ppc_save_regs.S
+file
+
+
+
+add
+
+swsusp_booke.S
+file
+
+
+
+add
+
+swsusp.c
+file
+
+
+
+add
+
+iomap.c
+file
+
+
+
+add
+
+rtas.c
+file
+
+
+
+add
+
+misc.S
+file
+
+
+
+add
+
+fsl_booke_entry_mapping.S
+file
+
+
+
+add
+
+ppc970-pmu.c
+file
+
+
+
+add
+
+udbg_16550.c
+file
+
+
+
+add
+
+misc_64.S
+file
+
+
+
+add
+
+stacktrace.c
+file
+
+
+
+add
+
+ibmebus.c
+file
+
+
+
+add
+
+msi.c
+file
+
+
+
+add
+
+cpu_setup_ppc970.S
+file
+
+
+
+add
+
+clock.c
+file
+
+
+
+add
+
+crash.c
+file
+
+
+
+add
+
+vdso64
+dir
+
+
+
+add
+
+ppc_ksyms.c
+file
+
+
+
+add
+
+of_platform.c
+file
+
+
+
+add
+
+process.c
+file
+
+
+
+add
+
+power5-pmu.c
+file
+
+
+
+add
+
+udbg.c
+file
+
+
+
+add
+
+dbell.c
+file
+
+
+
+add
+
+machine_kexec.c
+file
+
+
+
+add
+
+entry_32.S
+file
+
+
+
+add
+
+dma-iommu.c
+file
+
+
+
+add
+
+head_booke.h
+file
+
+
+
+add
+
+asm-offsets.c
+file
+
+
+
+add
+
+head_8xx.S
+file
+
+
+
+add
+
+perf_callchain.c
+file
+
+
+
+add
+
+machine_kexec_64.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+swsusp_asm64.S
+file
+
+
+
+add
+
+mpc7450-pmu.c
+file
+
+
+
+add
+
+dma.c
+file
+
+
+
+add
+
+head_fsl_booke.S
+file
+
+
+
+add
+
+systbl_chk.c
+file
+
+
+
+add
+
+audit.c
+file
+
+
+
+add
+
+e500-pmu.c
+file
+
+
+
+add
+
+setup_64.c
+file
+
+
+
+add
+
+cpu_setup_fsl_booke.S
+file
+
+
+
+add
+
+rtas-proc.c
+file
+
+
+
+add
+
+vdso.c
+file
+
+
+
+add
+
+lparcfg.c
+file
+
+
+
+add
+
+suspend.c
+file
+
+
+
+add
+
+dma-swiotlb.c
+file
+
+
+
+add
+
+ptrace32.c
+file
+
+
+
+add
+
+init_task.c
+file
+
+
+
+add
+
+signal_64.c
+file
+
+
+
+add
+
+reloc_64.S
+file
+
+
+
+add
+
+exceptions-64e.S
+file
+
+
+
+add
+
+vio.c
+file
+
+
+
+add
+
+cputable.c
+file
+
+
+
+add
+
+pci-common.c
+file
+
+
+
+add
+
+pci_of_scan.c
+file
+
+
+
+add
+
+paca.c
+file
+
+
+
+add
+
+rtas_pci.c
+file
+
+
+
+add
+
+kprobes.c
+file
+
+
+
+add
+
+setup.h
+file
+
+
+
+add
+
+fpu.S
+file
+
+
+
+add
+
+firmware.c
+file
+
+
+
+add
+
+swsusp_64.c
+file
+
+
+
+add
+
+misc_32.S
+file
+
+
+
+add
+
+power4-pmu.c
+file
+
+
+
+add
+
+head_44x.S
+file
+
+
+
+add
+
+vector.S
+file
+
+
+
+add
+
+sys_ppc32.c
+file
+
+
+
+add
+
+syscalls.c
+file
+
+
+
+add
+
+systbl.S
+file
+
+
+
+add
+
+proc_powerpc.c
+file
+
+
+
+add
+
+sysfs.c
+file
+
+
+
+add
+
+signal.c
+file
+
+
+
+add
+
+prom.c
+file
+
+
+
+add
+
+ptrace.c
+file
+
+
+
+add
+
+signal.h
+file
+
+
+
+add
+
+pci_64.c
+file
+
+
+
+add
+
+.gitignore
+file
+
+
+
+add
+
+setup-common.c
+file
+
+
+
+add
+
+btext.c
+file
+
+
+
+add
+
+machine_kexec_32.c
+file
+
+
+
+add
+
+traps.c
+file
+
+
+
+add
+
+head_64.S
+file
+
+
+
+add
+
+systbl_chk.sh
+file
+
+
+
+add
+

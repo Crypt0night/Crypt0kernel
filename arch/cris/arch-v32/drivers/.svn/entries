@@ -1,0 +1,112 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/cris/arch-v32/drivers
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+pcf8563.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+axisflashmap.c
+file
+
+
+
+add
+
+i2c.h
+file
+
+
+
+add
+
+cryptocop.c
+file
+
+
+
+add
+
+iop_fw_load.c
+file
+
+
+
+add
+
+mach-a3
+dir
+
+
+
+add
+
+pci
+dir
+
+
+
+add
+
+sync_serial.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+mach-fs
+dir
+
+
+
+add
+
+i2c.c
+file
+
+
+
+add
+

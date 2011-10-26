@@ -1,0 +1,98 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/include/net/caif
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+cffrml.h
+file
+
+
+
+add
+
+cfctrl.h
+file
+
+
+
+add
+
+cfserl.h
+file
+
+
+
+add
+
+caif_layer.h
+file
+
+
+
+add
+
+cfmuxl.h
+file
+
+
+
+add
+
+cfsrvl.h
+file
+
+
+
+add
+
+caif_dev.h
+file
+
+
+
+add
+
+caif_device.h
+file
+
+
+
+add
+
+cfcnfg.h
+file
+
+
+
+add
+
+cfpkt.h
+file
+
+
+
+add
+

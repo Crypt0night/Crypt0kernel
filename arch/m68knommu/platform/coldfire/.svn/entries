@@ -1,0 +1,126 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/m68knommu/platform/coldfire
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+gpio.c
+file
+
+
+
+add
+
+pinmux.c
+file
+
+
+
+add
+
+entry.S
+file
+
+
+
+add
+
+head.S
+file
+
+
+
+add
+
+dma_timer.c
+file
+
+
+
+add
+
+dma.c
+file
+
+
+
+add
+
+timers.c
+file
+
+
+
+add
+
+intc-simr.c
+file
+
+
+
+add
+
+vectors.c
+file
+
+
+
+add
+
+clk.c
+file
+
+
+
+add
+
+intc-2.c
+file
+
+
+
+add
+
+pit.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+intc.c
+file
+
+
+
+add
+

@@ -1,0 +1,70 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/net/vmxnet3
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+upt1_defs.h
+file
+
+
+
+add
+
+vmxnet3_drv.c
+file
+
+
+
+add
+
+vmxnet3_ethtool.c
+file
+
+
+
+add
+
+vmxnet3_int.h
+file
+
+
+
+add
+
+vmxnet3_defs.h
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

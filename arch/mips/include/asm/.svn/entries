@@ -1,0 +1,1743 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/mips/include/asm
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+hw_irq.h
+file
+
+
+
+add
+
+asmmacro-64.h
+file
+
+
+
+add
+
+war.h
+file
+
+
+
+add
+
+traps.h
+file
+
+
+
+add
+
+hugetlb.h
+file
+
+
+
+add
+
+futex.h
+file
+
+
+
+add
+
+abi.h
+file
+
+
+
+add
+
+regdef.h
+file
+
+
+
+add
+
+siginfo.h
+file
+
+
+
+add
+
+mach-rm
+dir
+
+
+
+add
+
+byteorder.h
+file
+
+
+
+add
+
+smp.h
+file
+
+
+
+add
+
+pgtable-32.h
+file
+
+
+
+add
+
+jazzdma.h
+file
+
+
+
+add
+
+mach-mipssim
+dir
+
+
+
+add
+
+octeon
+dir
+
+
+
+add
+
+mc146818rtc.h
+file
+
+
+
+add
+
+bcache.h
+file
+
+
+
+add
+
+uasm.h
+file
+
+
+
+add
+
+poll.h
+file
+
+
+
+add
+
+elf.h
+file
+
+
+
+add
+
+gcmpregs.h
+file
+
+
+
+add
+
+mach-tx39xx
+dir
+
+
+
+add
+
+ucontext.h
+file
+
+
+
+add
+
+mach-bcm63xx
+dir
+
+
+
+add
+
+irq_regs.h
+file
+
+
+
+add
+
+jazz.h
+file
+
+
+
+add
+
+user.h
+file
+
+
+
+add
+
+sgidefs.h
+file
+
+
+
+add
+
+txx9
+dir
+
+
+
+add
+
+debug.h
+file
+
+
+
+add
+
+ds1287.h
+file
+
+
+
+add
+
+seccomp.h
+file
+
+
+
+add
+
+mach-pb1x00
+dir
+
+
+
+add
+
+irq.h
+file
+
+
+
+add
+
+auxvec.h
+file
+
+
+
+add
+
+edac.h
+file
+
+
+
+add
+
+ioctls.h
+file
+
+
+
+add
+
+time.h
+file
+
+
+
+add
+
+delay.h
+file
+
+
+
+add
+
+bugs.h
+file
+
+
+
+add
+
+bitops.h
+file
+
+
+
+add
+
+kdebug.h
+file
+
+
+
+add
+
+gic.h
+file
+
+
+
+add
+
+checksum.h
+file
+
+
+
+add
+
+mmu_context.h
+file
+
+
+
+add
+
+ftrace.h
+file
+
+
+
+add
+
+statfs.h
+file
+
+
+
+add
+
+cacheflush.h
+file
+
+
+
+add
+
+cputime.h
+file
+
+
+
+add
+
+mach-ar7
+dir
+
+
+
+add
+
+nile4.h
+file
+
+
+
+add
+
+reg.h
+file
+
+
+
+add
+
+bug.h
+file
+
+
+
+add
+
+mach-loongson
+dir
+
+
+
+add
+
+termios.h
+file
+
+
+
+add
+
+current.h
+file
+
+
+
+add
+
+compat.h
+file
+
+
+
+add
+
+msgbuf.h
+file
+
+
+
+add
+
+mach-cobalt
+dir
+
+
+
+add
+
+module.h
+file
+
+
+
+add
+
+mc146818-time.h
+file
+
+
+
+add
+
+sn
+dir
+
+
+
+add
+
+mipsmtregs.h
+file
+
+
+
+add
+
+amon.h
+file
+
+
+
+add
+
+mips-boards
+dir
+
+
+
+add
+
+mach-ip22
+dir
+
+
+
+add
+
+swab.h
+file
+
+
+
+add
+
+mach-au1x00
+dir
+
+
+
+add
+
+mmu.h
+file
+
+
+
+add
+
+txx9tmr.h
+file
+
+
+
+add
+
+cevt-r4k.h
+file
+
+
+
+add
+
+mach-ip27
+dir
+
+
+
+add
+
+mutex.h
+file
+
+
+
+add
+
+mach-ip28
+dir
+
+
+
+add
+
+mmzone.h
+file
+
+
+
+add
+
+m48t37.h
+file
+
+
+
+add
+
+fcntl.h
+file
+
+
+
+add
+
+string.h
+file
+
+
+
+add
+
+kgdb.h
+file
+
+
+
+add
+
+io.h
+file
+
+
+
+add
+
+stat.h
+file
+
+
+
+add
+
+pmc-sierra
+dir
+
+
+
+add
+
+mach-bcm47xx
+dir
+
+
+
+add
+
+page.h
+file
+
+
+
+add
+
+lasat
+dir
+
+
+
+add
+
+processor.h
+file
+
+
+
+add
+
+mach-sibyte
+dir
+
+
+
+add
+
+serial.h
+file
+
+
+
+add
+
+thread_info.h
+file
+
+
+
+add
+
+spram.h
+file
+
+
+
+add
+
+spinlock.h
+file
+
+
+
+add
+
+asmmacro-32.h
+file
+
+
+
+add
+
+system.h
+file
+
+
+
+add
+
+rm9k-ocd.h
+file
+
+
+
+add
+
+resource.h
+file
+
+
+
+add
+
+cpu.h
+file
+
+
+
+add
+
+txx9irq.h
+file
+
+
+
+add
+
+emma
+dir
+
+
+
+add
+
+mach-generic
+dir
+
+
+
+add
+
+xtalk
+dir
+
+
+
+add
+
+mach-ip32
+dir
+
+
+
+add
+
+mach-jazz
+dir
+
+
+
+add
+
+kexec.h
+file
+
+
+
+add
+
+kspd.h
+file
+
+
+
+add
+
+scatterlist.h
+file
+
+
+
+add
+
+isadep.h
+file
+
+
+
+add
+
+watch.h
+file
+
+
+
+add
+
+unistd.h
+file
+
+
+
+add
+
+mach-pnx8550
+dir
+
+
+
+add
+
+mips_mt.h
+file
+
+
+
+add
+
+mach-tx49xx
+dir
+
+
+
+add
+
+sibyte
+dir
+
+
+
+add
+
+compiler.h
+file
+
+
+
+add
+
+sockios.h
+file
+
+
+
+add
+
+mach-dec
+dir
+
+
+
+add
+
+kmap_types.h
+file
+
+
+
+add
+
+topology.h
+file
+
+
+
+add
+
+vga.h
+file
+
+
+
+add
+
+i8259.h
+file
+
+
+
+add
+
+asm.h
+file
+
+
+
+add
+
+mach-lasat
+dir
+
+
+
+add
+
+stacktrace.h
+file
+
+
+
+add
+
+mach-rc32434
+dir
+
+
+
+add
+
+errno.h
+file
+
+
+
+add
+
+mach-powertv
+dir
+
+
+
+add
+
+timex.h
+file
+
+
+
+add
+
+sigcontext.h
+file
+
+
+
+add
+
+mach-wrppmc
+dir
+
+
+
+add
+
+mman.h
+file
+
+
+
+add
+
+mach-cavium-octeon
+dir
+
+
+
+add
+
+clock.h
+file
+
+
+
+add
+
+hazards.h
+file
+
+
+
+add
+
+compat-signal.h
+file
+
+
+
+add
+
+gpio.h
+file
+
+
+
+add
+
+fpu_emulator.h
+file
+
+
+
+add
+
+asmmacro.h
+file
+
+
+
+add
+
+cpu-features.h
+file
+
+
+
+add
+
+mipsprom.h
+file
+
+
+
+add
+
+unaligned.h
+file
+
+
+
+add
+
+spinlock_types.h
+file
+
+
+
+add
+
+irqflags.h
+file
+
+
+
+add
+
+sgialib.h
+file
+
+
+
+add
+
+ioctl.h
+file
+
+
+
+add
+
+mach-db1x00
+dir
+
+
+
+add
+
+mach-malta
+dir
+
+
+
+add
+
+r4k-timer.h
+file
+
+
+
+add
+
+cpu-info.h
+file
+
+
+
+add
+
+paccess.h
+file
+
+
+
+add
+
+tlb.h
+file
+
+
+
+add
+
+fpregdef.h
+file
+
+
+
+add
+
+tlbflush.h
+file
+
+
+
+add
+
+pci
+dir
+
+
+
+add
+
+fw
+dir
+
+
+
+add
+
+addrspace.h
+file
+
+
+
+add
+
+uaccess.h
+file
+
+
+
+add
+
+asm-offsets.h
+file
+
+
+
+add
+
+bitsperlong.h
+file
+
+
+
+add
+
+tlbdebug.h
+file
+
+
+
+add
+
+sni.h
+file
+
+
+
+add
+
+local.h
+file
+
+
+
+add
+
+hardirq.h
+file
+
+
+
+add
+
+sgiarcs.h
+file
+
+
+
+add
+
+mach-vr41xx
+dir
+
+
+
+add
+
+sparsemem.h
+file
+
+
+
+add
+
+msc01_ic.h
+file
+
+
+
+add
+
+percpu.h
+file
+
+
+
+add
+
+device.h
+file
+
+
+
+add
+
+param.h
+file
+
+
+
+add
+
+emergency-restart.h
+file
+
+
+
+add
+
+dma.h
+file
+
+
+
+add
+
+cop2.h
+file
+
+
+
+add
+
+pgtable-64.h
+file
+
+
+
+add
+
+smtc.h
+file
+
+
+
+add
+
+cachectl.h
+file
+
+
+
+add
+
+shmparam.h
+file
+
+
+
+add
+
+pmon.h
+file
+
+
+
+add
+
+wbflush.h
+file
+
+
+
+add
+
+vdso.h
+file
+
+
+
+add
+
+atomic.h
+file
+
+
+
+add
+
+pgtable-bits.h
+file
+
+
+
+add
+
+pgtable.h
+file
+
+
+
+add
+
+bootinfo.h
+file
+
+
+
+add
+
+stackframe.h
+file
+
+
+
+add
+
+sembuf.h
+file
+
+
+
+add
+
+suspend.h
+file
+
+
+
+add
+
+break.h
+file
+
+
+
+add
+
+fixmap.h
+file
+
+
+
+add
+
+smvp.h
+file
+
+
+
+add
+
+barrier.h
+file
+
+
+
+add
+
+vr41xx
+dir
+
+
+
+add
+
+dsp.h
+file
+
+
+
+add
+
+sim.h
+file
+
+
+
+add
+
+mipsregs.h
+file
+
+
+
+add
+
+termbits.h
+file
+
+
+
+add
+
+smtc_proc.h
+file
+
+
+
+add
+
+dma-mapping.h
+file
+
+
+
+add
+
+reboot.h
+file
+
+
+
+add
+
+branch.h
+file
+
+
+
+add
+
+irq_gt641xx.h
+file
+
+
+
+add
+
+prefetch.h
+file
+
+
+
+add
+
+setup.h
+file
+
+
+
+add
+
+ide.h
+file
+
+
+
+add
+
+segment.h
+file
+
+
+
+add
+
+types.h
+file
+
+
+
+add
+
+dec
+dir
+
+
+
+add
+
+titan_dep.h
+file
+
+
+
+add
+
+xor.h
+file
+
+
+
+add
+
+floppy.h
+file
+
+
+
+add
+
+linkage.h
+file
+
+
+
+add
+
+mach-emma2rh
+dir
+
+
+
+add
+
+inst.h
+file
+
+
+
+add
+
+Kbuild
+file
+
+
+
+add
+
+r4kcache.h
+file
+
+
+
+add
+
+sections.h
+file
+
+
+
+add
+
+fb.h
+file
+
+
+
+add
+
+cmpxchg.h
+file
+
+
+
+add
+
+rtlx.h
+file
+
+
+
+add
+
+fpu.h
+file
+
+
+
+add
+
+vpe.h
+file
+
+
+
+add
+
+sgi
+dir
+
+
+
+add
+
+div64.h
+file
+
+
+
+add
+
+smp-ops.h
+file
+
+
+
+add
+
+irq_cpu.h
+file
+
+
+
+add
+
+cache.h
+file
+
+
+
+add
+
+smtc_ipi.h
+file
+
+
+
+add
+
+sysmips.h
+file
+
+
+
+add
+
+gt64120.h
+file
+
+
+
+add
+
+ipcbuf.h
+file
+
+
+
+add
+
+i8253.h
+file
+
+
+
+add
+
+pci.h
+file
+
+
+
+add
+
+mach-pnx833x
+dir
+
+
+
+add
+
+signal.h
+file
+
+
+
+add
+
+ptrace.h
+file
+
+
+
+add
+
+highmem.h
+file
+
+
+
+add
+
+mach-yosemite
+dir
+
+
+
+add
+
+cmp.h
+file
+
+
+
+add
+
+pgalloc.h
+file
+
+
+
+add
+
+txx9pio.h
+file
+
+
+
+add
+
+shmbuf.h
+file
+
+
+
+add
+
+cacheops.h
+file
+
+
+
+add
+
+posix_types.h
+file
+
+
+
+add
+
+ip32
+dir
+
+
+
+add
+
+parport.h
+file
+
+
+
+add
+
+socket.h
+file
+
+
+
+add
+

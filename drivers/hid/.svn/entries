@@ -1,0 +1,455 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/hid
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+hid-cherry.c
+file
+
+
+
+add
+
+hid-chicony.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+hid-input.c
+file
+
+
+
+add
+
+modules.order
+file
+
+
+
+add
+
+hid-apple.c
+file
+
+
+
+add
+
+hid-egalax.c
+file
+
+
+
+add
+
+hid-monterey.c
+file
+
+
+
+add
+
+hid-lg.c
+file
+
+
+
+add
+
+hid-topseed.c
+file
+
+
+
+add
+
+hid-belkin.c
+file
+
+
+
+add
+
+hid-microsoft.c
+file
+
+
+
+add
+
+hid-mosart.c
+file
+
+
+
+add
+
+hid-wacom.c
+file
+
+
+
+add
+
+hid-lg.h
+file
+
+
+
+add
+
+hid-prodikeys.c
+file
+
+
+
+add
+
+hid-sunplus.c
+file
+
+
+
+add
+
+hid-pl.c
+file
+
+
+
+add
+
+hid-lgff.c
+file
+
+
+
+add
+
+hid-drff.c
+file
+
+
+
+add
+
+hid-cando.c
+file
+
+
+
+add
+
+hid-sony.c
+file
+
+
+
+add
+
+hid-kye.c
+file
+
+
+
+add
+
+hid-zydacron.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+hid-stantum.c
+file
+
+
+
+add
+
+hid-tmff.c
+file
+
+
+
+add
+
+hid-gyration.c
+file
+
+
+
+add
+
+.hid.o.cmd
+file
+
+
+
+add
+
+hid-lg2ff.c
+file
+
+
+
+add
+
+hid-lg3ff.c
+file
+
+
+
+add
+
+hid-gaff.c
+file
+
+
+
+add
+
+hid-3m-pct.c
+file
+
+
+
+add
+
+hid-petalynx.c
+file
+
+
+
+add
+
+hid-roccat-kone.c
+file
+
+
+
+add
+
+hid-zpff.c
+file
+
+
+
+add
+
+hid-a4tech.c
+file
+
+
+
+add
+
+hid-twinhan.c
+file
+
+
+
+add
+
+hid-roccat-kone.h
+file
+
+
+
+add
+
+hid-roccat.c
+file
+
+
+
+add
+
+hidraw.c
+file
+
+
+
+add
+
+hid-samsung.c
+file
+
+
+
+add
+
+.built-in.o.cmd
+file
+
+
+
+add
+
+hid-picolcd.c
+file
+
+
+
+add
+
+hid-kensington.c
+file
+
+
+
+add
+
+hid-roccat.h
+file
+
+
+
+add
+
+.hid-debug.o.cmd
+file
+
+
+
+add
+
+hid-ntrig.c
+file
+
+
+
+add
+
+hid-sjoy.c
+file
+
+
+
+add
+
+.hid-core.o.cmd
+file
+
+
+
+add
+
+hid-ids.h
+file
+
+
+
+add
+
+hid-ortek.c
+file
+
+
+
+add
+
+hid-debug.c
+file
+
+
+
+add
+
+hid-ezkey.c
+file
+
+
+
+add
+
+hid-core.c
+file
+
+
+
+add
+
+hid-cypress.c
+file
+
+
+
+add
+
+hid-quanta.c
+file
+
+
+
+add
+
+hid-magicmouse.c
+file
+
+
+
+add
+
+modules.builtin
+file
+
+
+
+add
+
+usbhid
+dir
+
+
+
+add
+
+.hid-input.o.cmd
+file
+
+
+
+add
+

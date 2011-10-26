@@ -1,0 +1,287 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/sh/kernel/cpu/sh4a
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+setup-sh7780.c
+file
+
+
+
+add
+
+setup-sh7366.c
+file
+
+
+
+add
+
+setup-sh7763.c
+file
+
+
+
+add
+
+setup-sh7785.c
+file
+
+
+
+add
+
+setup-sh7786.c
+file
+
+
+
+add
+
+ubc.c
+file
+
+
+
+add
+
+pinmux-sh7722.c
+file
+
+
+
+add
+
+pinmux-sh7723.c
+file
+
+
+
+add
+
+pinmux-sh7724.c
+file
+
+
+
+add
+
+clock-shx3.c
+file
+
+
+
+add
+
+smp-shx3.c
+file
+
+
+
+add
+
+pinmux-sh7785.c
+file
+
+
+
+add
+
+clock-sh7343.c
+file
+
+
+
+add
+
+pinmux-sh7786.c
+file
+
+
+
+add
+
+clock-sh7722.c
+file
+
+
+
+add
+
+clock-sh7723.c
+file
+
+
+
+add
+
+clock-sh7724.c
+file
+
+
+
+add
+
+clock-sh7366.c
+file
+
+
+
+add
+
+clock-sh7780.c
+file
+
+
+
+add
+
+clock-sh7763.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+setup-sh7770.c
+file
+
+
+
+add
+
+perf_event.c
+file
+
+
+
+add
+
+clock-sh7785.c
+file
+
+
+
+add
+
+clock-sh7786.c
+file
+
+
+
+add
+
+hwblk-sh7722.c
+file
+
+
+
+add
+
+setup-sh7757.c
+file
+
+
+
+add
+
+hwblk-sh7723.c
+file
+
+
+
+add
+
+hwblk-sh7724.c
+file
+
+
+
+add
+
+pinmux-sh7757.c
+file
+
+
+
+add
+
+setup-shx3.c
+file
+
+
+
+add
+
+clock-sh7770.c
+file
+
+
+
+add
+
+setup-sh7343.c
+file
+
+
+
+add
+
+setup-sh7722.c
+file
+
+
+
+add
+
+setup-sh7723.c
+file
+
+
+
+add
+
+setup-sh7724.c
+file
+
+
+
+add
+
+clock-sh7757.c
+file
+
+
+
+add
+

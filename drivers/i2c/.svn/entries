@@ -1,0 +1,133 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/i2c
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+.i2c-core.o.cmd
+file
+
+
+
+add
+
+modules.order
+file
+
+
+
+add
+
+i2c-core.c
+file
+
+
+
+add
+
+i2c-smbus.c
+file
+
+
+
+add
+
+i2c-core.h
+file
+
+
+
+add
+
+.i2c-boardinfo.o.cmd
+file
+
+
+
+add
+
+i2c-boardinfo.c
+file
+
+
+
+add
+
+.built-in.o.cmd
+file
+
+
+
+add
+
+busses
+dir
+
+
+
+add
+
+algos
+dir
+
+
+
+add
+
+chips
+dir
+
+
+
+add
+
+i2c-dev.c
+file
+
+
+
+add
+
+modules.builtin
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

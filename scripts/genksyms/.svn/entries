@@ -1,0 +1,105 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/scripts/genksyms
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+parse.y
+file
+
+
+
+add
+
+genksyms.c
+file
+
+
+
+add
+
+lex.l
+file
+
+
+
+add
+
+keywords.c_shipped
+file
+
+
+
+add
+
+.gitignore
+file
+
+
+
+add
+
+lex.c_shipped
+file
+
+
+
+add
+
+genksyms.h
+file
+
+
+
+add
+
+parse.c_shipped
+file
+
+
+
+add
+
+keywords.gperf
+file
+
+
+
+add
+
+parse.h_shipped
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

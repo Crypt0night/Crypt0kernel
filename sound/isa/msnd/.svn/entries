@@ -1,0 +1,112 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/sound/isa/msnd
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+msnd_pinnacle_mixer.c
+file
+
+
+
+add
+
+.built-in.o.cmd
+file
+
+
+
+add
+
+msnd_pinnacle.h
+file
+
+
+
+add
+
+msnd.c
+file
+
+
+
+add
+
+modules.order
+file
+
+
+
+add
+
+msnd_classic.c
+file
+
+
+
+add
+
+msnd_midi.c
+file
+
+
+
+add
+
+msnd.h
+file
+
+
+
+add
+
+msnd_classic.h
+file
+
+
+
+add
+
+msnd_pinnacle.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+modules.builtin
+file
+
+
+
+add
+

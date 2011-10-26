@@ -1,0 +1,84 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/include/linux/can
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+raw.h
+file
+
+
+
+add
+
+error.h
+file
+
+
+
+add
+
+dev.h
+file
+
+
+
+add
+
+platform
+dir
+
+
+
+add
+
+bcm.h
+file
+
+
+
+add
+
+Kbuild
+file
+
+
+
+add
+
+netlink.h
+file
+
+
+
+add
+
+core.h
+file
+
+
+
+add
+

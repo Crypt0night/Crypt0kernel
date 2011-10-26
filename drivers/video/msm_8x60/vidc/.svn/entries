@@ -1,0 +1,98 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/video/msm_8x60/vidc
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+.built-in.o.cmd
+file
+
+
+
+add
+
+modules.order
+file
+
+
+
+add
+
+.vidc.o.cmd
+file
+
+
+
+add
+
+.vidc_vdec.o.cmd
+file
+
+
+
+add
+
+1080p
+dir
+
+
+
+add
+
+common
+dir
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+.vidc_venc.o.cmd
+file
+
+
+
+add
+
+modules.builtin
+file
+
+
+
+add
+

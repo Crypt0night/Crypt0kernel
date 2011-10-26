@@ -1,0 +1,161 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/sound/drivers
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+pcm-indirect2.c
+file
+
+
+
+add
+
+modules.order
+file
+
+
+
+add
+
+virmidi.c
+file
+
+
+
+add
+
+mpu401
+dir
+
+
+
+add
+
+pcm-indirect2.h
+file
+
+
+
+add
+
+vx
+dir
+
+
+
+add
+
+mts64.c
+file
+
+
+
+add
+
+portman2x4.c
+file
+
+
+
+add
+
+.built-in.o.cmd
+file
+
+
+
+add
+
+serial-u16550.c
+file
+
+
+
+add
+
+pcsp
+dir
+
+
+
+add
+
+ml403-ac97cr.c
+file
+
+
+
+add
+
+mtpav.c
+file
+
+
+
+add
+
+dummy.c
+file
+
+
+
+add
+
+opl3
+dir
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+modules.builtin
+file
+
+
+
+add
+
+opl4
+dir
+
+
+
+add
+

@@ -1,0 +1,56 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/xtensa/platforms/s6105
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+device.c
+file
+
+
+
+add
+
+setup.c
+file
+
+
+
+add
+
+include
+dir
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

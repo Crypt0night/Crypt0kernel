@@ -1,0 +1,609 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/usb/serial
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+moto_modem.c
+file
+
+
+
+add
+
+usb_debug.c
+file
+
+
+
+add
+
+io_edgeport.c
+file
+
+
+
+add
+
+console.c
+file
+
+
+
+add
+
+aircable.c
+file
+
+
+
+add
+
+symbolserial.c
+file
+
+
+
+add
+
+io_edgeport.h
+file
+
+
+
+add
+
+kl5kusb105.c
+file
+
+
+
+add
+
+ti_usb_3410_5052.c
+file
+
+
+
+add
+
+keyspan_usa28msg.h
+file
+
+
+
+add
+
+kobil_sct.c
+file
+
+
+
+add
+
+opticon.c
+file
+
+
+
+add
+
+kl5kusb105.h
+file
+
+
+
+add
+
+ti_usb_3410_5052.h
+file
+
+
+
+add
+
+cp210x.c
+file
+
+
+
+add
+
+kobil_sct.h
+file
+
+
+
+add
+
+usb_wwan.c
+file
+
+
+
+add
+
+garmin_gps.c
+file
+
+
+
+add
+
+belkin_sa.c
+file
+
+
+
+add
+
+ark3116.c
+file
+
+
+
+add
+
+ezusb.c
+file
+
+
+
+add
+
+belkin_sa.h
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+cypress_m8.c
+file
+
+
+
+add
+
+mct_u232.c
+file
+
+
+
+add
+
+ftdi_sio.c
+file
+
+
+
+add
+
+cypress_m8.h
+file
+
+
+
+add
+
+io_usbvend.h
+file
+
+
+
+add
+
+mct_u232.h
+file
+
+
+
+add
+
+ftdi_sio.h
+file
+
+
+
+add
+
+usb-serial.c
+file
+
+
+
+add
+
+option.c
+file
+
+
+
+add
+
+omninet.c
+file
+
+
+
+add
+
+vivopay-serial.c
+file
+
+
+
+add
+
+keyspan.c
+file
+
+
+
+add
+
+keyspan_usa49msg.h
+file
+
+
+
+add
+
+digi_acceleport.c
+file
+
+
+
+add
+
+keyspan.h
+file
+
+
+
+add
+
+mos7840.c
+file
+
+
+
+add
+
+io_16654.h
+file
+
+
+
+add
+
+ch341.c
+file
+
+
+
+add
+
+io_ionsp.h
+file
+
+
+
+add
+
+bus.c
+file
+
+
+
+add
+
+ipaq.c
+file
+
+
+
+add
+
+iuu_phoenix.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+iuu_phoenix.h
+file
+
+
+
+add
+
+zio.c
+file
+
+
+
+add
+
+ir-usb.c
+file
+
+
+
+add
+
+visor.c
+file
+
+
+
+add
+
+io_ti.c
+file
+
+
+
+add
+
+qcserial.c
+file
+
+
+
+add
+
+io_tables.h
+file
+
+
+
+add
+
+ChangeLog.history
+file
+
+
+
+add
+
+keyspan_usa26msg.h
+file
+
+
+
+add
+
+keyspan_usa90msg.h
+file
+
+
+
+add
+
+visor.h
+file
+
+
+
+add
+
+io_ti.h
+file
+
+
+
+add
+
+siemens_mpi.c
+file
+
+
+
+add
+
+generic.c
+file
+
+
+
+add
+
+safe_serial.c
+file
+
+
+
+add
+
+ezusb_convert.pl
+file
+
+
+
+add
+
+hp4x.c
+file
+
+
+
+add
+
+funsoft.c
+file
+
+
+
+add
+
+sierra.c
+file
+
+
+
+add
+
+oti6858.c
+file
+
+
+
+add
+
+oti6858.h
+file
+
+
+
+add
+
+cyberjack.c
+file
+
+
+
+add
+
+empeg.c
+file
+
+
+
+add
+
+keyspan_pda.c
+file
+
+
+
+add
+
+ipw.c
+file
+
+
+
+add
+
+ftdi_sio_ids.h
+file
+
+
+
+add
+
+usb-wwan.h
+file
+
+
+
+add
+
+spcp8x5.c
+file
+
+
+
+add
+
+keyspan_usa67msg.h
+file
+
+
+
+add
+
+mos7720.c
+file
+
+
+
+add
+
+navman.c
+file
+
+
+
+add
+
+qcaux.c
+file
+
+
+
+add
+
+whiteheat.c
+file
+
+
+
+add
+
+pl2303.c
+file
+
+
+
+add
+
+Makefile-keyspan_pda_fw
+file
+
+
+
+add
+
+whiteheat.h
+file
+
+
+
+add
+
+pl2303.h
+file
+
+
+
+add
+

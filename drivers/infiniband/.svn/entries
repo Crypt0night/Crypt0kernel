@@ -1,0 +1,63 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/infiniband
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+ulp
+dir
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+core
+dir
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+hw
+dir
+
+
+
+add
+

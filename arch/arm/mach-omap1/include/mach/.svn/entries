@@ -1,0 +1,147 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/arm/mach-omap1/include/mach
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+vmalloc.h
+file
+
+
+
+add
+
+hardware.h
+file
+
+
+
+add
+
+gpio.h
+file
+
+
+
+add
+
+uncompress.h
+file
+
+
+
+add
+
+smp.h
+file
+
+
+
+add
+
+debug-macro.S
+file
+
+
+
+add
+
+lcdc.h
+file
+
+
+
+add
+
+io.h
+file
+
+
+
+add
+
+clkdev.h
+file
+
+
+
+add
+
+memory.h
+file
+
+
+
+add
+
+entry-macro.S
+file
+
+
+
+add
+
+irqs.h
+file
+
+
+
+add
+
+mtd-xip.h
+file
+
+
+
+add
+
+lcd_dma.h
+file
+
+
+
+add
+
+system.h
+file
+
+
+
+add
+
+ams-delta-fiq.h
+file
+
+
+
+add
+
+timex.h
+file
+
+
+
+add
+

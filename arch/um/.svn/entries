@@ -1,0 +1,203 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/um
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+sys-ia64
+dir
+
+
+
+add
+
+kernel
+dir
+
+
+
+add
+
+include
+dir
+
+
+
+add
+
+defconfig
+file
+
+
+
+add
+
+scripts
+dir
+
+
+
+add
+
+Makefile-os-Linux
+file
+
+
+
+add
+
+Kconfig.char
+file
+
+
+
+add
+
+Kconfig.rest
+file
+
+
+
+add
+
+Makefile-ppc
+file
+
+
+
+add
+
+sys-ppc
+dir
+
+
+
+add
+
+Kconfig.um
+file
+
+
+
+add
+
+Makefile-i386
+file
+
+
+
+add
+
+Kconfig.x86
+file
+
+
+
+add
+
+sys-i386
+dir
+
+
+
+add
+
+.gitignore
+file
+
+
+
+add
+
+Kconfig.net
+file
+
+
+
+add
+
+Kconfig.debug
+file
+
+
+
+add
+
+Kconfig.common
+file
+
+
+
+add
+
+Makefile-x86_64
+file
+
+
+
+add
+
+sys-x86_64
+dir
+
+
+
+add
+
+Makefile-skas
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+os-Linux
+dir
+
+
+
+add
+
+Makefile-ia64
+file
+
+
+
+add
+
+drivers
+dir
+
+
+
+add
+

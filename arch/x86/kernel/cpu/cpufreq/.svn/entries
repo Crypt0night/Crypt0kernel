@@ -1,0 +1,203 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/x86/kernel/cpu/cpufreq
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+powernow-k6.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+powernow-k7.c
+file
+
+
+
+add
+
+powernow-k8.c
+file
+
+
+
+add
+
+speedstep-lib.c
+file
+
+
+
+add
+
+e_powersaver.c
+file
+
+
+
+add
+
+cpufreq-nforce2.c
+file
+
+
+
+add
+
+powernow-k7.h
+file
+
+
+
+add
+
+powernow-k8.h
+file
+
+
+
+add
+
+speedstep-lib.h
+file
+
+
+
+add
+
+gx-suspmod.c
+file
+
+
+
+add
+
+pcc-cpufreq.c
+file
+
+
+
+add
+
+mperf.c
+file
+
+
+
+add
+
+sc520_freq.c
+file
+
+
+
+add
+
+longhaul.c
+file
+
+
+
+add
+
+speedstep-centrino.c
+file
+
+
+
+add
+
+p4-clockmod.c
+file
+
+
+
+add
+
+mperf.h
+file
+
+
+
+add
+
+longhaul.h
+file
+
+
+
+add
+
+acpi-cpufreq.c
+file
+
+
+
+add
+
+speedstep-smi.c
+file
+
+
+
+add
+
+longrun.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+elanfreq.c
+file
+
+
+
+add
+
+speedstep-ich.c
+file
+
+
+
+add
+

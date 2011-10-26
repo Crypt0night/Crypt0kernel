@@ -1,0 +1,112 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/isdn/capi
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+capilib.c
+file
+
+
+
+add
+
+capifs.c
+file
+
+
+
+add
+
+kcapi.c
+file
+
+
+
+add
+
+capidrv.c
+file
+
+
+
+add
+
+capiutil.c
+file
+
+
+
+add
+
+kcapi_proc.c
+file
+
+
+
+add
+
+capifs.h
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+kcapi.h
+file
+
+
+
+add
+
+capi.c
+file
+
+
+
+add
+
+capidrv.h
+file
+
+
+
+add
+

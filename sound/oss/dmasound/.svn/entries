@@ -1,0 +1,77 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/sound/oss/dmasound
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+dmasound_q40.c
+file
+
+
+
+add
+
+dmasound.h
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+dmasound_core.c
+file
+
+
+
+add
+
+dmasound_atari.c
+file
+
+
+
+add
+
+dmasound_paula.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

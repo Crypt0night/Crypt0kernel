@@ -1,0 +1,1155 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/ia64/include/asm
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+hw_irq.h
+file
+
+
+
+add
+
+rse.h
+file
+
+
+
+add
+
+hugetlb.h
+file
+
+
+
+add
+
+futex.h
+file
+
+
+
+add
+
+sync_bitops.h
+file
+
+
+
+add
+
+rwsem.h
+file
+
+
+
+add
+
+siginfo.h
+file
+
+
+
+add
+
+intel_intrin.h
+file
+
+
+
+add
+
+byteorder.h
+file
+
+
+
+add
+
+smp.h
+file
+
+
+
+add
+
+mc146818rtc.h
+file
+
+
+
+add
+
+machvec_dig_vtd.h
+file
+
+
+
+add
+
+poll.h
+file
+
+
+
+add
+
+elf.h
+file
+
+
+
+add
+
+ucontext.h
+file
+
+
+
+add
+
+irq_regs.h
+file
+
+
+
+add
+
+user.h
+file
+
+
+
+add
+
+auxvec.h
+file
+
+
+
+add
+
+irq.h
+file
+
+
+
+add
+
+ioctls.h
+file
+
+
+
+add
+
+delay.h
+file
+
+
+
+add
+
+patch.h
+file
+
+
+
+add
+
+bugs.h
+file
+
+
+
+add
+
+bitops.h
+file
+
+
+
+add
+
+kvm_para.h
+file
+
+
+
+add
+
+kdebug.h
+file
+
+
+
+add
+
+mmu_context.h
+file
+
+
+
+add
+
+checksum.h
+file
+
+
+
+add
+
+statfs.h
+file
+
+
+
+add
+
+ftrace.h
+file
+
+
+
+add
+
+cacheflush.h
+file
+
+
+
+add
+
+cputime.h
+file
+
+
+
+add
+
+bug.h
+file
+
+
+
+add
+
+termios.h
+file
+
+
+
+add
+
+current.h
+file
+
+
+
+add
+
+msgbuf.h
+file
+
+
+
+add
+
+compat.h
+file
+
+
+
+add
+
+module.h
+file
+
+
+
+add
+
+iommu.h
+file
+
+
+
+add
+
+paravirt.h
+file
+
+
+
+add
+
+sn
+dir
+
+
+
+add
+
+swab.h
+file
+
+
+
+add
+
+mmu.h
+file
+
+
+
+add
+
+native
+dir
+
+
+
+add
+
+mutex.h
+file
+
+
+
+add
+
+mmzone.h
+file
+
+
+
+add
+
+fcntl.h
+file
+
+
+
+add
+
+string.h
+file
+
+
+
+add
+
+paravirt_patch.h
+file
+
+
+
+add
+
+io.h
+file
+
+
+
+add
+
+syscall.h
+file
+
+
+
+add
+
+uncached.h
+file
+
+
+
+add
+
+stat.h
+file
+
+
+
+add
+
+page.h
+file
+
+
+
+add
+
+libata-portmap.h
+file
+
+
+
+add
+
+acpi.h
+file
+
+
+
+add
+
+idle.h
+file
+
+
+
+add
+
+serial.h
+file
+
+
+
+add
+
+nodedata.h
+file
+
+
+
+add
+
+processor.h
+file
+
+
+
+add
+
+fpswa.h
+file
+
+
+
+add
+
+spinlock.h
+file
+
+
+
+add
+
+thread_info.h
+file
+
+
+
+add
+
+system.h
+file
+
+
+
+add
+
+cpu.h
+file
+
+
+
+add
+
+resource.h
+file
+
+
+
+add
+
+iosapic.h
+file
+
+
+
+add
+
+ustack.h
+file
+
+
+
+add
+
+kvm_host.h
+file
+
+
+
+add
+
+kexec.h
+file
+
+
+
+add
+
+numa.h
+file
+
+
+
+add
+
+mca.h
+file
+
+
+
+add
+
+scatterlist.h
+file
+
+
+
+add
+
+meminit.h
+file
+
+
+
+add
+
+machvec_hpzx1_swiotlb.h
+file
+
+
+
+add
+
+unistd.h
+file
+
+
+
+add
+
+msidef.h
+file
+
+
+
+add
+
+sockios.h
+file
+
+
+
+add
+
+kmap_types.h
+file
+
+
+
+add
+
+topology.h
+file
+
+
+
+add
+
+vga.h
+file
+
+
+
+add
+
+sal.h
+file
+
+
+
+add
+
+esi.h
+file
+
+
+
+add
+
+errno.h
+file
+
+
+
+add
+
+timex.h
+file
+
+
+
+add
+
+sigcontext.h
+file
+
+
+
+add
+
+machvec_sn2.h
+file
+
+
+
+add
+
+mman.h
+file
+
+
+
+add
+
+machvec_dig.h
+file
+
+
+
+add
+
+asmmacro.h
+file
+
+
+
+add
+
+uv
+dir
+
+
+
+add
+
+perfmon.h
+file
+
+
+
+add
+
+unaligned.h
+file
+
+
+
+add
+
+spinlock_types.h
+file
+
+
+
+add
+
+ptrace_offsets.h
+file
+
+
+
+add
+
+ioctl.h
+file
+
+
+
+add
+
+hpsim.h
+file
+
+
+
+add
+
+tlb.h
+file
+
+
+
+add
+
+tlbflush.h
+file
+
+
+
+add
+
+swiotlb.h
+file
+
+
+
+add
+
+intrinsics.h
+file
+
+
+
+add
+
+uaccess.h
+file
+
+
+
+add
+
+asm-offsets.h
+file
+
+
+
+add
+
+bitsperlong.h
+file
+
+
+
+add
+
+machvec_init.h
+file
+
+
+
+add
+
+pvclock-abi.h
+file
+
+
+
+add
+
+local.h
+file
+
+
+
+add
+
+hardirq.h
+file
+
+
+
+add
+
+sparsemem.h
+file
+
+
+
+add
+
+kvm.h
+file
+
+
+
+add
+
+percpu.h
+file
+
+
+
+add
+
+device.h
+file
+
+
+
+add
+
+param.h
+file
+
+
+
+add
+
+emergency-restart.h
+file
+
+
+
+add
+
+dma.h
+file
+
+
+
+add
+
+agp.h
+file
+
+
+
+add
+
+shmparam.h
+file
+
+
+
+add
+
+dmi.h
+file
+
+
+
+add
+
+atomic.h
+file
+
+
+
+add
+
+pgtable.h
+file
+
+
+
+add
+
+machvec_uv.h
+file
+
+
+
+add
+
+sembuf.h
+file
+
+
+
+add
+
+break.h
+file
+
+
+
+add
+
+ia64regs.h
+file
+
+
+
+add
+
+termbits.h
+file
+
+
+
+add
+
+dma-mapping.h
+file
+
+
+
+add
+
+mca_asm.h
+file
+
+
+
+add
+
+setup.h
+file
+
+
+
+add
+
+segment.h
+file
+
+
+
+add
+
+types.h
+file
+
+
+
+add
+
+perfmon_default_smpl.h
+file
+
+
+
+add
+
+kprobes.h
+file
+
+
+
+add
+
+xor.h
+file
+
+
+
+add
+
+linkage.h
+file
+
+
+
+add
+
+kregs.h
+file
+
+
+
+add
+
+machvec_xen.h
+file
+
+
+
+add
+
+Kbuild
+file
+
+
+
+add
+
+sections.h
+file
+
+
+
+add
+
+paravirt_privop.h
+file
+
+
+
+add
+
+fb.h
+file
+
+
+
+add
+
+fpu.h
+file
+
+
+
+add
+
+div64.h
+file
+
+
+
+add
+
+cyclone.h
+file
+
+
+
+add
+
+machvec_hpzx1.h
+file
+
+
+
+add
+
+cache.h
+file
+
+
+
+add
+
+unwind.h
+file
+
+
+
+add
+
+xen
+dir
+
+
+
+add
+
+machvec_hpsim.h
+file
+
+
+
+add
+
+machvec.h
+file
+
+
+
+add
+
+ipcbuf.h
+file
+
+
+
+add
+
+acpi-ext.h
+file
+
+
+
+add
+
+pci.h
+file
+
+
+
+add
+
+pal.h
+file
+
+
+
+add
+
+signal.h
+file
+
+
+
+add
+
+ptrace.h
+file
+
+
+
+add
+
+gcc_intrin.h
+file
+
+
+
+add
+
+pgalloc.h
+file
+
+
+
+add
+
+shmbuf.h
+file
+
+
+
+add
+
+posix_types.h
+file
+
+
+
+add
+
+parport.h
+file
+
+
+
+add
+
+socket.h
+file
+
+
+
+add
+

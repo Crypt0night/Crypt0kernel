@@ -1,0 +1,147 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/firmware
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+efivars.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+modules.order
+file
+
+
+
+add
+
+dmi-id.c
+file
+
+
+
+add
+
+memmap.c
+file
+
+
+
+add
+
+dmi_scan.c
+file
+
+
+
+add
+
+iscsi_ibft.c
+file
+
+
+
+add
+
+iscsi_ibft_find.c
+file
+
+
+
+add
+
+.built-in.o.cmd
+file
+
+
+
+add
+
+dcdbas.c
+file
+
+
+
+add
+
+dcdbas.h
+file
+
+
+
+add
+
+pcdp.c
+file
+
+
+
+add
+
+dell_rbu.c
+file
+
+
+
+add
+
+pcdp.h
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+edd.c
+file
+
+
+
+add
+
+modules.builtin
+file
+
+
+
+add
+

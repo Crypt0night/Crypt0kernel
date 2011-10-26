@@ -1,0 +1,196 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/arm/mach-ks8695/include/mach
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+regs-misc.h
+file
+
+
+
+add
+
+regs-irq.h
+file
+
+
+
+add
+
+regs-gpio.h
+file
+
+
+
+add
+
+vmalloc.h
+file
+
+
+
+add
+
+hardware.h
+file
+
+
+
+add
+
+uncompress.h
+file
+
+
+
+add
+
+gpio.h
+file
+
+
+
+add
+
+regs-switch.h
+file
+
+
+
+add
+
+debug-macro.S
+file
+
+
+
+add
+
+io.h
+file
+
+
+
+add
+
+regs-lan.h
+file
+
+
+
+add
+
+memory.h
+file
+
+
+
+add
+
+regs-uart.h
+file
+
+
+
+add
+
+regs-pci.h
+file
+
+
+
+add
+
+entry-macro.S
+file
+
+
+
+add
+
+regs-mem.h
+file
+
+
+
+add
+
+regs-sys.h
+file
+
+
+
+add
+
+irqs.h
+file
+
+
+
+add
+
+regs-timer.h
+file
+
+
+
+add
+
+devices.h
+file
+
+
+
+add
+
+regs-wan.h
+file
+
+
+
+add
+
+system.h
+file
+
+
+
+add
+
+regs-hpna.h
+file
+
+
+
+add
+
+timex.h
+file
+
+
+
+add
+

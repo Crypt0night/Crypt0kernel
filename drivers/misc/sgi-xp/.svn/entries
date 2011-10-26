@@ -1,0 +1,119 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/misc/sgi-xp
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+xpnet.c
+file
+
+
+
+add
+
+xpc_main.c
+file
+
+
+
+add
+
+xpc.h
+file
+
+
+
+add
+
+xp_nofault.S
+file
+
+
+
+add
+
+xp_uv.c
+file
+
+
+
+add
+
+xpc_channel.c
+file
+
+
+
+add
+
+xpc_partition.c
+file
+
+
+
+add
+
+xpc_uv.c
+file
+
+
+
+add
+
+xp_sn2.c
+file
+
+
+
+add
+
+xp_main.c
+file
+
+
+
+add
+
+xpc_sn2.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+xp.h
+file
+
+
+
+add
+

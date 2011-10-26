@@ -1,0 +1,196 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/include/acpi
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+reboot.h
+file
+
+
+
+add
+
+acrestyp.h
+file
+
+
+
+add
+
+acpi_numa.h
+file
+
+
+
+add
+
+platform
+dir
+
+
+
+add
+
+hed.h
+file
+
+
+
+add
+
+pdc_intel.h
+file
+
+
+
+add
+
+acoutput.h
+file
+
+
+
+add
+
+atomicio.h
+file
+
+
+
+add
+
+actbl1.h
+file
+
+
+
+add
+
+video.h
+file
+
+
+
+add
+
+acnames.h
+file
+
+
+
+add
+
+actbl2.h
+file
+
+
+
+add
+
+acexcep.h
+file
+
+
+
+add
+
+actypes.h
+file
+
+
+
+add
+
+acpi_drivers.h
+file
+
+
+
+add
+
+acpixf.h
+file
+
+
+
+add
+
+button.h
+file
+
+
+
+add
+
+acpiosxf.h
+file
+
+
+
+add
+
+acpi.h
+file
+
+
+
+add
+
+apei.h
+file
+
+
+
+add
+
+processor.h
+file
+
+
+
+add
+
+container.h
+file
+
+
+
+add
+
+acpi_bus.h
+file
+
+
+
+add
+
+actbl.h
+file
+
+
+
+add
+

@@ -1,0 +1,112 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/m32r/configs
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+m32104ut_defconfig
+file
+
+
+
+add
+
+m32700ut.smp_defconfig
+file
+
+
+
+add
+
+usrv_defconfig
+file
+
+
+
+add
+
+mappi.nommu_defconfig
+file
+
+
+
+add
+
+oaks32r_defconfig
+file
+
+
+
+add
+
+m32700ut.up_defconfig
+file
+
+
+
+add
+
+mappi.smp_defconfig
+file
+
+
+
+add
+
+mappi3.smp_defconfig
+file
+
+
+
+add
+
+mappi2.opsp_defconfig
+file
+
+
+
+add
+
+mappi.up_defconfig
+file
+
+
+
+add
+
+opsput_defconfig
+file
+
+
+
+add
+
+mappi2.vdec2_defconfig
+file
+
+
+
+add
+

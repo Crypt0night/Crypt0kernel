@@ -1,0 +1,77 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/tools/perf/scripts/python
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+sctop.py
+file
+
+
+
+add
+
+Perf-Trace-Util
+dir
+
+
+
+add
+
+bin
+dir
+
+
+
+add
+
+failed-syscalls-by-pid.py
+file
+
+
+
+add
+
+check-perf-trace.py
+file
+
+
+
+add
+
+syscall-counts.py
+file
+
+
+
+add
+
+syscall-counts-by-pid.py
+file
+
+
+
+add
+

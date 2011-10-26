@@ -1,0 +1,280 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/input/mouse
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+hgpk.h
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+lifebook.h
+file
+
+
+
+add
+
+psmouse.h
+file
+
+
+
+add
+
+appletouch.c
+file
+
+
+
+add
+
+sentelic.c
+file
+
+
+
+add
+
+maplemouse.c
+file
+
+
+
+add
+
+synaptics_i2c.c
+file
+
+
+
+add
+
+sentelic.h
+file
+
+
+
+add
+
+inport.c
+file
+
+
+
+add
+
+synaptics.c
+file
+
+
+
+add
+
+logips2pp.c
+file
+
+
+
+add
+
+synaptics.h
+file
+
+
+
+add
+
+logips2pp.h
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+rpcmouse.c
+file
+
+
+
+add
+
+alps.c
+file
+
+
+
+add
+
+pxa930_trkball.c
+file
+
+
+
+add
+
+sermouse.c
+file
+
+
+
+add
+
+vsxxxaa.c
+file
+
+
+
+add
+
+psmouse-base.c
+file
+
+
+
+add
+
+alps.h
+file
+
+
+
+add
+
+gpio_mouse.c
+file
+
+
+
+add
+
+logibm.c
+file
+
+
+
+add
+
+pc110pad.c
+file
+
+
+
+add
+
+atarimouse.c
+file
+
+
+
+add
+
+trackpoint.c
+file
+
+
+
+add
+
+touchkit_ps2.c
+file
+
+
+
+add
+
+amimouse.c
+file
+
+
+
+add
+
+elantech.c
+file
+
+
+
+add
+
+trackpoint.h
+file
+
+
+
+add
+
+touchkit_ps2.h
+file
+
+
+
+add
+
+elantech.h
+file
+
+
+
+add
+
+hgpk.c
+file
+
+
+
+add
+
+lifebook.c
+file
+
+
+
+add
+
+bcm5974.c
+file
+
+
+
+add
+

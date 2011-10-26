@@ -1,0 +1,133 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/mips/include/asm/mach-au1x00
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+war.h
+file
+
+
+
+add
+
+au1550_spi.h
+file
+
+
+
+add
+
+ioremap.h
+file
+
+
+
+add
+
+gpio.h
+file
+
+
+
+add
+
+au1xxx_eth.h
+file
+
+
+
+add
+
+au1xxx.h
+file
+
+
+
+add
+
+gpio-au1000.h
+file
+
+
+
+add
+
+au1100_mmc.h
+file
+
+
+
+add
+
+au1xxx_psc.h
+file
+
+
+
+add
+
+au1000.h
+file
+
+
+
+add
+
+prom.h
+file
+
+
+
+add
+
+au1xxx_ide.h
+file
+
+
+
+add
+
+cpu-feature-overrides.h
+file
+
+
+
+add
+
+au1xxx_dbdma.h
+file
+
+
+
+add
+
+au1000_dma.h
+file
+
+
+
+add
+

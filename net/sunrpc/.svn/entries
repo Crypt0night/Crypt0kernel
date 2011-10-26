@@ -1,0 +1,238 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/net/sunrpc
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+stats.c
+file
+
+
+
+add
+
+bc_svc.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+clnt.c
+file
+
+
+
+add
+
+auth.c
+file
+
+
+
+add
+
+rpc_pipe.c
+file
+
+
+
+add
+
+backchannel_rqst.c
+file
+
+
+
+add
+
+cache.c
+file
+
+
+
+add
+
+auth_unix.c
+file
+
+
+
+add
+
+rpcb_clnt.c
+file
+
+
+
+add
+
+svc_xprt.c
+file
+
+
+
+add
+
+addr.c
+file
+
+
+
+add
+
+svcsock.c
+file
+
+
+
+add
+
+xprtsock.c
+file
+
+
+
+add
+
+svcauth.c
+file
+
+
+
+add
+
+sunrpc.h
+file
+
+
+
+add
+
+xprtrdma
+dir
+
+
+
+add
+
+timer.c
+file
+
+
+
+add
+
+svcauth_unix.c
+file
+
+
+
+add
+
+sysctl.c
+file
+
+
+
+add
+
+sunrpc_syms.c
+file
+
+
+
+add
+
+socklib.c
+file
+
+
+
+add
+
+sched.c
+file
+
+
+
+add
+
+svc.c
+file
+
+
+
+add
+
+auth_null.c
+file
+
+
+
+add
+
+auth_gss
+dir
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+auth_generic.c
+file
+
+
+
+add
+
+xprt.c
+file
+
+
+
+add
+
+xdr.c
+file
+
+
+
+add
+

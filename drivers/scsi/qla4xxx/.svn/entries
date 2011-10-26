@@ -1,0 +1,140 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/scsi/qla4xxx
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+ql4_os.c
+file
+
+
+
+add
+
+ql4_fw.h
+file
+
+
+
+add
+
+ql4_nvram.c
+file
+
+
+
+add
+
+ql4_inline.h
+file
+
+
+
+add
+
+ql4_glbl.h
+file
+
+
+
+add
+
+ql4_mbx.c
+file
+
+
+
+add
+
+ql4_nvram.h
+file
+
+
+
+add
+
+ql4_version.h
+file
+
+
+
+add
+
+ql4_dbg.c
+file
+
+
+
+add
+
+ql4_isr.c
+file
+
+
+
+add
+
+ql4_dbg.h
+file
+
+
+
+add
+
+ql4_init.c
+file
+
+
+
+add
+
+ql4_def.h
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+ql4_iocb.c
+file
+
+
+
+add
+

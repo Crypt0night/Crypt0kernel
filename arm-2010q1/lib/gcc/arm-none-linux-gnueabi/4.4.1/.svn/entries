@@ -1,0 +1,63 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arm-2010q1/lib/gcc/arm-none-linux-gnueabi/4.4.1
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+include-fixed
+dir
+
+
+
+add
+
+thumb2
+dir
+
+
+
+add
+
+include
+dir
+
+
+
+add
+
+install-tools
+dir
+
+
+
+add
+
+armv4t
+dir
+
+
+
+add
+

@@ -1,0 +1,63 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/sfi
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+sfi_core.h
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+sfi_core.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+sfi_acpi.c
+file
+
+
+
+add
+

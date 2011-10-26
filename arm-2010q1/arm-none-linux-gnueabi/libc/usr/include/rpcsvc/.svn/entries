@@ -1,0 +1,301 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arm-2010q1/arm-none-linux-gnueabi/libc/usr/include/rpcsvc
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+nis.h
+file
+
+
+
+add
+
+nlm_prot.h
+file
+
+
+
+add
+
+yppasswd.x
+file
+
+
+
+add
+
+nfs_prot.h
+file
+
+
+
+add
+
+yp_prot.h
+file
+
+
+
+add
+
+rstat.h
+file
+
+
+
+add
+
+rex.h
+file
+
+
+
+add
+
+ypupd.h
+file
+
+
+
+add
+
+nis_callback.h
+file
+
+
+
+add
+
+nis.x
+file
+
+
+
+add
+
+nlm_prot.x
+file
+
+
+
+add
+
+nfs_prot.x
+file
+
+
+
+add
+
+rquota.h
+file
+
+
+
+add
+
+rstat.x
+file
+
+
+
+add
+
+rex.x
+file
+
+
+
+add
+
+sm_inter.h
+file
+
+
+
+add
+
+nislib.h
+file
+
+
+
+add
+
+rusers.h
+file
+
+
+
+add
+
+nis_callback.x
+file
+
+
+
+add
+
+klm_prot.h
+file
+
+
+
+add
+
+yp.h
+file
+
+
+
+add
+
+bootparam_prot.h
+file
+
+
+
+add
+
+rquota.x
+file
+
+
+
+add
+
+key_prot.h
+file
+
+
+
+add
+
+spray.h
+file
+
+
+
+add
+
+nis_object.x
+file
+
+
+
+add
+
+sm_inter.x
+file
+
+
+
+add
+
+mount.h
+file
+
+
+
+add
+
+rusers.x
+file
+
+
+
+add
+
+klm_prot.x
+file
+
+
+
+add
+
+nis_tags.h
+file
+
+
+
+add
+
+yp.x
+file
+
+
+
+add
+
+bootparam_prot.x
+file
+
+
+
+add
+
+ypclnt.h
+file
+
+
+
+add
+
+yppasswd.h
+file
+
+
+
+add
+
+key_prot.x
+file
+
+
+
+add
+
+spray.x
+file
+
+
+
+add
+
+mount.x
+file
+
+
+
+add
+
+bootparam.h
+file
+
+
+
+add
+

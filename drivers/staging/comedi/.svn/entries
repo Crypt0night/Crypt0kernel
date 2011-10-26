@@ -1,0 +1,140 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/staging/comedi
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+proc.c
+file
+
+
+
+add
+
+comedidev.h
+file
+
+
+
+add
+
+comedi.h
+file
+
+
+
+add
+
+comedi_compat32.c
+file
+
+
+
+add
+
+comedi_compat32.h
+file
+
+
+
+add
+
+drivers.c
+file
+
+
+
+add
+
+kcomedilib
+dir
+
+
+
+add
+
+internal.h
+file
+
+
+
+add
+
+TODO
+file
+
+
+
+add
+
+comedi_fops.c
+file
+
+
+
+add
+
+range.c
+file
+
+
+
+add
+
+comedi_fops.h
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+comedilib.h
+file
+
+
+
+add
+
+drivers
+dir
+
+
+
+add
+

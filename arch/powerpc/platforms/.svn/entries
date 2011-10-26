@@ -1,0 +1,196 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/powerpc/platforms
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+cell
+dir
+
+
+
+add
+
+44x
+dir
+
+
+
+add
+
+amigaone
+dir
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+8xx
+dir
+
+
+
+add
+
+chrp
+dir
+
+
+
+add
+
+maple
+dir
+
+
+
+add
+
+embedded6xx
+dir
+
+
+
+add
+
+512x
+dir
+
+
+
+add
+
+fsl_uli1575.c
+file
+
+
+
+add
+
+iseries
+dir
+
+
+
+add
+
+ps3
+dir
+
+
+
+add
+
+prep
+dir
+
+
+
+add
+
+52xx
+dir
+
+
+
+add
+
+Kconfig.cputype
+file
+
+
+
+add
+
+82xx
+dir
+
+
+
+add
+
+83xx
+dir
+
+
+
+add
+
+pseries
+dir
+
+
+
+add
+
+40x
+dir
+
+
+
+add
+
+85xx
+dir
+
+
+
+add
+
+86xx
+dir
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+powermac
+dir
+
+
+
+add
+
+pasemi
+dir
+
+
+
+add
+

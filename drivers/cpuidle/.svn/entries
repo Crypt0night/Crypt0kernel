@@ -1,0 +1,133 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/cpuidle
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+governor.c
+file
+
+
+
+add
+
+modules.order
+file
+
+
+
+add
+
+governors
+dir
+
+
+
+add
+
+.sysfs.o.cmd
+file
+
+
+
+add
+
+sysfs.c
+file
+
+
+
+add
+
+.built-in.o.cmd
+file
+
+
+
+add
+
+.cpuidle.o.cmd
+file
+
+
+
+add
+
+cpuidle.c
+file
+
+
+
+add
+
+.driver.o.cmd
+file
+
+
+
+add
+
+cpuidle.h
+file
+
+
+
+add
+
+driver.c
+file
+
+
+
+add
+
+modules.builtin
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+.governor.o.cmd
+file
+
+
+
+add
+

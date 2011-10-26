@@ -1,0 +1,70 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/include/config/has
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+tls
+dir
+
+
+
+add
+
+ioport.h
+file
+
+
+
+add
+
+earlysuspend.h
+file
+
+
+
+add
+
+wakelock.h
+file
+
+
+
+add
+
+dma.h
+file
+
+
+
+add
+
+iomem.h
+file
+
+
+
+add
+

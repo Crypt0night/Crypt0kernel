@@ -1,0 +1,140 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/x86/kernel/apic
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+io_apic.c
+file
+
+
+
+add
+
+apic_noop.c
+file
+
+
+
+add
+
+probe_32.c
+file
+
+
+
+add
+
+apic.c
+file
+
+
+
+add
+
+probe_64.c
+file
+
+
+
+add
+
+ipi.c
+file
+
+
+
+add
+
+es7000_32.c
+file
+
+
+
+add
+
+summit_32.c
+file
+
+
+
+add
+
+nmi.c
+file
+
+
+
+add
+
+numaq_32.c
+file
+
+
+
+add
+
+bigsmp_32.c
+file
+
+
+
+add
+
+x2apic_uv_x.c
+file
+
+
+
+add
+
+x2apic_cluster.c
+file
+
+
+
+add
+
+x2apic_phys.c
+file
+
+
+
+add
+
+apic_flat_64.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

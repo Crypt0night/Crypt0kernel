@@ -1,0 +1,70 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/media/video/et61x251
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+et61x251.h
+file
+
+
+
+add
+
+et61x251_tas5130d1b.c
+file
+
+
+
+add
+
+et61x251_core.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+et61x251_sensor.h
+file
+
+
+
+add
+

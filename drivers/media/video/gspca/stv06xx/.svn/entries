@@ -1,0 +1,119 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/media/video/gspca/stv06xx
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+stv06xx_sensor.h
+file
+
+
+
+add
+
+stv06xx.c
+file
+
+
+
+add
+
+stv06xx_hdcs.c
+file
+
+
+
+add
+
+stv06xx_pb0100.c
+file
+
+
+
+add
+
+stv06xx_st6422.c
+file
+
+
+
+add
+
+stv06xx.h
+file
+
+
+
+add
+
+stv06xx_hdcs.h
+file
+
+
+
+add
+
+stv06xx_vv6410.c
+file
+
+
+
+add
+
+stv06xx_pb0100.h
+file
+
+
+
+add
+
+stv06xx_st6422.h
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+stv06xx_vv6410.h
+file
+
+
+
+add
+

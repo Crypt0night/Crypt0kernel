@@ -1,0 +1,259 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/fs/nfsd
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+nfs4proc.c
+file
+
+
+
+add
+
+stats.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+nfssvc.c
+file
+
+
+
+add
+
+nfsxdr.c
+file
+
+
+
+add
+
+nfscache.c
+file
+
+
+
+add
+
+export.c
+file
+
+
+
+add
+
+xdr3.h
+file
+
+
+
+add
+
+xdr4.h
+file
+
+
+
+add
+
+nfs4callback.c
+file
+
+
+
+add
+
+nfs4xdr.c
+file
+
+
+
+add
+
+nfs2acl.c
+file
+
+
+
+add
+
+nfs4acl.c
+file
+
+
+
+add
+
+lockd.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+vfs.c
+file
+
+
+
+add
+
+nfsd.h
+file
+
+
+
+add
+
+nfs4recover.c
+file
+
+
+
+add
+
+auth.c
+file
+
+
+
+add
+
+xdr.h
+file
+
+
+
+add
+
+vfs.h
+file
+
+
+
+add
+
+nfsfh.c
+file
+
+
+
+add
+
+auth.h
+file
+
+
+
+add
+
+cache.h
+file
+
+
+
+add
+
+nfsfh.h
+file
+
+
+
+add
+
+nfsproc.c
+file
+
+
+
+add
+
+nfs4state.c
+file
+
+
+
+add
+
+nfs4idmap.c
+file
+
+
+
+add
+
+state.h
+file
+
+
+
+add
+
+nfs3xdr.c
+file
+
+
+
+add
+
+nfs3acl.c
+file
+
+
+
+add
+
+nfsctl.c
+file
+
+
+
+add
+
+nfs3proc.c
+file
+
+
+
+add
+

@@ -1,0 +1,287 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/fs/partitions
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+modules.order
+file
+
+
+
+add
+
+acorn.c
+file
+
+
+
+add
+
+efi.c
+file
+
+
+
+add
+
+sun.c
+file
+
+
+
+add
+
+acorn.h
+file
+
+
+
+add
+
+ibm.c
+file
+
+
+
+add
+
+efi.h
+file
+
+
+
+add
+
+sun.h
+file
+
+
+
+add
+
+ldm.c
+file
+
+
+
+add
+
+ibm.h
+file
+
+
+
+add
+
+amiga.c
+file
+
+
+
+add
+
+ldm.h
+file
+
+
+
+add
+
+sysv68.c
+file
+
+
+
+add
+
+amiga.h
+file
+
+
+
+add
+
+sysv68.h
+file
+
+
+
+add
+
+karma.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+mac.c
+file
+
+
+
+add
+
+karma.h
+file
+
+
+
+add
+
+atari.c
+file
+
+
+
+add
+
+atari.h
+file
+
+
+
+add
+
+mac.h
+file
+
+
+
+add
+
+.check.o.cmd
+file
+
+
+
+add
+
+check.c
+file
+
+
+
+add
+
+.built-in.o.cmd
+file
+
+
+
+add
+
+.msdos.o.cmd
+file
+
+
+
+add
+
+sgi.c
+file
+
+
+
+add
+
+check.h
+file
+
+
+
+add
+
+msdos.c
+file
+
+
+
+add
+
+osf.c
+file
+
+
+
+add
+
+sgi.h
+file
+
+
+
+add
+
+ultrix.c
+file
+
+
+
+add
+
+msdos.h
+file
+
+
+
+add
+
+ultrix.h
+file
+
+
+
+add
+
+osf.h
+file
+
+
+
+add
+
+modules.builtin
+file
+
+
+
+add
+

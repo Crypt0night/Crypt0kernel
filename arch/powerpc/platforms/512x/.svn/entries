@@ -1,0 +1,91 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/powerpc/platforms/512x
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+mpc5121_ads.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+mpc5121_ads_cpld.c
+file
+
+
+
+add
+
+mpc512x.h
+file
+
+
+
+add
+
+mpc5121_generic.c
+file
+
+
+
+add
+
+mpc5121_ads.h
+file
+
+
+
+add
+
+mpc512x_shared.c
+file
+
+
+
+add
+
+clock.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

@@ -1,0 +1,210 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arm-2010q1/arm-none-linux-gnueabi/lib/ldscripts
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+armelf_linux_eabi.xd
+file
+
+
+
+add
+
+armelfb_linux_eabi.xc
+file
+
+
+
+add
+
+armelfb_linux_eabi.xd
+file
+
+
+
+add
+
+armelf_linux_eabi.xdc
+file
+
+
+
+add
+
+armelfb_linux_eabi.xdc
+file
+
+
+
+add
+
+armelf_linux_eabi.xsw
+file
+
+
+
+add
+
+armelfb_linux_eabi.xsw
+file
+
+
+
+add
+
+armelf_linux_eabi.xn
+file
+
+
+
+add
+
+armelfb_linux_eabi.xn
+file
+
+
+
+add
+
+armelf_linux_eabi.xbn
+file
+
+
+
+add
+
+armelfb_linux_eabi.xbn
+file
+
+
+
+add
+
+armelf_linux_eabi.xr
+file
+
+
+
+add
+
+armelf_linux_eabi.xs
+file
+
+
+
+add
+
+armelfb_linux_eabi.xr
+file
+
+
+
+add
+
+armelfb_linux_eabi.xs
+file
+
+
+
+add
+
+armelf_linux_eabi.xu
+file
+
+
+
+add
+
+armelf_linux_eabi.xsc
+file
+
+
+
+add
+
+armelf_linux_eabi.xw
+file
+
+
+
+add
+
+armelfb_linux_eabi.xu
+file
+
+
+
+add
+
+armelfb_linux_eabi.xsc
+file
+
+
+
+add
+
+armelfb_linux_eabi.xw
+file
+
+
+
+add
+
+armelf_linux_eabi.xdw
+file
+
+
+
+add
+
+armelfb_linux_eabi.xdw
+file
+
+
+
+add
+
+armelf_linux_eabi.x
+file
+
+
+
+add
+
+armelfb_linux_eabi.x
+file
+
+
+
+add
+
+armelf_linux_eabi.xc
+file
+
+
+
+add
+

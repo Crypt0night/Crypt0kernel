@@ -1,0 +1,84 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/input/joystick/iforce
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+iforce-usb.c
+file
+
+
+
+add
+
+iforce-packets.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+iforce-ff.c
+file
+
+
+
+add
+
+iforce-serio.c
+file
+
+
+
+add
+
+iforce-main.c
+file
+
+
+
+add
+
+iforce.h
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

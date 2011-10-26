@@ -1,0 +1,56 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/net/myri10ge
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+myri10ge_mcp.h
+file
+
+
+
+add
+
+myri10ge_mcp_gen_header.h
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+myri10ge.c
+file
+
+
+
+add
+

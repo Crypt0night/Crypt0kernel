@@ -1,0 +1,133 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/isdn/gigaset
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+interface.c
+file
+
+
+
+add
+
+proc.c
+file
+
+
+
+add
+
+asyncdata.c
+file
+
+
+
+add
+
+ser-gigaset.c
+file
+
+
+
+add
+
+usb-gigaset.c
+file
+
+
+
+add
+
+capi.c
+file
+
+
+
+add
+
+dummyll.c
+file
+
+
+
+add
+
+ev-layer.c
+file
+
+
+
+add
+
+bas-gigaset.c
+file
+
+
+
+add
+
+isocdata.c
+file
+
+
+
+add
+
+common.c
+file
+
+
+
+add
+
+gigaset.h
+file
+
+
+
+add
+
+i4l.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

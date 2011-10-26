@@ -1,0 +1,196 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/m68k
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+install.sh
+file
+
+
+
+add
+
+kernel
+dir
+
+
+
+add
+
+sun3x
+dir
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+include
+dir
+
+
+
+add
+
+apollo
+dir
+
+
+
+add
+
+sun3
+dir
+
+
+
+add
+
+configs
+dir
+
+
+
+add
+
+hp300
+dir
+
+
+
+add
+
+fpsp040
+dir
+
+
+
+add
+
+bvme6000
+dir
+
+
+
+add
+
+mac
+dir
+
+
+
+add
+
+atari
+dir
+
+
+
+add
+
+tools
+dir
+
+
+
+add
+
+mvme147
+dir
+
+
+
+add
+
+mvme16x
+dir
+
+
+
+add
+
+q40
+dir
+
+
+
+add
+
+Kconfig.debug
+file
+
+
+
+add
+
+lib
+dir
+
+
+
+add
+
+ifpsp060
+dir
+
+
+
+add
+
+mm
+dir
+
+
+
+add
+
+math-emu
+dir
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+amiga
+dir
+
+
+
+add
+

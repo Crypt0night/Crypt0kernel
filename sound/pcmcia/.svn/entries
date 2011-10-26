@@ -1,0 +1,77 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/sound/pcmcia
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+.built-in.o.cmd
+file
+
+
+
+add
+
+modules.order
+file
+
+
+
+add
+
+vx
+dir
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+modules.builtin
+file
+
+
+
+add
+
+pdaudiocf
+dir
+
+
+
+add
+

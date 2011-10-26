@@ -1,0 +1,294 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/pci
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+pcie
+dir
+
+
+
+add
+
+intel-iommu.c
+file
+
+
+
+add
+
+hotplug
+dir
+
+
+
+add
+
+syscall.c
+file
+
+
+
+add
+
+quirks.c
+file
+
+
+
+add
+
+pci-sysfs.c
+file
+
+
+
+add
+
+slot.c
+file
+
+
+
+add
+
+hotplug.c
+file
+
+
+
+add
+
+dmar.c
+file
+
+
+
+add
+
+pci-acpi.c
+file
+
+
+
+add
+
+pci-stub.c
+file
+
+
+
+add
+
+setup-irq.c
+file
+
+
+
+add
+
+vpd.c
+file
+
+
+
+add
+
+irq.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+iova.c
+file
+
+
+
+add
+
+access.c
+file
+
+
+
+add
+
+proc.c
+file
+
+
+
+add
+
+pci-driver.c
+file
+
+
+
+add
+
+ioapic.c
+file
+
+
+
+add
+
+search.c
+file
+
+
+
+add
+
+probe.c
+file
+
+
+
+add
+
+pci.c
+file
+
+
+
+add
+
+intr_remapping.c
+file
+
+
+
+add
+
+pci.h
+file
+
+
+
+add
+
+intr_remapping.h
+file
+
+
+
+add
+
+.gitignore
+file
+
+
+
+add
+
+htirq.c
+file
+
+
+
+add
+
+setup-bus.c
+file
+
+
+
+add
+
+setup-res.c
+file
+
+
+
+add
+
+msi.c
+file
+
+
+
+add
+
+bus.c
+file
+
+
+
+add
+
+hotplug-pci.c
+file
+
+
+
+add
+
+rom.c
+file
+
+
+
+add
+
+iov.c
+file
+
+
+
+add
+
+remove.c
+file
+
+
+
+add
+
+msi.h
+file
+
+
+
+add
+

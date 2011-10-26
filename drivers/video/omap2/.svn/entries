@@ -1,0 +1,98 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/video/omap2
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+vrfb.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+.built-in.o.cmd
+file
+
+
+
+add
+
+modules.order
+file
+
+
+
+add
+
+omapfb
+dir
+
+
+
+add
+
+vram.c
+file
+
+
+
+add
+
+displays
+dir
+
+
+
+add
+
+dss
+dir
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+modules.builtin
+file
+
+
+
+add
+

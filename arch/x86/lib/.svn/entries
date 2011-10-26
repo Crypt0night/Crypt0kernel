@@ -1,0 +1,308 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/x86/lib
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+msr-smp.c
+file
+
+
+
+add
+
+copy_page_64.S
+file
+
+
+
+add
+
+copy_user_64.S
+file
+
+
+
+add
+
+msr.c
+file
+
+
+
+add
+
+x86-opcode-map.txt
+file
+
+
+
+add
+
+strstr_32.c
+file
+
+
+
+add
+
+insn.c
+file
+
+
+
+add
+
+csum-copy_64.S
+file
+
+
+
+add
+
+cmpxchg8b_emu.S
+file
+
+
+
+add
+
+string_32.c
+file
+
+
+
+add
+
+csum-partial_64.c
+file
+
+
+
+add
+
+clear_page_64.S
+file
+
+
+
+add
+
+thunk_32.S
+file
+
+
+
+add
+
+usercopy_32.c
+file
+
+
+
+add
+
+memmove_64.c
+file
+
+
+
+add
+
+copy_user_nocache_64.S
+file
+
+
+
+add
+
+csum-wrappers_64.c
+file
+
+
+
+add
+
+memset_64.S
+file
+
+
+
+add
+
+checksum_32.S
+file
+
+
+
+add
+
+iomap_copy_64.S
+file
+
+
+
+add
+
+atomic64_32.c
+file
+
+
+
+add
+
+atomic64_cx8_32.S
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+msr-reg.S
+file
+
+
+
+add
+
+memcpy_32.c
+file
+
+
+
+add
+
+getuser.S
+file
+
+
+
+add
+
+delay.c
+file
+
+
+
+add
+
+cache-smp.c
+file
+
+
+
+add
+
+mmx_32.c
+file
+
+
+
+add
+
+semaphore_32.S
+file
+
+
+
+add
+
+atomic64_386_32.S
+file
+
+
+
+add
+
+usercopy_64.c
+file
+
+
+
+add
+
+thunk_64.S
+file
+
+
+
+add
+
+memcpy_64.S
+file
+
+
+
+add
+
+.gitignore
+file
+
+
+
+add
+
+rwsem_64.S
+file
+
+
+
+add
+
+putuser.S
+file
+
+
+
+add
+
+rwlock_64.S
+file
+
+
+
+add
+
+msr-reg-export.c
+file
+
+
+
+add
+
+inat.c
+file
+
+
+
+add
+

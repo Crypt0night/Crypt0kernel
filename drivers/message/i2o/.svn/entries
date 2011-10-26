@@ -1,0 +1,161 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/message/i2o
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+device.c
+file
+
+
+
+add
+
+config-osm.c
+file
+
+
+
+add
+
+i2o_block.c
+file
+
+
+
+add
+
+memory.c
+file
+
+
+
+add
+
+i2o_block.h
+file
+
+
+
+add
+
+i2o_scsi.c
+file
+
+
+
+add
+
+pci.c
+file
+
+
+
+add
+
+README
+file
+
+
+
+add
+
+i2o_proc.c
+file
+
+
+
+add
+
+i2o_config.c
+file
+
+
+
+add
+
+exec-osm.c
+file
+
+
+
+add
+
+bus-osm.c
+file
+
+
+
+add
+
+README.ioctl
+file
+
+
+
+add
+
+debug.c
+file
+
+
+
+add
+
+iop.c
+file
+
+
+
+add
+
+driver.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+core.h
+file
+
+
+
+add
+

@@ -1,0 +1,84 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/media/video/ovcamchip
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+ovcamchip_priv.h
+file
+
+
+
+add
+
+ovcamchip_core.c
+file
+
+
+
+add
+
+ov6x20.c
+file
+
+
+
+add
+
+ov7x10.c
+file
+
+
+
+add
+
+ov6x30.c
+file
+
+
+
+add
+
+ov7x20.c
+file
+
+
+
+add
+
+ov76be.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

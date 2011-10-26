@@ -1,0 +1,56 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/gpu/drm/sis
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+sis_drv.h
+file
+
+
+
+add
+
+sis_mm.c
+file
+
+
+
+add
+
+sis_drv.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

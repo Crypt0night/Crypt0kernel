@@ -1,0 +1,168 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/m68k/ifpsp060
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+os.S
+file
+
+
+
+add
+
+TEST.DOC
+file
+
+
+
+add
+
+fplsp.sa
+file
+
+
+
+add
+
+src
+dir
+
+
+
+add
+
+ftest.sa
+file
+
+
+
+add
+
+fplsp.doc
+file
+
+
+
+add
+
+pfpsp.sa
+file
+
+
+
+add
+
+itest.sa
+file
+
+
+
+add
+
+MISC
+file
+
+
+
+add
+
+fskeleton.S
+file
+
+
+
+add
+
+README
+file
+
+
+
+add
+
+isp.sa
+file
+
+
+
+add
+
+iskeleton.S
+file
+
+
+
+add
+
+isp.doc
+file
+
+
+
+add
+
+CHANGES
+file
+
+
+
+add
+
+ilsp.sa
+file
+
+
+
+add
+
+fpsp.sa
+file
+
+
+
+add
+
+ilsp.doc
+file
+
+
+
+add
+
+fpsp.doc
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

@@ -1,0 +1,105 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/powerpc/platforms/8xx
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+ep88xc.c
+file
+
+
+
+add
+
+mpc885ads.h
+file
+
+
+
+add
+
+mpc86xads.h
+file
+
+
+
+add
+
+adder875.c
+file
+
+
+
+add
+
+m8xx_setup.c
+file
+
+
+
+add
+
+mgsuvd.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+mpc8xx.h
+file
+
+
+
+add
+
+mpc885ads_setup.c
+file
+
+
+
+add
+
+mpc86xads_setup.c
+file
+
+
+
+add
+

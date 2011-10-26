@@ -1,0 +1,84 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/avr32/boards/atstk1000
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+setup.c
+file
+
+
+
+add
+
+atstk1002.c
+file
+
+
+
+add
+
+atstk1003.c
+file
+
+
+
+add
+
+atstk1004.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+atstk1000.h
+file
+
+
+
+add
+
+flash.c
+file
+
+
+
+add
+

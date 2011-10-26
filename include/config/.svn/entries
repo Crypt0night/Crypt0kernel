@@ -1,0 +1,2051 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/include/config
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+serial
+dir
+
+
+
+add
+
+android
+dir
+
+
+
+add
+
+futex.h
+file
+
+
+
+add
+
+hotplug
+dir
+
+
+
+add
+
+prevent
+dir
+
+
+
+add
+
+slabinfo.h
+file
+
+
+
+add
+
+wireless.h
+file
+
+
+
+add
+
+smp.h
+file
+
+
+
+add
+
+cpu
+dir
+
+
+
+add
+
+spi
+dir
+
+
+
+add
+
+can
+dir
+
+
+
+add
+
+timpani
+dir
+
+
+
+add
+
+xfrm.h
+file
+
+
+
+add
+
+proc
+dir
+
+
+
+add
+
+decompress
+dir
+
+
+
+add
+
+arm.h
+file
+
+
+
+add
+
+mmc
+dir
+
+
+
+add
+
+migration.h
+file
+
+
+
+add
+
+log
+dir
+
+
+
+add
+
+touchscreen
+dir
+
+
+
+add
+
+rcu
+dir
+
+
+
+add
+
+power
+dir
+
+
+
+add
+
+wireless
+dir
+
+
+
+add
+
+modules.h
+file
+
+
+
+add
+
+kernel.release
+file
+
+
+
+add
+
+wakelock
+dir
+
+
+
+add
+
+mutex
+dir
+
+
+
+add
+
+bug.h
+file
+
+
+
+add
+
+crc
+dir
+
+
+
+add
+
+sysctl.h
+file
+
+
+
+add
+
+gpiolib.h
+file
+
+
+
+add
+
+firmware
+dir
+
+
+
+add
+
+iosched
+dir
+
+
+
+add
+
+reed
+dir
+
+
+
+add
+
+timerfd.h
+file
+
+
+
+add
+
+dummy.h
+file
+
+
+
+add
+
+msm8x60
+dir
+
+
+
+add
+
+experimental.h
+file
+
+
+
+add
+
+mmu.h
+file
+
+
+
+add
+
+jbd.h
+file
+
+
+
+add
+
+wlan.h
+file
+
+
+
+add
+
+rtc
+dir
+
+
+
+add
+
+lock
+dir
+
+
+
+add
+
+slub.h
+file
+
+
+
+add
+
+nls
+dir
+
+
+
+add
+
+tree
+dir
+
+
+
+add
+
+bounce.h
+file
+
+
+
+add
+
+hid
+dir
+
+
+
+add
+
+hardirqs
+dir
+
+
+
+add
+
+staging.h
+file
+
+
+
+add
+
+bcm4329
+dir
+
+
+
+add
+
+wimax
+dir
+
+
+
+add
+
+neon.h
+file
+
+
+
+add
+
+module
+dir
+
+
+
+add
+
+ssb
+dir
+
+
+
+add
+
+tps65200.h
+file
+
+
+
+add
+
+auto.conf.cmd
+file
+
+
+
+add
+
+lbdaf.h
+file
+
+
+
+add
+
+bitreverse.h
+file
+
+
+
+add
+
+textsearch.h
+file
+
+
+
+add
+
+pm.h
+file
+
+
+
+add
+
+slub
+dir
+
+
+
+add
+
+vidc.h
+file
+
+
+
+add
+
+xfrm
+dir
+
+
+
+add
+
+support
+dir
+
+
+
+add
+
+signalfd.h
+file
+
+
+
+add
+
+hwmon.h
+file
+
+
+
+add
+
+standalone.h
+file
+
+
+
+add
+
+media
+dir
+
+
+
+add
+
+inotify
+dir
+
+
+
+add
+
+lockdep
+dir
+
+
+
+add
+
+virt
+dir
+
+
+
+add
+
+fsnotify.h
+file
+
+
+
+add
+
+cross
+dir
+
+
+
+add
+
+local
+dir
+
+
+
+add
+
+sensors
+dir
+
+
+
+add
+
+mpp
+dir
+
+
+
+add
+
+constructors.h
+file
+
+
+
+add
+
+input
+dir
+
+
+
+add
+
+ashmem.h
+file
+
+
+
+add
+
+mpu
+dir
+
+
+
+add
+
+crc32.h
+file
+
+
+
+add
+
+lcd
+dir
+
+
+
+add
+
+nf
+dir
+
+
+
+add
+
+android.h
+file
+
+
+
+add
+
+cgroups.h
+file
+
+
+
+add
+
+flatmem.h
+file
+
+
+
+add
+
+no
+dir
+
+
+
+add
+
+binfmt
+dir
+
+
+
+add
+
+tmpfs.h
+file
+
+
+
+add
+
+nr
+dir
+
+
+
+add
+
+rfkill
+dir
+
+
+
+add
+
+vidc
+dir
+
+
+
+add
+
+msdos
+dir
+
+
+
+add
+
+kallsyms.h
+file
+
+
+
+add
+
+tcp
+dir
+
+
+
+add
+
+wext
+dir
+
+
+
+add
+
+ikconfig
+dir
+
+
+
+add
+
+build
+dir
+
+
+
+add
+
+switch
+dir
+
+
+
+add
+
+hz.h
+file
+
+
+
+add
+
+need
+dir
+
+
+
+add
+
+page
+dir
+
+
+
+add
+
+block.h
+file
+
+
+
+add
+
+kernel
+dir
+
+
+
+add
+
+pppopns.h
+file
+
+
+
+add
+
+flatmem
+dir
+
+
+
+add
+
+wakelock.h
+file
+
+
+
+add
+
+tracing
+dir
+
+
+
+add
+
+nlattr.h
+file
+
+
+
+add
+
+pmic8058.h
+file
+
+
+
+add
+
+unix98
+dir
+
+
+
+add
+
+crc16.h
+file
+
+
+
+add
+
+fat
+dir
+
+
+
+add
+
+pm
+dir
+
+
+
+add
+
+arch
+dir
+
+
+
+add
+
+sound.h
+file
+
+
+
+add
+
+suspend
+dir
+
+
+
+add
+
+vfp.h
+file
+
+
+
+add
+
+compat
+dir
+
+
+
+add
+
+phys
+dir
+
+
+
+add
+
+extra
+dir
+
+
+
+add
+
+stacktrace
+dir
+
+
+
+add
+
+netdev
+dir
+
+
+
+add
+
+input.h
+file
+
+
+
+add
+
+enable
+dir
+
+
+
+add
+
+kineto
+dir
+
+
+
+add
+
+usb
+dir
+
+
+
+add
+
+bt.h
+file
+
+
+
+add
+
+auto.conf
+file
+
+
+
+add
+
+msm
+dir
+
+
+
+add
+
+use
+dir
+
+
+
+add
+
+sysfs.h
+file
+
+
+
+add
+
+branch
+dir
+
+
+
+add
+
+highmem.h
+file
+
+
+
+add
+
+printk
+dir
+
+
+
+add
+
+jbd2.h
+file
+
+
+
+add
+
+base
+dir
+
+
+
+add
+
+zone
+dir
+
+
+
+add
+
+msm7x00a
+dir
+
+
+
+add
+
+pmic8058
+dir
+
+
+
+add
+
+user
+dir
+
+
+
+add
+
+embedded.h
+file
+
+
+
+add
+
+select
+dir
+
+
+
+add
+
+qs
+dir
+
+
+
+add
+
+md.h
+file
+
+
+
+add
+
+flat
+dir
+
+
+
+add
+
+debug
+dir
+
+
+
+add
+
+resource
+dir
+
+
+
+add
+
+panic
+dir
+
+
+
+add
+
+gpu
+dir
+
+
+
+add
+
+tun.h
+file
+
+
+
+add
+
+cgroup
+dir
+
+
+
+add
+
+localversion
+dir
+
+
+
+add
+
+cmdline.h
+file
+
+
+
+add
+
+bt
+dir
+
+
+
+add
+
+rd
+dir
+
+
+
+add
+
+hotplug.h
+file
+
+
+
+add
+
+mach
+dir
+
+
+
+add
+
+marimba
+dir
+
+
+
+add
+
+amp
+dir
+
+
+
+add
+
+s5k6aafx.h
+file
+
+
+
+add
+
+netdevices.h
+file
+
+
+
+add
+
+thermal.h
+file
+
+
+
+add
+
+netfilter.h
+file
+
+
+
+add
+
+default
+dir
+
+
+
+add
+
+cc
+dir
+
+
+
+add
+
+rt
+dir
+
+
+
+add
+
+ftrace.h
+file
+
+
+
+add
+
+misc
+dir
+
+
+
+add
+
+perf
+dir
+
+
+
+add
+
+rwsem
+dir
+
+
+
+add
+
+aio.h
+file
+
+
+
+add
+
+inet
+dir
+
+
+
+add
+
+epoll.h
+file
+
+
+
+add
+
+cp
+dir
+
+
+
+add
+
+mfd
+dir
+
+
+
+add
+
+blk
+dir
+
+
+
+add
+
+ipv6.h
+file
+
+
+
+add
+
+alignment
+dir
+
+
+
+add
+
+sys
+dir
+
+
+
+add
+
+uid16.h
+file
+
+
+
+add
+
+fair
+dir
+
+
+
+add
+
+eventfd.h
+file
+
+
+
+add
+
+compaction.h
+file
+
+
+
+add
+
+tristate.conf
+file
+
+
+
+add
+
+sched
+dir
+
+
+
+add
+
+freezer.h
+file
+
+
+
+add
+
+network
+dir
+
+
+
+add
+
+printk.h
+file
+
+
+
+add
+
+vmsplit
+dir
+
+
+
+add
+
+wifi
+dir
+
+
+
+add
+
+ppp
+dir
+
+
+
+add
+
+shmem.h
+file
+
+
+
+add
+
+dm
+dir
+
+
+
+add
+
+i2c.h
+file
+
+
+
+add
+
+earlysuspend.h
+file
+
+
+
+add
+
+inotify.h
+file
+
+
+
+add
+
+cifs.h
+file
+
+
+
+add
+
+textsearch
+dir
+
+
+
+add
+
+snd.h
+file
+
+
+
+add
+
+has
+dir
+
+
+
+add
+
+timer
+dir
+
+
+
+add
+
+crypto
+dir
+
+
+
+add
+
+spi.h
+file
+
+
+
+add
+
+inet6
+dir
+
+
+
+add
+
+net
+dir
+
+
+
+add
+
+new
+dir
+
+
+
+add
+
+regulator.h
+file
+
+
+
+add
+
+rps.h
+file
+
+
+
+add
+
+anon
+dir
+
+
+
+add
+
+schedstats.h
+file
+
+
+
+add
+
+vmalloc
+dir
+
+
+
+add
+
+trace
+dir
+
+
+
+add
+
+preempt.h
+file
+
+
+
+add
+
+diag
+dir
+
+
+
+add
+
+uevent
+dir
+
+
+
+add
+
+net.h
+file
+
+
+
+add
+
+i2c
+dir
+
+
+
+add
+
+ikconfig.h
+file
+
+
+
+add
+
+inet.h
+file
+
+
+
+add
+
+switch.h
+file
+
+
+
+add
+
+fb
+dir
+
+
+
+add
+
+pageflags
+dir
+
+
+
+add
+
+vfpv3.h
+file
+
+
+
+add
+
+thermal
+dir
+
+
+
+add
+
+netfilter
+dir
+
+
+
+add
+
+zboot
+dir
+
+
+
+add
+
+radio
+dir
+
+
+
+add
+
+force
+dir
+
+
+
+add
+
+vfat
+dir
+
+
+
+add
+
+zlib
+dir
+
+
+
+add
+
+fuse
+dir
+
+
+
+add
+
+cache
+dir
+
+
+
+add
+
+fs
+dir
+
+
+
+add
+
+unix.h
+file
+
+
+
+add
+
+fw
+dir
+
+
+
+add
+
+file
+dir
+
+
+
+add
+
+slhc.h
+file
+
+
+
+add
+
+uid
+dir
+
+
+
+add
+
+vm
+dir
+
+
+
+add
+
+have
+dir
+
+
+
+add
+
+smd
+dir
+
+
+
+add
+
+ipv6
+dir
+
+
+
+add
+
+ppp.h
+file
+
+
+
+add
+
+vectors
+dir
+
+
+
+add
+
+localversion.h
+file
+
+
+
+add
+
+aeabi.h
+file
+
+
+
+add
+
+frame
+dir
+
+
+
+add
+
+initramfs
+dir
+
+
+
+add
+
+libcrc32c.h
+file
+
+
+
+add
+
+pmic8901.h
+file
+
+
+
+add
+
+mmc.h
+file
+
+
+
+add
+
+init
+dir
+
+
+
+add
+
+suspend.h
+file
+
+
+
+add
+
+generic
+dir
+
+
+
+add
+
+htc
+dir
+
+
+
+add
+
+usb.h
+file
+
+
+
+add
+
+arm
+dir
+
+
+
+add
+
+high
+dir
+
+
+
+add
+
+magic
+dir
+
+
+
+add
+
+slow
+dir
+
+
+
+add
+
+snd
+dir
+
+
+
+add
+
+pppolac.h
+file
+
+
+
+add
+
+defconfig
+dir
+
+
+
+add
+
+stop
+dir
+
+
+
+add
+
+backlight
+dir
+
+
+
+add
+
+tick
+dir
+
+
+
+add
+
+split
+dir
+
+
+
+add
+
+packet.h
+file
+
+
+
+add
+
+sp3d.h
+file
+
+
+
+add
+
+fib
+dir
+
+
+
+add
+
+regulator
+dir
+
+
+
+add
+
+cable
+dir
+
+
+
+add
+
+fb.h
+file
+
+
+
+add
+
+ask
+dir
+
+
+
+add
+
+hw
+dir
+
+
+
+add
+
+nls.h
+file
+
+
+
+add
+
+ext2
+dir
+
+
+
+add
+
+ext3
+dir
+
+
+
+add
+
+ext4
+dir
+
+
+
+add
+
+leds
+dir
+
+
+
+add
+
+common
+dir
+
+
+
+add
+
+hid.h
+file
+
+
+
+add
+
+kgsl
+dir
+
+
+
+add
+
+scsi
+dir
+
+
+
+add
+
+crypto.h
+file
+
+
+
+add
+
+ip
+dir
+
+
+
+add
+
+rfkill.h
+file
+
+
+
+add
+

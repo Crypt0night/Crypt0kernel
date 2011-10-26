@@ -1,0 +1,140 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/fs/ecryptfs
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+inode.c
+file
+
+
+
+add
+
+super.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+ecryptfs_kernel.h
+file
+
+
+
+add
+
+dentry.c
+file
+
+
+
+add
+
+keystore.c
+file
+
+
+
+add
+
+messaging.c
+file
+
+
+
+add
+
+file.c
+file
+
+
+
+add
+
+crypto.c
+file
+
+
+
+add
+
+kthread.c
+file
+
+
+
+add
+
+main.c
+file
+
+
+
+add
+
+read_write.c
+file
+
+
+
+add
+
+debug.c
+file
+
+
+
+add
+
+mmap.c
+file
+
+
+
+add
+
+miscdev.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

@@ -1,0 +1,210 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/platform/x86
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+thinkpad_acpi.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+hp-wmi.c
+file
+
+
+
+add
+
+tc1100-wmi.c
+file
+
+
+
+add
+
+acer-wmi.c
+file
+
+
+
+add
+
+asus_acpi.c
+file
+
+
+
+add
+
+panasonic-laptop.c
+file
+
+
+
+add
+
+asus-laptop.c
+file
+
+
+
+add
+
+compal-laptop.c
+file
+
+
+
+add
+
+classmate-laptop.c
+file
+
+
+
+add
+
+dell-wmi.c
+file
+
+
+
+add
+
+eeepc-wmi.c
+file
+
+
+
+add
+
+dell-laptop.c
+file
+
+
+
+add
+
+eeepc-laptop.c
+file
+
+
+
+add
+
+toshiba_bluetooth.c
+file
+
+
+
+add
+
+intel_scu_ipc.c
+file
+
+
+
+add
+
+msi-wmi.c
+file
+
+
+
+add
+
+toshiba_acpi.c
+file
+
+
+
+add
+
+msi-laptop.c
+file
+
+
+
+add
+
+sony-laptop.c
+file
+
+
+
+add
+
+fujitsu-laptop.c
+file
+
+
+
+add
+
+topstar-laptop.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+wmi.c
+file
+
+
+
+add
+
+intel_menlow.c
+file
+
+
+
+add
+
+acerhdf.c
+file
+
+
+
+add
+

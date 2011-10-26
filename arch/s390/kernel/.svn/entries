@@ -1,0 +1,490 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/s390/kernel
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+smp.c
+file
+
+
+
+add
+
+crash.c
+file
+
+
+
+add
+
+diag.c
+file
+
+
+
+add
+
+vdso64
+dir
+
+
+
+add
+
+mem_detect.c
+file
+
+
+
+add
+
+entry.h
+file
+
+
+
+add
+
+compat_audit.c
+file
+
+
+
+add
+
+ebcdic.c
+file
+
+
+
+add
+
+early.c
+file
+
+
+
+add
+
+process.c
+file
+
+
+
+add
+
+machine_kexec.c
+file
+
+
+
+add
+
+ipl.c
+file
+
+
+
+add
+
+vtime.c
+file
+
+
+
+add
+
+mcount.S
+file
+
+
+
+add
+
+debug.c
+file
+
+
+
+add
+
+asm-offsets.c
+file
+
+
+
+add
+
+relocate_kernel64.S
+file
+
+
+
+add
+
+sysinfo.c
+file
+
+
+
+add
+
+entry64.S
+file
+
+
+
+add
+
+irq.c
+file
+
+
+
+add
+
+sys_s390.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+swsusp_asm64.S
+file
+
+
+
+add
+
+time.c
+file
+
+
+
+add
+
+vdso32
+dir
+
+
+
+add
+
+switch_cpu64.S
+file
+
+
+
+add
+
+vmlinux.lds.S
+file
+
+
+
+add
+
+ftrace.c
+file
+
+
+
+add
+
+reipl64.S
+file
+
+
+
+add
+
+audit.c
+file
+
+
+
+add
+
+audit.h
+file
+
+
+
+add
+
+vdso.c
+file
+
+
+
+add
+
+bitmap.c
+file
+
+
+
+add
+
+s390_ext.c
+file
+
+
+
+add
+
+relocate_kernel.S
+file
+
+
+
+add
+
+dis.c
+file
+
+
+
+add
+
+compat_signal.c
+file
+
+
+
+add
+
+suspend.c
+file
+
+
+
+add
+
+head.S
+file
+
+
+
+add
+
+nmi.c
+file
+
+
+
+add
+
+init_task.c
+file
+
+
+
+add
+
+module.c
+file
+
+
+
+add
+
+compat_ptrace.h
+file
+
+
+
+add
+
+switch_cpu.S
+file
+
+
+
+add
+
+mcount64.S
+file
+
+
+
+add
+
+setup.c
+file
+
+
+
+add
+
+compat_wrapper.S
+file
+
+
+
+add
+
+kprobes.c
+file
+
+
+
+add
+
+syscalls.S
+file
+
+
+
+add
+
+compat_exec_domain.c
+file
+
+
+
+add
+
+processor.c
+file
+
+
+
+add
+
+sclp.S
+file
+
+
+
+add
+
+s390_ksyms.c
+file
+
+
+
+add
+
+head64.S
+file
+
+
+
+add
+
+compat_linux.c
+file
+
+
+
+add
+
+compat_linux.h
+file
+
+
+
+add
+
+topology.c
+file
+
+
+
+add
+
+signal.c
+file
+
+
+
+add
+
+ptrace.c
+file
+
+
+
+add
+
+entry.S
+file
+
+
+
+add
+
+stacktrace.c
+file
+
+
+
+add
+
+head31.S
+file
+
+
+
+add
+
+cpcmd.c
+file
+
+
+
+add
+
+traps.c
+file
+
+
+
+add
+
+base.S
+file
+
+
+
+add
+
+reipl.S
+file
+
+
+
+add
+

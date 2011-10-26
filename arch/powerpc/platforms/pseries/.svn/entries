@@ -1,0 +1,287 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/powerpc/platforms/pseries
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+smp.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+setup.c
+file
+
+
+
+add
+
+dlpar.c
+file
+
+
+
+add
+
+eeh_event.c
+file
+
+
+
+add
+
+phyp_dump.c
+file
+
+
+
+add
+
+plpar_wrappers.h
+file
+
+
+
+add
+
+firmware.c
+file
+
+
+
+add
+
+eeh_driver.c
+file
+
+
+
+add
+
+pseries.h
+file
+
+
+
+add
+
+dtl.c
+file
+
+
+
+add
+
+nvram.c
+file
+
+
+
+add
+
+reconfig.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+pci_dlpar.c
+file
+
+
+
+add
+
+lpar.c
+file
+
+
+
+add
+
+kexec.c
+file
+
+
+
+add
+
+hvconsole.c
+file
+
+
+
+add
+
+eeh.c
+file
+
+
+
+add
+
+xics.c
+file
+
+
+
+add
+
+hvCall_inst.c
+file
+
+
+
+add
+
+hvcserver.c
+file
+
+
+
+add
+
+hotplug-cpu.c
+file
+
+
+
+add
+
+offline_states.h
+file
+
+
+
+add
+
+pci.c
+file
+
+
+
+add
+
+xics.h
+file
+
+
+
+add
+
+cmm.c
+file
+
+
+
+add
+
+event_sources.c
+file
+
+
+
+add
+
+eeh_cache.c
+file
+
+
+
+add
+
+ras.c
+file
+
+
+
+add
+
+iommu.c
+file
+
+
+
+add
+
+scanlog.c
+file
+
+
+
+add
+
+hotplug-memory.c
+file
+
+
+
+add
+
+eeh_sysfs.c
+file
+
+
+
+add
+
+msi.c
+file
+
+
+
+add
+
+hvCall.S
+file
+
+
+
+add
+
+power.c
+file
+
+
+
+add
+

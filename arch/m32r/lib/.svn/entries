@@ -1,0 +1,91 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/m32r/lib
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+delay.c
+file
+
+
+
+add
+
+checksum.S
+file
+
+
+
+add
+
+ashxdi3.S
+file
+
+
+
+add
+
+strlen.S
+file
+
+
+
+add
+
+usercopy.c
+file
+
+
+
+add
+
+memset.S
+file
+
+
+
+add
+
+memcpy.S
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+csum_partial_copy.c
+file
+
+
+
+add
+

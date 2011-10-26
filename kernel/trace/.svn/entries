@@ -1,0 +1,294 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/kernel/trace
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+trace_stat.h
+file
+
+
+
+add
+
+trace.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+trace_export.c
+file
+
+
+
+add
+
+trace_ksym.c
+file
+
+
+
+add
+
+ring_buffer_benchmark.c
+file
+
+
+
+add
+
+trace.h
+file
+
+
+
+add
+
+trace_functions_graph.c
+file
+
+
+
+add
+
+trace_syscalls.c
+file
+
+
+
+add
+
+power-traces.c
+file
+
+
+
+add
+
+trace_boot.c
+file
+
+
+
+add
+
+trace_events.c
+file
+
+
+
+add
+
+trace_sysprof.c
+file
+
+
+
+add
+
+blktrace.c
+file
+
+
+
+add
+
+trace_irqsoff.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+trace_entries.h
+file
+
+
+
+add
+
+trace_mmiotrace.c
+file
+
+
+
+add
+
+trace_kprobe.c
+file
+
+
+
+add
+
+ftrace.c
+file
+
+
+
+add
+
+trace_workqueue.c
+file
+
+
+
+add
+
+trace_selftest.c
+file
+
+
+
+add
+
+kmemtrace.c
+file
+
+
+
+add
+
+trace_clock.c
+file
+
+
+
+add
+
+trace_nop.c
+file
+
+
+
+add
+
+trace_branch.c
+file
+
+
+
+add
+
+trace_event_perf.c
+file
+
+
+
+add
+
+trace_selftest_dynamic.c
+file
+
+
+
+add
+
+trace_output.c
+file
+
+
+
+add
+
+trace_sched_wakeup.c
+file
+
+
+
+add
+
+trace_output.h
+file
+
+
+
+add
+
+trace_stack.c
+file
+
+
+
+add
+
+trace_printk.c
+file
+
+
+
+add
+
+trace_sched_switch.c
+file
+
+
+
+add
+
+trace_functions.c
+file
+
+
+
+add
+
+trace_events_filter.c
+file
+
+
+
+add
+
+ring_buffer.c
+file
+
+
+
+add
+
+trace_stat.c
+file
+
+
+
+add
+

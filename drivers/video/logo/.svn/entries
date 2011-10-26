@@ -1,0 +1,168 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/video/logo
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+logo_spe_clut224.ppm
+file
+
+
+
+add
+
+logo.c
+file
+
+
+
+add
+
+logo_linux_mono.pbm
+file
+
+
+
+add
+
+logo_superh_vga16.ppm
+file
+
+
+
+add
+
+logo_dec_clut224.ppm
+file
+
+
+
+add
+
+logo_blackfin_vga16.ppm
+file
+
+
+
+add
+
+logo_linux_clut224.ppm
+file
+
+
+
+add
+
+logo_mac_clut224.ppm
+file
+
+
+
+add
+
+logo_superh_mono.pbm
+file
+
+
+
+add
+
+logo_sun_clut224.ppm
+file
+
+
+
+add
+
+logo_superh_clut224.ppm
+file
+
+
+
+add
+
+logo_blackfin_clut224.ppm
+file
+
+
+
+add
+
+.gitignore
+file
+
+
+
+add
+
+clut_vga16.ppm
+file
+
+
+
+add
+
+logo_parisc_clut224.ppm
+file
+
+
+
+add
+
+logo_sgi_clut224.ppm
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+logo_m32r_clut224.ppm
+file
+
+
+
+add
+
+logo_linux_vga16.ppm
+file
+
+
+
+add
+

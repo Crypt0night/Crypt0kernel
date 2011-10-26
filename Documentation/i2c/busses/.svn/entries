@@ -1,0 +1,161 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/Documentation/i2c/busses
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+i2c-sis96x
+file
+
+
+
+add
+
+scx200_acb
+file
+
+
+
+add
+
+i2c-amd8111
+file
+
+
+
+add
+
+i2c-pca-isa
+file
+
+
+
+add
+
+i2c-via
+file
+
+
+
+add
+
+i2c-i801
+file
+
+
+
+add
+
+i2c-ali1535
+file
+
+
+
+add
+
+i2c-ali1563
+file
+
+
+
+add
+
+i2c-ali15x3
+file
+
+
+
+add
+
+i2c-sis5595
+file
+
+
+
+add
+
+i2c-parport
+file
+
+
+
+add
+
+i2c-sis630
+file
+
+
+
+add
+
+i2c-ocores
+file
+
+
+
+add
+
+i2c-taos-evm
+file
+
+
+
+add
+
+i2c-parport-light
+file
+
+
+
+add
+
+i2c-piix4
+file
+
+
+
+add
+
+i2c-nforce2
+file
+
+
+
+add
+
+i2c-viapro
+file
+
+
+
+add
+
+i2c-amd756
+file
+
+
+
+add
+

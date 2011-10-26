@@ -1,0 +1,350 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/fs/jfs
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+super.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+resize.c
+file
+
+
+
+add
+
+jfs_dtree.c
+file
+
+
+
+add
+
+jfs_btree.h
+file
+
+
+
+add
+
+jfs_extent.c
+file
+
+
+
+add
+
+jfs_dinode.h
+file
+
+
+
+add
+
+jfs_dtree.h
+file
+
+
+
+add
+
+ioctl.c
+file
+
+
+
+add
+
+jfs_types.h
+file
+
+
+
+add
+
+jfs_extent.h
+file
+
+
+
+add
+
+jfs_superblock.h
+file
+
+
+
+add
+
+jfs_filsys.h
+file
+
+
+
+add
+
+jfs_txnmgr.c
+file
+
+
+
+add
+
+jfs_dmap.c
+file
+
+
+
+add
+
+jfs_metapage.c
+file
+
+
+
+add
+
+jfs_txnmgr.h
+file
+
+
+
+add
+
+jfs_incore.h
+file
+
+
+
+add
+
+jfs_debug.c
+file
+
+
+
+add
+
+jfs_unicode.c
+file
+
+
+
+add
+
+jfs_dmap.h
+file
+
+
+
+add
+
+namei.c
+file
+
+
+
+add
+
+jfs_logmgr.c
+file
+
+
+
+add
+
+jfs_xtree.c
+file
+
+
+
+add
+
+jfs_metapage.h
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+jfs_unicode.h
+file
+
+
+
+add
+
+jfs_debug.h
+file
+
+
+
+add
+
+inode.c
+file
+
+
+
+add
+
+jfs_xtree.h
+file
+
+
+
+add
+
+jfs_logmgr.h
+file
+
+
+
+add
+
+jfs_lock.h
+file
+
+
+
+add
+
+acl.c
+file
+
+
+
+add
+
+jfs_inode.c
+file
+
+
+
+add
+
+xattr.c
+file
+
+
+
+add
+
+jfs_mount.c
+file
+
+
+
+add
+
+jfs_inode.h
+file
+
+
+
+add
+
+jfs_acl.h
+file
+
+
+
+add
+
+endian24.h
+file
+
+
+
+add
+
+jfs_xattr.h
+file
+
+
+
+add
+
+file.c
+file
+
+
+
+add
+
+jfs_uniupr.c
+file
+
+
+
+add
+
+symlink.c
+file
+
+
+
+add
+
+jfs_imap.c
+file
+
+
+
+add
+
+jfs_umount.c
+file
+
+
+
+add
+
+jfs_imap.h
+file
+
+
+
+add
+

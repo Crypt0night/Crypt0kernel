@@ -1,0 +1,168 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/avr32/lib
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+delay.c
+file
+
+
+
+add
+
+__avr32_lsl64.S
+file
+
+
+
+add
+
+io-readsl.S
+file
+
+
+
+add
+
+findbit.S
+file
+
+
+
+add
+
+strncpy_from_user.S
+file
+
+
+
+add
+
+strnlen_user.S
+file
+
+
+
+add
+
+csum_partial.S
+file
+
+
+
+add
+
+clear_user.S
+file
+
+
+
+add
+
+io-writesb.S
+file
+
+
+
+add
+
+__avr32_lsr64.S
+file
+
+
+
+add
+
+io-readsw.S
+file
+
+
+
+add
+
+memset.S
+file
+
+
+
+add
+
+memcpy.S
+file
+
+
+
+add
+
+io-writesl.S
+file
+
+
+
+add
+
+io-readsb.S
+file
+
+
+
+add
+
+copy_user.S
+file
+
+
+
+add
+
+csum_partial_copy_generic.S
+file
+
+
+
+add
+
+io-writesw.S
+file
+
+
+
+add
+
+__avr32_asr64.S
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

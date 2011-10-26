@@ -1,0 +1,70 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/sound/aoa/soundbus
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+i2sbus
+dir
+
+
+
+add
+
+sysfs.c
+file
+
+
+
+add
+
+soundbus.h
+file
+
+
+
+add
+
+core.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

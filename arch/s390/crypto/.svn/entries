@@ -1,0 +1,112 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/s390/crypto
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+des_check_key.c
+file
+
+
+
+add
+
+sha.h
+file
+
+
+
+add
+
+crypto_des.h
+file
+
+
+
+add
+
+sha512_s390.c
+file
+
+
+
+add
+
+sha_common.c
+file
+
+
+
+add
+
+crypt_s390.h
+file
+
+
+
+add
+
+prng.c
+file
+
+
+
+add
+
+sha256_s390.c
+file
+
+
+
+add
+
+aes_s390.c
+file
+
+
+
+add
+
+des_s390.c
+file
+
+
+
+add
+
+sha1_s390.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

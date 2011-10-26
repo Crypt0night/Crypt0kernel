@@ -1,0 +1,196 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/sound/isa
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+als100.c
+file
+
+
+
+add
+
+es18xx.c
+file
+
+
+
+add
+
+modules.order
+file
+
+
+
+add
+
+opti9xx
+dir
+
+
+
+add
+
+azt2320.c
+file
+
+
+
+add
+
+cs423x
+dir
+
+
+
+add
+
+sgalaxy.c
+file
+
+
+
+add
+
+adlib.c
+file
+
+
+
+add
+
+sc6000.c
+file
+
+
+
+add
+
+es1688
+dir
+
+
+
+add
+
+gus
+dir
+
+
+
+add
+
+sscape.c
+file
+
+
+
+add
+
+.built-in.o.cmd
+file
+
+
+
+add
+
+msnd
+dir
+
+
+
+add
+
+sb
+dir
+
+
+
+add
+
+opl3sa2.c
+file
+
+
+
+add
+
+ad1816a
+dir
+
+
+
+add
+
+cmi8330.c
+file
+
+
+
+add
+
+ad1848
+dir
+
+
+
+add
+
+wavefront
+dir
+
+
+
+add
+
+wss
+dir
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+modules.builtin
+file
+
+
+
+add
+

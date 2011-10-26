@@ -1,0 +1,532 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/Documentation/hwmon
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+lm80
+file
+
+
+
+add
+
+lm83
+file
+
+
+
+add
+
+g760a
+file
+
+
+
+add
+
+acpi_power_meter
+file
+
+
+
+add
+
+adt7411
+file
+
+
+
+add
+
+lm85
+file
+
+
+
+add
+
+smsc47b397
+file
+
+
+
+add
+
+asc7621
+file
+
+
+
+add
+
+hpfall.c
+file
+
+
+
+add
+
+lm87
+file
+
+
+
+add
+
+ltc4245
+file
+
+
+
+add
+
+w83627ehf
+file
+
+
+
+add
+
+k8temp
+file
+
+
+
+add
+
+f71882fg
+file
+
+
+
+add
+
+pc87427
+file
+
+
+
+add
+
+adm9240
+file
+
+
+
+add
+
+lm90
+file
+
+
+
+add
+
+lis3lv02d
+file
+
+
+
+add
+
+tmp102
+file
+
+
+
+add
+
+lm92
+file
+
+
+
+add
+
+lm93
+file
+
+
+
+add
+
+w83791d
+file
+
+
+
+add
+
+tmp421
+file
+
+
+
+add
+
+dme1737
+file
+
+
+
+add
+
+userspace-tools
+file
+
+
+
+add
+
+smsc47m192
+file
+
+
+
+add
+
+abituguru3
+file
+
+
+
+add
+
+it87
+file
+
+
+
+add
+
+adt7462
+file
+
+
+
+add
+
+ltc4215
+file
+
+
+
+add
+
+ads7828
+file
+
+
+
+add
+
+wm831x
+file
+
+
+
+add
+
+ds1621
+file
+
+
+
+add
+
+lm63
+file
+
+
+
+add
+
+k10temp
+file
+
+
+
+add
+
+sis5595
+file
+
+
+
+add
+
+w83792d
+file
+
+
+
+add
+
+w83l786ng
+file
+
+
+
+add
+
+mc13783-adc
+file
+
+
+
+add
+
+ibmaem
+file
+
+
+
+add
+
+adt7470
+file
+
+
+
+add
+
+w83627hf
+file
+
+
+
+add
+
+pcf8591
+file
+
+
+
+add
+
+adt7475
+file
+
+
+
+add
+
+f71805f
+file
+
+
+
+add
+
+thmc50
+file
+
+
+
+add
+
+gl518sm
+file
+
+
+
+add
+
+adm1021
+file
+
+
+
+add
+
+sysfs-interface
+file
+
+
+
+add
+
+max6650
+file
+
+
+
+add
+
+abituguru-datasheet
+file
+
+
+
+add
+
+w83l785ts
+file
+
+
+
+add
+
+adm1025
+file
+
+
+
+add
+
+pc87360
+file
+
+
+
+add
+
+adm1026
+file
+
+
+
+add
+
+smsc47m1
+file
+
+
+
+add
+
+coretemp
+file
+
+
+
+add
+
+lm70
+file
+
+
+
+add
+
+amc6821
+file
+
+
+
+add
+
+w83793
+file
+
+
+
+add
+
+lm75
+file
+
+
+
+add
+
+via686a
+file
+
+
+
+add
+
+tmp401
+file
+
+
+
+add
+
+w83781d
+file
+
+
+
+add
+
+asb100
+file
+
+
+
+add
+
+lm77
+file
+
+
+
+add
+
+lm78
+file
+
+
+
+add
+
+vt1211
+file
+
+
+
+add
+
+wm8350
+file
+
+
+
+add
+
+adm1031
+file
+
+
+
+add
+
+max1619
+file
+
+
+
+add
+
+abituguru
+file
+
+
+
+add
+

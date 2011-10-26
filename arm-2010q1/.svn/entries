@@ -1,0 +1,63 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arm-2010q1
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+arm-none-linux-gnueabi
+dir
+
+
+
+add
+
+share
+dir
+
+
+
+add
+
+lib
+dir
+
+
+
+add
+
+bin
+dir
+
+
+
+add
+
+libexec
+dir
+
+
+
+add
+

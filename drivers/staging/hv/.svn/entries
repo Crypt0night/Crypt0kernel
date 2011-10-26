@@ -1,0 +1,315 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/staging/hv
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+vmbus_packet_format.h
+file
+
+
+
+add
+
+netvsc_api.h
+file
+
+
+
+add
+
+channel_mgmt.h
+file
+
+
+
+add
+
+vmbus.h
+file
+
+
+
+add
+
+storvsc_api.h
+file
+
+
+
+add
+
+netvsc.c
+file
+
+
+
+add
+
+storvsc.c
+file
+
+
+
+add
+
+utils.h
+file
+
+
+
+add
+
+vmbus_drv.c
+file
+
+
+
+add
+
+netvsc.h
+file
+
+
+
+add
+
+channel.c
+file
+
+
+
+add
+
+netvsc_drv.c
+file
+
+
+
+add
+
+channel.h
+file
+
+
+
+add
+
+storvsc_drv.c
+file
+
+
+
+add
+
+blkvsc.c
+file
+
+
+
+add
+
+rndis.h
+file
+
+
+
+add
+
+rndis_filter.c
+file
+
+
+
+add
+
+rndis_filter.h
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+hv_utils.c
+file
+
+
+
+add
+
+blkvsc_drv.c
+file
+
+
+
+add
+
+vstorage.h
+file
+
+
+
+add
+
+connection.c
+file
+
+
+
+add
+
+version_info.h
+file
+
+
+
+add
+
+vmbus_channel_interface.h
+file
+
+
+
+add
+
+hv_api.h
+file
+
+
+
+add
+
+hv.c
+file
+
+
+
+add
+
+hv.h
+file
+
+
+
+add
+
+TODO
+file
+
+
+
+add
+
+osd.c
+file
+
+
+
+add
+
+channel_interface.c
+file
+
+
+
+add
+
+ring_buffer.c
+file
+
+
+
+add
+
+vmbus_api.h
+file
+
+
+
+add
+
+osd.h
+file
+
+
+
+add
+
+logging.h
+file
+
+
+
+add
+
+vmbus_private.h
+file
+
+
+
+add
+
+channel_mgmt.c
+file
+
+
+
+add
+
+vmbus.c
+file
+
+
+
+add
+
+channel_interface.h
+file
+
+
+
+add
+
+ring_buffer.h
+file
+
+
+
+add
+

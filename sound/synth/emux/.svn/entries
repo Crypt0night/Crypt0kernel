@@ -1,0 +1,105 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/sound/synth/emux
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+emux.c
+file
+
+
+
+add
+
+soundfont.c
+file
+
+
+
+add
+
+emux_proc.c
+file
+
+
+
+add
+
+emux_oss.c
+file
+
+
+
+add
+
+emux_synth.c
+file
+
+
+
+add
+
+emux_hwdep.c
+file
+
+
+
+add
+
+emux_seq.c
+file
+
+
+
+add
+
+emux_voice.h
+file
+
+
+
+add
+
+emux_effect.c
+file
+
+
+
+add
+
+emux_nrpn.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

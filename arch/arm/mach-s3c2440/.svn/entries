@@ -1,0 +1,203 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/arm/mach-s3c2440
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+s3c2440-pll-16934400.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+dma.c
+file
+
+
+
+add
+
+s3c2440.c
+file
+
+
+
+add
+
+include
+dir
+
+
+
+add
+
+s3c244x-irq.c
+file
+
+
+
+add
+
+s3c244x-clock.c
+file
+
+
+
+add
+
+s3c2442.c
+file
+
+
+
+add
+
+s3c2440-cpufreq.c
+file
+
+
+
+add
+
+s3c2440-pll-12000000.c
+file
+
+
+
+add
+
+mach-osiris-dvs.c
+file
+
+
+
+add
+
+dsc.c
+file
+
+
+
+add
+
+s3c244x.c
+file
+
+
+
+add
+
+mach-mini2440.c
+file
+
+
+
+add
+
+mach-nexcoder.c
+file
+
+
+
+add
+
+mach-rx1950.c
+file
+
+
+
+add
+
+mach-osiris.c
+file
+
+
+
+add
+
+mach-smdk2440.c
+file
+
+
+
+add
+
+mach-rx3715.c
+file
+
+
+
+add
+
+mach-at2440evb.c
+file
+
+
+
+add
+
+mach-gta02.c
+file
+
+
+
+add
+
+mach-anubis.c
+file
+
+
+
+add
+
+irq.c
+file
+
+
+
+add
+
+clock.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

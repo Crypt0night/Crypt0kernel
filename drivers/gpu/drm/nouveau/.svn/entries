@@ -1,0 +1,609 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/gpu/drm/nouveau
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+nouveau_grctx.h
+file
+
+
+
+add
+
+nv40_grctx.c
+file
+
+
+
+add
+
+nv50_fb.c
+file
+
+
+
+add
+
+nv10_graph.c
+file
+
+
+
+add
+
+nouveau_display.c
+file
+
+
+
+add
+
+nouveau_object.c
+file
+
+
+
+add
+
+nv50_graph.c
+file
+
+
+
+add
+
+nouveau_channel.c
+file
+
+
+
+add
+
+nouveau_acpi.c
+file
+
+
+
+add
+
+nv04_dfp.c
+file
+
+
+
+add
+
+nouveau_notifier.c
+file
+
+
+
+add
+
+nv50_instmem.c
+file
+
+
+
+add
+
+nv04_cursor.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+nouveau_sgdma.c
+file
+
+
+
+add
+
+nouveau_irq.c
+file
+
+
+
+add
+
+nouveau_fb.h
+file
+
+
+
+add
+
+nv50_grctx.c
+file
+
+
+
+add
+
+nv04_tv.c
+file
+
+
+
+add
+
+nouveau_dma.c
+file
+
+
+
+add
+
+nv40_mc.c
+file
+
+
+
+add
+
+nv04_mc.c
+file
+
+
+
+add
+
+nv50_gpio.c
+file
+
+
+
+add
+
+nv20_graph.c
+file
+
+
+
+add
+
+nouveau_dma.h
+file
+
+
+
+add
+
+nouveau_gem.c
+file
+
+
+
+add
+
+nv50_calc.c
+file
+
+
+
+add
+
+nv50_display.c
+file
+
+
+
+add
+
+nouveau_hw.c
+file
+
+
+
+add
+
+nouveau_mem.c
+file
+
+
+
+add
+
+nouveau_ioc32.c
+file
+
+
+
+add
+
+nouveau_debugfs.c
+file
+
+
+
+add
+
+nv50_display.h
+file
+
+
+
+add
+
+nv04_instmem.c
+file
+
+
+
+add
+
+nouveau_reg.h
+file
+
+
+
+add
+
+nouveau_hw.h
+file
+
+
+
+add
+
+nouveau_fbcon.c
+file
+
+
+
+add
+
+nouveau_connector.c
+file
+
+
+
+add
+
+nv04_fbcon.c
+file
+
+
+
+add
+
+nv04_fb.c
+file
+
+
+
+add
+
+nv40_fb.c
+file
+
+
+
+add
+
+nouveau_fbcon.h
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+nv50_dac.c
+file
+
+
+
+add
+
+nouveau_connector.h
+file
+
+
+
+add
+
+nv04_crtc.c
+file
+
+
+
+add
+
+nv50_crtc.c
+file
+
+
+
+add
+
+nouveau_calc.c
+file
+
+
+
+add
+
+nv17_tv.c
+file
+
+
+
+add
+
+nv50_evo.h
+file
+
+
+
+add
+
+nv17_gpio.c
+file
+
+
+
+add
+
+nv17_tv.h
+file
+
+
+
+add
+
+nv04_display.c
+file
+
+
+
+add
+
+nouveau_i2c.c
+file
+
+
+
+add
+
+nouveau_fence.c
+file
+
+
+
+add
+
+nouveau_i2c.h
+file
+
+
+
+add
+
+nv50_cursor.c
+file
+
+
+
+add
+
+nvreg.h
+file
+
+
+
+add
+
+nv10_fifo.c
+file
+
+
+
+add
+
+nouveau_backlight.c
+file
+
+
+
+add
+
+nv04_fifo.c
+file
+
+
+
+add
+
+nv40_fifo.c
+file
+
+
+
+add
+
+nv50_fifo.c
+file
+
+
+
+add
+
+nv17_tv_modes.c
+file
+
+
+
+add
+
+nouveau_drv.c
+file
+
+
+
+add
+
+nouveau_bios.c
+file
+
+
+
+add
+
+nv04_dac.c
+file
+
+
+
+add
+
+nv50_fbcon.c
+file
+
+
+
+add
+
+nouveau_bo.c
+file
+
+
+
+add
+
+nouveau_drv.h
+file
+
+
+
+add
+
+nouveau_crtc.h
+file
+
+
+
+add
+
+nouveau_bios.h
+file
+
+
+
+add
+
+nouveau_dp.c
+file
+
+
+
+add
+
+nouveau_ttm.c
+file
+
+
+
+add
+
+nv50_mc.c
+file
+
+
+
+add
+
+nv40_graph.c
+file
+
+
+
+add
+
+nv04_graph.c
+file
+
+
+
+add
+
+nv50_sor.c
+file
+
+
+
+add
+
+nouveau_state.c
+file
+
+
+
+add
+
+nouveau_encoder.h
+file
+
+
+
+add
+
+nv04_timer.c
+file
+
+
+
+add
+
+nouveau_grctx.c
+file
+
+
+
+add
+
+nv10_fb.c
+file
+
+
+
+add
+

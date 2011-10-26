@@ -1,0 +1,77 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/powerpc/configs/40x
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+kilauea_defconfig
+file
+
+
+
+add
+
+ep405_defconfig
+file
+
+
+
+add
+
+virtex_defconfig
+file
+
+
+
+add
+
+acadia_defconfig
+file
+
+
+
+add
+
+hcu4_defconfig
+file
+
+
+
+add
+
+walnut_defconfig
+file
+
+
+
+add
+
+makalu_defconfig
+file
+
+
+
+add
+

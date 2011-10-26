@@ -1,0 +1,441 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/input/misc
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+ad714x-spi.c
+file
+
+
+
+add
+
+modules.order
+file
+
+
+
+add
+
+powermate.c
+file
+
+
+
+add
+
+.pmic8058-othc.o.cmd
+file
+
+
+
+add
+
+pcf50633-input.c
+file
+
+
+
+add
+
+pmic8058-othc.c
+file
+
+
+
+add
+
+.gpio_input.o.cmd
+file
+
+
+
+add
+
+winbond-cir.c
+file
+
+
+
+add
+
+gpio_input.c
+file
+
+
+
+add
+
+.gpio_matrix.o.cmd
+file
+
+
+
+add
+
+rotary_encoder.c
+file
+
+
+
+add
+
+gpio_matrix.c
+file
+
+
+
+add
+
+max8925_onkey.c
+file
+
+
+
+add
+
+keyspan_remote.c
+file
+
+
+
+add
+
+ati_remote.c
+file
+
+
+
+add
+
+cm109.c
+file
+
+
+
+add
+
+cobalt_btns.c
+file
+
+
+
+add
+
+.gpio_event.o.cmd
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+yealink.c
+file
+
+
+
+add
+
+gpio_event.c
+file
+
+
+
+add
+
+dm355evm_keys.c
+file
+
+
+
+add
+
+apanel.c
+file
+
+
+
+add
+
+yealink.h
+file
+
+
+
+add
+
+pcspkr.c
+file
+
+
+
+add
+
+ixp4xx-beeper.c
+file
+
+
+
+add
+
+.keychord.o.cmd
+file
+
+
+
+add
+
+sparcspkr.c
+file
+
+
+
+add
+
+ad714x.c
+file
+
+
+
+add
+
+keychord.c
+file
+
+
+
+add
+
+hp_sdc_rtc.c
+file
+
+
+
+add
+
+sgi_btns.c
+file
+
+
+
+add
+
+ati_remote2.c
+file
+
+
+
+add
+
+.gpio_output.o.cmd
+file
+
+
+
+add
+
+.gpio_switch.o.cmd
+file
+
+
+
+add
+
+ad714x.h
+file
+
+
+
+add
+
+pcap_keys.c
+file
+
+
+
+add
+
+twl4030-vibra.c
+file
+
+
+
+add
+
+gpio_output.c
+file
+
+
+
+add
+
+bfin_rotary.c
+file
+
+
+
+add
+
+.gpio_axis.o.cmd
+file
+
+
+
+add
+
+gpio_switch.c
+file
+
+
+
+add
+
+.built-in.o.cmd
+file
+
+
+
+add
+
+twl4030-pwrbutton.c
+file
+
+
+
+add
+
+.uinput.o.cmd
+file
+
+
+
+add
+
+wm831x-on.c
+file
+
+
+
+add
+
+gpio_axis.c
+file
+
+
+
+add
+
+ad714x-i2c.c
+file
+
+
+
+add
+
+.dummy_keypad.o.cmd
+file
+
+
+
+add
+
+uinput.c
+file
+
+
+
+add
+
+m68kspkr.c
+file
+
+
+
+add
+
+88pm860x_onkey.c
+file
+
+
+
+add
+
+dummy_keypad.c
+file
+
+
+
+add
+
+rb532_button.c
+file
+
+
+
+add
+
+atlas_btns.c
+file
+
+
+
+add
+
+wistron_btns.c
+file
+
+
+
+add
+
+modules.builtin
+file
+
+
+
+add
+
+pcf8574_keypad.c
+file
+
+
+
+add
+

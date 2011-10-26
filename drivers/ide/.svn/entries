@@ -1,0 +1,742 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/ide
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+it8172.c
+file
+
+
+
+add
+
+ht6560b.c
+file
+
+
+
+add
+
+ide-disk.h
+file
+
+
+
+add
+
+it821x.c
+file
+
+
+
+add
+
+at91_ide.c
+file
+
+
+
+add
+
+icside.c
+file
+
+
+
+add
+
+gayle.c
+file
+
+
+
+add
+
+ide-h8300.c
+file
+
+
+
+add
+
+ide-proc.c
+file
+
+
+
+add
+
+rapide.c
+file
+
+
+
+add
+
+ide-iops.c
+file
+
+
+
+add
+
+ide-generic.c
+file
+
+
+
+add
+
+ide-devsets.c
+file
+
+
+
+add
+
+scc_pata.c
+file
+
+
+
+add
+
+ide-4drives.c
+file
+
+
+
+add
+
+pmac.c
+file
+
+
+
+add
+
+sl82c105.c
+file
+
+
+
+add
+
+cs5530.c
+file
+
+
+
+add
+
+ide-cd.c
+file
+
+
+
+add
+
+cs5536.c
+file
+
+
+
+add
+
+ide-gd.c
+file
+
+
+
+add
+
+ide-cd.h
+file
+
+
+
+add
+
+amd74xx.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+ide-pnp.c
+file
+
+
+
+add
+
+ide-park.c
+file
+
+
+
+add
+
+ide-gd.h
+file
+
+
+
+add
+
+qd65xx.c
+file
+
+
+
+add
+
+sgiioc4.c
+file
+
+
+
+add
+
+ide-taskfile.c
+file
+
+
+
+add
+
+ide-floppy_ioctl.c
+file
+
+
+
+add
+
+ide-legacy.c
+file
+
+
+
+add
+
+alim15x3.c
+file
+
+
+
+add
+
+qd65xx.h
+file
+
+
+
+add
+
+ide-lib.c
+file
+
+
+
+add
+
+ide_platform.c
+file
+
+
+
+add
+
+tx4938ide.c
+file
+
+
+
+add
+
+ide-io.c
+file
+
+
+
+add
+
+ide-probe.c
+file
+
+
+
+add
+
+pdc202xx_old.c
+file
+
+
+
+add
+
+ide-floppy.c
+file
+
+
+
+add
+
+tc86c001.c
+file
+
+
+
+add
+
+ide-timings.c
+file
+
+
+
+add
+
+setup-pci.c
+file
+
+
+
+add
+
+umc8672.c
+file
+
+
+
+add
+
+ide-dma-sff.c
+file
+
+
+
+add
+
+ide-floppy.h
+file
+
+
+
+add
+
+palm_bk3710.c
+file
+
+
+
+add
+
+aec62xx.c
+file
+
+
+
+add
+
+cs5520.c
+file
+
+
+
+add
+
+ide-disk_ioctl.c
+file
+
+
+
+add
+
+ali14xx.c
+file
+
+
+
+add
+
+ide-scan-pci.c
+file
+
+
+
+add
+
+au1xxx-ide.c
+file
+
+
+
+add
+
+trm290.c
+file
+
+
+
+add
+
+ide-io-std.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+ide.c
+file
+
+
+
+add
+
+opti621.c
+file
+
+
+
+add
+
+via82cxxx.c
+file
+
+
+
+add
+
+cmd64x.c
+file
+
+
+
+add
+
+tx4939ide.c
+file
+
+
+
+add
+
+ide-cd_verbose.c
+file
+
+
+
+add
+
+delkin_cb.c
+file
+
+
+
+add
+
+slc90e66.c
+file
+
+
+
+add
+
+ide-pm.c
+file
+
+
+
+add
+
+sis5513.c
+file
+
+
+
+add
+
+siimage.c
+file
+
+
+
+add
+
+ide-cd_ioctl.c
+file
+
+
+
+add
+
+pdc202xx_new.c
+file
+
+
+
+add
+
+cs5535.c
+file
+
+
+
+add
+
+ide-tape.c
+file
+
+
+
+add
+
+ns87415.c
+file
+
+
+
+add
+
+ide-eh.c
+file
+
+
+
+add
+
+rz1000.c
+file
+
+
+
+add
+
+ide-atapi.c
+file
+
+
+
+add
+
+atiixp.c
+file
+
+
+
+add
+
+ide-dma.c
+file
+
+
+
+add
+
+jmicron.c
+file
+
+
+
+add
+
+ide-cs.c
+file
+
+
+
+add
+
+ide-sysfs.c
+file
+
+
+
+add
+
+sc1200.c
+file
+
+
+
+add
+
+piix.c
+file
+
+
+
+add
+
+ide-acpi.c
+file
+
+
+
+add
+
+ide-disk_proc.c
+file
+
+
+
+add
+
+triflex.c
+file
+
+
+
+add
+
+macide.c
+file
+
+
+
+add
+
+ide-pci-generic.c
+file
+
+
+
+add
+
+falconide.c
+file
+
+
+
+add
+
+ide-xfer-mode.c
+file
+
+
+
+add
+
+q40ide.c
+file
+
+
+
+add
+
+buddha.c
+file
+
+
+
+add
+
+ide-disk.c
+file
+
+
+
+add
+
+hpt366.c
+file
+
+
+
+add
+
+cy82c693.c
+file
+
+
+
+add
+
+it8213.c
+file
+
+
+
+add
+
+ide-floppy_proc.c
+file
+
+
+
+add
+
+ide-ioctls.c
+file
+
+
+
+add
+
+serverworks.c
+file
+
+
+
+add
+
+ide-pio-blacklist.c
+file
+
+
+
+add
+
+cmd640.c
+file
+
+
+
+add
+
+dtc2278.c
+file
+
+
+
+add
+

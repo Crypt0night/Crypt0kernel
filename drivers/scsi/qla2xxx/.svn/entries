@@ -1,0 +1,203 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/scsi/qla2xxx
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+qla_dbg.h
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+qla_def.h
+file
+
+
+
+add
+
+qla_init.c
+file
+
+
+
+add
+
+qla_settings.h
+file
+
+
+
+add
+
+qla_sup.c
+file
+
+
+
+add
+
+qla_mid.c
+file
+
+
+
+add
+
+qla_gs.c
+file
+
+
+
+add
+
+qla_gbl.h
+file
+
+
+
+add
+
+qla_attr.c
+file
+
+
+
+add
+
+qla_bsg.c
+file
+
+
+
+add
+
+qla_iocb.c
+file
+
+
+
+add
+
+qla_dfs.c
+file
+
+
+
+add
+
+qla_bsg.h
+file
+
+
+
+add
+
+qla_os.c
+file
+
+
+
+add
+
+qla_fw.h
+file
+
+
+
+add
+
+qla_inline.h
+file
+
+
+
+add
+
+qla_devtbl.h
+file
+
+
+
+add
+
+qla_nx.c
+file
+
+
+
+add
+
+qla_mbx.c
+file
+
+
+
+add
+
+qla_nx.h
+file
+
+
+
+add
+
+qla_version.h
+file
+
+
+
+add
+
+qla_dbg.c
+file
+
+
+
+add
+
+qla_isr.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

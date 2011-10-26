@@ -1,0 +1,70 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/staging/slicoss
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+slichw.h
+file
+
+
+
+add
+
+slicoss.c
+file
+
+
+
+add
+
+slic.h
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+README
+file
+
+
+
+add
+

@@ -1,0 +1,63 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/xtensa/boot
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+boot-redboot
+dir
+
+
+
+add
+
+lib
+dir
+
+
+
+add
+
+boot-elf
+dir
+
+
+
+add
+
+ramdisk
+dir
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

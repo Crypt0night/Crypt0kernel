@@ -1,0 +1,63 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/Documentation/acpi
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+method-tracing.txt
+file
+
+
+
+add
+
+debug.txt
+file
+
+
+
+add
+
+method-customizing.txt
+file
+
+
+
+add
+
+dsdt-override.txt
+file
+
+
+
+add
+
+apei
+dir
+
+
+
+add
+

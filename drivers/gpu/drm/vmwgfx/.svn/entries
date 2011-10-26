@@ -1,0 +1,196 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/gpu/drm/vmwgfx
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+vmwgfx_drv.h
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+svga_reg.h
+file
+
+
+
+add
+
+svga_overlay.h
+file
+
+
+
+add
+
+vmwgfx_buffer.c
+file
+
+
+
+add
+
+vmwgfx_ioctl.c
+file
+
+
+
+add
+
+vmwgfx_fence.c
+file
+
+
+
+add
+
+vmwgfx_ttm_glue.c
+file
+
+
+
+add
+
+vmwgfx_overlay.c
+file
+
+
+
+add
+
+vmwgfx_execbuf.c
+file
+
+
+
+add
+
+vmwgfx_reg.h
+file
+
+
+
+add
+
+vmwgfx_fifo.c
+file
+
+
+
+add
+
+vmwgfx_ldu.c
+file
+
+
+
+add
+
+vmwgfx_gmr.c
+file
+
+
+
+add
+
+vmwgfx_fb.c
+file
+
+
+
+add
+
+vmwgfx_resource.c
+file
+
+
+
+add
+
+svga_escape.h
+file
+
+
+
+add
+
+vmwgfx_kms.c
+file
+
+
+
+add
+
+vmwgfx_irq.c
+file
+
+
+
+add
+
+svga3d_reg.h
+file
+
+
+
+add
+
+svga_types.h
+file
+
+
+
+add
+
+vmwgfx_drv.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+vmwgfx_kms.h
+file
+
+
+
+add
+

@@ -1,0 +1,84 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/usb/misc/sisusbvga
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+sisusb_init.h
+file
+
+
+
+add
+
+sisusb_struct.h
+file
+
+
+
+add
+
+sisusb_con.c
+file
+
+
+
+add
+
+sisusb.c
+file
+
+
+
+add
+
+sisusb_init.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+sisusb.h
+file
+
+
+
+add
+

@@ -1,0 +1,168 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/arm/mach-u300
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+padmux.c
+file
+
+
+
+add
+
+Makefile.boot
+file
+
+
+
+add
+
+gpio.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+clock.h
+file
+
+
+
+add
+
+spi.h
+file
+
+
+
+add
+
+include
+dir
+
+
+
+add
+
+padmux.h
+file
+
+
+
+add
+
+regulator.c
+file
+
+
+
+add
+
+dummyspichip.c
+file
+
+
+
+add
+
+mmc.c
+file
+
+
+
+add
+
+i2c.c
+file
+
+
+
+add
+
+timer.c
+file
+
+
+
+add
+
+mmc.h
+file
+
+
+
+add
+
+i2c.h
+file
+
+
+
+add
+
+u300.c
+file
+
+
+
+add
+
+core.c
+file
+
+
+
+add
+
+spi.c
+file
+
+
+
+add
+
+clock.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

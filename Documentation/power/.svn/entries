@@ -1,0 +1,182 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/Documentation/power
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+notifiers.txt
+file
+
+
+
+add
+
+video_extension.txt
+file
+
+
+
+add
+
+states.txt
+file
+
+
+
+add
+
+swsusp.txt
+file
+
+
+
+add
+
+video.txt
+file
+
+
+
+add
+
+00-INDEX
+file
+
+
+
+add
+
+pci.txt
+file
+
+
+
+add
+
+swsusp-and-swap-files.txt
+file
+
+
+
+add
+
+pm_qos_interface.txt
+file
+
+
+
+add
+
+userland-swsusp.txt
+file
+
+
+
+add
+
+runtime_pm.txt
+file
+
+
+
+add
+
+devices.txt
+file
+
+
+
+add
+
+basic-pm-debugging.txt
+file
+
+
+
+add
+
+swsusp-dmcrypt.txt
+file
+
+
+
+add
+
+s2ram.txt
+file
+
+
+
+add
+
+regulator
+dir
+
+
+
+add
+
+apm-acpi.txt
+file
+
+
+
+add
+
+drivers-testing.txt
+file
+
+
+
+add
+
+power_supply_class.txt
+file
+
+
+
+add
+
+freezing-of-tasks.txt
+file
+
+
+
+add
+
+tricks.txt
+file
+
+
+
+add
+
+interface.txt
+file
+
+
+
+add
+

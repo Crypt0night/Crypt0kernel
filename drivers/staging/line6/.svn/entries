@@ -1,0 +1,231 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/staging/line6
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+variax.h
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+usbdefs.h
+file
+
+
+
+add
+
+driver.h
+file
+
+
+
+add
+
+audio.c
+file
+
+
+
+add
+
+capture.c
+file
+
+
+
+add
+
+revision.h
+file
+
+
+
+add
+
+audio.h
+file
+
+
+
+add
+
+capture.h
+file
+
+
+
+add
+
+config.h
+file
+
+
+
+add
+
+toneport.c
+file
+
+
+
+add
+
+dumprequest.c
+file
+
+
+
+add
+
+toneport.h
+file
+
+
+
+add
+
+midibuf.c
+file
+
+
+
+add
+
+pcm.c
+file
+
+
+
+add
+
+control.c
+file
+
+
+
+add
+
+pod.c
+file
+
+
+
+add
+
+midi.c
+file
+
+
+
+add
+
+dumprequest.h
+file
+
+
+
+add
+
+midibuf.h
+file
+
+
+
+add
+
+pcm.h
+file
+
+
+
+add
+
+control.h
+file
+
+
+
+add
+
+playback.c
+file
+
+
+
+add
+
+midi.h
+file
+
+
+
+add
+
+pod.h
+file
+
+
+
+add
+
+variax.c
+file
+
+
+
+add
+
+driver.c
+file
+
+
+
+add
+
+playback.h
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

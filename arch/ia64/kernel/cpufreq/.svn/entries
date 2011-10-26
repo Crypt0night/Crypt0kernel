@@ -1,0 +1,49 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/ia64/kernel/cpufreq
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+acpi-cpufreq.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

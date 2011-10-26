@@ -1,0 +1,1064 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/sparc/kernel
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+prom_irqtrans.c
+file
+
+
+
+add
+
+dtlb_miss.S
+file
+
+
+
+add
+
+misctrap.S
+file
+
+
+
+add
+
+trampoline_64.S
+file
+
+
+
+add
+
+sys32.S
+file
+
+
+
+add
+
+etrap_64.S
+file
+
+
+
+add
+
+setup_32.c
+file
+
+
+
+add
+
+cherrs.S
+file
+
+
+
+add
+
+entry.h
+file
+
+
+
+add
+
+compat_audit.c
+file
+
+
+
+add
+
+unaligned_32.c
+file
+
+
+
+add
+
+utrap.S
+file
+
+
+
+add
+
+rtrap_32.S
+file
+
+
+
+add
+
+prom_32.c
+file
+
+
+
+add
+
+signal_32.c
+file
+
+
+
+add
+
+process_32.c
+file
+
+
+
+add
+
+ptrace_64.c
+file
+
+
+
+add
+
+windows.c
+file
+
+
+
+add
+
+pci_sun4v_asm.S
+file
+
+
+
+add
+
+sun4v_tlb_miss.S
+file
+
+
+
+add
+
+irq.h
+file
+
+
+
+add
+
+hvtramp.S
+file
+
+
+
+add
+
+vmlinux.lds.S
+file
+
+
+
+add
+
+irq_64.c
+file
+
+
+
+add
+
+ftrace.c
+file
+
+
+
+add
+
+sun4v_ivec.S
+file
+
+
+
+add
+
+ivec.S
+file
+
+
+
+add
+
+tsb.S
+file
+
+
+
+add
+
+dtlb_prot.S
+file
+
+
+
+add
+
+wof.S
+file
+
+
+
+add
+
+kgdb_32.c
+file
+
+
+
+add
+
+sys_sparc32.c
+file
+
+
+
+add
+
+pmc.c
+file
+
+
+
+add
+
+getsetcc.S
+file
+
+
+
+add
+
+fpu_traps.S
+file
+
+
+
+add
+
+pcr.c
+file
+
+
+
+add
+
+module.c
+file
+
+
+
+add
+
+iommu.c
+file
+
+
+
+add
+
+pci_schizo.c
+file
+
+
+
+add
+
+systbls_64.S
+file
+
+
+
+add
+
+auxio_64.c
+file
+
+
+
+add
+
+traps_64.c
+file
+
+
+
+add
+
+us2e_cpufreq.c
+file
+
+
+
+add
+
+itlb_miss.S
+file
+
+
+
+add
+
+time_64.c
+file
+
+
+
+add
+
+systbls.h
+file
+
+
+
+add
+
+ioport.c
+file
+
+
+
+add
+
+head_32.S
+file
+
+
+
+add
+
+sun4m_smp.c
+file
+
+
+
+add
+
+kernel.h
+file
+
+
+
+add
+
+cpu.c
+file
+
+
+
+add
+
+pci_sabre.c
+file
+
+
+
+add
+
+tadpole.c
+file
+
+
+
+add
+
+of_device_common.c
+file
+
+
+
+add
+
+of_device_64.c
+file
+
+
+
+add
+
+perf_event.c
+file
+
+
+
+add
+
+trampoline_32.S
+file
+
+
+
+add
+
+tick14.c
+file
+
+
+
+add
+
+etrap_32.S
+file
+
+
+
+add
+
+muldiv.c
+file
+
+
+
+add
+
+of_device_common.h
+file
+
+
+
+add
+
+led.c
+file
+
+
+
+add
+
+ds.c
+file
+
+
+
+add
+
+chmc.c
+file
+
+
+
+add
+
+una_asm_64.S
+file
+
+
+
+add
+
+sun4m_irq.c
+file
+
+
+
+add
+
+wuf.S
+file
+
+
+
+add
+
+ptrace_32.c
+file
+
+
+
+add
+
+signal32.c
+file
+
+
+
+add
+
+stacktrace.c
+file
+
+
+
+add
+
+cpumap.c
+file
+
+
+
+add
+
+cpumap.h
+file
+
+
+
+add
+
+irq_32.c
+file
+
+
+
+add
+
+pci_psycho.c
+file
+
+
+
+add
+
+sstate.c
+file
+
+
+
+add
+
+sparc_ksyms_64.c
+file
+
+
+
+add
+
+smp_64.c
+file
+
+
+
+add
+
+sbus.c
+file
+
+
+
+add
+
+leon_smp.c
+file
+
+
+
+add
+
+sun4d_smp.c
+file
+
+
+
+add
+
+hvcalls.S
+file
+
+
+
+add
+
+pcic.c
+file
+
+
+
+add
+
+sys_sparc_64.c
+file
+
+
+
+add
+
+helpers.S
+file
+
+
+
+add
+
+kstack.h
+file
+
+
+
+add
+
+systbls_32.S
+file
+
+
+
+add
+
+asm-offsets.c
+file
+
+
+
+add
+
+auxio_32.c
+file
+
+
+
+add
+
+idprom.c
+file
+
+
+
+add
+
+ttable.S
+file
+
+
+
+add
+
+spiterrs.S
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+traps_32.c
+file
+
+
+
+add
+
+us3_cpufreq.c
+file
+
+
+
+add
+
+dma.c
+file
+
+
+
+add
+
+time_32.c
+file
+
+
+
+add
+
+audit.c
+file
+
+
+
+add
+
+sun4d_irq.c
+file
+
+
+
+add
+
+setup_64.c
+file
+
+
+
+add
+
+starfire.c
+file
+
+
+
+add
+
+unaligned_64.c
+file
+
+
+
+add
+
+rtrap_64.S
+file
+
+
+
+add
+
+nmi.c
+file
+
+
+
+add
+
+init_task.c
+file
+
+
+
+add
+
+prom_common.c
+file
+
+
+
+add
+
+prom_64.c
+file
+
+
+
+add
+
+signal_64.c
+file
+
+
+
+add
+
+of_device_32.c
+file
+
+
+
+add
+
+process_64.c
+file
+
+
+
+add
+
+reboot.c
+file
+
+
+
+add
+
+power.c
+file
+
+
+
+add
+
+leon_kernel.c
+file
+
+
+
+add
+
+vio.c
+file
+
+
+
+add
+
+ebus.c
+file
+
+
+
+add
+
+ldc.c
+file
+
+
+
+add
+
+apc.c
+file
+
+
+
+add
+
+kprobes.c
+file
+
+
+
+add
+
+una_asm_32.S
+file
+
+
+
+add
+
+pci_sun4v.c
+file
+
+
+
+add
+
+ktlb.S
+file
+
+
+
+add
+
+psycho_common.c
+file
+
+
+
+add
+
+syscalls.S
+file
+
+
+
+add
+
+pci_sun4v.h
+file
+
+
+
+add
+
+kgdb_64.c
+file
+
+
+
+add
+
+devices.c
+file
+
+
+
+add
+
+psycho_common.h
+file
+
+
+
+add
+
+pci_msi.c
+file
+
+
+
+add
+
+viohs.c
+file
+
+
+
+add
+
+winfixup.S
+file
+
+
+
+add
+
+pci_impl.h
+file
+
+
+
+add
+
+sparc_ksyms_32.c
+file
+
+
+
+add
+
+smp_32.c
+file
+
+
+
+add
+
+iommu_common.h
+file
+
+
+
+add
+
+sysfs.c
+file
+
+
+
+add
+
+hvapi.c
+file
+
+
+
+add
+
+sun4c_irq.c
+file
+
+
+
+add
+
+sys_sparc_32.c
+file
+
+
+
+add
+
+pci.c
+file
+
+
+
+add
+
+pci_fire.c
+file
+
+
+
+add
+
+entry.S
+file
+
+
+
+add
+
+prom.h
+file
+
+
+
+add
+
+pci_common.c
+file
+
+
+
+add
+
+visemul.c
+file
+
+
+
+add
+
+.gitignore
+file
+
+
+
+add
+
+btext.c
+file
+
+
+
+add
+
+central.c
+file
+
+
+
+add
+
+head_64.S
+file
+
+
+
+add
+
+mdesc.c
+file
+
+
+
+add
+

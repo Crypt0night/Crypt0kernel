@@ -1,0 +1,77 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/virtio
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+virtio_balloon.c
+file
+
+
+
+add
+
+config.c
+file
+
+
+
+add
+
+virtio_pci.c
+file
+
+
+
+add
+
+virtio_ring.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+virtio.c
+file
+
+
+
+add
+

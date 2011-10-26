@@ -1,0 +1,105 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/alpha
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+oprofile
+dir
+
+
+
+add
+
+kernel
+dir
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+include
+dir
+
+
+
+add
+
+boot
+dir
+
+
+
+add
+
+defconfig
+file
+
+
+
+add
+
+Kconfig.debug
+file
+
+
+
+add
+
+lib
+dir
+
+
+
+add
+
+mm
+dir
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+math-emu
+dir
+
+
+
+add
+

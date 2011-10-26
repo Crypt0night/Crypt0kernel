@@ -1,0 +1,175 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/staging/otus/hal
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+hpani.c
+file
+
+
+
+add
+
+hpfwu_FB50_mdk.c
+file
+
+
+
+add
+
+hpani.h
+file
+
+
+
+add
+
+hpreg.c
+file
+
+
+
+add
+
+hpfwspiu.c
+file
+
+
+
+add
+
+hpDKfwu.c
+file
+
+
+
+add
+
+hpreg.h
+file
+
+
+
+add
+
+hpmain.c
+file
+
+
+
+add
+
+hpfwuinit.c
+file
+
+
+
+add
+
+hpfwu_txstream.c
+file
+
+
+
+add
+
+hprw.c
+file
+
+
+
+add
+
+hpusb.c
+file
+
+
+
+add
+
+hpfwu.c.drv_ba_resend
+file
+
+
+
+add
+
+hpfwu_2k.c
+file
+
+
+
+add
+
+hpusb.h
+file
+
+
+
+add
+
+hpfw2.c
+file
+
+
+
+add
+
+hpfwu_OTUS_RC.c
+file
+
+
+
+add
+
+otus.ini
+file
+
+
+
+add
+
+hpfwu.c
+file
+
+
+
+add
+
+hpfwbu.c
+file
+
+
+
+add
+
+hpfwu_BA.c
+file
+
+
+
+add
+

@@ -1,0 +1,77 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/usb/c67x00
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+c67x00-drv.c
+file
+
+
+
+add
+
+c67x00-hcd.c
+file
+
+
+
+add
+
+c67x00-hcd.h
+file
+
+
+
+add
+
+c67x00-ll-hpi.c
+file
+
+
+
+add
+
+c67x00-sched.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+c67x00.h
+file
+
+
+
+add
+

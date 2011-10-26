@@ -1,0 +1,133 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/sound/soc/msm
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+.snd-soc-msm8x60-pcm.o.cmd
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+msm8x60-pcm.c
+file
+
+
+
+add
+
+modules.order
+file
+
+
+
+add
+
+msm8x60-pcm.h
+file
+
+
+
+add
+
+.msm8x60-dai.o.cmd
+file
+
+
+
+add
+
+.snd-soc-msm8x60-dai.o.cmd
+file
+
+
+
+add
+
+msm8x60-dai.c
+file
+
+
+
+add
+
+.msm8x60.o.cmd
+file
+
+
+
+add
+
+.built-in.o.cmd
+file
+
+
+
+add
+
+msm8x60.c
+file
+
+
+
+add
+
+.snd-soc-msm8x60.o.cmd
+file
+
+
+
+add
+
+.msm8x60-pcm.o.cmd
+file
+
+
+
+add
+
+modules.builtin
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

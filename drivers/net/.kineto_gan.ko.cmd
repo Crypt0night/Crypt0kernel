@@ -1,0 +1,1 @@
+cmd_drivers/net/kineto_gan.ko := arm-2010q1/bin/arm-none-linux-gnueabi-ld -EL -r  -T /home/crypt0night/Kernel/kernel/scripts/module-common.lds --build-id -o drivers/net/kineto_gan.ko drivers/net/kineto_gan.o drivers/net/kineto_gan.mod.o

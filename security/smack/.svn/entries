@@ -1,0 +1,70 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/security/smack
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+smack_access.c
+file
+
+
+
+add
+
+smack.h
+file
+
+
+
+add
+
+smackfs.c
+file
+
+
+
+add
+
+smack_lsm.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

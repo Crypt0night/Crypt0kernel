@@ -1,0 +1,161 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/arm/plat-s3c24xx/include/plat
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+regs-spi.h
+file
+
+
+
+add
+
+irq.h
+file
+
+
+
+add
+
+s3c2400.h
+file
+
+
+
+add
+
+regs-dma.h
+file
+
+
+
+add
+
+s3c2410.h
+file
+
+
+
+add
+
+s3c2412.h
+file
+
+
+
+add
+
+s3c2443.h
+file
+
+
+
+add
+
+s3c2416.h
+file
+
+
+
+add
+
+cpu-freq-core.h
+file
+
+
+
+add
+
+mci.h
+file
+
+
+
+add
+
+regs-udc.h
+file
+
+
+
+add
+
+s3c244x.h
+file
+
+
+
+add
+
+udc.h
+file
+
+
+
+add
+
+map.h
+file
+
+
+
+add
+
+fiq.h
+file
+
+
+
+add
+
+regs-iis.h
+file
+
+
+
+add
+
+audio-simtec.h
+file
+
+
+
+add
+
+common-smdk.h
+file
+
+
+
+add
+
+pll.h
+file
+
+
+
+add
+

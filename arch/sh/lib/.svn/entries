@@ -1,0 +1,231 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/sh/lib
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+delay.c
+file
+
+
+
+add
+
+__clear_user.S
+file
+
+
+
+add
+
+ashiftrt.S
+file
+
+
+
+add
+
+udivsi3.S
+file
+
+
+
+add
+
+memcpy-sh4.S
+file
+
+
+
+add
+
+memset-sh4.S
+file
+
+
+
+add
+
+div64-generic.c
+file
+
+
+
+add
+
+io.c
+file
+
+
+
+add
+
+lshrsi3.S
+file
+
+
+
+add
+
+lshrdi3.c
+file
+
+
+
+add
+
+memset.S
+file
+
+
+
+add
+
+memcpy.S
+file
+
+
+
+add
+
+udivsi3_i4i.S
+file
+
+
+
+add
+
+div64.S
+file
+
+
+
+add
+
+movmem.S
+file
+
+
+
+add
+
+checksum.S
+file
+
+
+
+add
+
+mcount.S
+file
+
+
+
+add
+
+memmove.S
+file
+
+
+
+add
+
+copy_page.S
+file
+
+
+
+add
+
+ashlsi3.S
+file
+
+
+
+add
+
+strlen.S
+file
+
+
+
+add
+
+ashldi3.c
+file
+
+
+
+add
+
+libgcc.h
+file
+
+
+
+add
+
+udiv_qrnnd.S
+file
+
+
+
+add
+
+udivsi3_i4i-Os.S
+file
+
+
+
+add
+
+memchr.S
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+ashrsi3.S
+file
+
+
+
+add
+
+ashrdi3.c
+file
+
+
+
+add
+

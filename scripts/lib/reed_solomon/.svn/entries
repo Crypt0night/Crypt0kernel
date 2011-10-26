@@ -1,0 +1,56 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/scripts/lib/reed_solomon
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+encode_rs.c
+file
+
+
+
+add
+
+reed_solomon.c
+file
+
+
+
+add
+
+decode_rs.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

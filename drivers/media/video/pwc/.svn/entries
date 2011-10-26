@@ -1,0 +1,168 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/media/video/pwc
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+pwc.h
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+pwc-dec1.c
+file
+
+
+
+add
+
+philips.txt
+file
+
+
+
+add
+
+pwc-ioctl.h
+file
+
+
+
+add
+
+pwc-nala.h
+file
+
+
+
+add
+
+pwc-dec1.h
+file
+
+
+
+add
+
+pwc-timon.c
+file
+
+
+
+add
+
+pwc-kiara.c
+file
+
+
+
+add
+
+pwc-timon.h
+file
+
+
+
+add
+
+pwc-misc.c
+file
+
+
+
+add
+
+pwc-kiara.h
+file
+
+
+
+add
+
+pwc-if.c
+file
+
+
+
+add
+
+pwc-uncompress.c
+file
+
+
+
+add
+
+pwc-dec23.c
+file
+
+
+
+add
+
+pwc-uncompress.h
+file
+
+
+
+add
+
+pwc-ctrl.c
+file
+
+
+
+add
+
+pwc-dec23.h
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+pwc-v4l.c
+file
+
+
+
+add
+

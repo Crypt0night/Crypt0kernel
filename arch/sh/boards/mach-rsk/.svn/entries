@@ -1,0 +1,56 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/sh/boards/mach-rsk
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+setup.c
+file
+
+
+
+add
+
+devices-rsk7203.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

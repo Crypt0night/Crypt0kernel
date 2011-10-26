@@ -1,0 +1,77 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/crypto/amcc
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+crypto4xx_core.h
+file
+
+
+
+add
+
+crypto4xx_reg_def.h
+file
+
+
+
+add
+
+crypto4xx_alg.c
+file
+
+
+
+add
+
+crypto4xx_sa.c
+file
+
+
+
+add
+
+crypto4xx_core.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+crypto4xx_sa.h
+file
+
+
+
+add
+

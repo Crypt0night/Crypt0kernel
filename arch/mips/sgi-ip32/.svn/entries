@@ -1,0 +1,84 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/mips/sgi-ip32
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+crime.c
+file
+
+
+
+add
+
+ip32-platform.c
+file
+
+
+
+add
+
+ip32-memory.c
+file
+
+
+
+add
+
+ip32-berr.c
+file
+
+
+
+add
+
+ip32-irq.c
+file
+
+
+
+add
+
+ip32-setup.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+ip32-reset.c
+file
+
+
+
+add
+

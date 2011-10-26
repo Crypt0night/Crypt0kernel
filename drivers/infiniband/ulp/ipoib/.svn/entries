@@ -1,0 +1,105 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/infiniband/ulp/ipoib
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+ipoib_ethtool.c
+file
+
+
+
+add
+
+ipoib_cm.c
+file
+
+
+
+add
+
+ipoib_vlan.c
+file
+
+
+
+add
+
+ipoib_verbs.c
+file
+
+
+
+add
+
+ipoib_main.c
+file
+
+
+
+add
+
+ipoib.h
+file
+
+
+
+add
+
+ipoib_multicast.c
+file
+
+
+
+add
+
+ipoib_fs.c
+file
+
+
+
+add
+
+ipoib_ib.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

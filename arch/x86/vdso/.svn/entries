@@ -1,0 +1,126 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/x86/vdso
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+vvar.c
+file
+
+
+
+add
+
+vdso-note.S
+file
+
+
+
+add
+
+vdso32-setup.c
+file
+
+
+
+add
+
+vclock_gettime.c
+file
+
+
+
+add
+
+vdso32
+dir
+
+
+
+add
+
+vdso32.S
+file
+
+
+
+add
+
+vextern.h
+file
+
+
+
+add
+
+vma.c
+file
+
+
+
+add
+
+.gitignore
+file
+
+
+
+add
+
+vdso-layout.lds.S
+file
+
+
+
+add
+
+vdso.S
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+vdso.lds.S
+file
+
+
+
+add
+
+vgetcpu.c
+file
+
+
+
+add
+

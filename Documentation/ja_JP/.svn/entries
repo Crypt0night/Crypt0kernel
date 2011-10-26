@@ -1,0 +1,63 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/Documentation/ja_JP
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+HOWTO
+file
+
+
+
+add
+
+stable_kernel_rules.txt
+file
+
+
+
+add
+
+stable_api_nonsense.txt
+file
+
+
+
+add
+
+SubmittingPatches
+file
+
+
+
+add
+
+SubmitChecklist
+file
+
+
+
+add
+

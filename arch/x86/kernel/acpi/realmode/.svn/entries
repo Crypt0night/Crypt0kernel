@@ -1,0 +1,119 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/x86/kernel/acpi/realmode
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+video-bios.c
+file
+
+
+
+add
+
+regs.c
+file
+
+
+
+add
+
+video-vga.c
+file
+
+
+
+add
+
+wakeup.h
+file
+
+
+
+add
+
+video-vesa.c
+file
+
+
+
+add
+
+.gitignore
+file
+
+
+
+add
+
+bioscall.S
+file
+
+
+
+add
+
+video-mode.c
+file
+
+
+
+add
+
+copy.S
+file
+
+
+
+add
+
+wakeup.S
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+wakemain.c
+file
+
+
+
+add
+
+wakeup.lds.S
+file
+
+
+
+add
+

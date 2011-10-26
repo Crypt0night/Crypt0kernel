@@ -1,0 +1,140 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/powerpc/platforms/52xx
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+mpc5200_simple.c
+file
+
+
+
+add
+
+lite5200_pm.c
+file
+
+
+
+add
+
+mpc52xx_pci.c
+file
+
+
+
+add
+
+mpc52xx_pic.c
+file
+
+
+
+add
+
+mpc52xx_pm.c
+file
+
+
+
+add
+
+lite5200.c
+file
+
+
+
+add
+
+mpc52xx_lpbfifo.c
+file
+
+
+
+add
+
+lite5200_sleep.S
+file
+
+
+
+add
+
+mpc52xx_common.c
+file
+
+
+
+add
+
+mpc52xx_sleep.S
+file
+
+
+
+add
+
+efika.c
+file
+
+
+
+add
+
+mpc52xx_gpt.c
+file
+
+
+
+add
+
+mpc52xx_gpio.c
+file
+
+
+
+add
+
+media5200.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

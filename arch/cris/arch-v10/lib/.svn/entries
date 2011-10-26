@@ -1,0 +1,105 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/cris/arch-v10/lib
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+hw_settings.S
+file
+
+
+
+add
+
+old_checksum.c
+file
+
+
+
+add
+
+csumcpfruser.S
+file
+
+
+
+add
+
+checksum.S
+file
+
+
+
+add
+
+dram_init.S
+file
+
+
+
+add
+
+string.c
+file
+
+
+
+add
+
+usercopy.c
+file
+
+
+
+add
+
+memset.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+dmacopy.c
+file
+
+
+
+add
+
+checksumcopy.S
+file
+
+
+
+add
+

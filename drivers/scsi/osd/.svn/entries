@@ -1,0 +1,63 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/scsi/osd
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+osd_debug.h
+file
+
+
+
+add
+
+osd_initiator.c
+file
+
+
+
+add
+
+Kbuild
+file
+
+
+
+add
+
+osd_uld.c
+file
+
+
+
+add
+

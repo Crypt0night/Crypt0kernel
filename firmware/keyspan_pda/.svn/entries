@@ -1,0 +1,56 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/firmware/keyspan_pda
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+keyspan_pda.S
+file
+
+
+
+add
+
+keyspan_pda.HEX
+file
+
+
+
+add
+
+xircom_pgs.S
+file
+
+
+
+add
+
+xircom_pgs.HEX
+file
+
+
+
+add
+

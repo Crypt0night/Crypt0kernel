@@ -1,0 +1,112 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/video/nvidia
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+nv_i2c.c
+file
+
+
+
+add
+
+nv_hw.c
+file
+
+
+
+add
+
+nv_local.h
+file
+
+
+
+add
+
+nv_setup.c
+file
+
+
+
+add
+
+nv_of.c
+file
+
+
+
+add
+
+nv_type.h
+file
+
+
+
+add
+
+nv_dma.h
+file
+
+
+
+add
+
+nvidia.c
+file
+
+
+
+add
+
+nv_accel.c
+file
+
+
+
+add
+
+nv_backlight.c
+file
+
+
+
+add
+
+nv_proto.h
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

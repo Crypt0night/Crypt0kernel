@@ -1,0 +1,2940 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arm-2010q1/arm-none-linux-gnueabi/libc/armv4t/usr/lib/locale
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+zh_TW.utf8
+dir
+
+
+
+add
+
+ts_ZA
+dir
+
+
+
+add
+
+fa_IR
+dir
+
+
+
+add
+
+es_NI.utf8
+dir
+
+
+
+add
+
+ber_MA
+dir
+
+
+
+add
+
+hi_IN
+dir
+
+
+
+add
+
+br_FR
+dir
+
+
+
+add
+
+ar_JO
+dir
+
+
+
+add
+
+pt_BR.utf8
+dir
+
+
+
+add
+
+tg_TJ.utf8
+dir
+
+
+
+add
+
+nl_NL@euro
+dir
+
+
+
+add
+
+fr_FR
+dir
+
+
+
+add
+
+so_KE
+dir
+
+
+
+add
+
+gu_IN
+dir
+
+
+
+add
+
+es_GT
+dir
+
+
+
+add
+
+csb_PL
+dir
+
+
+
+add
+
+sv_SE.utf8
+dir
+
+
+
+add
+
+sv_FI
+dir
+
+
+
+add
+
+tl_PH
+dir
+
+
+
+add
+
+pl_PL
+dir
+
+
+
+add
+
+ht_HT
+dir
+
+
+
+add
+
+fi_FI@euro
+dir
+
+
+
+add
+
+cy_GB.utf8
+dir
+
+
+
+add
+
+ca_FR
+dir
+
+
+
+add
+
+en_GB
+dir
+
+
+
+add
+
+tn_ZA
+dir
+
+
+
+add
+
+zh_SG.gbk
+dir
+
+
+
+add
+
+yi_US.utf8
+dir
+
+
+
+add
+
+ko_KR.euckr
+dir
+
+
+
+add
+
+tr_TR.utf8
+dir
+
+
+
+add
+
+et_EE
+dir
+
+
+
+add
+
+gv_GB
+dir
+
+
+
+add
+
+cs_CZ.utf8
+dir
+
+
+
+add
+
+fur_IT
+dir
+
+
+
+add
+
+ar_TN.utf8
+dir
+
+
+
+add
+
+sr_RS
+dir
+
+
+
+add
+
+yi_US
+dir
+
+
+
+add
+
+gl_ES
+dir
+
+
+
+add
+
+ko_KR.utf8
+dir
+
+
+
+add
+
+zh_TW
+dir
+
+
+
+add
+
+fr_LU.utf8
+dir
+
+
+
+add
+
+ar_AE.utf8
+dir
+
+
+
+add
+
+es_HN
+dir
+
+
+
+add
+
+ne_NP
+dir
+
+
+
+add
+
+ar_KW
+dir
+
+
+
+add
+
+mt_MT.utf8
+dir
+
+
+
+add
+
+ca_ES@euro
+dir
+
+
+
+add
+
+ka_GE
+dir
+
+
+
+add
+
+be_BY@latin
+dir
+
+
+
+add
+
+tig_ER
+dir
+
+
+
+add
+
+es_DO.utf8
+dir
+
+
+
+add
+
+ast_ES
+dir
+
+
+
+add
+
+tk_TM
+dir
+
+
+
+add
+
+ar_LB
+dir
+
+
+
+add
+
+iu_CA
+dir
+
+
+
+add
+
+en_HK
+dir
+
+
+
+add
+
+ar_YE.utf8
+dir
+
+
+
+add
+
+br_FR@euro
+dir
+
+
+
+add
+
+bg_BG.utf8
+dir
+
+
+
+add
+
+mg_MG
+dir
+
+
+
+add
+
+uk_UA.utf8
+dir
+
+
+
+add
+
+de_BE@euro
+dir
+
+
+
+add
+
+nds_DE
+dir
+
+
+
+add
+
+da_DK
+dir
+
+
+
+add
+
+ar_SY.utf8
+dir
+
+
+
+add
+
+lt_LT.utf8
+dir
+
+
+
+add
+
+is_IS
+dir
+
+
+
+add
+
+ar_LY
+dir
+
+
+
+add
+
+ms_MY.utf8
+dir
+
+
+
+add
+
+tt_RU@iqtelif.UTF-8
+dir
+
+
+
+add
+
+kl_GL.utf8
+dir
+
+
+
+add
+
+en_IE
+dir
+
+
+
+add
+
+ar_MA
+dir
+
+
+
+add
+
+aa_ER@saaho
+dir
+
+
+
+add
+
+ig_NG
+dir
+
+
+
+add
+
+fy_DE
+dir
+
+
+
+add
+
+en_IN
+dir
+
+
+
+add
+
+kl_GL
+dir
+
+
+
+add
+
+hu_HU.utf8
+dir
+
+
+
+add
+
+xh_ZA.utf8
+dir
+
+
+
+add
+
+crh_UA
+dir
+
+
+
+add
+
+ar_EG.utf8
+dir
+
+
+
+add
+
+ga_IE
+dir
+
+
+
+add
+
+af_ZA.utf8
+dir
+
+
+
+add
+
+ik_CA
+dir
+
+
+
+add
+
+sid_ET
+dir
+
+
+
+add
+
+hu_HU
+dir
+
+
+
+add
+
+es_PA.utf8
+dir
+
+
+
+add
+
+ca_IT
+dir
+
+
+
+add
+
+om_KE.utf8
+dir
+
+
+
+add
+
+ro_RO
+dir
+
+
+
+add
+
+he_IL
+dir
+
+
+
+add
+
+bo_CN
+dir
+
+
+
+add
+
+tt_RU.utf8
+dir
+
+
+
+add
+
+aa_DJ.utf8
+dir
+
+
+
+add
+
+zh_CN.gb18030
+dir
+
+
+
+add
+
+da_DK.utf8
+dir
+
+
+
+add
+
+ja_JP.eucjp
+dir
+
+
+
+add
+
+kw_GB
+dir
+
+
+
+add
+
+sa_IN
+dir
+
+
+
+add
+
+es_ES@euro
+dir
+
+
+
+add
+
+eu_ES@euro
+dir
+
+
+
+add
+
+bs_BA.utf8
+dir
+
+
+
+add
+
+en_ZA
+dir
+
+
+
+add
+
+id_ID.utf8
+dir
+
+
+
+add
+
+te_IN
+dir
+
+
+
+add
+
+pap_AN
+dir
+
+
+
+add
+
+sl_SI.utf8
+dir
+
+
+
+add
+
+en_US.utf8
+dir
+
+
+
+add
+
+eu_ES
+dir
+
+
+
+add
+
+cs_CZ
+dir
+
+
+
+add
+
+fr_BE.utf8
+dir
+
+
+
+add
+
+zh_HK
+dir
+
+
+
+add
+
+om_ET
+dir
+
+
+
+add
+
+ar_LB.utf8
+dir
+
+
+
+add
+
+uz_UZ@cyrillic
+dir
+
+
+
+add
+
+id_ID
+dir
+
+
+
+add
+
+kk_KZ
+dir
+
+
+
+add
+
+nr_ZA
+dir
+
+
+
+add
+
+nl_BE@euro
+dir
+
+
+
+add
+
+hy_AM.armscii8
+dir
+
+
+
+add
+
+it_CH.utf8
+dir
+
+
+
+add
+
+fi_FI
+dir
+
+
+
+add
+
+uz_UZ
+dir
+
+
+
+add
+
+lt_LT
+dir
+
+
+
+add
+
+be_BY
+dir
+
+
+
+add
+
+es_HN.utf8
+dir
+
+
+
+add
+
+en_ZW
+dir
+
+
+
+add
+
+lo_LA
+dir
+
+
+
+add
+
+iw_IL.utf8
+dir
+
+
+
+add
+
+it_IT.utf8
+dir
+
+
+
+add
+
+li_NL
+dir
+
+
+
+add
+
+ar_OM
+dir
+
+
+
+add
+
+es_MX.utf8
+dir
+
+
+
+add
+
+fil_PH
+dir
+
+
+
+add
+
+wa_BE.utf8
+dir
+
+
+
+add
+
+se_NO
+dir
+
+
+
+add
+
+ar_MA.utf8
+dir
+
+
+
+add
+
+en_IE.utf8
+dir
+
+
+
+add
+
+en_DK.utf8
+dir
+
+
+
+add
+
+tg_TJ
+dir
+
+
+
+add
+
+it_IT
+dir
+
+
+
+add
+
+es_BO.utf8
+dir
+
+
+
+add
+
+ca_AD.utf8
+dir
+
+
+
+add
+
+en_AU.utf8
+dir
+
+
+
+add
+
+gl_ES.utf8
+dir
+
+
+
+add
+
+en_BW.utf8
+dir
+
+
+
+add
+
+el_CY.utf8
+dir
+
+
+
+add
+
+tr_CY
+dir
+
+
+
+add
+
+vi_VN
+dir
+
+
+
+add
+
+de_DE.utf8
+dir
+
+
+
+add
+
+ps_AF
+dir
+
+
+
+add
+
+fr_FR@euro
+dir
+
+
+
+add
+
+tl_PH.utf8
+dir
+
+
+
+add
+
+sv_FI.utf8
+dir
+
+
+
+add
+
+pl_PL.utf8
+dir
+
+
+
+add
+
+ru_RU
+dir
+
+
+
+add
+
+lg_UG
+dir
+
+
+
+add
+
+aa_DJ
+dir
+
+
+
+add
+
+sk_SK.utf8
+dir
+
+
+
+add
+
+fr_CA.utf8
+dir
+
+
+
+add
+
+ar_BH.utf8
+dir
+
+
+
+add
+
+nl_NL
+dir
+
+
+
+add
+
+uk_UA
+dir
+
+
+
+add
+
+ca_IT.utf8
+dir
+
+
+
+add
+
+st_ZA.utf8
+dir
+
+
+
+add
+
+fr_LU
+dir
+
+
+
+add
+
+ar_AE
+dir
+
+
+
+add
+
+en_ZW.utf8
+dir
+
+
+
+add
+
+es_MX
+dir
+
+
+
+add
+
+oc_FR.utf8
+dir
+
+
+
+add
+
+fo_FO.utf8
+dir
+
+
+
+add
+
+de_LU.utf8
+dir
+
+
+
+add
+
+as_IN.utf8
+dir
+
+
+
+add
+
+test
+dir
+
+
+
+add
+
+ur_PK
+dir
+
+
+
+add
+
+nb_NO.utf8
+dir
+
+
+
+add
+
+pt_PT@euro
+dir
+
+
+
+add
+
+ar_QA
+dir
+
+
+
+add
+
+so_DJ.utf8
+dir
+
+
+
+add
+
+ms_MY
+dir
+
+
+
+add
+
+bn_IN
+dir
+
+
+
+add
+
+oc_FR
+dir
+
+
+
+add
+
+de_LU
+dir
+
+
+
+add
+
+fo_FO
+dir
+
+
+
+add
+
+tr_TR
+dir
+
+
+
+add
+
+ka_GE.utf8
+dir
+
+
+
+add
+
+el_CY
+dir
+
+
+
+add
+
+nn_NO.utf8
+dir
+
+
+
+add
+
+es_NI
+dir
+
+
+
+add
+
+ga_IE@euro
+dir
+
+
+
+add
+
+ru_UA.utf8
+dir
+
+
+
+add
+
+hne_IN
+dir
+
+
+
+add
+
+mn_MN
+dir
+
+
+
+add
+
+ber_DZ
+dir
+
+
+
+add
+
+or_IN
+dir
+
+
+
+add
+
+de_AT@euro
+dir
+
+
+
+add
+
+aa_ER
+dir
+
+
+
+add
+
+ja_JP.utf8
+dir
+
+
+
+add
+
+ku_TR.utf8
+dir
+
+
+
+add
+
+aa_ET
+dir
+
+
+
+add
+
+ar_BH
+dir
+
+
+
+add
+
+mg_MG.utf8
+dir
+
+
+
+add
+
+es_PE.utf8
+dir
+
+
+
+add
+
+en_ZA.utf8
+dir
+
+
+
+add
+
+so_KE.utf8
+dir
+
+
+
+add
+
+ks_IN@devanagari
+dir
+
+
+
+add
+
+pa_IN
+dir
+
+
+
+add
+
+en_NG
+dir
+
+
+
+add
+
+nl_NL.utf8
+dir
+
+
+
+add
+
+ar_KW.utf8
+dir
+
+
+
+add
+
+ta_IN
+dir
+
+
+
+add
+
+nb_NO
+dir
+
+
+
+add
+
+is_IS.utf8
+dir
+
+
+
+add
+
+ar_LY.utf8
+dir
+
+
+
+add
+
+ug_CN
+dir
+
+
+
+add
+
+mai_IN
+dir
+
+
+
+add
+
+hy_AM
+dir
+
+
+
+add
+
+fi_FI.utf8
+dir
+
+
+
+add
+
+th_TH
+dir
+
+
+
+add
+
+gez_ER@abegede
+dir
+
+
+
+add
+
+hsb_DE.utf8
+dir
+
+
+
+add
+
+en_NZ
+dir
+
+
+
+add
+
+li_BE
+dir
+
+
+
+add
+
+gez_ET@abegede
+dir
+
+
+
+add
+
+ru_UA
+dir
+
+
+
+add
+
+ar_SD.utf8
+dir
+
+
+
+add
+
+my_MM
+dir
+
+
+
+add
+
+nan_TW@latin
+dir
+
+
+
+add
+
+kw_GB.utf8
+dir
+
+
+
+add
+
+so_SO
+dir
+
+
+
+add
+
+wo_SN
+dir
+
+
+
+add
+
+ar_SA
+dir
+
+
+
+add
+
+pt_PT
+dir
+
+
+
+add
+
+es_PA
+dir
+
+
+
+add
+
+ar_SD
+dir
+
+
+
+add
+
+nso_ZA
+dir
+
+
+
+add
+
+es_PE
+dir
+
+
+
+add
+
+es_PR.utf8
+dir
+
+
+
+add
+
+kk_KZ.utf8
+dir
+
+
+
+add
+
+so_DJ
+dir
+
+
+
+add
+
+ca_ES.utf8
+dir
+
+
+
+add
+
+zh_SG.utf8
+dir
+
+
+
+add
+
+nl_AW
+dir
+
+
+
+add
+
+fr_LU@euro
+dir
+
+
+
+add
+
+fr_CH.utf8
+dir
+
+
+
+add
+
+es_PR
+dir
+
+
+
+add
+
+ar_SA.utf8
+dir
+
+
+
+add
+
+gez_ER
+dir
+
+
+
+add
+
+mi_NZ
+dir
+
+
+
+add
+
+ar_SY
+dir
+
+
+
+add
+
+gez_ET
+dir
+
+
+
+add
+
+et_EE.iso885915
+dir
+
+
+
+add
+
+es_PY
+dir
+
+
+
+add
+
+ar_JO.utf8
+dir
+
+
+
+add
+
+br_FR.utf8
+dir
+
+
+
+add
+
+nl_BE
+dir
+
+
+
+add
+
+mt_MT
+dir
+
+
+
+add
+
+ru_RU.utf8
+dir
+
+
+
+add
+
+de_BE.utf8
+dir
+
+
+
+add
+
+cy_GB
+dir
+
+
+
+add
+
+bo_IN
+dir
+
+
+
+add
+
+es_AR
+dir
+
+
+
+add
+
+km_KH
+dir
+
+
+
+add
+
+en_PH
+dir
+
+
+
+add
+
+om_KE
+dir
+
+
+
+add
+
+ar_DZ
+dir
+
+
+
+add
+
+ca_FR.utf8
+dir
+
+
+
+add
+
+en_GB.utf8
+dir
+
+
+
+add
+
+shs_CA
+dir
+
+
+
+add
+
+bg_BG
+dir
+
+
+
+add
+
+sc_IT
+dir
+
+
+
+add
+
+hr_HR
+dir
+
+
+
+add
+
+gd_GB
+dir
+
+
+
+add
+
+ar_TN
+dir
+
+
+
+add
+
+ks_IN
+dir
+
+
+
+add
+
+pt_BR
+dir
+
+
+
+add
+
+so_SO.utf8
+dir
+
+
+
+add
+
+en_AG
+dir
+
+
+
+add
+
+es_UY.utf8
+dir
+
+
+
+add
+
+so_ET
+dir
+
+
+
+add
+
+ar_EG
+dir
+
+
+
+add
+
+el_GR.utf8
+dir
+
+
+
+add
+
+es_CR.utf8
+dir
+
+
+
+add
+
+lv_LV
+dir
+
+
+
+add
+
+ca_AD
+dir
+
+
+
+add
+
+es_BO
+dir
+
+
+
+add
+
+en_AU
+dir
+
+
+
+add
+
+el_GR
+dir
+
+
+
+add
+
+zh_HK.utf8
+dir
+
+
+
+add
+
+az_AZ.utf8
+dir
+
+
+
+add
+
+kn_IN
+dir
+
+
+
+add
+
+es_EC.utf8
+dir
+
+
+
+add
+
+ro_RO.utf8
+dir
+
+
+
+add
+
+sr_ME
+dir
+
+
+
+add
+
+he_IL.utf8
+dir
+
+
+
+add
+
+dv_MV
+dir
+
+
+
+add
+
+yo_NG
+dir
+
+
+
+add
+
+de_AT
+dir
+
+
+
+add
+
+fr_BE
+dir
+
+
+
+add
+
+es_CO.utf8
+dir
+
+
+
+add
+
+ss_ZA
+dir
+
+
+
+add
+
+af_ZA
+dir
+
+
+
+add
+
+en_SG.utf8
+dir
+
+
+
+add
+
+mk_MK.utf8
+dir
+
+
+
+add
+
+es_ES.utf8
+dir
+
+
+
+add
+
+ku_TR
+dir
+
+
+
+add
+
+es_CL
+dir
+
+
+
+add
+
+eu_ES.utf8
+dir
+
+
+
+add
+
+am_ET
+dir
+
+
+
+add
+
+es_VE.utf8
+dir
+
+
+
+add
+
+zh_CN.utf8
+dir
+
+
+
+add
+
+hr_HR.utf8
+dir
+
+
+
+add
+
+gd_GB.utf8
+dir
+
+
+
+add
+
+es_CO
+dir
+
+
+
+add
+
+en_BW
+dir
+
+
+
+add
+
+es_CR
+dir
+
+
+
+add
+
+de_BE
+dir
+
+
+
+add
+
+sq_AL
+dir
+
+
+
+add
+
+rw_RW
+dir
+
+
+
+add
+
+ti_ER
+dir
+
+
+
+add
+
+dz_BT
+dir
+
+
+
+add
+
+zh_CN.gbk
+dir
+
+
+
+add
+
+es_US.utf8
+dir
+
+
+
+add
+
+nl_BE.utf8
+dir
+
+
+
+add
+
+ti_ET
+dir
+
+
+
+add
+
+es_PY.utf8
+dir
+
+
+
+add
+
+en_CA
+dir
+
+
+
+add
+
+be_BY.utf8
+dir
+
+
+
+add
+
+lv_LV.utf8
+dir
+
+
+
+add
+
+nn_NO
+dir
+
+
+
+add
+
+fr_BE@euro
+dir
+
+
+
+add
+
+gv_GB.utf8
+dir
+
+
+
+add
+
+sk_SK
+dir
+
+
+
+add
+
+fr_CA
+dir
+
+
+
+add
+
+es_CL.utf8
+dir
+
+
+
+add
+
+ha_NG
+dir
+
+
+
+add
+
+nds_NL
+dir
+
+
+
+add
+
+wa_BE
+dir
+
+
+
+add
+
+byn_ER
+dir
+
+
+
+add
+
+es_SV
+dir
+
+
+
+add
+
+fr_CH
+dir
+
+
+
+add
+
+hsb_DE
+dir
+
+
+
+add
+
+ar_DZ.utf8
+dir
+
+
+
+add
+
+es_GT.utf8
+dir
+
+
+
+add
+
+es_DO
+dir
+
+
+
+add
+
+en_CA.utf8
+dir
+
+
+
+add
+
+en_SG
+dir
+
+
+
+add
+
+sd_IN
+dir
+
+
+
+add
+
+en_NZ.utf8
+dir
+
+
+
+add
+
+ml_IN
+dir
+
+
+
+add
+
+mi_NZ.utf8
+dir
+
+
+
+add
+
+de_CH
+dir
+
+
+
+add
+
+it_IT@euro
+dir
+
+
+
+add
+
+ve_ZA
+dir
+
+
+
+add
+
+tr_CY.utf8
+dir
+
+
+
+add
+
+et_EE.utf8
+dir
+
+
+
+add
+
+fy_NL
+dir
+
+
+
+add
+
+ar_QA.utf8
+dir
+
+
+
+add
+
+wa_BE@euro
+dir
+
+
+
+add
+
+en_HK.utf8
+dir
+
+
+
+add
+
+en_IE@euro
+dir
+
+
+
+add
+
+zu_ZA.utf8
+dir
+
+
+
+add
+
+es_EC
+dir
+
+
+
+add
+
+sd_IN@devanagari
+dir
+
+
+
+add
+
+sv_SE
+dir
+
+
+
+add
+
+sr_RS@latin
+dir
+
+
+
+add
+
+ar_IQ.utf8
+dir
+
+
+
+add
+
+en_DK
+dir
+
+
+
+add
+
+ar_OM.utf8
+dir
+
+
+
+add
+
+fr_FR.utf8
+dir
+
+
+
+add
+
+gl_ES@euro
+dir
+
+
+
+add
+
+ru_RU.koi8r
+dir
+
+
+
+add
+
+zu_ZA
+dir
+
+
+
+add
+
+th_TH.utf8
+dir
+
+
+
+add
+
+de_DE@euro
+dir
+
+
+
+add
+
+mk_MK
+dir
+
+
+
+add
+
+es_ES
+dir
+
+
+
+add
+
+de_DE
+dir
+
+
+
+add
+
+sv_FI@euro
+dir
+
+
+
+add
+
+iw_IL
+dir
+
+
+
+add
+
+ky_KG
+dir
+
+
+
+add
+
+bs_BA
+dir
+
+
+
+add
+
+xh_ZA
+dir
+
+
+
+add
+
+pt_PT.utf8
+dir
+
+
+
+add
+
+es_US
+dir
+
+
+
+add
+
+en_PH.utf8
+dir
+
+
+
+add
+
+es_AR.utf8
+dir
+
+
+
+add
+
+st_ZA
+dir
+
+
+
+add
+
+zh_TW.euctw
+dir
+
+
+
+add
+
+lg_UG.utf8
+dir
+
+
+
+add
+
+de_LU@euro
+dir
+
+
+
+add
+
+sq_AL.utf8
+dir
+
+
+
+add
+
+es_UY
+dir
+
+
+
+add
+
+an_ES
+dir
+
+
+
+add
+
+it_CH
+dir
+
+
+
+add
+
+de_CH.utf8
+dir
+
+
+
+add
+
+ar_IN
+dir
+
+
+
+add
+
+ga_IE.utf8
+dir
+
+
+
+add
+
+vi_VN.tcvn
+dir
+
+
+
+add
+
+pa_PK
+dir
+
+
+
+add
+
+ar_IQ
+dir
+
+
+
+add
+
+ar_YE
+dir
+
+
+
+add
+
+es_VE
+dir
+
+
+
+add
+
+si_LK
+dir
+
+
+
+add
+
+de_AT.utf8
+dir
+
+
+
+add
+
+zh_CN
+dir
+
+
+
+add
+
+ast_ES.utf8
+dir
+
+
+
+add
+
+mr_IN
+dir
+
+
+
+add
+
+bn_BD
+dir
+
+
+
+add
+
+es_SV.utf8
+dir
+
+
+
+add
+
+sl_SI
+dir
+
+
+
+add
+
+en_US
+dir
+
+
+
+add
+
+an_ES.utf8
+dir
+
+
+
+add
+
+ca_ES
+dir
+
+
+
+add
+
+zh_SG
+dir
+
+
+
+add
+

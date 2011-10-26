@@ -1,0 +1,140 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/sound/soc/sh
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+ssi.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+sh7760-ac97.c
+file
+
+
+
+add
+
+siu_pcm.c
+file
+
+
+
+add
+
+modules.order
+file
+
+
+
+add
+
+siu.h
+file
+
+
+
+add
+
+migor.c
+file
+
+
+
+add
+
+siu_dai.c
+file
+
+
+
+add
+
+fsi-da7210.c
+file
+
+
+
+add
+
+.built-in.o.cmd
+file
+
+
+
+add
+
+fsi.c
+file
+
+
+
+add
+
+fsi-ak4642.c
+file
+
+
+
+add
+
+hac.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+modules.builtin
+file
+
+
+
+add
+
+dma-sh7760.c
+file
+
+
+
+add
+

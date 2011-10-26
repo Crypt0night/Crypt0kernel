@@ -1,0 +1,70 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/firmware/cxgb3
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+ael2020_twx_edc.bin.ihex
+file
+
+
+
+add
+
+t3b_psram-1.1.0.bin.ihex
+file
+
+
+
+add
+
+ael2005_opt_edc.bin.ihex
+file
+
+
+
+add
+
+ael2005_twx_edc.bin.ihex
+file
+
+
+
+add
+
+t3c_psram-1.1.0.bin.ihex
+file
+
+
+
+add
+
+t3fw-7.4.0.bin.ihex
+file
+
+
+
+add
+

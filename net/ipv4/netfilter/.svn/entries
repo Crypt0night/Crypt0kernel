@@ -1,0 +1,658 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/net/ipv4/netfilter
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+.nf_nat_irc.o.cmd
+file
+
+
+
+add
+
+arptable_filter.c
+file
+
+
+
+add
+
+.nf_nat_helper.o.cmd
+file
+
+
+
+add
+
+nf_nat_proto_udp.c
+file
+
+
+
+add
+
+ipt_NETMAP.c
+file
+
+
+
+add
+
+.nf_nat.o.cmd
+file
+
+
+
+add
+
+ipt_ah.c
+file
+
+
+
+add
+
+nf_nat_helper.c
+file
+
+
+
+add
+
+iptable_security.c
+file
+
+
+
+add
+
+.nf_defrag_ipv4.o.cmd
+file
+
+
+
+add
+
+.nf_nat_standalone.o.cmd
+file
+
+
+
+add
+
+.nf_nat_ftp.o.cmd
+file
+
+
+
+add
+
+nf_nat_standalone.c
+file
+
+
+
+add
+
+ipt_REDIRECT.c
+file
+
+
+
+add
+
+ipt_ULOG.c
+file
+
+
+
+add
+
+.nf_conntrack_l3proto_ipv4_compat.o.cmd
+file
+
+
+
+add
+
+ipt_addrtype.c
+file
+
+
+
+add
+
+.ipt_LOG.o.cmd
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+ipt_LOG.c
+file
+
+
+
+add
+
+nf_nat_proto_tcp.c
+file
+
+
+
+add
+
+.ipt_MASQUERADE.o.cmd
+file
+
+
+
+add
+
+.nf_nat_h323.o.cmd
+file
+
+
+
+add
+
+nf_nat_snmp_basic.c
+file
+
+
+
+add
+
+nf_nat_h323.c
+file
+
+
+
+add
+
+nf_nat_proto_unknown.c
+file
+
+
+
+add
+
+.arp_tables.o.cmd
+file
+
+
+
+add
+
+.nf_nat_core.o.cmd
+file
+
+
+
+add
+
+.nf_nat_proto_udplite.o.cmd
+file
+
+
+
+add
+
+.ipt_ecn.o.cmd
+file
+
+
+
+add
+
+nf_nat_core.c
+file
+
+
+
+add
+
+.built-in.o.cmd
+file
+
+
+
+add
+
+nf_nat_sip.c
+file
+
+
+
+add
+
+.nf_nat_proto_gre.o.cmd
+file
+
+
+
+add
+
+ipt_ecn.c
+file
+
+
+
+add
+
+.ipt_REJECT.o.cmd
+file
+
+
+
+add
+
+iptable_filter.c
+file
+
+
+
+add
+
+.arpt_mangle.o.cmd
+file
+
+
+
+add
+
+iptable_raw.c
+file
+
+
+
+add
+
+arpt_mangle.c
+file
+
+
+
+add
+
+.nf_nat_proto_udp.o.cmd
+file
+
+
+
+add
+
+.nf_conntrack_proto_icmp.o.cmd
+file
+
+
+
+add
+
+.ipt_NETMAP.o.cmd
+file
+
+
+
+add
+
+modules.builtin
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+nf_conntrack_proto_icmp.c
+file
+
+
+
+add
+
+.ipt_ah.o.cmd
+file
+
+
+
+add
+
+modules.order
+file
+
+
+
+add
+
+nf_nat_irc.c
+file
+
+
+
+add
+
+.nf_nat_amanda.o.cmd
+file
+
+
+
+add
+
+nf_nat_amanda.c
+file
+
+
+
+add
+
+.ipt_REDIRECT.o.cmd
+file
+
+
+
+add
+
+.nf_nat_proto_sctp.o.cmd
+file
+
+
+
+add
+
+nf_defrag_ipv4.c
+file
+
+
+
+add
+
+nf_nat_ftp.c
+file
+
+
+
+add
+
+ipt_ECN.c
+file
+
+
+
+add
+
+nf_nat_proto_sctp.c
+file
+
+
+
+add
+
+.ipt_addrtype.o.cmd
+file
+
+
+
+add
+
+.nf_conntrack_l3proto_ipv4.o.cmd
+file
+
+
+
+add
+
+.nf_nat_rule.o.cmd
+file
+
+
+
+add
+
+nf_conntrack_l3proto_ipv4.c
+file
+
+
+
+add
+
+.nf_nat_proto_tcp.o.cmd
+file
+
+
+
+add
+
+.nf_nat_proto_icmp.o.cmd
+file
+
+
+
+add
+
+nf_nat_rule.c
+file
+
+
+
+add
+
+nf_conntrack_l3proto_ipv4_compat.c
+file
+
+
+
+add
+
+.nf_nat_proto_common.o.cmd
+file
+
+
+
+add
+
+.nf_nat_tftp.o.cmd
+file
+
+
+
+add
+
+.ip_tables.o.cmd
+file
+
+
+
+add
+
+nf_nat_proto_common.c
+file
+
+
+
+add
+
+nf_nat_proto_icmp.c
+file
+
+
+
+add
+
+nf_nat_tftp.c
+file
+
+
+
+add
+
+ip_tables.c
+file
+
+
+
+add
+
+.nf_conntrack_ipv4.o.cmd
+file
+
+
+
+add
+
+ipt_MASQUERADE.c
+file
+
+
+
+add
+
+iptable_mangle.c
+file
+
+
+
+add
+
+.nf_nat_proto_unknown.o.cmd
+file
+
+
+
+add
+
+.nf_nat_pptp.o.cmd
+file
+
+
+
+add
+
+nf_nat_pptp.c
+file
+
+
+
+add
+
+ip_queue.c
+file
+
+
+
+add
+
+arp_tables.c
+file
+
+
+
+add
+
+.nf_nat_sip.o.cmd
+file
+
+
+
+add
+
+.nf_nat_proto_dccp.o.cmd
+file
+
+
+
+add
+
+.iptable_nat.o.cmd
+file
+
+
+
+add
+
+nf_nat_proto_udplite.c
+file
+
+
+
+add
+
+.iptable_filter.o.cmd
+file
+
+
+
+add
+
+nf_nat_proto_dccp.c
+file
+
+
+
+add
+
+nf_nat_proto_gre.c
+file
+
+
+
+add
+
+ipt_CLUSTERIP.c
+file
+
+
+
+add
+
+ipt_REJECT.c
+file
+
+
+
+add
+
+.arptable_filter.o.cmd
+file
+
+
+
+add
+

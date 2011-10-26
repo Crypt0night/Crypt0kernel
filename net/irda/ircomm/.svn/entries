@@ -1,0 +1,98 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/net/irda/ircomm
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+ircomm_lmp.c
+file
+
+
+
+add
+
+ircomm_core.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+ircomm_tty_ioctl.c
+file
+
+
+
+add
+
+ircomm_param.c
+file
+
+
+
+add
+
+ircomm_tty.c
+file
+
+
+
+add
+
+ircomm_event.c
+file
+
+
+
+add
+
+ircomm_tty_attach.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+ircomm_ttp.c
+file
+
+
+
+add
+

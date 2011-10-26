@@ -1,0 +1,343 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/powerpc/math-emu
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+fmsubs.c
+file
+
+
+
+add
+
+fcmpo.c
+file
+
+
+
+add
+
+lfd.c
+file
+
+
+
+add
+
+fctiwz.c
+file
+
+
+
+add
+
+fcmpu.c
+file
+
+
+
+add
+
+mcrfs.c
+file
+
+
+
+add
+
+fnmadds.c
+file
+
+
+
+add
+
+mtfsf.c
+file
+
+
+
+add
+
+fneg.c
+file
+
+
+
+add
+
+fsubs.c
+file
+
+
+
+add
+
+fsqrts.c
+file
+
+
+
+add
+
+math_efp.c
+file
+
+
+
+add
+
+lfs.c
+file
+
+
+
+add
+
+fmuls.c
+file
+
+
+
+add
+
+udivmodti4.c
+file
+
+
+
+add
+
+fdiv.c
+file
+
+
+
+add
+
+fnabs.c
+file
+
+
+
+add
+
+fsel.c
+file
+
+
+
+add
+
+math.c
+file
+
+
+
+add
+
+fnmadd.c
+file
+
+
+
+add
+
+fnmsub.c
+file
+
+
+
+add
+
+mffs.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+fadd.c
+file
+
+
+
+add
+
+fmadds.c
+file
+
+
+
+add
+
+fsub.c
+file
+
+
+
+add
+
+fres.c
+file
+
+
+
+add
+
+fsqrt.c
+file
+
+
+
+add
+
+stfd.c
+file
+
+
+
+add
+
+fmul.c
+file
+
+
+
+add
+
+frsp.c
+file
+
+
+
+add
+
+fmadd.c
+file
+
+
+
+add
+
+fabs.c
+file
+
+
+
+add
+
+fdivs.c
+file
+
+
+
+add
+
+fmsub.c
+file
+
+
+
+add
+
+fctiw.c
+file
+
+
+
+add
+
+fnmsubs.c
+file
+
+
+
+add
+
+stfs.c
+file
+
+
+
+add
+
+fadds.c
+file
+
+
+
+add
+
+fmr.c
+file
+
+
+
+add
+
+stfiwx.c
+file
+
+
+
+add
+
+frsqrte.c
+file
+
+
+
+add
+
+mtfsfi.c
+file
+
+
+
+add
+
+mtfsb0.c
+file
+
+
+
+add
+
+mtfsb1.c
+file
+
+
+
+add
+

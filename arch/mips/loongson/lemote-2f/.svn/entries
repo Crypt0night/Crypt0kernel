@@ -1,0 +1,77 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/mips/loongson/lemote-2f
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+ec_kb3310b.h
+file
+
+
+
+add
+
+reset.c
+file
+
+
+
+add
+
+machtype.c
+file
+
+
+
+add
+
+irq.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+pm.c
+file
+
+
+
+add
+
+ec_kb3310b.c
+file
+
+
+
+add
+

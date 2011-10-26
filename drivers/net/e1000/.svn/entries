@@ -1,0 +1,84 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/net/e1000
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+e1000_ethtool.c
+file
+
+
+
+add
+
+e1000_hw.c
+file
+
+
+
+add
+
+e1000_osdep.h
+file
+
+
+
+add
+
+e1000_param.c
+file
+
+
+
+add
+
+e1000_hw.h
+file
+
+
+
+add
+
+e1000_main.c
+file
+
+
+
+add
+
+e1000.h
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

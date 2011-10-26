@@ -1,0 +1,105 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/scsi/cxgb3i
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+cxgb3i_offload.h
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+cxgb3i_init.c
+file
+
+
+
+add
+
+cxgb3i.h
+file
+
+
+
+add
+
+cxgb3i_ddp.c
+file
+
+
+
+add
+
+cxgb3i_pdu.c
+file
+
+
+
+add
+
+Kbuild
+file
+
+
+
+add
+
+cxgb3i_offload.c
+file
+
+
+
+add
+
+cxgb3i_iscsi.c
+file
+
+
+
+add
+
+cxgb3i_ddp.h
+file
+
+
+
+add
+
+cxgb3i_pdu.h
+file
+
+
+
+add
+

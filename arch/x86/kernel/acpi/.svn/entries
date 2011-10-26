@@ -1,0 +1,91 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/x86/kernel/acpi
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+wakeup_32.S
+file
+
+
+
+add
+
+cstate.c
+file
+
+
+
+add
+
+boot.c
+file
+
+
+
+add
+
+wakeup_64.S
+file
+
+
+
+add
+
+realmode
+dir
+
+
+
+add
+
+sleep.c
+file
+
+
+
+add
+
+wakeup_rm.S
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+sleep.h
+file
+
+
+
+add
+

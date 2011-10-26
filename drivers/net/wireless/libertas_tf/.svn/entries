@@ -1,0 +1,77 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/net/wireless/libertas_tf
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+deb_defs.h
+file
+
+
+
+add
+
+libertas_tf.h
+file
+
+
+
+add
+
+cmd.c
+file
+
+
+
+add
+
+main.c
+file
+
+
+
+add
+
+if_usb.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+if_usb.h
+file
+
+
+
+add
+

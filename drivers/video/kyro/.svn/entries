@@ -1,0 +1,84 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/video/kyro
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+STG4000VTG.c
+file
+
+
+
+add
+
+STG4000OverlayDevice.c
+file
+
+
+
+add
+
+STG4000Reg.h
+file
+
+
+
+add
+
+STG4000InitDevice.c
+file
+
+
+
+add
+
+fbdev.c
+file
+
+
+
+add
+
+STG4000Interface.h
+file
+
+
+
+add
+
+STG4000Ramdac.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

@@ -1,0 +1,112 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/net/pcmcia
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+pcnet_cs.c
+file
+
+
+
+add
+
+smc91c92_cs.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+xirc2ps_cs.c
+file
+
+
+
+add
+
+3c589_cs.c
+file
+
+
+
+add
+
+ibmtr_cs.c
+file
+
+
+
+add
+
+axnet_cs.c
+file
+
+
+
+add
+
+com20020_cs.c
+file
+
+
+
+add
+
+fmvj18x_cs.c
+file
+
+
+
+add
+
+3c574_cs.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+nmclan_cs.c
+file
+
+
+
+add
+

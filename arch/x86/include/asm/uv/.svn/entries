@@ -1,0 +1,70 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/x86/include/asm/uv
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+uv.h
+file
+
+
+
+add
+
+bios.h
+file
+
+
+
+add
+
+uv_bau.h
+file
+
+
+
+add
+
+uv_irq.h
+file
+
+
+
+add
+
+uv_hub.h
+file
+
+
+
+add
+
+uv_mmrs.h
+file
+
+
+
+add
+

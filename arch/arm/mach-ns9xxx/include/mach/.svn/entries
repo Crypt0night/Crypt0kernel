@@ -1,0 +1,168 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/arm/mach-ns9xxx/include/mach
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+vmalloc.h
+file
+
+
+
+add
+
+hardware.h
+file
+
+
+
+add
+
+regs-board-a9m9750dev.h
+file
+
+
+
+add
+
+gpio.h
+file
+
+
+
+add
+
+uncompress.h
+file
+
+
+
+add
+
+debug-macro.S
+file
+
+
+
+add
+
+regs-sys-common.h
+file
+
+
+
+add
+
+regs-bbu.h
+file
+
+
+
+add
+
+io.h
+file
+
+
+
+add
+
+memory.h
+file
+
+
+
+add
+
+entry-macro.S
+file
+
+
+
+add
+
+regs-mem.h
+file
+
+
+
+add
+
+regs-sys-ns9360.h
+file
+
+
+
+add
+
+irqs.h
+file
+
+
+
+add
+
+processor-ns9360.h
+file
+
+
+
+add
+
+processor.h
+file
+
+
+
+add
+
+system.h
+file
+
+
+
+add
+
+module.h
+file
+
+
+
+add
+
+timex.h
+file
+
+
+
+add
+
+board.h
+file
+
+
+
+add
+

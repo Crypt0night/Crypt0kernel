@@ -1,0 +1,133 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/m68k/math-emu
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+fp_trig.h
+file
+
+
+
+add
+
+fp_arith.h
+file
+
+
+
+add
+
+fp_entry.S
+file
+
+
+
+add
+
+fp_log.c
+file
+
+
+
+add
+
+fp_move.S
+file
+
+
+
+add
+
+fp_decode.h
+file
+
+
+
+add
+
+fp_emu.h
+file
+
+
+
+add
+
+fp_util.S
+file
+
+
+
+add
+
+multi_arith.h
+file
+
+
+
+add
+
+fp_movem.S
+file
+
+
+
+add
+
+fp_cond.S
+file
+
+
+
+add
+
+fp_scan.S
+file
+
+
+
+add
+
+fp_trig.c
+file
+
+
+
+add
+
+fp_arith.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

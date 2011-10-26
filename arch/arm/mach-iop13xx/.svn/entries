@@ -1,0 +1,112 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/arm/mach-iop13xx
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Makefile.boot
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+iq81340sc.c
+file
+
+
+
+add
+
+setup.c
+file
+
+
+
+add
+
+include
+dir
+
+
+
+add
+
+io.c
+file
+
+
+
+add
+
+msi.c
+file
+
+
+
+add
+
+tpmi.c
+file
+
+
+
+add
+
+iq81340mc.c
+file
+
+
+
+add
+
+irq.c
+file
+
+
+
+add
+
+pci.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

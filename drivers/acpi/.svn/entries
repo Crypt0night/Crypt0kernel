@@ -1,0 +1,392 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/acpi
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+video_detect.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+utils.c
+file
+
+
+
+add
+
+cm_sbs.c
+file
+
+
+
+add
+
+sleep.c
+file
+
+
+
+add
+
+blacklist.c
+file
+
+
+
+add
+
+button.c
+file
+
+
+
+add
+
+pci_slot.c
+file
+
+
+
+add
+
+acpi_memhotplug.c
+file
+
+
+
+add
+
+sleep.h
+file
+
+
+
+add
+
+dock.c
+file
+
+
+
+add
+
+system.c
+file
+
+
+
+add
+
+debug.c
+file
+
+
+
+add
+
+sbs.c
+file
+
+
+
+add
+
+power_meter.c
+file
+
+
+
+add
+
+processor_thermal.c
+file
+
+
+
+add
+
+thermal.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+apei
+dir
+
+
+
+add
+
+acpica
+dir
+
+
+
+add
+
+numa.c
+file
+
+
+
+add
+
+acpi_pad.c
+file
+
+
+
+add
+
+hed.c
+file
+
+
+
+add
+
+sbshc.c
+file
+
+
+
+add
+
+proc.c
+file
+
+
+
+add
+
+atomicio.c
+file
+
+
+
+add
+
+fan.c
+file
+
+
+
+add
+
+video.c
+file
+
+
+
+add
+
+pci_bind.c
+file
+
+
+
+add
+
+sbshc.h
+file
+
+
+
+add
+
+tables.c
+file
+
+
+
+add
+
+battery.c
+file
+
+
+
+add
+
+processor_idle.c
+file
+
+
+
+add
+
+pci_root.c
+file
+
+
+
+add
+
+event.c
+file
+
+
+
+add
+
+internal.h
+file
+
+
+
+add
+
+container.c
+file
+
+
+
+add
+
+processor_perflib.c
+file
+
+
+
+add
+
+ac.c
+file
+
+
+
+add
+
+scan.c
+file
+
+
+
+add
+
+pci_irq.c
+file
+
+
+
+add
+
+ec.c
+file
+
+
+
+add
+
+processor_core.c
+file
+
+
+
+add
+
+pci_link.c
+file
+
+
+
+add
+
+bus.c
+file
+
+
+
+add
+
+processor_driver.c
+file
+
+
+
+add
+
+reboot.c
+file
+
+
+
+add
+
+glue.c
+file
+
+
+
+add
+
+wakeup.c
+file
+
+
+
+add
+
+power.c
+file
+
+
+
+add
+
+processor_throttling.c
+file
+
+
+
+add
+
+osl.c
+file
+
+
+
+add
+

@@ -1,0 +1,273 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/net/wireless/bcm4329
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+bcmsdh_sdmmc_linux.c
+file
+
+
+
+add
+
+bcmsdstd.c
+file
+
+
+
+add
+
+bcmsdspi.c
+file
+
+
+
+add
+
+dhd.h
+file
+
+
+
+add
+
+dngl_stats.h
+file
+
+
+
+add
+
+dhd_common.c
+file
+
+
+
+add
+
+bcmpcispi.c
+file
+
+
+
+add
+
+dhd_sdio.c
+file
+
+
+
+add
+
+bcmsdh_linux.c
+file
+
+
+
+add
+
+miniopt.c
+file
+
+
+
+add
+
+wl_iw.c
+file
+
+
+
+add
+
+bcmutils.c
+file
+
+
+
+add
+
+bcmsdh_sdmmc.c
+file
+
+
+
+add
+
+sbutils.c
+file
+
+
+
+add
+
+wl_iw.h
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+bcmsdh.c
+file
+
+
+
+add
+
+siutils_priv.h
+file
+
+
+
+add
+
+include
+dir
+
+
+
+add
+
+dhd_custom_gpio.c
+file
+
+
+
+add
+
+dhd_cdc.c
+file
+
+
+
+add
+
+aiutils.c
+file
+
+
+
+add
+
+linux_osl.c
+file
+
+
+
+add
+
+dhd_bus.h
+file
+
+
+
+add
+
+dhd_linux.c
+file
+
+
+
+add
+
+dhd_dbg.h
+file
+
+
+
+add
+
+bcmwifi.c
+file
+
+
+
+add
+
+bcmspibrcm.c
+file
+
+
+
+add
+
+bcmsdstd_linux.c
+file
+
+
+
+add
+
+bcmsdspi_linux.c
+file
+
+
+
+add
+
+dhd_linux_sched.c
+file
+
+
+
+add
+
+dhd_proto.h
+file
+
+
+
+add
+
+hndpmu.c
+file
+
+
+
+add
+
+siutils.c
+file
+
+
+
+add
+

@@ -1,0 +1,77 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/usb/class
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+cdc-wdm.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+usblp.c
+file
+
+
+
+add
+
+cdc-acm.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+cdc-acm.h
+file
+
+
+
+add
+
+usbtmc.c
+file
+
+
+
+add
+

@@ -1,0 +1,56 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/mips/include/asm/mach-loongson/cs5536
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+cs5536_vsm.h
+file
+
+
+
+add
+
+cs5536_pci.h
+file
+
+
+
+add
+
+cs5536_mfgpt.h
+file
+
+
+
+add
+
+cs5536.h
+file
+
+
+
+add
+

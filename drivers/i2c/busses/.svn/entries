@@ -1,0 +1,546 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/i2c/busses
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+i2c-ali1563.c
+file
+
+
+
+add
+
+i2c-pca-platform.c
+file
+
+
+
+add
+
+i2c-ali15x3.c
+file
+
+
+
+add
+
+i2c-sis630.c
+file
+
+
+
+add
+
+i2c-designware.c
+file
+
+
+
+add
+
+i2c-pmcmsp.c
+file
+
+
+
+add
+
+i2c-ssbi.c
+file
+
+
+
+add
+
+i2c-amd756.c
+file
+
+
+
+add
+
+i2c-mv64xxx.c
+file
+
+
+
+add
+
+i2c-hydra.c
+file
+
+
+
+add
+
+i2c-s6000.c
+file
+
+
+
+add
+
+scx200_acb.c
+file
+
+
+
+add
+
+i2c-amd8111.c
+file
+
+
+
+add
+
+i2c-s6000.h
+file
+
+
+
+add
+
+i2c-pca-isa.c
+file
+
+
+
+add
+
+i2c-powermac.c
+file
+
+
+
+add
+
+i2c-mpc.c
+file
+
+
+
+add
+
+i2c-cpm.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+i2c-nomadik.c
+file
+
+
+
+add
+
+i2c-sis5595.c
+file
+
+
+
+add
+
+i2c-pxa.c
+file
+
+
+
+add
+
+i2c-ocores.c
+file
+
+
+
+add
+
+i2c-taos-evm.c
+file
+
+
+
+add
+
+i2c-scmi.c
+file
+
+
+
+add
+
+i2c-gpio.c
+file
+
+
+
+add
+
+i2c-sh7760.c
+file
+
+
+
+add
+
+i2c-sibyte.c
+file
+
+
+
+add
+
+.built-in.o.cmd
+file
+
+
+
+add
+
+i2c-pnx.c
+file
+
+
+
+add
+
+i2c-qup-8x60.c
+file
+
+
+
+add
+
+i2c-bfin-twi.c
+file
+
+
+
+add
+
+modules.builtin
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+modules.order
+file
+
+
+
+add
+
+i2c-octeon.c
+file
+
+
+
+add
+
+i2c-parport.c
+file
+
+
+
+add
+
+i2c-nforce2-s4985.c
+file
+
+
+
+add
+
+i2c-iop3xx.c
+file
+
+
+
+add
+
+i2c-parport-light.c
+file
+
+
+
+add
+
+i2c-xiic.c
+file
+
+
+
+add
+
+i2c-parport.h
+file
+
+
+
+add
+
+.i2c-ssbi.o.cmd
+file
+
+
+
+add
+
+i2c-imx.c
+file
+
+
+
+add
+
+i2c-iop3xx.h
+file
+
+
+
+add
+
+scx200_i2c.c
+file
+
+
+
+add
+
+i2c-acorn.c
+file
+
+
+
+add
+
+i2c-highlander.c
+file
+
+
+
+add
+
+i2c-elektor.c
+file
+
+
+
+add
+
+i2c-davinci.c
+file
+
+
+
+add
+
+i2c-i801.c
+file
+
+
+
+add
+
+i2c-ali1535.c
+file
+
+
+
+add
+
+i2c-simtec.c
+file
+
+
+
+add
+
+i2c-isch.c
+file
+
+
+
+add
+
+i2c-amd756-s4882.c
+file
+
+
+
+add
+
+i2c-ibm_iic.c
+file
+
+
+
+add
+
+i2c-omap.c
+file
+
+
+
+add
+
+i2c-piix4.c
+file
+
+
+
+add
+
+i2c-versatile.c
+file
+
+
+
+add
+
+i2c-stu300.c
+file
+
+
+
+add
+
+i2c-nforce2.c
+file
+
+
+
+add
+
+i2c-s3c2410.c
+file
+
+
+
+add
+
+i2c-ibm_iic.h
+file
+
+
+
+add
+
+i2c-viapro.c
+file
+
+
+
+add
+
+i2c-sh_mobile.c
+file
+
+
+
+add
+
+i2c-ixp2000.c
+file
+
+
+
+add
+
+.i2c-qup-8x60.o.cmd
+file
+
+
+
+add
+
+i2c-sis96x.c
+file
+
+
+
+add
+
+i2c-tiny-usb.c
+file
+
+
+
+add
+
+i2c-stub.c
+file
+
+
+
+add
+
+i2c-at91.c
+file
+
+
+
+add
+
+i2c-pasemi.c
+file
+
+
+
+add
+
+i2c-via.c
+file
+
+
+
+add
+
+i2c-au1550.c
+file
+
+
+
+add
+

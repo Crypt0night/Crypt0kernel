@@ -1,0 +1,140 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/arm/mach-lh7a40x
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Makefile.boot
+file
+
+
+
+add
+
+time.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+include
+dir
+
+
+
+add
+
+lcd-panel.h
+file
+
+
+
+add
+
+clcd.c
+file
+
+
+
+add
+
+irq-lh7a400.c
+file
+
+
+
+add
+
+arch-kev7a400.c
+file
+
+
+
+add
+
+irq-lh7a404.c
+file
+
+
+
+add
+
+clocks.c
+file
+
+
+
+add
+
+arch-lpd7a40x.c
+file
+
+
+
+add
+
+ssp-cpld.c
+file
+
+
+
+add
+
+irq-kev7a400.c
+file
+
+
+
+add
+
+irq-lpd7a40x.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+common.h
+file
+
+
+
+add
+

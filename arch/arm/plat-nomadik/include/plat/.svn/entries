@@ -1,0 +1,56 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/arm/plat-nomadik/include/plat
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+i2c.h
+file
+
+
+
+add
+
+gpio.h
+file
+
+
+
+add
+
+ste_dma40.h
+file
+
+
+
+add
+
+mtu.h
+file
+
+
+
+add
+

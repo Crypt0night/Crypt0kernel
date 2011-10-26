@@ -1,0 +1,63 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/gpu/drm/i830
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+i830_irq.c
+file
+
+
+
+add
+
+i830_drv.c
+file
+
+
+
+add
+
+i830_drv.h
+file
+
+
+
+add
+
+i830_dma.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

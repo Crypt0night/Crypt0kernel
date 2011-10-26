@@ -1,0 +1,357 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/x86/math-emu
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+reg_add_sub.c
+file
+
+
+
+add
+
+reg_u_mul.S
+file
+
+
+
+add
+
+fpu_asm.h
+file
+
+
+
+add
+
+reg_divide.c
+file
+
+
+
+add
+
+fpu_emu.h
+file
+
+
+
+add
+
+shr_Xsig.S
+file
+
+
+
+add
+
+wm_shrx.S
+file
+
+
+
+add
+
+fpu_aux.c
+file
+
+
+
+add
+
+mul_Xsig.S
+file
+
+
+
+add
+
+polynom_Xsig.S
+file
+
+
+
+add
+
+control_w.h
+file
+
+
+
+add
+
+fpu_entry.c
+file
+
+
+
+add
+
+errors.c
+file
+
+
+
+add
+
+wm_sqrt.S
+file
+
+
+
+add
+
+reg_convert.c
+file
+
+
+
+add
+
+status_w.h
+file
+
+
+
+add
+
+poly_l2.c
+file
+
+
+
+add
+
+fpu_proto.h
+file
+
+
+
+add
+
+fpu_etc.c
+file
+
+
+
+add
+
+poly_atan.c
+file
+
+
+
+add
+
+reg_constant.c
+file
+
+
+
+add
+
+poly.h
+file
+
+
+
+add
+
+reg_mul.c
+file
+
+
+
+add
+
+div_small.S
+file
+
+
+
+add
+
+poly_2xm1.c
+file
+
+
+
+add
+
+reg_constant.h
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+div_Xsig.S
+file
+
+
+
+add
+
+round_Xsig.S
+file
+
+
+
+add
+
+fpu_system.h
+file
+
+
+
+add
+
+exception.h
+file
+
+
+
+add
+
+reg_round.S
+file
+
+
+
+add
+
+fpu_tags.c
+file
+
+
+
+add
+
+README
+file
+
+
+
+add
+
+fpu_trig.c
+file
+
+
+
+add
+
+fpu_arith.c
+file
+
+
+
+add
+
+reg_u_div.S
+file
+
+
+
+add
+
+reg_compare.c
+file
+
+
+
+add
+
+reg_ld_str.c
+file
+
+
+
+add
+
+get_address.c
+file
+
+
+
+add
+
+poly_tan.c
+file
+
+
+
+add
+
+reg_norm.S
+file
+
+
+
+add
+
+reg_u_add.S
+file
+
+
+
+add
+
+version.h
+file
+
+
+
+add
+
+reg_u_sub.S
+file
+
+
+
+add
+
+load_store.c
+file
+
+
+
+add
+
+poly_sin.c
+file
+
+
+
+add
+

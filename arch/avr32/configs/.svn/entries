@@ -1,0 +1,133 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/avr32/configs
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+atngw100_evklcd101_defconfig
+file
+
+
+
+add
+
+atngw100mkii_defconfig
+file
+
+
+
+add
+
+favr-32_defconfig
+file
+
+
+
+add
+
+merisc_defconfig
+file
+
+
+
+add
+
+atngw100mkii_evklcd100_defconfig
+file
+
+
+
+add
+
+atngw100mkii_evklcd101_defconfig
+file
+
+
+
+add
+
+atstk1002_defconfig
+file
+
+
+
+add
+
+atstk1003_defconfig
+file
+
+
+
+add
+
+atstk1004_defconfig
+file
+
+
+
+add
+
+hammerhead_defconfig
+file
+
+
+
+add
+
+atstk1006_defconfig
+file
+
+
+
+add
+
+atngw100_mrmt_defconfig
+file
+
+
+
+add
+
+atngw100_defconfig
+file
+
+
+
+add
+
+mimc200_defconfig
+file
+
+
+
+add
+
+atngw100_evklcd100_defconfig
+file
+
+
+
+add
+

@@ -1,0 +1,350 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/usb/storage
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+usb.h
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+unusual_usbat.h
+file
+
+
+
+add
+
+unusual_freecom.h
+file
+
+
+
+add
+
+isd200.c
+file
+
+
+
+add
+
+transport.h
+file
+
+
+
+add
+
+modules.order
+file
+
+
+
+add
+
+usual-tables.c
+file
+
+
+
+add
+
+unusual_datafab.h
+file
+
+
+
+add
+
+unusual_onetouch.h
+file
+
+
+
+add
+
+sddr09.c
+file
+
+
+
+add
+
+initializers.c
+file
+
+
+
+add
+
+unusual_alauda.h
+file
+
+
+
+add
+
+initializers.h
+file
+
+
+
+add
+
+unusual_devs.h
+file
+
+
+
+add
+
+unusual_isd200.h
+file
+
+
+
+add
+
+debug.c
+file
+
+
+
+add
+
+unusual_sddr09.h
+file
+
+
+
+add
+
+debug.h
+file
+
+
+
+add
+
+karma.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+protocol.c
+file
+
+
+
+add
+
+protocol.h
+file
+
+
+
+add
+
+sddr55.c
+file
+
+
+
+add
+
+option_ms.c
+file
+
+
+
+add
+
+unusual_cypress.h
+file
+
+
+
+add
+
+jumpshot.c
+file
+
+
+
+add
+
+unusual_karma.h
+file
+
+
+
+add
+
+option_ms.h
+file
+
+
+
+add
+
+scsiglue.c
+file
+
+
+
+add
+
+.built-in.o.cmd
+file
+
+
+
+add
+
+freecom.c
+file
+
+
+
+add
+
+libusual.c
+file
+
+
+
+add
+
+cypress_atacb.c
+file
+
+
+
+add
+
+datafab.c
+file
+
+
+
+add
+
+scsiglue.h
+file
+
+
+
+add
+
+sierra_ms.c
+file
+
+
+
+add
+
+onetouch.c
+file
+
+
+
+add
+
+shuttle_usbat.c
+file
+
+
+
+add
+
+unusual_sddr55.h
+file
+
+
+
+add
+
+alauda.c
+file
+
+
+
+add
+
+sierra_ms.h
+file
+
+
+
+add
+
+usb.c
+file
+
+
+
+add
+
+unusual_jumpshot.h
+file
+
+
+
+add
+
+transport.c
+file
+
+
+
+add
+
+modules.builtin
+file
+
+
+
+add
+

@@ -1,0 +1,49 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/gpu/drm/tdfx
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+tdfx_drv.c
+file
+
+
+
+add
+
+tdfx_drv.h
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

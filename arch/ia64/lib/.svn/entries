@@ -1,0 +1,189 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/ia64/lib
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+flush.S
+file
+
+
+
+add
+
+checksum.c
+file
+
+
+
+add
+
+clear_page.S
+file
+
+
+
+add
+
+strncpy_from_user.S
+file
+
+
+
+add
+
+strnlen_user.S
+file
+
+
+
+add
+
+clear_user.S
+file
+
+
+
+add
+
+memcpy_mck.S
+file
+
+
+
+add
+
+io.c
+file
+
+
+
+add
+
+do_csum.S
+file
+
+
+
+add
+
+memset.S
+file
+
+
+
+add
+
+carta_random.S
+file
+
+
+
+add
+
+memcpy.S
+file
+
+
+
+add
+
+csum_partial_copy.c
+file
+
+
+
+add
+
+copy_page_mck.S
+file
+
+
+
+add
+
+idiv32.S
+file
+
+
+
+add
+
+strlen_user.S
+file
+
+
+
+add
+
+idiv64.S
+file
+
+
+
+add
+
+copy_page.S
+file
+
+
+
+add
+
+strlen.S
+file
+
+
+
+add
+
+xor.S
+file
+
+
+
+add
+
+copy_user.S
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+ip_fast_csum.S
+file
+
+
+
+add
+

@@ -1,0 +1,175 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/include/crypto
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+aead.h
+file
+
+
+
+add
+
+compress.h
+file
+
+
+
+add
+
+algapi.h
+file
+
+
+
+add
+
+b128ops.h
+file
+
+
+
+add
+
+gf128mul.h
+file
+
+
+
+add
+
+cryptd.h
+file
+
+
+
+add
+
+skcipher.h
+file
+
+
+
+add
+
+aes.h
+file
+
+
+
+add
+
+sha.h
+file
+
+
+
+add
+
+des.h
+file
+
+
+
+add
+
+pcrypt.h
+file
+
+
+
+add
+
+hash.h
+file
+
+
+
+add
+
+twofish.h
+file
+
+
+
+add
+
+scatterwalk.h
+file
+
+
+
+add
+
+md5.h
+file
+
+
+
+add
+
+internal
+dir
+
+
+
+add
+
+vmac.h
+file
+
+
+
+add
+
+rng.h
+file
+
+
+
+add
+
+authenc.h
+file
+
+
+
+add
+
+crypto_wq.h
+file
+
+
+
+add
+
+ctr.h
+file
+
+
+
+add
+

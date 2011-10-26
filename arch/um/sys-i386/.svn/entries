@@ -1,0 +1,182 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/um/sys-i386
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+delay.c
+file
+
+
+
+add
+
+asm
+dir
+
+
+
+add
+
+bugs.c
+file
+
+
+
+add
+
+sys_call_table.S
+file
+
+
+
+add
+
+stub_segv.c
+file
+
+
+
+add
+
+tls.c
+file
+
+
+
+add
+
+ksyms.c
+file
+
+
+
+add
+
+fault.c
+file
+
+
+
+add
+
+ptrace_user.c
+file
+
+
+
+add
+
+bug.c
+file
+
+
+
+add
+
+signal.c
+file
+
+
+
+add
+
+ptrace.c
+file
+
+
+
+add
+
+elfcore.c
+file
+
+
+
+add
+
+sysrq.c
+file
+
+
+
+add
+
+checksum.S
+file
+
+
+
+add
+
+setjmp.S
+file
+
+
+
+add
+
+ldt.c
+file
+
+
+
+add
+
+user-offsets.c
+file
+
+
+
+add
+
+shared
+dir
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+stub.S
+file
+
+
+
+add
+
+syscalls.c
+file
+
+
+
+add
+

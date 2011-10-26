@@ -1,0 +1,105 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/xtensa
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+kernel
+dir
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+include
+dir
+
+
+
+add
+
+boot
+dir
+
+
+
+add
+
+Kconfig.debug
+file
+
+
+
+add
+
+lib
+dir
+
+
+
+add
+
+platforms
+dir
+
+
+
+add
+
+variants
+dir
+
+
+
+add
+
+configs
+dir
+
+
+
+add
+
+mm
+dir
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

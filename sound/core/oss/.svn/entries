@@ -1,0 +1,105 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/sound/core/oss
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+route.c
+file
+
+
+
+add
+
+pcm_plugin.h
+file
+
+
+
+add
+
+pcm_oss.c
+file
+
+
+
+add
+
+mulaw.c
+file
+
+
+
+add
+
+io.c
+file
+
+
+
+add
+
+mixer_oss.c
+file
+
+
+
+add
+
+linear.c
+file
+
+
+
+add
+
+copy.c
+file
+
+
+
+add
+
+rate.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+pcm_plugin.c
+file
+
+
+
+add
+

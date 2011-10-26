@@ -1,0 +1,84 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/isdn/act2000
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+act2000.h
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+capi.h
+file
+
+
+
+add
+
+act2000_isa.c
+file
+
+
+
+add
+
+module.c
+file
+
+
+
+add
+
+act2000_isa.h
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+capi.c
+file
+
+
+
+add
+

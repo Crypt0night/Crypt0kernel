@@ -1,0 +1,91 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/gpu/drm/radeon/reg_srcs
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+rv515
+file
+
+
+
+add
+
+evergreen
+file
+
+
+
+add
+
+r100
+file
+
+
+
+add
+
+r200
+file
+
+
+
+add
+
+rn50
+file
+
+
+
+add
+
+r300
+file
+
+
+
+add
+
+r420
+file
+
+
+
+add
+
+r600
+file
+
+
+
+add
+
+rs600
+file
+
+
+
+add
+

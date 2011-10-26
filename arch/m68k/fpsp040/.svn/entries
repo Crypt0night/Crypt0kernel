@@ -1,0 +1,336 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/m68k/fpsp040
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+smovecr.S
+file
+
+
+
+add
+
+sto_res.S
+file
+
+
+
+add
+
+x_unimp.S
+file
+
+
+
+add
+
+x_unsupp.S
+file
+
+
+
+add
+
+gen_except.S
+file
+
+
+
+add
+
+slogn.S
+file
+
+
+
+add
+
+bindec.S
+file
+
+
+
+add
+
+bugfix.S
+file
+
+
+
+add
+
+ssinh.S
+file
+
+
+
+add
+
+x_fline.S
+file
+
+
+
+add
+
+x_snan.S
+file
+
+
+
+add
+
+slog2.S
+file
+
+
+
+add
+
+round.S
+file
+
+
+
+add
+
+binstr.S
+file
+
+
+
+add
+
+tbldo.S
+file
+
+
+
+add
+
+srem_mod.S
+file
+
+
+
+add
+
+satan.S
+file
+
+
+
+add
+
+sacos.S
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+sint.S
+file
+
+
+
+add
+
+sasin.S
+file
+
+
+
+add
+
+stanh.S
+file
+
+
+
+add
+
+x_operr.S
+file
+
+
+
+add
+
+satanh.S
+file
+
+
+
+add
+
+scosh.S
+file
+
+
+
+add
+
+x_store.S
+file
+
+
+
+add
+
+sgetem.S
+file
+
+
+
+add
+
+decbin.S
+file
+
+
+
+add
+
+skeleton.S
+file
+
+
+
+add
+
+stwotox.S
+file
+
+
+
+add
+
+scale.S
+file
+
+
+
+add
+
+x_unfl.S
+file
+
+
+
+add
+
+README
+file
+
+
+
+add
+
+fpsp.h
+file
+
+
+
+add
+
+x_ovfl.S
+file
+
+
+
+add
+
+x_bsun.S
+file
+
+
+
+add
+
+setox.S
+file
+
+
+
+add
+
+res_func.S
+file
+
+
+
+add
+
+stan.S
+file
+
+
+
+add
+
+ssin.S
+file
+
+
+
+add
+
+kernel_ex.S
+file
+
+
+
+add
+
+get_op.S
+file
+
+
+
+add
+
+util.S
+file
+
+
+
+add
+
+do_func.S
+file
+
+
+
+add
+

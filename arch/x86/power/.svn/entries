@@ -1,0 +1,70 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/x86/power
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+hibernate_asm_32.S
+file
+
+
+
+add
+
+hibernate_32.c
+file
+
+
+
+add
+
+cpu.c
+file
+
+
+
+add
+
+hibernate_64.c
+file
+
+
+
+add
+
+hibernate_asm_64.S
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

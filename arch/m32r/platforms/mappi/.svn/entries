@@ -1,0 +1,70 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/m32r/platforms/mappi
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+dot.gdbinit.nommu
+file
+
+
+
+add
+
+setup.c
+file
+
+
+
+add
+
+dot.gdbinit.smp
+file
+
+
+
+add
+
+dot.gdbinit
+file
+
+
+
+add
+
+io.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

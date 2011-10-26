@@ -1,0 +1,77 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/avr32/boards/merisc
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+setup.c
+file
+
+
+
+add
+
+display.c
+file
+
+
+
+add
+
+merisc.h
+file
+
+
+
+add
+
+merisc_sysfs.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+flash.c
+file
+
+
+
+add
+

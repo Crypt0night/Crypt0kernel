@@ -1,0 +1,784 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/hwmon
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+vt1211.c
+file
+
+
+
+add
+
+applesmc.c
+file
+
+
+
+add
+
+ad7414.c
+file
+
+
+
+add
+
+fschmd.c
+file
+
+
+
+add
+
+adm1031.c
+file
+
+
+
+add
+
+max1619.c
+file
+
+
+
+add
+
+ad7418.c
+file
+
+
+
+add
+
+lm80.c
+file
+
+
+
+add
+
+k10temp.c
+file
+
+
+
+add
+
+lm63.c
+file
+
+
+
+add
+
+f75375s.c
+file
+
+
+
+add
+
+g760a.c
+file
+
+
+
+add
+
+asc7621.c
+file
+
+
+
+add
+
+w83792d.c
+file
+
+
+
+add
+
+w83l786ng.c
+file
+
+
+
+add
+
+via-cputemp.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+hp_accel.c
+file
+
+
+
+add
+
+.m_adc.o.cmd
+file
+
+
+
+add
+
+ams
+dir
+
+
+
+add
+
+pcf8591.c
+file
+
+
+
+add
+
+hdaps.c
+file
+
+
+
+add
+
+adt7475.c
+file
+
+
+
+add
+
+m_adc.c
+file
+
+
+
+add
+
+adm1021.c
+file
+
+
+
+add
+
+vt8231.c
+file
+
+
+
+add
+
+adcxx.c
+file
+
+
+
+add
+
+ultra45_env.c
+file
+
+
+
+add
+
+k8temp.c
+file
+
+
+
+add
+
+adm1025.c
+file
+
+
+
+add
+
+f71882fg.c
+file
+
+
+
+add
+
+asus_atk0110.c
+file
+
+
+
+add
+
+lm95241.c
+file
+
+
+
+add
+
+adm1029.c
+file
+
+
+
+add
+
+s3c-hwmon.c
+file
+
+
+
+add
+
+pc87427.c
+file
+
+
+
+add
+
+lm70.c
+file
+
+
+
+add
+
+.built-in.o.cmd
+file
+
+
+
+add
+
+adm9240.c
+file
+
+
+
+add
+
+amc6821.c
+file
+
+
+
+add
+
+lis3lv02d.c
+file
+
+
+
+add
+
+.m_adcproc.o.cmd
+file
+
+
+
+add
+
+lm93.c
+file
+
+
+
+add
+
+ibmpex.c
+file
+
+
+
+add
+
+tmp401.c
+file
+
+
+
+add
+
+w83781d.c
+file
+
+
+
+add
+
+w83791d.c
+file
+
+
+
+add
+
+m_adcproc.c
+file
+
+
+
+add
+
+lis3lv02d.h
+file
+
+
+
+add
+
+lm78.c
+file
+
+
+
+add
+
+abituguru3.c
+file
+
+
+
+add
+
+modules.builtin
+file
+
+
+
+add
+
+wm831x-hwmon.c
+file
+
+
+
+add
+
+atxp1.c
+file
+
+
+
+add
+
+ltc4215.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+ads7828.c
+file
+
+
+
+add
+
+modules.order
+file
+
+
+
+add
+
+i5k_amb.c
+file
+
+
+
+add
+
+abituguru.c
+file
+
+
+
+add
+
+emc1403.c
+file
+
+
+
+add
+
+ds1621.c
+file
+
+
+
+add
+
+lm83.c
+file
+
+
+
+add
+
+smsc47b397.c
+file
+
+
+
+add
+
+adt7411.c
+file
+
+
+
+add
+
+lm85.c
+file
+
+
+
+add
+
+sis5595.c
+file
+
+
+
+add
+
+lm87.c
+file
+
+
+
+add
+
+mc13783-adc.c
+file
+
+
+
+add
+
+ibmaem.c
+file
+
+
+
+add
+
+adt7470.c
+file
+
+
+
+add
+
+ads7871.c
+file
+
+
+
+add
+
+w83627hf.c
+file
+
+
+
+add
+
+f71805f.c
+file
+
+
+
+add
+
+gl518sm.c
+file
+
+
+
+add
+
+thmc50.c
+file
+
+
+
+add
+
+ltc4245.c
+file
+
+
+
+add
+
+w83627ehf.c
+file
+
+
+
+add
+
+sht15.c
+file
+
+
+
+add
+
+max6650.c
+file
+
+
+
+add
+
+w83l785ts.c
+file
+
+
+
+add
+
+hwmon-vid.c
+file
+
+
+
+add
+
+pc87360.c
+file
+
+
+
+add
+
+adm1026.c
+file
+
+
+
+add
+
+smsc47m1.c
+file
+
+
+
+add
+
+coretemp.c
+file
+
+
+
+add
+
+lis3lv02d_i2c.c
+file
+
+
+
+add
+
+lm90.c
+file
+
+
+
+add
+
+lm73.c
+file
+
+
+
+add
+
+tmp102.c
+file
+
+
+
+add
+
+lm92.c
+file
+
+
+
+add
+
+.hwmon.o.cmd
+file
+
+
+
+add
+
+via686a.c
+file
+
+
+
+add
+
+lm75.c
+file
+
+
+
+add
+
+w83793.c
+file
+
+
+
+add
+
+asb100.c
+file
+
+
+
+add
+
+lm77.c
+file
+
+
+
+add
+
+dme1737.c
+file
+
+
+
+add
+
+tmp421.c
+file
+
+
+
+add
+
+hwmon.c
+file
+
+
+
+add
+
+lm75.h
+file
+
+
+
+add
+
+smsc47m192.c
+file
+
+
+
+add
+
+gl520sm.c
+file
+
+
+
+add
+
+max1111.c
+file
+
+
+
+add
+
+wm8350-hwmon.c
+file
+
+
+
+add
+
+adt7462.c
+file
+
+
+
+add
+
+it87.c
+file
+
+
+
+add
+
+lis3lv02d_spi.c
+file
+
+
+
+add
+

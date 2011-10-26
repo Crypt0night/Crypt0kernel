@@ -1,0 +1,126 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/mips/pmc-sierra/msp71xx
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+gpio_extended.c
+file
+
+
+
+add
+
+msp_serial.c
+file
+
+
+
+add
+
+gpio.c
+file
+
+
+
+add
+
+msp_setup.c
+file
+
+
+
+add
+
+msp_elb.c
+file
+
+
+
+add
+
+msp_irq_cic.c
+file
+
+
+
+add
+
+msp_usb.c
+file
+
+
+
+add
+
+msp_irq_slp.c
+file
+
+
+
+add
+
+msp_hwbutton.c
+file
+
+
+
+add
+
+msp_irq.c
+file
+
+
+
+add
+
+msp_pci.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+msp_prom.c
+file
+
+
+
+add
+
+msp_time.c
+file
+
+
+
+add
+

@@ -1,0 +1,175 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/isdn/hardware/mISDN
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+netjet.h
+file
+
+
+
+add
+
+speedfax.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+mISDNinfineon.c
+file
+
+
+
+add
+
+hfc_pci.h
+file
+
+
+
+add
+
+hfcsusb.h
+file
+
+
+
+add
+
+w6692.h
+file
+
+
+
+add
+
+avmfritz.c
+file
+
+
+
+add
+
+isar.h
+file
+
+
+
+add
+
+mISDNipac.c
+file
+
+
+
+add
+
+hfcmulti.c
+file
+
+
+
+add
+
+iohelper.h
+file
+
+
+
+add
+
+hfc_multi.h
+file
+
+
+
+add
+
+ipac.h
+file
+
+
+
+add
+
+hfc_multi_8xx.h
+file
+
+
+
+add
+
+mISDNisar.c
+file
+
+
+
+add
+
+netjet.c
+file
+
+
+
+add
+
+hfcpci.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+w6692.c
+file
+
+
+
+add
+
+hfcsusb.c
+file
+
+
+
+add
+

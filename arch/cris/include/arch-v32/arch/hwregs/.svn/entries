@@ -1,0 +1,189 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/cris/include/arch-v32/arch/hwregs
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+asm
+dir
+
+
+
+add
+
+ser_defs.h
+file
+
+
+
+add
+
+bif_slave_defs.h
+file
+
+
+
+add
+
+irq_nmi_defs.h
+file
+
+
+
+add
+
+extmem_defs.h
+file
+
+
+
+add
+
+iop
+dir
+
+
+
+add
+
+dma.h
+file
+
+
+
+add
+
+dma_defs.h
+file
+
+
+
+add
+
+marb_bp_defs.h
+file
+
+
+
+add
+
+rt_trace_defs.h
+file
+
+
+
+add
+
+config_defs.h
+file
+
+
+
+add
+
+ata_defs.h
+file
+
+
+
+add
+
+cpu_vect.h
+file
+
+
+
+add
+
+bif_core_defs.h
+file
+
+
+
+add
+
+strcop.h
+file
+
+
+
+add
+
+strcop_defs.h
+file
+
+
+
+add
+
+reg_rdwr.h
+file
+
+
+
+add
+
+sser_defs.h
+file
+
+
+
+add
+
+eth_defs.h
+file
+
+
+
+add
+
+bif_dma_defs.h
+file
+
+
+
+add
+
+marb_defs.h
+file
+
+
+
+add
+
+supp_reg.h
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

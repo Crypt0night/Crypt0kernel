@@ -1,0 +1,63 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/Documentation/cdrom
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+cdrom-standard.tex
+file
+
+
+
+add
+
+00-INDEX
+file
+
+
+
+add
+
+ide-cd
+file
+
+
+
+add
+
+packet-writing.txt
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

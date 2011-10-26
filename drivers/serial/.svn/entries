@@ -1,0 +1,833 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/serial
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+8250.c
+file
+
+
+
+add
+
+bfin_sport_uart.c
+file
+
+
+
+add
+
+pnx8xxx_uart.c
+file
+
+
+
+add
+
+atmel_serial.c
+file
+
+
+
+add
+
+mpsc.c
+file
+
+
+
+add
+
+.msm_serial_hs_bcm.o.cmd
+file
+
+
+
+add
+
+msm_serial_hs_lite.c
+file
+
+
+
+add
+
+of_serial.c
+file
+
+
+
+add
+
+altera_uart.c
+file
+
+
+
+add
+
+8250.h
+file
+
+
+
+add
+
+nwpserial.c
+file
+
+
+
+add
+
+bfin_sport_uart.h
+file
+
+
+
+add
+
+ucc_uart.c
+file
+
+
+
+add
+
+msm_serial_hs_bcm.c
+file
+
+
+
+add
+
+altera_jtaguart.c
+file
+
+
+
+add
+
+mux.c
+file
+
+
+
+add
+
+suncore.c
+file
+
+
+
+add
+
+suncore.h
+file
+
+
+
+add
+
+.msm_serial_hs_ti_dc.o.cmd
+file
+
+
+
+add
+
+.msm_serial_hs_brcm.o.cmd
+file
+
+
+
+add
+
+bcm63xx_uart.c
+file
+
+
+
+add
+
+msm_serial_hs_ti_dc.c
+file
+
+
+
+add
+
+crisv10.c
+file
+
+
+
+add
+
+max3100.c
+file
+
+
+
+add
+
+amba-pl010.c
+file
+
+
+
+add
+
+netx-serial.c
+file
+
+
+
+add
+
+crisv10.h
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+m32r_sio.c
+file
+
+
+
+add
+
+sc26xx.c
+file
+
+
+
+add
+
+apbuart.c
+file
+
+
+
+add
+
+s3c2410.c
+file
+
+
+
+add
+
+s3c2412.c
+file
+
+
+
+add
+
+m32r_sio.h
+file
+
+
+
+add
+
+apbuart.h
+file
+
+
+
+add
+
+mcf.c
+file
+
+
+
+add
+
+jsm
+dir
+
+
+
+add
+
+8250_hp300.c
+file
+
+
+
+add
+
+8250_accent.c
+file
+
+
+
+add
+
+dz.c
+file
+
+
+
+add
+
+.msm_serial_hs_ti.o.cmd
+file
+
+
+
+add
+
+.built-in.o.cmd
+file
+
+
+
+add
+
+8250_acorn.c
+file
+
+
+
+add
+
+21285.c
+file
+
+
+
+add
+
+ip22zilog.c
+file
+
+
+
+add
+
+.msm_serial_hs.o.cmd
+file
+
+
+
+add
+
+dz.h
+file
+
+
+
+add
+
+8250_boca.c
+file
+
+
+
+add
+
+8250_hub6.c
+file
+
+
+
+add
+
+msm_serial_hs.c
+file
+
+
+
+add
+
+serial_lh7a40x.c
+file
+
+
+
+add
+
+ip22zilog.h
+file
+
+
+
+add
+
+sh-sci.c
+file
+
+
+
+add
+
+msm_serial.c
+file
+
+
+
+add
+
+sh-sci.h
+file
+
+
+
+add
+
+zs.c
+file
+
+
+
+add
+
+modules.builtin
+file
+
+
+
+add
+
+.msm_serial_hs_lite.o.cmd
+file
+
+
+
+add
+
+s3c2400.c
+file
+
+
+
+add
+
+m32r_sio_reg.h
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+msm_serial.h
+file
+
+
+
+add
+
+zs.h
+file
+
+
+
+add
+
+modules.order
+file
+
+
+
+add
+
+s3c2440.c
+file
+
+
+
+add
+
+sn_console.c
+file
+
+
+
+add
+
+s3c6400.c
+file
+
+
+
+add
+
+8250_pnp.c
+file
+
+
+
+add
+
+serial_txx9.c
+file
+
+
+
+add
+
+sunsu.c
+file
+
+
+
+add
+
+samsung.c
+file
+
+
+
+add
+
+8250_mca.c
+file
+
+
+
+add
+
+s3c24a0.c
+file
+
+
+
+add
+
+samsung.h
+file
+
+
+
+add
+
+68360serial.c
+file
+
+
+
+add
+
+msm_serial_hs_hwreg.h
+file
+
+
+
+add
+
+pxa.c
+file
+
+
+
+add
+
+msm_serial_hs_brcm.c
+file
+
+
+
+add
+
+8250_pci.c
+file
+
+
+
+add
+
+uartlite.c
+file
+
+
+
+add
+
+sb1250-duart.c
+file
+
+
+
+add
+
+8250_gsc.c
+file
+
+
+
+add
+
+68328serial.c
+file
+
+
+
+add
+
+sunsab.c
+file
+
+
+
+add
+
+amba-pl011.c
+file
+
+
+
+add
+
+8250_exar_st16c554.c
+file
+
+
+
+add
+
+ioc3_serial.c
+file
+
+
+
+add
+
+8250_fourport.c
+file
+
+
+
+add
+
+68328serial.h
+file
+
+
+
+add
+
+sunsab.h
+file
+
+
+
+add
+
+mpc52xx_uart.c
+file
+
+
+
+add
+
+sunhv.c
+file
+
+
+
+add
+
+serial_cs.c
+file
+
+
+
+add
+
+sa1100.c
+file
+
+
+
+add
+
+serial_ks8695.c
+file
+
+
+
+add
+
+sunzilog.c
+file
+
+
+
+add
+
+sunzilog.h
+file
+
+
+
+add
+
+s5pv210.c
+file
+
+
+
+add
+
+msm_serial_hs_ti.c
+file
+
+
+
+add
+
+clps711x.c
+file
+
+
+
+add
+
+bfin_5xx.c
+file
+
+
+
+add
+
+.serial_core.o.cmd
+file
+
+
+
+add
+
+pmac_zilog.c
+file
+
+
+
+add
+
+timbuart.c
+file
+
+
+
+add
+
+serial_core.c
+file
+
+
+
+add
+
+icom.c
+file
+
+
+
+add
+
+cpm_uart
+dir
+
+
+
+add
+
+pmac_zilog.h
+file
+
+
+
+add
+
+kgdboc.c
+file
+
+
+
+add
+
+8250_early.c
+file
+
+
+
+add
+
+vr41xx_siu.c
+file
+
+
+
+add
+
+icom.h
+file
+
+
+
+add
+
+timbuart.h
+file
+
+
+
+add
+
+ioc4_serial.c
+file
+
+
+
+add
+
+imx.c
+file
+
+
+
+add
+

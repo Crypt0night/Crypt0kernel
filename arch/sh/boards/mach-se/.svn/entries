@@ -1,0 +1,98 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/sh/boards/mach-se
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+7343
+dir
+
+
+
+add
+
+7721
+dir
+
+
+
+add
+
+7722
+dir
+
+
+
+add
+
+7724
+dir
+
+
+
+add
+
+7751
+dir
+
+
+
+add
+
+board-se7619.c
+file
+
+
+
+add
+
+7780
+dir
+
+
+
+add
+
+770x
+dir
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+7206
+dir
+
+
+
+add
+

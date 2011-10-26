@@ -1,0 +1,63 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/sh/boards/mach-hp6xx
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+setup.c
+file
+
+
+
+add
+
+pm_wakeup.S
+file
+
+
+
+add
+
+hp6xx_apm.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+pm.c
+file
+
+
+
+add
+

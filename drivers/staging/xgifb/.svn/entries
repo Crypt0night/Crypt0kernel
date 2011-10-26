@@ -1,0 +1,182 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/staging/xgifb
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+vb_init.h
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+XGI_main.h
+file
+
+
+
+add
+
+XGI_main_26.c
+file
+
+
+
+add
+
+vb_util.c
+file
+
+
+
+add
+
+XGIfb.h
+file
+
+
+
+add
+
+osdef.h
+file
+
+
+
+add
+
+vgatypes.h
+file
+
+
+
+add
+
+vb_util.h
+file
+
+
+
+add
+
+XGI_accel.c
+file
+
+
+
+add
+
+vb_struct.h
+file
+
+
+
+add
+
+vb_table.h
+file
+
+
+
+add
+
+XGI_accel.h
+file
+
+
+
+add
+
+TODO
+file
+
+
+
+add
+
+vb_setmode.c
+file
+
+
+
+add
+
+vb_ext.c
+file
+
+
+
+add
+
+vb_def.h
+file
+
+
+
+add
+
+vb_init.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+vb_ext.h
+file
+
+
+
+add
+
+XGI.h
+file
+
+
+
+add
+
+vb_setmode.h
+file
+
+
+
+add
+

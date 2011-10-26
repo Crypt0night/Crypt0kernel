@@ -1,0 +1,70 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/ia64/hp/sim/boot
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+fw-emu.c
+file
+
+
+
+add
+
+boot_head.S
+file
+
+
+
+add
+
+bootloader.lds
+file
+
+
+
+add
+
+bootloader.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+ssc.h
+file
+
+
+
+add
+

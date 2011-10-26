@@ -1,0 +1,63 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/isdn/divert
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+isdn_divert.h
+file
+
+
+
+add
+
+divert_init.c
+file
+
+
+
+add
+
+divert_procfs.c
+file
+
+
+
+add
+
+isdn_divert.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

@@ -1,0 +1,175 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/include
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+media
+dir
+
+
+
+add
+
+crypto
+dir
+
+
+
+add
+
+drm
+dir
+
+
+
+add
+
+rdma
+dir
+
+
+
+add
+
+mtd
+dir
+
+
+
+add
+
+net
+dir
+
+
+
+add
+
+sound
+dir
+
+
+
+add
+
+asm-generic
+dir
+
+
+
+add
+
+xen
+dir
+
+
+
+add
+
+pcmcia
+dir
+
+
+
+add
+
+trace
+dir
+
+
+
+add
+
+generated
+dir
+
+
+
+add
+
+rxrpc
+dir
+
+
+
+add
+
+linux
+dir
+
+
+
+add
+
+scsi
+dir
+
+
+
+add
+
+config
+dir
+
+
+
+add
+
+video
+dir
+
+
+
+add
+
+Kbuild
+file
+
+
+
+add
+
+keys
+dir
+
+
+
+add
+
+acpi
+dir
+
+
+
+add
+
+math-emu
+dir
+
+
+
+add
+

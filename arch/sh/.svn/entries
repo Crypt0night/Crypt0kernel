@@ -1,0 +1,147 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/sh
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+oprofile
+dir
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+kernel
+dir
+
+
+
+add
+
+lib64
+dir
+
+
+
+add
+
+include
+dir
+
+
+
+add
+
+configs
+dir
+
+
+
+add
+
+tools
+dir
+
+
+
+add
+
+boot
+dir
+
+
+
+add
+
+Kconfig.debug
+file
+
+
+
+add
+
+Kconfig.cpu
+file
+
+
+
+add
+
+lib
+dir
+
+
+
+add
+
+cchips
+dir
+
+
+
+add
+
+mm
+dir
+
+
+
+add
+
+boards
+dir
+
+
+
+add
+
+math-emu
+dir
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+drivers
+dir
+
+
+
+add
+

@@ -1,0 +1,84 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/media/video/gspca/gl860
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+gl860-ov2640.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+gl860.c
+file
+
+
+
+add
+
+gl860.h
+file
+
+
+
+add
+
+gl860-mi2020.c
+file
+
+
+
+add
+
+gl860-mi1320.c
+file
+
+
+
+add
+
+gl860-ov9655.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

@@ -1,0 +1,84 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/cris/arch-v32
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+kernel
+dir
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+lib
+dir
+
+
+
+add
+
+mm
+dir
+
+
+
+add
+
+mach-a3
+dir
+
+
+
+add
+
+output_arch.ld
+file
+
+
+
+add
+
+drivers
+dir
+
+
+
+add
+
+mach-fs
+dir
+
+
+
+add
+

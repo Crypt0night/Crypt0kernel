@@ -1,0 +1,77 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/char/pcmcia
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+synclink_cs.c
+file
+
+
+
+add
+
+cm4040_cs.h
+file
+
+
+
+add
+
+ipwireless
+dir
+
+
+
+add
+
+cm4000_cs.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+cm4040_cs.c
+file
+
+
+
+add
+

@@ -1,0 +1,49 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/xtensa/boot/boot-redboot
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+boot.ld
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+bootstrap.S
+file
+
+
+
+add
+

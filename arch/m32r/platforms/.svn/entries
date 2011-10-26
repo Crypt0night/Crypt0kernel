@@ -1,0 +1,91 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/m32r/platforms
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+m32104ut
+dir
+
+
+
+add
+
+usrv
+dir
+
+
+
+add
+
+m32700ut
+dir
+
+
+
+add
+
+oaks32r
+dir
+
+
+
+add
+
+mappi
+dir
+
+
+
+add
+
+mappi2
+dir
+
+
+
+add
+
+mappi3
+dir
+
+
+
+add
+
+opsput
+dir
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

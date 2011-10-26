@@ -1,0 +1,77 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/include/config/android
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+ram
+dir
+
+
+
+add
+
+low
+dir
+
+
+
+add
+
+timed
+dir
+
+
+
+add
+
+binder
+dir
+
+
+
+add
+
+pmem.h
+file
+
+
+
+add
+
+logger.h
+file
+
+
+
+add
+
+paranoid
+dir
+
+
+
+add
+

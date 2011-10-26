@@ -1,0 +1,154 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/mips/include/asm/mach-bcm63xx
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+war.h
+file
+
+
+
+add
+
+bcm63xx_timer.h
+file
+
+
+
+add
+
+board_bcm963xx.h
+file
+
+
+
+add
+
+gpio.h
+file
+
+
+
+add
+
+bcm63xx_dev_dsp.h
+file
+
+
+
+add
+
+bcm63xx_board.h
+file
+
+
+
+add
+
+bcm63xx_cpu.h
+file
+
+
+
+add
+
+bcm63xx_dev_enet.h
+file
+
+
+
+add
+
+bcm63xx_dev_pcmcia.h
+file
+
+
+
+add
+
+bcm63xx_irq.h
+file
+
+
+
+add
+
+bcm63xx_gpio.h
+file
+
+
+
+add
+
+bcm63xx_regs.h
+file
+
+
+
+add
+
+bcm63xx_cs.h
+file
+
+
+
+add
+
+cpu-feature-overrides.h
+file
+
+
+
+add
+
+bcm63xx_io.h
+file
+
+
+
+add
+
+bcm63xx_clk.h
+file
+
+
+
+add
+
+bcm63xx_dev_uart.h
+file
+
+
+
+add
+
+bcm63xx_dev_pci.h
+file
+
+
+
+add
+

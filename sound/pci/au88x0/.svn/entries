@@ -1,0 +1,217 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/sound/pci/au88x0
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+au88x0_xtalk.c
+file
+
+
+
+add
+
+modules.order
+file
+
+
+
+add
+
+au88x0_mixer.c
+file
+
+
+
+add
+
+au88x0.h
+file
+
+
+
+add
+
+au88x0_mpu401.c
+file
+
+
+
+add
+
+au88x0_xtalk.h
+file
+
+
+
+add
+
+au88x0_core.c
+file
+
+
+
+add
+
+au88x0_eqdata.c
+file
+
+
+
+add
+
+au88x0_wt.h
+file
+
+
+
+add
+
+au88x0_a3ddata.c
+file
+
+
+
+add
+
+.built-in.o.cmd
+file
+
+
+
+add
+
+au88x0_synth.c
+file
+
+
+
+add
+
+au88x0_eq.c
+file
+
+
+
+add
+
+au88x0_a3d.c
+file
+
+
+
+add
+
+au88x0_game.c
+file
+
+
+
+add
+
+au8810.c
+file
+
+
+
+add
+
+au88x0_eq.h
+file
+
+
+
+add
+
+au8820.c
+file
+
+
+
+add
+
+au8830.c
+file
+
+
+
+add
+
+au88x0_a3d.h
+file
+
+
+
+add
+
+au8810.h
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+au88x0_pcm.c
+file
+
+
+
+add
+
+au8820.h
+file
+
+
+
+add
+
+modules.builtin
+file
+
+
+
+add
+
+au88x0.c
+file
+
+
+
+add
+
+au8830.h
+file
+
+
+
+add
+

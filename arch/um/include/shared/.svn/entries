@@ -1,0 +1,315 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/um/include/shared
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+irq_user.h
+file
+
+
+
+add
+
+kern_util.h
+file
+
+
+
+add
+
+mem_kern.h
+file
+
+
+
+add
+
+mconsole_kern.h
+file
+
+
+
+add
+
+um_mmu.h
+file
+
+
+
+add
+
+skas_ptrace.h
+file
+
+
+
+add
+
+init.h
+file
+
+
+
+add
+
+elf_user.h
+file
+
+
+
+add
+
+net_kern.h
+file
+
+
+
+add
+
+chan_user.h
+file
+
+
+
+add
+
+ubd_user.h
+file
+
+
+
+add
+
+frame_kern.h
+file
+
+
+
+add
+
+irq_kern.h
+file
+
+
+
+add
+
+syscall.h
+file
+
+
+
+add
+
+process.h
+file
+
+
+
+add
+
+as-layout.h
+file
+
+
+
+add
+
+user.h
+file
+
+
+
+add
+
+mconsole.h
+file
+
+
+
+add
+
+os.h
+file
+
+
+
+add
+
+tlb.h
+file
+
+
+
+add
+
+ldt.h
+file
+
+
+
+add
+
+skas_ptregs.h
+file
+
+
+
+add
+
+um_uaccess.h
+file
+
+
+
+add
+
+chan_kern.h
+file
+
+
+
+add
+
+initrd.h
+file
+
+
+
+add
+
+common-offsets.h
+file
+
+
+
+add
+
+kern.h
+file
+
+
+
+add
+
+task.h
+file
+
+
+
+add
+
+longjmp.h
+file
+
+
+
+add
+
+registers.h
+file
+
+
+
+add
+
+um_malloc.h
+file
+
+
+
+add
+
+aio.h
+file
+
+
+
+add
+
+sigio.h
+file
+
+
+
+add
+
+skas
+dir
+
+
+
+add
+
+ptrace_user.h
+file
+
+
+
+add
+
+mem_user.h
+file
+
+
+
+add
+
+arch.h
+file
+
+
+
+add
+
+mem.h
+file
+
+
+
+add
+
+sysrq.h
+file
+
+
+
+add
+
+net_user.h
+file
+
+
+
+add
+
+line.h
+file
+
+
+
+add
+

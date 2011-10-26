@@ -1,0 +1,182 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/powerpc/platforms/powermac
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+low_i2c.c
+file
+
+
+
+add
+
+time.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+smp.c
+file
+
+
+
+add
+
+setup.c
+file
+
+
+
+add
+
+pfunc_base.c
+file
+
+
+
+add
+
+cpufreq_32.c
+file
+
+
+
+add
+
+udbg_scc.c
+file
+
+
+
+add
+
+pci.c
+file
+
+
+
+add
+
+pic.c
+file
+
+
+
+add
+
+cpufreq_64.c
+file
+
+
+
+add
+
+bootx_init.c
+file
+
+
+
+add
+
+pic.h
+file
+
+
+
+add
+
+nvram.c
+file
+
+
+
+add
+
+cache.S
+file
+
+
+
+add
+
+pfunc_core.c
+file
+
+
+
+add
+
+pmac.h
+file
+
+
+
+add
+
+udbg_adb.c
+file
+
+
+
+add
+
+sleep.S
+file
+
+
+
+add
+
+backlight.c
+file
+
+
+
+add
+
+feature.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

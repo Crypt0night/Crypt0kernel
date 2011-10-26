@@ -1,0 +1,140 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/video/geode
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+gxfb_core.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+lxfb.h
+file
+
+
+
+add
+
+geodefb.h
+file
+
+
+
+add
+
+lxfb_core.c
+file
+
+
+
+add
+
+display_gx.c
+file
+
+
+
+add
+
+video_gx.c
+file
+
+
+
+add
+
+video_cs5530.c
+file
+
+
+
+add
+
+lxfb_ops.c
+file
+
+
+
+add
+
+video_cs5530.h
+file
+
+
+
+add
+
+gx1fb_core.c
+file
+
+
+
+add
+
+suspend_gx.c
+file
+
+
+
+add
+
+display_gx1.c
+file
+
+
+
+add
+
+display_gx1.h
+file
+
+
+
+add
+
+gxfb.h
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

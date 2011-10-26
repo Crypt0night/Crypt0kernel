@@ -1,0 +1,119 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/tools/perf/scripts/perl/bin
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+check-perf-trace-record
+file
+
+
+
+add
+
+workqueue-stats-record
+file
+
+
+
+add
+
+wakeup-latency-report
+file
+
+
+
+add
+
+rw-by-pid-report
+file
+
+
+
+add
+
+rwtop-report
+file
+
+
+
+add
+
+wakeup-latency-record
+file
+
+
+
+add
+
+rw-by-file-report
+file
+
+
+
+add
+
+rw-by-pid-record
+file
+
+
+
+add
+
+rwtop-record
+file
+
+
+
+add
+
+failed-syscalls-report
+file
+
+
+
+add
+
+rw-by-file-record
+file
+
+
+
+add
+
+failed-syscalls-record
+file
+
+
+
+add
+
+workqueue-stats-report
+file
+
+
+
+add
+

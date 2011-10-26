@@ -1,0 +1,175 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/powerpc/platforms/85xx
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+tqm85xx.c
+file
+
+
+
+add
+
+smp.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+sbc8548.c
+file
+
+
+
+add
+
+p4080_ds.c
+file
+
+
+
+add
+
+mpc85xx_ds.c
+file
+
+
+
+add
+
+mpc85xx_ads.c
+file
+
+
+
+add
+
+mpc85xx_rdb.c
+file
+
+
+
+add
+
+mpc85xx_cds.c
+file
+
+
+
+add
+
+ksi8560.c
+file
+
+
+
+add
+
+socrates_fpga_pic.c
+file
+
+
+
+add
+
+mpc85xx_mds.c
+file
+
+
+
+add
+
+socrates_fpga_pic.h
+file
+
+
+
+add
+
+socrates.c
+file
+
+
+
+add
+
+corenet_ds.c
+file
+
+
+
+add
+
+stx_gp3.c
+file
+
+
+
+add
+
+sbc8560.c
+file
+
+
+
+add
+
+corenet_ds.h
+file
+
+
+
+add
+
+mpc8536_ds.c
+file
+
+
+
+add
+
+xes_mpc85xx.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

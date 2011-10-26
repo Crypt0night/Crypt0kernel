@@ -1,0 +1,133 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/fs/ncpfs
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+inode.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+sock.c
+file
+
+
+
+add
+
+ncpsign_kernel.c
+file
+
+
+
+add
+
+getopt.c
+file
+
+
+
+add
+
+ncpsign_kernel.h
+file
+
+
+
+add
+
+ncplib_kernel.c
+file
+
+
+
+add
+
+getopt.h
+file
+
+
+
+add
+
+ioctl.c
+file
+
+
+
+add
+
+ncplib_kernel.h
+file
+
+
+
+add
+
+dir.c
+file
+
+
+
+add
+
+file.c
+file
+
+
+
+add
+
+symlink.c
+file
+
+
+
+add
+
+mmap.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

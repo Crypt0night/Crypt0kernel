@@ -1,0 +1,154 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/media/dvb/b2c2
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+flexcop-dma.c
+file
+
+
+
+add
+
+flexcop-hw-filter.c
+file
+
+
+
+add
+
+flexcop.c
+file
+
+
+
+add
+
+flexcop-sram.c
+file
+
+
+
+add
+
+flexcop_ibi_value_le.h
+file
+
+
+
+add
+
+flexcop.h
+file
+
+
+
+add
+
+flexcop-pci.c
+file
+
+
+
+add
+
+flexcop-i2c.c
+file
+
+
+
+add
+
+flexcop-reg.h
+file
+
+
+
+add
+
+flexcop-fe-tuner.c
+file
+
+
+
+add
+
+flexcop-eeprom.c
+file
+
+
+
+add
+
+flexcop-usb.c
+file
+
+
+
+add
+
+flexcop-misc.c
+file
+
+
+
+add
+
+flexcop_ibi_value_be.h
+file
+
+
+
+add
+
+flexcop-common.h
+file
+
+
+
+add
+
+flexcop-usb.h
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

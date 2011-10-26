@@ -1,0 +1,84 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/s390
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+crypto
+dir
+
+
+
+add
+
+scsi
+dir
+
+
+
+add
+
+net
+dir
+
+
+
+add
+
+block
+dir
+
+
+
+add
+
+cio
+dir
+
+
+
+add
+
+kvm
+dir
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+char
+dir
+
+
+
+add
+

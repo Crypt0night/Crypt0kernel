@@ -1,0 +1,602 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/isdn/hardware/eicon
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+s_bri.c
+file
+
+
+
+add
+
+divamnt.c
+file
+
+
+
+add
+
+diva_dma.c
+file
+
+
+
+add
+
+um_idi.c
+file
+
+
+
+add
+
+pkmaint.h
+file
+
+
+
+add
+
+diva_dma.h
+file
+
+
+
+add
+
+um_idi.h
+file
+
+
+
+add
+
+s_pri.c
+file
+
+
+
+add
+
+os_bri.c
+file
+
+
+
+add
+
+cardtype.h
+file
+
+
+
+add
+
+entity.h
+file
+
+
+
+add
+
+os_bri.h
+file
+
+
+
+add
+
+divasfunc.c
+file
+
+
+
+add
+
+message.c
+file
+
+
+
+add
+
+divasync.h
+file
+
+
+
+add
+
+debug.c
+file
+
+
+
+add
+
+capidtmf.c
+file
+
+
+
+add
+
+xdi_vers.h
+file
+
+
+
+add
+
+sdp_hdr.h
+file
+
+
+
+add
+
+xdi_adapter.h
+file
+
+
+
+add
+
+um_xdi.h
+file
+
+
+
+add
+
+pc_init.h
+file
+
+
+
+add
+
+os_pri.c
+file
+
+
+
+add
+
+capidtmf.h
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+dfifo.h
+file
+
+
+
+add
+
+dspdids.h
+file
+
+
+
+add
+
+os_pri.h
+file
+
+
+
+add
+
+did_vers.h
+file
+
+
+
+add
+
+diva_didd.c
+file
+
+
+
+add
+
+helpers.h
+file
+
+
+
+add
+
+divasi.c
+file
+
+
+
+add
+
+idifunc.c
+file
+
+
+
+add
+
+capimain.c
+file
+
+
+
+add
+
+man_defs.h
+file
+
+
+
+add
+
+os_capi.h
+file
+
+
+
+add
+
+dadapter.c
+file
+
+
+
+add
+
+divacapi.h
+file
+
+
+
+add
+
+kst_ifc.h
+file
+
+
+
+add
+
+mdm_msg.h
+file
+
+
+
+add
+
+dadapter.h
+file
+
+
+
+add
+
+divasproc.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+xdi_msg.h
+file
+
+
+
+add
+
+di_defs.h
+file
+
+
+
+add
+
+dsrv4bri.h
+file
+
+
+
+add
+
+istream.c
+file
+
+
+
+add
+
+cp_vers.h
+file
+
+
+
+add
+
+io.c
+file
+
+
+
+add
+
+debug_if.h
+file
+
+
+
+add
+
+mntfunc.c
+file
+
+
+
+add
+
+divasmain.c
+file
+
+
+
+add
+
+io.h
+file
+
+
+
+add
+
+di_dbg.h
+file
+
+
+
+add
+
+debuglib.c
+file
+
+
+
+add
+
+dsrv_bri.h
+file
+
+
+
+add
+
+diddfunc.c
+file
+
+
+
+add
+
+debuglib.h
+file
+
+
+
+add
+
+diva_pci.h
+file
+
+
+
+add
+
+adapter.h
+file
+
+
+
+add
+
+dqueue.c
+file
+
+
+
+add
+
+platform.h
+file
+
+
+
+add
+
+dsp_defs.h
+file
+
+
+
+add
+
+di.c
+file
+
+
+
+add
+
+dsrv_pri.h
+file
+
+
+
+add
+
+dqueue.h
+file
+
+
+
+add
+
+maintidi.c
+file
+
+
+
+add
+
+pc_maint.h
+file
+
+
+
+add
+
+os_4bri.c
+file
+
+
+
+add
+
+di.h
+file
+
+
+
+add
+
+maintidi.h
+file
+
+
+
+add
+
+os_4bri.h
+file
+
+
+
+add
+
+pc.h
+file
+
+
+
+add
+
+pr_pc.h
+file
+
+
+
+add
+
+s_4bri.c
+file
+
+
+
+add
+
+diva.c
+file
+
+
+
+add
+
+capi20.h
+file
+
+
+
+add
+
+dsp_tst.h
+file
+
+
+
+add
+
+capifunc.c
+file
+
+
+
+add
+
+diva.h
+file
+
+
+
+add
+
+mi_pc.h
+file
+
+
+
+add
+
+capifunc.h
+file
+
+
+
+add
+

@@ -1,0 +1,98 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/uio
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+uio_pci_generic.c
+file
+
+
+
+add
+
+uio_aec.c
+file
+
+
+
+add
+
+uio_pdrv.c
+file
+
+
+
+add
+
+uio_netx.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+uio.c
+file
+
+
+
+add
+
+uio_pdrv_genirq.c
+file
+
+
+
+add
+
+uio_sercos3.c
+file
+
+
+
+add
+
+uio_cif.c
+file
+
+
+
+add
+

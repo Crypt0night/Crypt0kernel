@@ -1,0 +1,532 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arm-2010q1/share/doc/arm-arm-none-linux-gnueabi/html/cpp
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Ifdef.html
+file
+
+
+
+add
+
+Elif.html
+file
+
+
+
+add
+
+Self_002dReferential-Macros.html
+file
+
+
+
+add
+
+Object_002dlike-Macros.html
+file
+
+
+
+add
+
+Implementation-limits.html
+file
+
+
+
+add
+
+Preprocessor-Output.html
+file
+
+
+
+add
+
+Once_002dOnly-Headers.html
+file
+
+
+
+add
+
+Traditional-Mode.html
+file
+
+
+
+add
+
+Traditional-macros.html
+file
+
+
+
+add
+
+Concept-Index.html
+file
+
+
+
+add
+
+trigraphs.html
+file
+
+
+
+add
+
+Variadic-Macros.html
+file
+
+
+
+add
+
+Overview.html
+file
+
+
+
+add
+
+Environment-Variables.html
+file
+
+
+
+add
+
+Option-Index.html
+file
+
+
+
+add
+
+Deleted-Code.html
+file
+
+
+
+add
+
+Misnesting.html
+file
+
+
+
+add
+
+Macros.html
+file
+
+
+
+add
+
+Computed-Includes.html
+file
+
+
+
+add
+
+Concatenation.html
+file
+
+
+
+add
+
+Predefined-Macros.html
+file
+
+
+
+add
+
+Wrapper-Headers.html
+file
+
+
+
+add
+
+Wtrigraphs.html
+file
+
+
+
+add
+
+Swallowing-the-Semicolon.html
+file
+
+
+
+add
+
+Newlines-in-Arguments.html
+file
+
+
+
+add
+
+fdollars_002din_002didentifiers.html
+file
+
+
+
+add
+
+If.html
+file
+
+
+
+add
+
+Defined.html
+file
+
+
+
+add
+
+Identifier-characters.html
+file
+
+
+
+add
+
+Search-Path.html
+file
+
+
+
+add
+
+Traditional-warnings.html
+file
+
+
+
+add
+
+Initial-processing.html
+file
+
+
+
+add
+
+Line-Control.html
+file
+
+
+
+add
+
+Operator-Precedence-Problems.html
+file
+
+
+
+add
+
+Diagnostics.html
+file
+
+
+
+add
+
+Include-Syntax.html
+file
+
+
+
+add
+
+Implementation-Details.html
+file
+
+
+
+add
+
+Index-of-Directives.html
+file
+
+
+
+add
+
+Traditional-miscellany.html
+file
+
+
+
+add
+
+Common-Predefined-Macros.html
+file
+
+
+
+add
+
+Conditional-Uses.html
+file
+
+
+
+add
+
+Conditional-Syntax.html
+file
+
+
+
+add
+
+Obsolete-Features.html
+file
+
+
+
+add
+
+Alternatives-to-Wrapper-_0023ifndef.html
+file
+
+
+
+add
+
+Stringification.html
+file
+
+
+
+add
+
+System-Headers.html
+file
+
+
+
+add
+
+Differences-from-previous-versions.html
+file
+
+
+
+add
+
+GNU-Free-Documentation-License.html
+file
+
+
+
+add
+
+dashMF.html
+file
+
+
+
+add
+
+Character-sets.html
+file
+
+
+
+add
+
+Duplication-of-Side-Effects.html
+file
+
+
+
+add
+
+Macro-Pitfalls.html
+file
+
+
+
+add
+
+Tokenization.html
+file
+
+
+
+add
+
+Other-Directives.html
+file
+
+
+
+add
+
+Undefining-and-Redefining-Macros.html
+file
+
+
+
+add
+
+Include-Operation.html
+file
+
+
+
+add
+
+The-preprocessing-language.html
+file
+
+
+
+add
+
+Standard-Predefined-Macros.html
+file
+
+
+
+add
+
+Conditionals.html
+file
+
+
+
+add
+
+C_002b_002b-Named-Operators.html
+file
+
+
+
+add
+
+Implementation_002ddefined-behavior.html
+file
+
+
+
+add
+
+Header-Files.html
+file
+
+
+
+add
+
+Else.html
+file
+
+
+
+add
+
+Pragmas.html
+file
+
+
+
+add
+
+Function_002dlike-Macros.html
+file
+
+
+
+add
+
+Directives-Within-Macro-Arguments.html
+file
+
+
+
+add
+
+Macro-Arguments.html
+file
+
+
+
+add
+
+System_002dspecific-Predefined-Macros.html
+file
+
+
+
+add
+
+index.html
+file
+
+
+
+add
+
+Invocation.html
+file
+
+
+
+add
+
+Traditional-lexical-analysis.html
+file
+
+
+
+add
+
+Argument-Prescan.html
+file
+
+
+
+add
+

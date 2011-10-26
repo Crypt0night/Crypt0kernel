@@ -1,0 +1,98 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/char/tpm
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+tpm_tis.c
+file
+
+
+
+add
+
+tpm.c
+file
+
+
+
+add
+
+tpm_atmel.c
+file
+
+
+
+add
+
+tpm_nsc.c
+file
+
+
+
+add
+
+tpm.h
+file
+
+
+
+add
+
+tpm_infineon.c
+file
+
+
+
+add
+
+tpm_atmel.h
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+tpm_bios.c
+file
+
+
+
+add
+

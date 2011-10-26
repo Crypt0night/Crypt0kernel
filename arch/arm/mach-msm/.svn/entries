@@ -1,0 +1,1988 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/arm/mach-msm
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+htc_sleep_clk.c
+file
+
+
+
+add
+
+.io.o.cmd
+file
+
+
+
+add
+
+msm_bus_core.c
+file
+
+
+
+add
+
+msm_bus_dbg.c
+file
+
+
+
+add
+
+msm_bus_core.h
+file
+
+
+
+add
+
+subsystem-fatal-8x60.c
+file
+
+
+
+add
+
+.mpp.o.cmd
+file
+
+
+
+add
+
+mpp.c
+file
+
+
+
+add
+
+saw-regulator.c
+file
+
+
+
+add
+
+smd_qmi-8x60.c
+file
+
+
+
+add
+
+mkrpcsym.pl
+file
+
+
+
+add
+
+board-sapphire.c
+file
+
+
+
+add
+
+saw-regulator.h
+file
+
+
+
+add
+
+board-qsd8x50.c
+file
+
+
+
+add
+
+include
+dir
+
+
+
+add
+
+pwrtest.c
+file
+
+
+
+add
+
+acpuclock.h
+file
+
+
+
+add
+
+.board-shooter_u-rfkill.o.cmd
+file
+
+
+
+add
+
+.proc_comm.o.cmd
+file
+
+
+
+add
+
+.htc_wifi_nvs.o.cmd
+file
+
+
+
+add
+
+acpuclock-arm11.c
+file
+
+
+
+add
+
+display
+dir
+
+
+
+add
+
+smd_debug.c
+file
+
+
+
+add
+
+.rpm_log.o.cmd
+file
+
+
+
+add
+
+board-shooter_u.c
+file
+
+
+
+add
+
+.modem_notifier.o.cmd
+file
+
+
+
+add
+
+.pmu.o.cmd
+file
+
+
+
+add
+
+sysinfo-8x60.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+socinfo.c
+file
+
+
+
+add
+
+board-shooter_u.h
+file
+
+
+
+add
+
+sysinfo-8x60.h
+file
+
+
+
+add
+
+.acpuclock-8x60.o.cmd
+file
+
+
+
+add
+
+smd_rpcrouter_servers-8x60.c
+file
+
+
+
+add
+
+io.c
+file
+
+
+
+add
+
+.msm_watchdog.o.cmd
+file
+
+
+
+add
+
+.msm_bus_core.o.cmd
+file
+
+
+
+add
+
+.clock-debug.o.cmd
+file
+
+
+
+add
+
+gpiomux-v2.c
+file
+
+
+
+add
+
+rpm_stats.h
+file
+
+
+
+add
+
+scm-boot.c
+file
+
+
+
+add
+
+htc_headset_pmic.c
+file
+
+
+
+add
+
+.rpm_resources.o.cmd
+file
+
+
+
+add
+
+scm-boot.h
+file
+
+
+
+add
+
+.peripheral-loader.o.cmd
+file
+
+
+
+add
+
+peripheral-loader.c
+file
+
+
+
+add
+
+spm.c
+file
+
+
+
+add
+
+ping_mdm_rpc_client-8x60.c
+file
+
+
+
+add
+
+.smd_pkt-8x60.o.cmd
+file
+
+
+
+add
+
+htc_headset_8x60.c
+file
+
+
+
+add
+
+.cpufreq.o.cmd
+file
+
+
+
+add
+
+vreg.c
+file
+
+
+
+add
+
+.drv_callback.o.cmd
+file
+
+
+
+add
+
+.board-shooter_u-keypad.o.cmd
+file
+
+
+
+add
+
+peripheral-loader.h
+file
+
+
+
+add
+
+spm.h
+file
+
+
+
+add
+
+.rpcrouter_smd_xprt-8x60.o.cmd
+file
+
+
+
+add
+
+board-shooter_u-mmc.c
+file
+
+
+
+add
+
+board-shooter_u-audio-data.h
+file
+
+
+
+add
+
+smd_rpcrouter_xdr-8x60.c
+file
+
+
+
+add
+
+.smd_rpc_sym.o.cmd
+file
+
+
+
+add
+
+.platsmp.o.cmd
+file
+
+
+
+add
+
+board-shooter_u-rfkill.c
+file
+
+
+
+add
+
+.scm.o.cmd
+file
+
+
+
+add
+
+pm.h
+file
+
+
+
+add
+
+.clock-voter.o.cmd
+file
+
+
+
+add
+
+.htc_headset_gpio.o.cmd
+file
+
+
+
+add
+
+rmt_storage_client-8x60.c
+file
+
+
+
+add
+
+.smd_rpcrouter-8x60.o.cmd
+file
+
+
+
+add
+
+.nand_partitions.o.cmd
+file
+
+
+
+add
+
+clock-voter.c
+file
+
+
+
+add
+
+.sysinfo-8x60.o.cmd
+file
+
+
+
+add
+
+.clock-8x60.o.cmd
+file
+
+
+
+add
+
+clock-voter.h
+file
+
+
+
+add
+
+htc_battery_8x60.c
+file
+
+
+
+add
+
+.htc_simlock-8x60.o.cmd
+file
+
+
+
+add
+
+.smd_rpcrouter_servers-8x60.o.cmd
+file
+
+
+
+add
+
+.htc_headset_mgr.o.cmd
+file
+
+
+
+add
+
+.devices_htc.o.cmd
+file
+
+
+
+add
+
+msm_watchdog.c
+file
+
+
+
+add
+
+board-halibut.c
+file
+
+
+
+add
+
+.msm_bus_dbg.o.cmd
+file
+
+
+
+add
+
+htc_set_perflock.c
+file
+
+
+
+add
+
+.htc_headset_pmic.o.cmd
+file
+
+
+
+add
+
+.scm-boot.o.cmd
+file
+
+
+
+add
+
+.timer-8x60.o.cmd
+file
+
+
+
+add
+
+devices_htc.c
+file
+
+
+
+add
+
+msm_watchdog.h
+file
+
+
+
+add
+
+smd_tty-8x60.c
+file
+
+
+
+add
+
+.footswitch-8x60.o.cmd
+file
+
+
+
+add
+
+board-shooter_u-audio.c
+file
+
+
+
+add
+
+.ping_mdm_rpc_client-8x60.o.cmd
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+Makefile.boot
+file
+
+
+
+add
+
+.devices-msm8x60.o.cmd
+file
+
+
+
+add
+
+smd_rpc_sym
+file
+
+
+
+add
+
+dma.c
+file
+
+
+
+add
+
+devices-msm8x60.c
+file
+
+
+
+add
+
+smd_pkt-8x60.c
+file
+
+
+
+add
+
+.pmic8058-mpp-8x60.o.cmd
+file
+
+
+
+add
+
+devices-msm8x60.h
+file
+
+
+
+add
+
+memory.c
+file
+
+
+
+add
+
+.headsmp.o.cmd
+file
+
+
+
+add
+
+.clock-core.o.cmd
+file
+
+
+
+add
+
+proc_comm.c
+file
+
+
+
+add
+
+smd_private.h
+file
+
+
+
+add
+
+.htc_awb_cal.o.cmd
+file
+
+
+
+add
+
+proc_comm.h
+file
+
+
+
+add
+
+restart.c
+file
+
+
+
+add
+
+msm_dsps.c
+file
+
+
+
+add
+
+.oem_rapi_client-8x60.o.cmd
+file
+
+
+
+add
+
+.htc_acoustic_8x60.o.cmd
+file
+
+
+
+add
+
+smd_rpcrouter-8x60.c
+file
+
+
+
+add
+
+gpiomux-8x60.c
+file
+
+
+
+add
+
+smd_debug-8x60.c
+file
+
+
+
+add
+
+msm_ddr_regs-8x60.inc
+file
+
+
+
+add
+
+gpiomux-8x60.h
+file
+
+
+
+add
+
+smd_rpcrouter-8x60.h
+file
+
+
+
+add
+
+htc_simlock-8x60.c
+file
+
+
+
+add
+
+.clock-local.o.cmd
+file
+
+
+
+add
+
+clock-debug.c
+file
+
+
+
+add
+
+pm-8x60.c
+file
+
+
+
+add
+
+.cpuidle.o.cmd
+file
+
+
+
+add
+
+.subsystem-fatal-8x60.o.cmd
+file
+
+
+
+add
+
+timer-8x60.c
+file
+
+
+
+add
+
+gpiomux.c
+file
+
+
+
+add
+
+rpm_resources.c
+file
+
+
+
+add
+
+.remote_spinlock.o.cmd
+file
+
+
+
+add
+
+.rpm.o.cmd
+file
+
+
+
+add
+
+gpiomux.h
+file
+
+
+
+add
+
+rpm_resources.h
+file
+
+
+
+add
+
+devices-msm7x30.c
+file
+
+
+
+add
+
+.msm_sleep_stats.o.cmd
+file
+
+
+
+add
+
+msm_xo.c
+file
+
+
+
+add
+
+msm_sleep_stats.c
+file
+
+
+
+add
+
+7x30-lte
+dir
+
+
+
+add
+
+.msm_fault_handlers.o.cmd
+file
+
+
+
+add
+
+cpufreq.c
+file
+
+
+
+add
+
+board-msm7x27.c
+file
+
+
+
+add
+
+smd_rpc_sym.c
+file
+
+
+
+add
+
+.rmt_storage_client-8x60.o.cmd
+file
+
+
+
+add
+
+smd.c
+file
+
+
+
+add
+
+smd_rpc_sym.h
+file
+
+
+
+add
+
+ssbi_8x60.c
+file
+
+
+
+add
+
+clock-pcom.c
+file
+
+
+
+add
+
+.htc_sleep_clk.o.cmd
+file
+
+
+
+add
+
+oem_rapi_client-8x60.c
+file
+
+
+
+add
+
+clock-pcom.h
+file
+
+
+
+add
+
+modem_notifier.c
+file
+
+
+
+add
+
+.smem_log-8x60.o.cmd
+file
+
+
+
+add
+
+smem_log-8x60.c
+file
+
+
+
+add
+
+modem_notifier.h
+file
+
+
+
+add
+
+.gpiomux-v2.o.cmd
+file
+
+
+
+add
+
+msm_bus_fabric.c
+file
+
+
+
+add
+
+.msm_show_resume_irq.o.cmd
+file
+
+
+
+add
+
+.board-shooter_u-wifi.o.cmd
+file
+
+
+
+add
+
+idle-v7-8x60.S
+file
+
+
+
+add
+
+irq.c
+file
+
+
+
+add
+
+.htc_headset_8x60.o.cmd
+file
+
+
+
+add
+
+.dma.o.cmd
+file
+
+
+
+add
+
+footswitch.h
+file
+
+
+
+add
+
+avs.h
+file
+
+
+
+add
+
+.msm_xo.o.cmd
+file
+
+
+
+add
+
+headsmp.S
+file
+
+
+
+add
+
+.pwrtest.o.cmd
+file
+
+
+
+add
+
+.smd_rpcrouter_device-8x60.o.cmd
+file
+
+
+
+add
+
+drv_callback.c
+file
+
+
+
+add
+
+msm_fault_handlers.c
+file
+
+
+
+add
+
+.htc_port_list.o.cmd
+file
+
+
+
+add
+
+pmic8058-mpp-8x60.c
+file
+
+
+
+add
+
+peripheral-reset.c
+file
+
+
+
+add
+
+pmic8058-gpio-8x60.c
+file
+
+
+
+add
+
+smd_rpcrouter_clients-8x60.c
+file
+
+
+
+add
+
+htc_port_list.c
+file
+
+
+
+add
+
+htc_battery_core.c
+file
+
+
+
+add
+
+gpio-v2.c
+file
+
+
+
+add
+
+scm-io.c
+file
+
+
+
+add
+
+.board-shooter_u.o.cmd
+file
+
+
+
+add
+
+htc_headset_gpio.c
+file
+
+
+
+add
+
+.rpm-regulator.o.cmd
+file
+
+
+
+add
+
+.socinfo.o.cmd
+file
+
+
+
+add
+
+idle.S
+file
+
+
+
+add
+
+clock-8x60.c
+file
+
+
+
+add
+
+modules.order
+file
+
+
+
+add
+
+clock-8x60.h
+file
+
+
+
+add
+
+.pm-8x60.o.cmd
+file
+
+
+
+add
+
+last_radio_log.c
+file
+
+
+
+add
+
+idle.h
+file
+
+
+
+add
+
+.smd_tty-8x60.o.cmd
+file
+
+
+
+add
+
+clock-local.c
+file
+
+
+
+add
+
+.clock-rpm.o.cmd
+file
+
+
+
+add
+
+.htc_bdaddress.o.cmd
+file
+
+
+
+add
+
+cpuidle.c
+file
+
+
+
+add
+
+clock-rpm.c
+file
+
+
+
+add
+
+clock-local.h
+file
+
+
+
+add
+
+board-shooter_u-wifi.c
+file
+
+
+
+add
+
+mpm.c
+file
+
+
+
+add
+
+htc_bdaddress.c
+file
+
+
+
+add
+
+cpuidle.h
+file
+
+
+
+add
+
+devices-msm8x60-iommu.h
+file
+
+
+
+add
+
+.msm_bus_board_8660.o.cmd
+file
+
+
+
+add
+
+clock-rpm.h
+file
+
+
+
+add
+
+.scm-log.o.cmd
+file
+
+
+
+add
+
+remote_spinlock.c
+file
+
+
+
+add
+
+mpm.h
+file
+
+
+
+add
+
+.board-shooter_u-mmc.o.cmd
+file
+
+
+
+add
+
+board-mahimahi.c
+file
+
+
+
+add
+
+.ping_apps_server-8x60.o.cmd
+file
+
+
+
+add
+
+gpio_chip.h
+file
+
+
+
+add
+
+.peripheral-reset.o.cmd
+file
+
+
+
+add
+
+.pmic8058-gpio-8x60.o.cmd
+file
+
+
+
+add
+
+.smd_rpcrouter_clients-8x60.o.cmd
+file
+
+
+
+add
+
+rpcrouter_smd_xprt-8x60.c
+file
+
+
+
+add
+
+ping_apps_server-8x60.c
+file
+
+
+
+add
+
+platsmp.c
+file
+
+
+
+add
+
+htc_wifi_nvs.c
+file
+
+
+
+add
+
+.smd-8x60.o.cmd
+file
+
+
+
+add
+
+scm.c
+file
+
+
+
+add
+
+clock.c
+file
+
+
+
+add
+
+nand_partitions.c
+file
+
+
+
+add
+
+devices-qsd8x50.c
+file
+
+
+
+add
+
+gpio.c
+file
+
+
+
+add
+
+clock-7x30.h
+file
+
+
+
+add
+
+clock.h
+file
+
+
+
+add
+
+radio_feedback.c
+file
+
+
+
+add
+
+board-msm7x30.c
+file
+
+
+
+add
+
+acpuclock-8x60.c
+file
+
+
+
+add
+
+htc_headset_mgr.c
+file
+
+
+
+add
+
+qdsp6v2
+dir
+
+
+
+add
+
+msm_show_resume_irq.c
+file
+
+
+
+add
+
+.board-shooter_u-audio.o.cmd
+file
+
+
+
+add
+
+.saw-regulator.o.cmd
+file
+
+
+
+add
+
+footswitch-8x60.c
+file
+
+
+
+add
+
+.msm_flashlight.o.cmd
+file
+
+
+
+add
+
+msm_bus_board_8660.c
+file
+
+
+
+add
+
+.smd_rpcrouter_xdr-8x60.o.cmd
+file
+
+
+
+add
+
+board-shooter_u-keypad.c
+file
+
+
+
+add
+
+smd_rpcrouter_device-8x60.c
+file
+
+
+
+add
+
+.built-in.o.cmd
+file
+
+
+
+add
+
+.gpio-v2.o.cmd
+file
+
+
+
+add
+
+.restart.o.cmd
+file
+
+
+
+add
+
+smd_private-8x60.h
+file
+
+
+
+add
+
+smd-8x60.c
+file
+
+
+
+add
+
+htc_awb_cal.c
+file
+
+
+
+add
+
+.htc_battery_8x60.o.cmd
+file
+
+
+
+add
+
+devices-msm7x00.c
+file
+
+
+
+add
+
+modules.builtin
+file
+
+
+
+add
+
+htc_acoustic_8x60.c
+file
+
+
+
+add
+
+.radio_feedback.o.cmd
+file
+
+
+
+add
+
+rpm_log.c
+file
+
+
+
+add
+
+rpm-regulator.c
+file
+
+
+
+add
+
+pmu.c
+file
+
+
+
+add
+
+rpm_log.h
+file
+
+
+
+add
+
+perflock.c
+file
+
+
+
+add
+
+rpm-regulator.h
+file
+
+
+
+add
+
+.msm_bus_fabric.o.cmd
+file
+
+
+
+add
+
+irq-vic.c
+file
+
+
+
+add
+
+.gpiomux.o.cmd
+file
+
+
+
+add
+
+.mpm.o.cmd
+file
+
+
+
+add
+
+devices.h
+file
+
+
+
+add
+
+.smd_qmi-8x60.o.cmd
+file
+
+
+
+add
+
+.spm.o.cmd
+file
+
+
+
+add
+
+rpm.c
+file
+
+
+
+add
+
+sirc.c
+file
+
+
+
+add
+
+scm-log.c
+file
+
+
+
+add
+
+msm_flashlight.c
+file
+
+
+
+add
+
+board-trout.c
+file
+
+
+
+add
+
+rpm.h
+file
+
+
+
+add
+
+.memory.o.cmd
+file
+
+
+
+add
+
+.idle-v7-8x60.o.cmd
+file
+
+
+
+add
+
+board-trout.h
+file
+
+
+
+add
+
+.htc_battery_core.o.cmd
+file
+
+
+
+add
+
+timer.c
+file
+
+
+
+add
+
+.msm_dsps.o.cmd
+file
+
+
+
+add
+
+.ssbi_8x60.o.cmd
+file
+
+
+
+add
+
+clock-core.c
+file
+
+
+
+add
+
+.scm-io.o.cmd
+file
+
+
+
+add
+
+timer.h
+file
+
+
+
+add
+
+.gpiomux-8x60.o.cmd
+file
+
+
+
+add
+
+.smd_debug-8x60.o.cmd
+file
+
+
+
+add
+

@@ -1,0 +1,98 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/of
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+gpio.c
+file
+
+
+
+add
+
+device.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+of_spi.c
+file
+
+
+
+add
+
+of_i2c.c
+file
+
+
+
+add
+
+platform.c
+file
+
+
+
+add
+
+base.c
+file
+
+
+
+add
+
+of_mdio.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+fdt.c
+file
+
+
+
+add
+

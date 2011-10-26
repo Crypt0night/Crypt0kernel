@@ -1,0 +1,119 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/mips/cobalt
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+time.c
+file
+
+
+
+add
+
+buttons.c
+file
+
+
+
+add
+
+serial.c
+file
+
+
+
+add
+
+setup.c
+file
+
+
+
+add
+
+console.c
+file
+
+
+
+add
+
+lcd.c
+file
+
+
+
+add
+
+reset.c
+file
+
+
+
+add
+
+mtd.c
+file
+
+
+
+add
+
+led.c
+file
+
+
+
+add
+
+rtc.c
+file
+
+
+
+add
+
+irq.c
+file
+
+
+
+add
+
+pci.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

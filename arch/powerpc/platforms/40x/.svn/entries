@@ -1,0 +1,77 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/powerpc/platforms/40x
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+virtex.c
+file
+
+
+
+add
+
+hcu4.c
+file
+
+
+
+add
+
+ppc40x_simple.c
+file
+
+
+
+add
+
+walnut.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+ep405.c
+file
+
+
+
+add
+

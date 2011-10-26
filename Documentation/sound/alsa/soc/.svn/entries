@@ -1,0 +1,91 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/Documentation/sound/alsa/soc
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+dapm.txt
+file
+
+
+
+add
+
+machine.txt
+file
+
+
+
+add
+
+platform.txt
+file
+
+
+
+add
+
+overview.txt
+file
+
+
+
+add
+
+jack.txt
+file
+
+
+
+add
+
+pops_clicks.txt
+file
+
+
+
+add
+
+clocking.txt
+file
+
+
+
+add
+
+codec.txt
+file
+
+
+
+add
+
+DAI.txt
+file
+
+
+
+add
+

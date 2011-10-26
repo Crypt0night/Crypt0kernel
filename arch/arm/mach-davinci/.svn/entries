@@ -1,0 +1,315 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/arm/mach-davinci
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+gpio.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+clock.h
+file
+
+
+
+add
+
+sram.c
+file
+
+
+
+add
+
+board-dm355-leopard.c
+file
+
+
+
+add
+
+board-dm355-evm.c
+file
+
+
+
+add
+
+io.c
+file
+
+
+
+add
+
+mux.c
+file
+
+
+
+add
+
+board-sffsdr.c
+file
+
+
+
+add
+
+mux.h
+file
+
+
+
+add
+
+cp_intc.c
+file
+
+
+
+add
+
+serial.c
+file
+
+
+
+add
+
+devices.c
+file
+
+
+
+add
+
+cpuidle.c
+file
+
+
+
+add
+
+irq.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+Makefile.boot
+file
+
+
+
+add
+
+dm365.c
+file
+
+
+
+add
+
+time.c
+file
+
+
+
+add
+
+board-dm644x-evm.c
+file
+
+
+
+add
+
+dma.c
+file
+
+
+
+add
+
+include
+dir
+
+
+
+add
+
+board-dm646x-evm.c
+file
+
+
+
+add
+
+cdce949.c
+file
+
+
+
+add
+
+board-neuros-osd2.c
+file
+
+
+
+add
+
+cpufreq.c
+file
+
+
+
+add
+
+board-dm365-evm.c
+file
+
+
+
+add
+
+pm.c
+file
+
+
+
+add
+
+devices-da8xx.c
+file
+
+
+
+add
+
+da830.c
+file
+
+
+
+add
+
+da850.c
+file
+
+
+
+add
+
+psc.c
+file
+
+
+
+add
+
+dm644x.c
+file
+
+
+
+add
+
+common.c
+file
+
+
+
+add
+
+dm646x.c
+file
+
+
+
+add
+
+sleep.S
+file
+
+
+
+add
+
+usb.c
+file
+
+
+
+add
+
+board-da830-evm.c
+file
+
+
+
+add
+
+board-da850-evm.c
+file
+
+
+
+add
+
+clock.c
+file
+
+
+
+add
+
+dm355.c
+file
+
+
+
+add
+

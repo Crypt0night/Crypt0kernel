@@ -1,0 +1,350 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/ieee1394
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+ieee1394_hotplug.h
+file
+
+
+
+add
+
+dv1394.h
+file
+
+
+
+add
+
+iso.h
+file
+
+
+
+add
+
+ieee1394_core.c
+file
+
+
+
+add
+
+modules.order
+file
+
+
+
+add
+
+csr1212.h
+file
+
+
+
+add
+
+ohci1394.c
+file
+
+
+
+add
+
+ieee1394-ioctl.h
+file
+
+
+
+add
+
+config_roms.c
+file
+
+
+
+add
+
+ieee1394_core.h
+file
+
+
+
+add
+
+dv1394-private.h
+file
+
+
+
+add
+
+ohci1394.h
+file
+
+
+
+add
+
+config_roms.h
+file
+
+
+
+add
+
+raw1394.c
+file
+
+
+
+add
+
+raw1394.h
+file
+
+
+
+add
+
+ieee1394_transactions.c
+file
+
+
+
+add
+
+ieee1394_transactions.h
+file
+
+
+
+add
+
+raw1394-private.h
+file
+
+
+
+add
+
+nodemgr.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+hosts.c
+file
+
+
+
+add
+
+nodemgr.h
+file
+
+
+
+add
+
+eth1394.c
+file
+
+
+
+add
+
+dma.c
+file
+
+
+
+add
+
+hosts.h
+file
+
+
+
+add
+
+eth1394.h
+file
+
+
+
+add
+
+sbp2.c
+file
+
+
+
+add
+
+dma.h
+file
+
+
+
+add
+
+init_ohci1394_dma.c
+file
+
+
+
+add
+
+highlevel.c
+file
+
+
+
+add
+
+sbp2.h
+file
+
+
+
+add
+
+highlevel.h
+file
+
+
+
+add
+
+.built-in.o.cmd
+file
+
+
+
+add
+
+ieee1394_types.h
+file
+
+
+
+add
+
+pcilynx.c
+file
+
+
+
+add
+
+video1394.c
+file
+
+
+
+add
+
+csr.c
+file
+
+
+
+add
+
+dv1394.c
+file
+
+
+
+add
+
+iso.c
+file
+
+
+
+add
+
+pcilynx.h
+file
+
+
+
+add
+
+csr.h
+file
+
+
+
+add
+
+video1394.h
+file
+
+
+
+add
+
+modules.builtin
+file
+
+
+
+add
+
+csr1212.c
+file
+
+
+
+add
+
+ieee1394.h
+file
+
+
+
+add
+

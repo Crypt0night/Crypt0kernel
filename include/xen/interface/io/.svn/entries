@@ -1,0 +1,91 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/include/xen/interface/io
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+ring.h
+file
+
+
+
+add
+
+kbdif.h
+file
+
+
+
+add
+
+xs_wire.h
+file
+
+
+
+add
+
+console.h
+file
+
+
+
+add
+
+xenbus.h
+file
+
+
+
+add
+
+protocols.h
+file
+
+
+
+add
+
+netif.h
+file
+
+
+
+add
+
+fbif.h
+file
+
+
+
+add
+
+blkif.h
+file
+
+
+
+add
+

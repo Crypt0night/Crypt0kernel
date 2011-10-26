@@ -1,0 +1,84 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/mips/loongson/common/cs5536
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+cs5536_acc.c
+file
+
+
+
+add
+
+cs5536_ehci.c
+file
+
+
+
+add
+
+cs5536_pci.c
+file
+
+
+
+add
+
+cs5536_isa.c
+file
+
+
+
+add
+
+cs5536_mfgpt.c
+file
+
+
+
+add
+
+cs5536_ide.c
+file
+
+
+
+add
+
+cs5536_ohci.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

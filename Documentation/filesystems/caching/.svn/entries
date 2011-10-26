@@ -1,0 +1,70 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/Documentation/filesystems/caching
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+operations.txt
+file
+
+
+
+add
+
+netfs-api.txt
+file
+
+
+
+add
+
+object.txt
+file
+
+
+
+add
+
+cachefiles.txt
+file
+
+
+
+add
+
+fscache.txt
+file
+
+
+
+add
+
+backend-api.txt
+file
+
+
+
+add
+

@@ -1,0 +1,238 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/arm/mach-ixp4xx
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+goramo_mlr.c
+file
+
+
+
+add
+
+Makefile.boot
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+coyote-setup.c
+file
+
+
+
+add
+
+common-pci.c
+file
+
+
+
+add
+
+nslu2-setup.c
+file
+
+
+
+add
+
+include
+dir
+
+
+
+add
+
+nas100d-setup.c
+file
+
+
+
+add
+
+avila-pci.c
+file
+
+
+
+add
+
+ixp4xx_npe.c
+file
+
+
+
+add
+
+gateway7001-setup.c
+file
+
+
+
+add
+
+wg302v2-setup.c
+file
+
+
+
+add
+
+ixdp425-pci.c
+file
+
+
+
+add
+
+gtwx5715-setup.c
+file
+
+
+
+add
+
+coyote-pci.c
+file
+
+
+
+add
+
+nslu2-pci.c
+file
+
+
+
+add
+
+fsg-setup.c
+file
+
+
+
+add
+
+dsmg600-setup.c
+file
+
+
+
+add
+
+nas100d-pci.c
+file
+
+
+
+add
+
+ixdpg425-pci.c
+file
+
+
+
+add
+
+gateway7001-pci.c
+file
+
+
+
+add
+
+wg302v2-pci.c
+file
+
+
+
+add
+
+gtwx5715-pci.c
+file
+
+
+
+add
+
+common.c
+file
+
+
+
+add
+
+fsg-pci.c
+file
+
+
+
+add
+
+dsmg600-pci.c
+file
+
+
+
+add
+
+ixp4xx_qmgr.c
+file
+
+
+
+add
+
+avila-setup.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+ixdp425-setup.c
+file
+
+
+
+add
+

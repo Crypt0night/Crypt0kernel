@@ -1,0 +1,224 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/include/config/crypto
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+arc4.h
+file
+
+
+
+add
+
+ecb.h
+file
+
+
+
+add
+
+aead.h
+file
+
+
+
+add
+
+manager2.h
+file
+
+
+
+add
+
+sha1.h
+file
+
+
+
+add
+
+algapi.h
+file
+
+
+
+add
+
+twofish
+dir
+
+
+
+add
+
+blkcipher.h
+file
+
+
+
+add
+
+deflate.h
+file
+
+
+
+add
+
+hash2.h
+file
+
+
+
+add
+
+rng2.h
+file
+
+
+
+add
+
+hmac.h
+file
+
+
+
+add
+
+aes.h
+file
+
+
+
+add
+
+manager.h
+file
+
+
+
+add
+
+des.h
+file
+
+
+
+add
+
+aead2.h
+file
+
+
+
+add
+
+hw.h
+file
+
+
+
+add
+
+pcomp.h
+file
+
+
+
+add
+
+crc32c.h
+file
+
+
+
+add
+
+algapi2.h
+file
+
+
+
+add
+
+hash.h
+file
+
+
+
+add
+
+twofish.h
+file
+
+
+
+add
+
+manager
+dir
+
+
+
+add
+
+blkcipher2.h
+file
+
+
+
+add
+
+md5.h
+file
+
+
+
+add
+
+authenc.h
+file
+
+
+
+add
+
+workqueue.h
+file
+
+
+
+add
+
+cbc.h
+file
+
+
+
+add
+

@@ -1,0 +1,63 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/kernel/debug
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+debug_core.c
+file
+
+
+
+add
+
+kdb
+dir
+
+
+
+add
+
+debug_core.h
+file
+
+
+
+add
+
+gdbstub.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

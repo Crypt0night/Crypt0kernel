@@ -1,0 +1,91 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/mips/nxp/pnx8550/common
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+time.c
+file
+
+
+
+add
+
+setup.c
+file
+
+
+
+add
+
+reset.c
+file
+
+
+
+add
+
+proc.c
+file
+
+
+
+add
+
+platform.c
+file
+
+
+
+add
+
+int.c
+file
+
+
+
+add
+
+pci.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+prom.c
+file
+
+
+
+add
+

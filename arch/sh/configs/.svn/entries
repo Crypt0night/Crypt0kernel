@@ -1,0 +1,378 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/sh/configs
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+sdk7786_defconfig
+file
+
+
+
+add
+
+hp6xx_defconfig
+file
+
+
+
+add
+
+shmin_defconfig
+file
+
+
+
+add
+
+se7712_defconfig
+file
+
+
+
+add
+
+se7750_defconfig
+file
+
+
+
+add
+
+se7751_defconfig
+file
+
+
+
+add
+
+sh7770_generic_defconfig
+file
+
+
+
+add
+
+systemh_defconfig
+file
+
+
+
+add
+
+r7785rp_defconfig
+file
+
+
+
+add
+
+se7619_defconfig
+file
+
+
+
+add
+
+kfr2r09_defconfig
+file
+
+
+
+add
+
+snapgear_defconfig
+file
+
+
+
+add
+
+ul2_defconfig
+file
+
+
+
+add
+
+dreamcast_defconfig
+file
+
+
+
+add
+
+magicpanelr2_defconfig
+file
+
+
+
+add
+
+ap325rxa_defconfig
+file
+
+
+
+add
+
+sh7785lcr_defconfig
+file
+
+
+
+add
+
+microdev_defconfig
+file
+
+
+
+add
+
+cayman_defconfig
+file
+
+
+
+add
+
+polaris_defconfig
+file
+
+
+
+add
+
+rsk7201_defconfig
+file
+
+
+
+add
+
+sh7785lcr_32bit_defconfig
+file
+
+
+
+add
+
+espt_defconfig
+file
+
+
+
+add
+
+rsk7203_defconfig
+file
+
+
+
+add
+
+migor_defconfig
+file
+
+
+
+add
+
+sh03_defconfig
+file
+
+
+
+add
+
+lboxre2_defconfig
+file
+
+
+
+add
+
+titan_defconfig
+file
+
+
+
+add
+
+r7780mp_defconfig
+file
+
+
+
+add
+
+shx3_defconfig
+file
+
+
+
+add
+
+landisk_defconfig
+file
+
+
+
+add
+
+rts7751r2d1_defconfig
+file
+
+
+
+add
+
+sh7710voipgw_defconfig
+file
+
+
+
+add
+
+se7206_defconfig
+file
+
+
+
+add
+
+se7343_defconfig
+file
+
+
+
+add
+
+se7721_defconfig
+file
+
+
+
+add
+
+edosk7705_defconfig
+file
+
+
+
+add
+
+se7722_defconfig
+file
+
+
+
+add
+
+edosk7760_defconfig
+file
+
+
+
+add
+
+urquell_defconfig
+file
+
+
+
+add
+
+sh7724_generic_defconfig
+file
+
+
+
+add
+
+se7705_defconfig
+file
+
+
+
+add
+
+se7724_defconfig
+file
+
+
+
+add
+
+kfr2r09-romimage_defconfig
+file
+
+
+
+add
+
+se7780_defconfig
+file
+
+
+
+add
+
+sh7763rdp_defconfig
+file
+
+
+
+add
+
+sdk7780_defconfig
+file
+
+
+
+add
+
+ecovec24-romimage_defconfig
+file
+
+
+
+add
+
+rts7751r2dplus_defconfig
+file
+
+
+
+add
+
+ecovec24_defconfig
+file
+
+
+
+add
+

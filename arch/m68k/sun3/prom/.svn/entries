@@ -1,0 +1,63 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/m68k/sun3/prom
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+console.c
+file
+
+
+
+add
+
+printf.c
+file
+
+
+
+add
+
+init.c
+file
+
+
+
+add
+
+misc.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

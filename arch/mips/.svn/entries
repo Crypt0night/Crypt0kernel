@@ -1,0 +1,301 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/mips
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+oprofile
+dir
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+kernel
+dir
+
+
+
+add
+
+alchemy
+dir
+
+
+
+add
+
+mti-malta
+dir
+
+
+
+add
+
+sni
+dir
+
+
+
+add
+
+ar7
+dir
+
+
+
+add
+
+dec
+dir
+
+
+
+add
+
+sgi-ip22
+dir
+
+
+
+add
+
+rb532
+dir
+
+
+
+add
+
+loongson
+dir
+
+
+
+add
+
+sgi-ip27
+dir
+
+
+
+add
+
+pmc-sierra
+dir
+
+
+
+add
+
+boot
+dir
+
+
+
+add
+
+cobalt
+dir
+
+
+
+add
+
+lasat
+dir
+
+
+
+add
+
+nxp
+dir
+
+
+
+add
+
+lib
+dir
+
+
+
+add
+
+powertv
+dir
+
+
+
+add
+
+gt64120
+dir
+
+
+
+add
+
+cavium-octeon
+dir
+
+
+
+add
+
+pci
+dir
+
+
+
+add
+
+txx9
+dir
+
+
+
+add
+
+fw
+dir
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+emma
+dir
+
+
+
+add
+
+mipssim
+dir
+
+
+
+add
+
+include
+dir
+
+
+
+add
+
+configs
+dir
+
+
+
+add
+
+bcm63xx
+dir
+
+
+
+add
+
+bcm47xx
+dir
+
+
+
+add
+
+power
+dir
+
+
+
+add
+
+sgi-ip32
+dir
+
+
+
+add
+
+sibyte
+dir
+
+
+
+add
+
+Kconfig.debug
+file
+
+
+
+add
+
+mm
+dir
+
+
+
+add
+
+vr41xx
+dir
+
+
+
+add
+
+math-emu
+dir
+
+
+
+add
+
+jazz
+dir
+
+
+
+add
+

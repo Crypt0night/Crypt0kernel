@@ -1,0 +1,126 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/mtd/chips
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+cfi_util.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+gen_probe.c
+file
+
+
+
+add
+
+cfi_cmdset_0001.c
+file
+
+
+
+add
+
+jedec_probe.c
+file
+
+
+
+add
+
+cfi_cmdset_0002.c
+file
+
+
+
+add
+
+chipreg.c
+file
+
+
+
+add
+
+fwh_lock.h
+file
+
+
+
+add
+
+cfi_cmdset_0020.c
+file
+
+
+
+add
+
+cfi_probe.c
+file
+
+
+
+add
+
+map_absent.c
+file
+
+
+
+add
+
+map_rom.c
+file
+
+
+
+add
+
+map_ram.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

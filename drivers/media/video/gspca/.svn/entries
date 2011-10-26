@@ -1,0 +1,350 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/media/video/gspca
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+sonixb.c
+file
+
+
+
+add
+
+sn9c20x.c
+file
+
+
+
+add
+
+sonixj.c
+file
+
+
+
+add
+
+w996Xcf.c
+file
+
+
+
+add
+
+pac7302.c
+file
+
+
+
+add
+
+jeilinj.c
+file
+
+
+
+add
+
+sq905c.c
+file
+
+
+
+add
+
+stk014.c
+file
+
+
+
+add
+
+etoms.c
+file
+
+
+
+add
+
+sn9c2028.c
+file
+
+
+
+add
+
+m5602
+dir
+
+
+
+add
+
+jpeg.h
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+sn9c2028.h
+file
+
+
+
+add
+
+gspca.c
+file
+
+
+
+add
+
+zc3xx-reg.h
+file
+
+
+
+add
+
+mars.c
+file
+
+
+
+add
+
+gspca.h
+file
+
+
+
+add
+
+finepix.c
+file
+
+
+
+add
+
+coarse_expo_autogain.h
+file
+
+
+
+add
+
+ov534_9.c
+file
+
+
+
+add
+
+sunplus.c
+file
+
+
+
+add
+
+tv8532.c
+file
+
+
+
+add
+
+spca500.c
+file
+
+
+
+add
+
+spca501.c
+file
+
+
+
+add
+
+conex.c
+file
+
+
+
+add
+
+pac7311.c
+file
+
+
+
+add
+
+zc3xx.c
+file
+
+
+
+add
+
+gl860
+dir
+
+
+
+add
+
+ov534.c
+file
+
+
+
+add
+
+pac_common.h
+file
+
+
+
+add
+
+spca505.c
+file
+
+
+
+add
+
+stv06xx
+dir
+
+
+
+add
+
+sq905.c
+file
+
+
+
+add
+
+spca506.c
+file
+
+
+
+add
+
+spca561.c
+file
+
+
+
+add
+
+spca508.c
+file
+
+
+
+add
+
+mr97310a.c
+file
+
+
+
+add
+
+ov519.c
+file
+
+
+
+add
+
+vc032x.c
+file
+
+
+
+add
+
+benq.c
+file
+
+
+
+add
+
+stv0680.c
+file
+
+
+
+add
+
+pac207.c
+file
+
+
+
+add
+
+t613.c
+file
+
+
+
+add
+
+cpia1.c
+file
+
+
+
+add
+

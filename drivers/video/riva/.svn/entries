@@ -1,0 +1,98 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/video/riva
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+rivafb.h
+file
+
+
+
+add
+
+nv_driver.c
+file
+
+
+
+add
+
+riva_hw.c
+file
+
+
+
+add
+
+rivafb-i2c.c
+file
+
+
+
+add
+
+riva_hw.h
+file
+
+
+
+add
+
+nvreg.h
+file
+
+
+
+add
+
+fbdev.c
+file
+
+
+
+add
+
+riva_tbl.h
+file
+
+
+
+add
+
+nv_type.h
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

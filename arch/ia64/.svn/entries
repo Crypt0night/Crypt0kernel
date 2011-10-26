@@ -1,0 +1,161 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/ia64
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+install.sh
+file
+
+
+
+add
+
+oprofile
+dir
+
+
+
+add
+
+kernel
+dir
+
+
+
+add
+
+sn
+dir
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+include
+dir
+
+
+
+add
+
+scripts
+dir
+
+
+
+add
+
+configs
+dir
+
+
+
+add
+
+uv
+dir
+
+
+
+add
+
+xen
+dir
+
+
+
+add
+
+kvm
+dir
+
+
+
+add
+
+dig
+dir
+
+
+
+add
+
+Kconfig.debug
+file
+
+
+
+add
+
+module.lds
+file
+
+
+
+add
+
+lib
+dir
+
+
+
+add
+
+hp
+dir
+
+
+
+add
+
+mm
+dir
+
+
+
+add
+
+pci
+dir
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

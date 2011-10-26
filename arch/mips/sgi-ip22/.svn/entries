@@ -1,0 +1,112 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/mips/sgi-ip22
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+ip22-platform.c
+file
+
+
+
+add
+
+ip22-berr.c
+file
+
+
+
+add
+
+ip22-hpc.c
+file
+
+
+
+add
+
+ip22-int.c
+file
+
+
+
+add
+
+ip22-time.c
+file
+
+
+
+add
+
+ip22-mc.c
+file
+
+
+
+add
+
+ip28-berr.c
+file
+
+
+
+add
+
+ip22-setup.c
+file
+
+
+
+add
+
+ip22-eisa.c
+file
+
+
+
+add
+
+ip22-reset.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+ip22-nvram.c
+file
+
+
+
+add
+

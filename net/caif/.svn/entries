@@ -1,0 +1,161 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/net/caif
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+cfmuxl.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+cfsrvl.c
+file
+
+
+
+add
+
+caif_dev.c
+file
+
+
+
+add
+
+cfutill.c
+file
+
+
+
+add
+
+cfpkt_skbuff.c
+file
+
+
+
+add
+
+cfvidl.c
+file
+
+
+
+add
+
+cfveil.c
+file
+
+
+
+add
+
+cfrfml.c
+file
+
+
+
+add
+
+cffrml.c
+file
+
+
+
+add
+
+caif_socket.c
+file
+
+
+
+add
+
+cfctrl.c
+file
+
+
+
+add
+
+cfserl.c
+file
+
+
+
+add
+
+cfdbgl.c
+file
+
+
+
+add
+
+caif_config_util.c
+file
+
+
+
+add
+
+cfcnfg.c
+file
+
+
+
+add
+
+chnl_net.c
+file
+
+
+
+add
+
+cfdgml.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

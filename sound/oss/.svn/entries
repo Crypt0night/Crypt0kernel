@@ -1,0 +1,546 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/sound/oss
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+dmabuf.c
+file
+
+
+
+add
+
+pas2_card.c
+file
+
+
+
+add
+
+bin2hex.c
+file
+
+
+
+add
+
+ac97_codec.c
+file
+
+
+
+add
+
+pss.c
+file
+
+
+
+add
+
+sb_midi.c
+file
+
+
+
+add
+
+hex2hex.c
+file
+
+
+
+add
+
+midibuf.c
+file
+
+
+
+add
+
+soundcard.c
+file
+
+
+
+add
+
+sb_audio.c
+file
+
+
+
+add
+
+dev_table.c
+file
+
+
+
+add
+
+os.h
+file
+
+
+
+add
+
+sound_firmware.h
+file
+
+
+
+add
+
+dev_table.h
+file
+
+
+
+add
+
+coproc.h
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+vwsnd.c
+file
+
+
+
+add
+
+README.FIRST
+file
+
+
+
+add
+
+swarm_cs4297a.c
+file
+
+
+
+add
+
+midi_synth.c
+file
+
+
+
+add
+
+v_midi.c
+file
+
+
+
+add
+
+msnd_pinnacle.c
+file
+
+
+
+add
+
+vidc_fill.S
+file
+
+
+
+add
+
+midi_ctrl.h
+file
+
+
+
+add
+
+midi_synth.h
+file
+
+
+
+add
+
+v_midi.h
+file
+
+
+
+add
+
+sb_common.c
+file
+
+
+
+add
+
+sys_timer.c
+file
+
+
+
+add
+
+sb_ess.c
+file
+
+
+
+add
+
+msnd_pinnacle.h
+file
+
+
+
+add
+
+opl3_hw.h
+file
+
+
+
+add
+
+sb_ess.h
+file
+
+
+
+add
+
+sound_timer.c
+file
+
+
+
+add
+
+waveartist.c
+file
+
+
+
+add
+
+sequencer.c
+file
+
+
+
+add
+
+sb_card.c
+file
+
+
+
+add
+
+waveartist.h
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+uart401.c
+file
+
+
+
+add
+
+msnd_classic.c
+file
+
+
+
+add
+
+sb_card.h
+file
+
+
+
+add
+
+au1550_ac97.c
+file
+
+
+
+add
+
+pas2_pcm.c
+file
+
+
+
+add
+
+kahlua.c
+file
+
+
+
+add
+
+CHANGELOG
+file
+
+
+
+add
+
+msnd_classic.h
+file
+
+
+
+add
+
+pas2_midi.c
+file
+
+
+
+add
+
+pas2_mixer.c
+file
+
+
+
+add
+
+sb.h
+file
+
+
+
+add
+
+sound_calls.h
+file
+
+
+
+add
+
+ulaw.h
+file
+
+
+
+add
+
+ad1848_mixer.h
+file
+
+
+
+add
+
+sound_config.h
+file
+
+
+
+add
+
+dmasound
+dir
+
+
+
+add
+
+soundvers.h
+file
+
+
+
+add
+
+uart6850.c
+file
+
+
+
+add
+
+audio.c
+file
+
+
+
+add
+
+msnd.c
+file
+
+
+
+add
+
+sh_dac_audio.c
+file
+
+
+
+add
+
+aedsp16.c
+file
+
+
+
+add
+
+msnd.h
+file
+
+
+
+add
+
+sb_mixer.c
+file
+
+
+
+add
+
+ad1848.c
+file
+
+
+
+add
+
+tuning.h
+file
+
+
+
+add
+
+pas2.h
+file
+
+
+
+add
+
+opl3.c
+file
+
+
+
+add
+
+sb_mixer.h
+file
+
+
+
+add
+
+ad1848.h
+file
+
+
+
+add
+
+.gitignore
+file
+
+
+
+add
+
+vidc.c
+file
+
+
+
+add
+
+trix.c
+file
+
+
+
+add
+
+mpu401.c
+file
+
+
+
+add
+
+vidc.h
+file
+
+
+
+add
+
+mpu401.h
+file
+
+
+
+add
+

@@ -1,0 +1,98 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/Documentation/x86
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+boot.txt
+file
+
+
+
+add
+
+pat.txt
+file
+
+
+
+add
+
+earlyprintk.txt
+file
+
+
+
+add
+
+mtrr.txt
+file
+
+
+
+add
+
+usb-legacy-support.txt
+file
+
+
+
+add
+
+exception-tables.txt
+file
+
+
+
+add
+
+00-INDEX
+file
+
+
+
+add
+
+zero-page.txt
+file
+
+
+
+add
+
+i386
+dir
+
+
+
+add
+
+x86_64
+dir
+
+
+
+add
+

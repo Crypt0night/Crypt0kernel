@@ -1,0 +1,140 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/staging/usbip
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+vhci.h
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+usbip_common.h
+file
+
+
+
+add
+
+vhci_rx.c
+file
+
+
+
+add
+
+vhci_tx.c
+file
+
+
+
+add
+
+vhci_hcd.c
+file
+
+
+
+add
+
+stub_dev.c
+file
+
+
+
+add
+
+README
+file
+
+
+
+add
+
+vhci_sysfs.c
+file
+
+
+
+add
+
+stub_main.c
+file
+
+
+
+add
+
+stub.h
+file
+
+
+
+add
+
+usbip_event.c
+file
+
+
+
+add
+
+stub_rx.c
+file
+
+
+
+add
+
+stub_tx.c
+file
+
+
+
+add
+
+usbip_common.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

@@ -1,0 +1,133 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/powerpc/configs/44x
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+ebony_defconfig
+file
+
+
+
+add
+
+taishan_defconfig
+file
+
+
+
+add
+
+icon_defconfig
+file
+
+
+
+add
+
+rainier_defconfig
+file
+
+
+
+add
+
+eiger_defconfig
+file
+
+
+
+add
+
+iss476-smp_defconfig
+file
+
+
+
+add
+
+sam440ep_defconfig
+file
+
+
+
+add
+
+bamboo_defconfig
+file
+
+
+
+add
+
+redwood_defconfig
+file
+
+
+
+add
+
+arches_defconfig
+file
+
+
+
+add
+
+sequoia_defconfig
+file
+
+
+
+add
+
+virtex5_defconfig
+file
+
+
+
+add
+
+katmai_defconfig
+file
+
+
+
+add
+
+canyonlands_defconfig
+file
+
+
+
+add
+
+warp_defconfig
+file
+
+
+
+add
+

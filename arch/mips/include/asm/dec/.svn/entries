@@ -1,0 +1,140 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/mips/include/asm/dec
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+ecc.h
+file
+
+
+
+add
+
+kn230.h
+file
+
+
+
+add
+
+kn02xa.h
+file
+
+
+
+add
+
+ioasic_ints.h
+file
+
+
+
+add
+
+ioasic.h
+file
+
+
+
+add
+
+kn01.h
+file
+
+
+
+add
+
+machtype.h
+file
+
+
+
+add
+
+kn02.h
+file
+
+
+
+add
+
+kn03.h
+file
+
+
+
+add
+
+kn05.h
+file
+
+
+
+add
+
+kn02ba.h
+file
+
+
+
+add
+
+prom.h
+file
+
+
+
+add
+
+kn02ca.h
+file
+
+
+
+add
+
+interrupts.h
+file
+
+
+
+add
+
+system.h
+file
+
+
+
+add
+
+ioasic_addrs.h
+file
+
+
+
+add
+

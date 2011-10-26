@@ -1,0 +1,98 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/media/video/uvc
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+uvc_status.c
+file
+
+
+
+add
+
+uvc_ctrl.c
+file
+
+
+
+add
+
+uvc_queue.c
+file
+
+
+
+add
+
+uvc_video.c
+file
+
+
+
+add
+
+uvc_v4l2.c
+file
+
+
+
+add
+
+uvc_isight.c
+file
+
+
+
+add
+
+uvc_driver.c
+file
+
+
+
+add
+
+uvcvideo.h
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

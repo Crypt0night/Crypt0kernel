@@ -1,0 +1,427 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/sound/core
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+.snd-timer.o.cmd
+file
+
+
+
+add
+
+.init.o.cmd
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+modules.order
+file
+
+
+
+add
+
+.pcm_lib.o.cmd
+file
+
+
+
+add
+
+init.c
+file
+
+
+
+add
+
+.jack.o.cmd
+file
+
+
+
+add
+
+pcm_lib.c
+file
+
+
+
+add
+
+jack.c
+file
+
+
+
+add
+
+hrtimer.c
+file
+
+
+
+add
+
+.pcm_timer.o.cmd
+file
+
+
+
+add
+
+.control.o.cmd
+file
+
+
+
+add
+
+sound_oss.c
+file
+
+
+
+add
+
+info_oss.c
+file
+
+
+
+add
+
+pcm_timer.c
+file
+
+
+
+add
+
+.snd.o.cmd
+file
+
+
+
+add
+
+control.c
+file
+
+
+
+add
+
+.pcm_native.o.cmd
+file
+
+
+
+add
+
+.snd-page-alloc.o.cmd
+file
+
+
+
+add
+
+timer_compat.c
+file
+
+
+
+add
+
+.sound.o.cmd
+file
+
+
+
+add
+
+pcm_native.c
+file
+
+
+
+add
+
+.info.o.cmd
+file
+
+
+
+add
+
+sound.c
+file
+
+
+
+add
+
+rtctimer.c
+file
+
+
+
+add
+
+.device.o.cmd
+file
+
+
+
+add
+
+info.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+isadma.c
+file
+
+
+
+add
+
+rawmidi_compat.c
+file
+
+
+
+add
+
+device.c
+file
+
+
+
+add
+
+.pcm_memory.o.cmd
+file
+
+
+
+add
+
+.memory.o.cmd
+file
+
+
+
+add
+
+sgbuf.c
+file
+
+
+
+add
+
+seq
+dir
+
+
+
+add
+
+hwdep.c
+file
+
+
+
+add
+
+pcm_memory.c
+file
+
+
+
+add
+
+memory.c
+file
+
+
+
+add
+
+hwdep_compat.c
+file
+
+
+
+add
+
+.pcm.o.cmd
+file
+
+
+
+add
+
+.timer.o.cmd
+file
+
+
+
+add
+
+.built-in.o.cmd
+file
+
+
+
+add
+
+pcm.c
+file
+
+
+
+add
+
+timer.c
+file
+
+
+
+add
+
+vmaster.c
+file
+
+
+
+add
+
+pcm_compat.c
+file
+
+
+
+add
+
+control_compat.c
+file
+
+
+
+add
+
+oss
+dir
+
+
+
+add
+
+.memalloc.o.cmd
+file
+
+
+
+add
+
+.pcm_misc.o.cmd
+file
+
+
+
+add
+
+.misc.o.cmd
+file
+
+
+
+add
+
+memalloc.c
+file
+
+
+
+add
+
+pcm_misc.c
+file
+
+
+
+add
+
+misc.c
+file
+
+
+
+add
+
+rawmidi.c
+file
+
+
+
+add
+
+modules.builtin
+file
+
+
+
+add
+
+.snd-pcm.o.cmd
+file
+
+
+
+add
+

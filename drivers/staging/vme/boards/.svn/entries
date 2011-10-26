@@ -1,0 +1,56 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/staging/vme/boards
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+vme_vmivme7805.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+vme_vmivme7805.h
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

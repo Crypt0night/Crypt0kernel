@@ -1,0 +1,378 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/pci/hotplug
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+acpi_pcihp.c
+file
+
+
+
+add
+
+rpaphp.h
+file
+
+
+
+add
+
+cpcihp_zt5550.c
+file
+
+
+
+add
+
+cpcihp_generic.c
+file
+
+
+
+add
+
+rpaphp_core.c
+file
+
+
+
+add
+
+cpqphp_core.c
+file
+
+
+
+add
+
+pciehp_pci.c
+file
+
+
+
+add
+
+cpcihp_zt5550.h
+file
+
+
+
+add
+
+pcihp_skeleton.c
+file
+
+
+
+add
+
+ibmphp_hpc.c
+file
+
+
+
+add
+
+cpci_hotplug_pci.c
+file
+
+
+
+add
+
+shpchp_sysfs.c
+file
+
+
+
+add
+
+rpadlpar_core.c
+file
+
+
+
+add
+
+cpqphp_ctrl.c
+file
+
+
+
+add
+
+shpchp_pci.c
+file
+
+
+
+add
+
+ibmphp.h
+file
+
+
+
+add
+
+pci_hotplug_core.c
+file
+
+
+
+add
+
+rpaphp_pci.c
+file
+
+
+
+add
+
+ibmphp_ebda.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+shpchp_core.c
+file
+
+
+
+add
+
+cpqphp_nvram.c
+file
+
+
+
+add
+
+cpqphp.h
+file
+
+
+
+add
+
+acpiphp_glue.c
+file
+
+
+
+add
+
+pciehp_hpc.c
+file
+
+
+
+add
+
+cpqphp_nvram.h
+file
+
+
+
+add
+
+pcihp_slot.c
+file
+
+
+
+add
+
+pciehp_acpi.c
+file
+
+
+
+add
+
+shpchp_ctrl.c
+file
+
+
+
+add
+
+ibmphp_pci.c
+file
+
+
+
+add
+
+rpadlpar.h
+file
+
+
+
+add
+
+acpiphp_ibm.c
+file
+
+
+
+add
+
+pciehp.h
+file
+
+
+
+add
+
+fakephp.c
+file
+
+
+
+add
+
+shpchp_hpc.c
+file
+
+
+
+add
+
+pciehp_core.c
+file
+
+
+
+add
+
+cpqphp_sysfs.c
+file
+
+
+
+add
+
+sgi_hotplug.c
+file
+
+
+
+add
+
+cpci_hotplug.h
+file
+
+
+
+add
+
+cpqphp_pci.c
+file
+
+
+
+add
+
+ibmphp_core.c
+file
+
+
+
+add
+
+ibmphp_res.c
+file
+
+
+
+add
+
+cpci_hotplug_core.c
+file
+
+
+
+add
+
+acpiphp.h
+file
+
+
+
+add
+
+shpchp.h
+file
+
+
+
+add
+
+rpaphp_slot.c
+file
+
+
+
+add
+
+acpiphp_core.c
+file
+
+
+
+add
+
+pciehp_ctrl.c
+file
+
+
+
+add
+
+rpadlpar_sysfs.c
+file
+
+
+
+add
+

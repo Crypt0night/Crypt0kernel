@@ -1,0 +1,322 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/usb/core
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+usb.h
+file
+
+
+
+add
+
+.usbcore.o.cmd
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+modules.order
+file
+
+
+
+add
+
+.config.o.cmd
+file
+
+
+
+add
+
+config.c
+file
+
+
+
+add
+
+hcd-pci.c
+file
+
+
+
+add
+
+.generic.o.cmd
+file
+
+
+
+add
+
+.quirks.o.cmd
+file
+
+
+
+add
+
+generic.c
+file
+
+
+
+add
+
+.devices.o.cmd
+file
+
+
+
+add
+
+quirks.c
+file
+
+
+
+add
+
+.message.o.cmd
+file
+
+
+
+add
+
+devices.c
+file
+
+
+
+add
+
+message.c
+file
+
+
+
+add
+
+.urb.o.cmd
+file
+
+
+
+add
+
+.driver.o.cmd
+file
+
+
+
+add
+
+urb.c
+file
+
+
+
+add
+
+otg_whitelist.h
+file
+
+
+
+add
+
+.hcd.o.cmd
+file
+
+
+
+add
+
+driver.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+hcd.c
+file
+
+
+
+add
+
+inode.c
+file
+
+
+
+add
+
+.devio.o.cmd
+file
+
+
+
+add
+
+.sysfs.o.cmd
+file
+
+
+
+add
+
+.notify.o.cmd
+file
+
+
+
+add
+
+.buffer.o.cmd
+file
+
+
+
+add
+
+devio.c
+file
+
+
+
+add
+
+sysfs.c
+file
+
+
+
+add
+
+notify.c
+file
+
+
+
+add
+
+buffer.c
+file
+
+
+
+add
+
+.hub.o.cmd
+file
+
+
+
+add
+
+.file.o.cmd
+file
+
+
+
+add
+
+.endpoint.o.cmd
+file
+
+
+
+add
+
+hub.c
+file
+
+
+
+add
+
+file.c
+file
+
+
+
+add
+
+.built-in.o.cmd
+file
+
+
+
+add
+
+endpoint.c
+file
+
+
+
+add
+
+.usb.o.cmd
+file
+
+
+
+add
+
+usb.c
+file
+
+
+
+add
+
+modules.builtin
+file
+
+
+
+add
+

@@ -1,0 +1,140 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/s390/crypto
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+zcrypt_pcica.h
+file
+
+
+
+add
+
+zcrypt_pcicc.h
+file
+
+
+
+add
+
+ap_bus.c
+file
+
+
+
+add
+
+zcrypt_error.h
+file
+
+
+
+add
+
+zcrypt_cex2a.c
+file
+
+
+
+add
+
+ap_bus.h
+file
+
+
+
+add
+
+zcrypt_cca_key.h
+file
+
+
+
+add
+
+zcrypt_cex2a.h
+file
+
+
+
+add
+
+zcrypt_mono.c
+file
+
+
+
+add
+
+zcrypt_api.c
+file
+
+
+
+add
+
+zcrypt_pcixcc.c
+file
+
+
+
+add
+
+zcrypt_api.h
+file
+
+
+
+add
+
+zcrypt_pcixcc.h
+file
+
+
+
+add
+
+zcrypt_pcica.c
+file
+
+
+
+add
+
+zcrypt_pcicc.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

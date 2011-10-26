@@ -1,0 +1,84 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/blackfin/mach-bf537/boards
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+minotaur.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+stamp.c
+file
+
+
+
+add
+
+pnav10.c
+file
+
+
+
+add
+
+tcm_bf537.c
+file
+
+
+
+add
+
+cm_bf537e.c
+file
+
+
+
+add
+
+cm_bf537u.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

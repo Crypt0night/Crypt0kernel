@@ -1,0 +1,266 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/staging/otus/80211core
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+cwep.c
+file
+
+
+
+add
+
+performance.c
+file
+
+
+
+add
+
+pub_zfi.h
+file
+
+
+
+add
+
+performance.h
+file
+
+
+
+add
+
+wlan.h
+file
+
+
+
+add
+
+ctxrx.c
+file
+
+
+
+add
+
+amsdu.c
+file
+
+
+
+add
+
+ctkip.c
+file
+
+
+
+add
+
+cprecomp.h
+file
+
+
+
+add
+
+ratectrl.c
+file
+
+
+
+add
+
+pub_zfw.h
+file
+
+
+
+add
+
+cmmsta.c
+file
+
+
+
+add
+
+ratectrl.h
+file
+
+
+
+add
+
+cmmap.c
+file
+
+
+
+add
+
+cic.c
+file
+
+
+
+add
+
+cfunc.c
+file
+
+
+
+add
+
+cagg.c
+file
+
+
+
+add
+
+cfunc.h
+file
+
+
+
+add
+
+pub_usb.h
+file
+
+
+
+add
+
+ccmd.c
+file
+
+
+
+add
+
+cinit.c
+file
+
+
+
+add
+
+cagg.h
+file
+
+
+
+add
+
+ledmgr.c
+file
+
+
+
+add
+
+cmm.c
+file
+
+
+
+add
+
+coid.c
+file
+
+
+
+add
+
+freqctrl.c
+file
+
+
+
+add
+
+queue.c
+file
+
+
+
+add
+
+cwm.c
+file
+
+
+
+add
+
+struct.h
+file
+
+
+
+add
+
+queue.h
+file
+
+
+
+add
+
+cwm.h
+file
+
+
+
+add
+
+cpsmgr.c
+file
+
+
+
+add
+
+chb.c
+file
+
+
+
+add
+
+cscanmgr.c
+file
+
+
+
+add
+

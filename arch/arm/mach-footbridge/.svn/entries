@@ -1,0 +1,189 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/arm/mach-footbridge
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+ebsa285-leds.c
+file
+
+
+
+add
+
+Makefile.boot
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+dma.c
+file
+
+
+
+add
+
+include
+dir
+
+
+
+add
+
+isa-rtc.c
+file
+
+
+
+add
+
+cats-pci.c
+file
+
+
+
+add
+
+isa-irq.c
+file
+
+
+
+add
+
+dc21285-timer.c
+file
+
+
+
+add
+
+cats-hw.c
+file
+
+
+
+add
+
+netwinder-pci.c
+file
+
+
+
+add
+
+ebsa285.c
+file
+
+
+
+add
+
+netwinder-hw.c
+file
+
+
+
+add
+
+isa.c
+file
+
+
+
+add
+
+ebsa285-pci.c
+file
+
+
+
+add
+
+personal.c
+file
+
+
+
+add
+
+netwinder-leds.c
+file
+
+
+
+add
+
+common.c
+file
+
+
+
+add
+
+dc21285.c
+file
+
+
+
+add
+
+isa-timer.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+personal-pci.c
+file
+
+
+
+add
+
+common.h
+file
+
+
+
+add
+

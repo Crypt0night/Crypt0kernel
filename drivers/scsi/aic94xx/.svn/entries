@@ -1,0 +1,168 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/scsi/aic94xx
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+aic94xx.h
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+aic94xx_tmf.c
+file
+
+
+
+add
+
+aic94xx_hwi.c
+file
+
+
+
+add
+
+aic94xx_seq.c
+file
+
+
+
+add
+
+aic94xx_sds.c
+file
+
+
+
+add
+
+aic94xx_sas.h
+file
+
+
+
+add
+
+aic94xx_hwi.h
+file
+
+
+
+add
+
+aic94xx_seq.h
+file
+
+
+
+add
+
+aic94xx_sds.h
+file
+
+
+
+add
+
+aic94xx_reg_def.h
+file
+
+
+
+add
+
+aic94xx_task.c
+file
+
+
+
+add
+
+aic94xx_init.c
+file
+
+
+
+add
+
+aic94xx_dump.c
+file
+
+
+
+add
+
+aic94xx_scb.c
+file
+
+
+
+add
+
+aic94xx_dump.h
+file
+
+
+
+add
+
+aic94xx_reg.c
+file
+
+
+
+add
+
+aic94xx_dev.c
+file
+
+
+
+add
+
+aic94xx_reg.h
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

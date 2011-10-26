@@ -1,0 +1,56 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/cris/configs
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+etraxfs_defconfig
+file
+
+
+
+add
+
+etrax-100lx_v2_defconfig
+file
+
+
+
+add
+
+artpec_3_defconfig
+file
+
+
+
+add
+
+etrax-100lx_defconfig
+file
+
+
+
+add
+

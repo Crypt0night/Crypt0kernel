@@ -1,0 +1,112 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/arm/mach-s5p6442
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Makefile.boot
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+dma.c
+file
+
+
+
+add
+
+include
+dir
+
+
+
+add
+
+init.c
+file
+
+
+
+add
+
+mach-smdk6442.c
+file
+
+
+
+add
+
+cpu.c
+file
+
+
+
+add
+
+dev-spi.c
+file
+
+
+
+add
+
+setup-i2c0.c
+file
+
+
+
+add
+
+clock.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+dev-audio.c
+file
+
+
+
+add
+

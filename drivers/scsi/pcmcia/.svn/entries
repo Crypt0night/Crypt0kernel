@@ -1,0 +1,119 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/scsi/pcmcia
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+aha152x_core.c
+file
+
+
+
+add
+
+nsp_message.c
+file
+
+
+
+add
+
+fdomain_core.c
+file
+
+
+
+add
+
+nsp_cs.c
+file
+
+
+
+add
+
+aha152x_stub.c
+file
+
+
+
+add
+
+nsp_debug.c
+file
+
+
+
+add
+
+fdomain_stub.c
+file
+
+
+
+add
+
+nsp_cs.h
+file
+
+
+
+add
+
+qlogic_stub.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+nsp_io.h
+file
+
+
+
+add
+
+sym53c500_cs.c
+file
+
+
+
+add
+

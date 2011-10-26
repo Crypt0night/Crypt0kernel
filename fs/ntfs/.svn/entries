@@ -1,0 +1,350 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/fs/ntfs
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+super.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+usnjrnl.h
+file
+
+
+
+add
+
+endian.h
+file
+
+
+
+add
+
+mst.c
+file
+
+
+
+add
+
+index.c
+file
+
+
+
+add
+
+types.h
+file
+
+
+
+add
+
+volume.h
+file
+
+
+
+add
+
+index.h
+file
+
+
+
+add
+
+malloc.h
+file
+
+
+
+add
+
+ntfs.h
+file
+
+
+
+add
+
+logfile.c
+file
+
+
+
+add
+
+collate.c
+file
+
+
+
+add
+
+attrib.c
+file
+
+
+
+add
+
+logfile.h
+file
+
+
+
+add
+
+debug.c
+file
+
+
+
+add
+
+mft.c
+file
+
+
+
+add
+
+collate.h
+file
+
+
+
+add
+
+namei.c
+file
+
+
+
+add
+
+quota.c
+file
+
+
+
+add
+
+attrib.h
+file
+
+
+
+add
+
+compress.c
+file
+
+
+
+add
+
+mft.h
+file
+
+
+
+add
+
+debug.h
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+inode.c
+file
+
+
+
+add
+
+quota.h
+file
+
+
+
+add
+
+runlist.c
+file
+
+
+
+add
+
+aops.c
+file
+
+
+
+add
+
+time.h
+file
+
+
+
+add
+
+inode.h
+file
+
+
+
+add
+
+runlist.h
+file
+
+
+
+add
+
+aops.h
+file
+
+
+
+add
+
+bitmap.c
+file
+
+
+
+add
+
+dir.c
+file
+
+
+
+add
+
+file.c
+file
+
+
+
+add
+
+upcase.c
+file
+
+
+
+add
+
+sysctl.c
+file
+
+
+
+add
+
+bitmap.h
+file
+
+
+
+add
+
+layout.h
+file
+
+
+
+add
+
+dir.h
+file
+
+
+
+add
+
+unistr.c
+file
+
+
+
+add
+
+sysctl.h
+file
+
+
+
+add
+
+lcnalloc.c
+file
+
+
+
+add
+
+usnjrnl.c
+file
+
+
+
+add
+
+lcnalloc.h
+file
+
+
+
+add
+

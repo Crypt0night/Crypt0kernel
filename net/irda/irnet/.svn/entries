@@ -1,0 +1,77 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/net/irda/irnet
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+irnet_ppp.c
+file
+
+
+
+add
+
+irnet_irda.c
+file
+
+
+
+add
+
+irnet_ppp.h
+file
+
+
+
+add
+
+irnet_irda.h
+file
+
+
+
+add
+
+irnet.h
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

@@ -1,0 +1,77 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/char/xilinx_hwicap
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+fifo_icap.c
+file
+
+
+
+add
+
+fifo_icap.h
+file
+
+
+
+add
+
+buffer_icap.c
+file
+
+
+
+add
+
+xilinx_hwicap.c
+file
+
+
+
+add
+
+buffer_icap.h
+file
+
+
+
+add
+
+xilinx_hwicap.h
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

@@ -1,0 +1,378 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/arm/plat-samsung/include/plat
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+iic-core.h
+file
+
+
+
+add
+
+sdhci.h
+file
+
+
+
+add
+
+clock.h
+file
+
+
+
+add
+
+regs-irqtype.h
+file
+
+
+
+add
+
+gpio-cfg.h
+file
+
+
+
+add
+
+regs-watchdog.h
+file
+
+
+
+add
+
+debug-macro.S
+file
+
+
+
+add
+
+devs.h
+file
+
+
+
+add
+
+regs-iic.h
+file
+
+
+
+add
+
+usb-control.h
+file
+
+
+
+add
+
+regs-usb-hsotg-phy.h
+file
+
+
+
+add
+
+onenand-core.h
+file
+
+
+
+add
+
+regs-fb-v4.h
+file
+
+
+
+add
+
+regs-nand.h
+file
+
+
+
+add
+
+regs-timer.h
+file
+
+
+
+add
+
+regs-onenand.h
+file
+
+
+
+add
+
+watchdog-reset.h
+file
+
+
+
+add
+
+cpu-freq.h
+file
+
+
+
+add
+
+udc-hs.h
+file
+
+
+
+add
+
+gpio-core.h
+file
+
+
+
+add
+
+map-base.h
+file
+
+
+
+add
+
+regs-adc.h
+file
+
+
+
+add
+
+dma-core.h
+file
+
+
+
+add
+
+cpu.h
+file
+
+
+
+add
+
+fb.h
+file
+
+
+
+add
+
+regs-sdhci.h
+file
+
+
+
+add
+
+gpio-cfg-helpers.h
+file
+
+
+
+add
+
+uncompress.h
+file
+
+
+
+add
+
+audio.h
+file
+
+
+
+add
+
+regs-ac97.h
+file
+
+
+
+add
+
+dma.h
+file
+
+
+
+add
+
+pll6553x.h
+file
+
+
+
+add
+
+irq-uart.h
+file
+
+
+
+add
+
+iic.h
+file
+
+
+
+add
+
+regs-usb-hsotg.h
+file
+
+
+
+add
+
+clock-clksrc.h
+file
+
+
+
+add
+
+s3c64xx-spi.h
+file
+
+
+
+add
+
+pm.h
+file
+
+
+
+add
+
+dma-s3c24xx.h
+file
+
+
+
+add
+
+regs-serial.h
+file
+
+
+
+add
+
+s3c-pl330-pdata.h
+file
+
+
+
+add
+
+nand.h
+file
+
+
+
+add
+
+regs-fb.h
+file
+
+
+
+add
+
+wakeup-mask.h
+file
+
+
+
+add
+
+regs-rtc.h
+file
+
+
+
+add
+
+ts.h
+file
+
+
+
+add
+
+s3c-dma-pl330.h
+file
+
+
+
+add
+
+adc.h
+file
+
+
+
+add
+
+hwmon.h
+file
+
+
+
+add
+
+irq-vic-timer.h
+file
+
+
+
+add
+

@@ -1,0 +1,105 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/arm/plat-stmp3xxx
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+pinmux.c
+file
+
+
+
+add
+
+clock.h
+file
+
+
+
+add
+
+timer.c
+file
+
+
+
+add
+
+dma.c
+file
+
+
+
+add
+
+include
+dir
+
+
+
+add
+
+devices.c
+file
+
+
+
+add
+
+core.c
+file
+
+
+
+add
+
+irq.c
+file
+
+
+
+add
+
+clock.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

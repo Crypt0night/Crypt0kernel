@@ -1,0 +1,126 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/powerpc/platforms/86xx
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+sbc8641d.c
+file
+
+
+
+add
+
+gef_gpio.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+gef_sbc610.c
+file
+
+
+
+add
+
+gef_pic.h
+file
+
+
+
+add
+
+mpc86xx.h
+file
+
+
+
+add
+
+mpc86xx_hpcn.c
+file
+
+
+
+add
+
+pic.c
+file
+
+
+
+add
+
+gef_sbc310.c
+file
+
+
+
+add
+
+gef_pic.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+mpc86xx_smp.c
+file
+
+
+
+add
+
+mpc8610_hpcd.c
+file
+
+
+
+add
+
+gef_ppc9a.c
+file
+
+
+
+add
+

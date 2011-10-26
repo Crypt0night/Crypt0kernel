@@ -1,0 +1,147 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/cris/arch-v10/kernel
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+time.c
+file
+
+
+
+add
+
+fasttimer.c
+file
+
+
+
+add
+
+setup.c
+file
+
+
+
+add
+
+dma.c
+file
+
+
+
+add
+
+kgdb.c
+file
+
+
+
+add
+
+shadows.c
+file
+
+
+
+add
+
+signal.c
+file
+
+
+
+add
+
+process.c
+file
+
+
+
+add
+
+ptrace.c
+file
+
+
+
+add
+
+io_interface_mux.c
+file
+
+
+
+add
+
+head.S
+file
+
+
+
+add
+
+entry.S
+file
+
+
+
+add
+
+crisksyms.c
+file
+
+
+
+add
+
+traps.c
+file
+
+
+
+add
+
+irq.c
+file
+
+
+
+add
+
+debugport.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

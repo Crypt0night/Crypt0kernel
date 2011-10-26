@@ -1,0 +1,294 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/powerpc/platforms/iseries
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+it_lp_naca.h
+file
+
+
+
+add
+
+hvlpconfig.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+smp.c
+file
+
+
+
+add
+
+setup.c
+file
+
+
+
+add
+
+lpevents.c
+file
+
+
+
+add
+
+mf.c
+file
+
+
+
+add
+
+smp.h
+file
+
+
+
+add
+
+setup.h
+file
+
+
+
+add
+
+ksyms.c
+file
+
+
+
+add
+
+naca.h
+file
+
+
+
+add
+
+vpd_areas.h
+file
+
+
+
+add
+
+htab.c
+file
+
+
+
+add
+
+exception.S
+file
+
+
+
+add
+
+hvlog.c
+file
+
+
+
+add
+
+hvcall.S
+file
+
+
+
+add
+
+spcomm_area.h
+file
+
+
+
+add
+
+call_hpt.h
+file
+
+
+
+add
+
+irq.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+processor_vpd.h
+file
+
+
+
+add
+
+irq.h
+file
+
+
+
+add
+
+proc.c
+file
+
+
+
+add
+
+exception.h
+file
+
+
+
+add
+
+main_store.h
+file
+
+
+
+add
+
+dt.c
+file
+
+
+
+add
+
+viopath.c
+file
+
+
+
+add
+
+pci.c
+file
+
+
+
+add
+
+misc.S
+file
+
+
+
+add
+
+call_pci.h
+file
+
+
+
+add
+
+release_data.h
+file
+
+
+
+add
+
+call_sm.h
+file
+
+
+
+add
+
+pci.h
+file
+
+
+
+add
+
+it_exp_vpd_panel.h
+file
+
+
+
+add
+
+iommu.c
+file
+
+
+
+add
+
+lpardata.c
+file
+
+
+
+add
+
+ipl_parms.h
+file
+
+
+
+add
+
+vio.c
+file
+
+
+
+add
+

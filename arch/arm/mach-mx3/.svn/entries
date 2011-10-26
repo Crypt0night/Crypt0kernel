@@ -1,0 +1,231 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/arm/mach-mx3
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+clock-imx35.c
+file
+
+
+
+add
+
+Makefile.boot
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+iomux-imx31.c
+file
+
+
+
+add
+
+mach-mx35pdk.c
+file
+
+
+
+add
+
+mach-mx31moboard.c
+file
+
+
+
+add
+
+mach-mx31lilly.c
+file
+
+
+
+add
+
+crm_regs.h
+file
+
+
+
+add
+
+mx31moboard-marxbot.c
+file
+
+
+
+add
+
+mach-armadillo5x0.c
+file
+
+
+
+add
+
+mach-mx31_3ds.c
+file
+
+
+
+add
+
+mach-kzm_arm11_01.c
+file
+
+
+
+add
+
+mm.c
+file
+
+
+
+add
+
+mach-qong.c
+file
+
+
+
+add
+
+mach-pcm037_eet.c
+file
+
+
+
+add
+
+mach-mx31lite.c
+file
+
+
+
+add
+
+mach-pcm043.c
+file
+
+
+
+add
+
+pcm037.h
+file
+
+
+
+add
+
+mach-pcm037.c
+file
+
+
+
+add
+
+mx31moboard-devboard.c
+file
+
+
+
+add
+
+mx31lilly-db.c
+file
+
+
+
+add
+
+devices.c
+file
+
+
+
+add
+
+mx31moboard-smartbot.c
+file
+
+
+
+add
+
+mach-mx31ads.c
+file
+
+
+
+add
+
+cpu.c
+file
+
+
+
+add
+
+devices.h
+file
+
+
+
+add
+
+mx31lite-db.c
+file
+
+
+
+add
+
+clock-imx31.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

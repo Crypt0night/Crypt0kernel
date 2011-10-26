@@ -1,0 +1,140 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/net/wireless/prism54
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+islpci_mgt.h
+file
+
+
+
+add
+
+prismcompat.h
+file
+
+
+
+add
+
+isl_38xx.c
+file
+
+
+
+add
+
+islpci_dev.c
+file
+
+
+
+add
+
+isl_ioctl.c
+file
+
+
+
+add
+
+oid_mgt.c
+file
+
+
+
+add
+
+islpci_eth.c
+file
+
+
+
+add
+
+islpci_hotplug.c
+file
+
+
+
+add
+
+isl_38xx.h
+file
+
+
+
+add
+
+isl_ioctl.h
+file
+
+
+
+add
+
+islpci_dev.h
+file
+
+
+
+add
+
+isl_oid.h
+file
+
+
+
+add
+
+oid_mgt.h
+file
+
+
+
+add
+
+islpci_eth.h
+file
+
+
+
+add
+
+islpci_mgt.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

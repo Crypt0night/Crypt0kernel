@@ -1,0 +1,77 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/parisc/hpux
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+gate.S
+file
+
+
+
+add
+
+sys_hpux.c
+file
+
+
+
+add
+
+wrappers.S
+file
+
+
+
+add
+
+entry_hpux.S
+file
+
+
+
+add
+
+fs.c
+file
+
+
+
+add
+
+ioctl.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

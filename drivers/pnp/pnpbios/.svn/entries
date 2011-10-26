@@ -1,0 +1,77 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/pnp/pnpbios
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+pnpbios.h
+file
+
+
+
+add
+
+rsparser.c
+file
+
+
+
+add
+
+proc.c
+file
+
+
+
+add
+
+core.c
+file
+
+
+
+add
+
+bioscalls.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

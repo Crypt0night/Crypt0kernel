@@ -1,0 +1,63 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/powerpc/configs/52xx
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+pcm030_defconfig
+file
+
+
+
+add
+
+lite5200b_defconfig
+file
+
+
+
+add
+
+motionpro_defconfig
+file
+
+
+
+add
+
+cm5200_defconfig
+file
+
+
+
+add
+
+tqm5200_defconfig
+file
+
+
+
+add
+

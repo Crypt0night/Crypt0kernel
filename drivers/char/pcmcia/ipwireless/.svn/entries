@@ -1,0 +1,98 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/char/pcmcia/ipwireless
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+network.h
+file
+
+
+
+add
+
+tty.c
+file
+
+
+
+add
+
+hardware.h
+file
+
+
+
+add
+
+main.c
+file
+
+
+
+add
+
+tty.h
+file
+
+
+
+add
+
+setup_protocol.h
+file
+
+
+
+add
+
+main.h
+file
+
+
+
+add
+
+network.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+hardware.c
+file
+
+
+
+add
+

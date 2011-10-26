@@ -1,0 +1,427 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/fs/ceph
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+super.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+snap.c
+file
+
+
+
+add
+
+super.h
+file
+
+
+
+add
+
+crush
+dir
+
+
+
+add
+
+ceph_fs.c
+file
+
+
+
+add
+
+types.h
+file
+
+
+
+add
+
+addr.c
+file
+
+
+
+add
+
+ioctl.c
+file
+
+
+
+add
+
+ceph_fs.h
+file
+
+
+
+add
+
+msgr.h
+file
+
+
+
+add
+
+ioctl.h
+file
+
+
+
+add
+
+msgpool.c
+file
+
+
+
+add
+
+armor.c
+file
+
+
+
+add
+
+export.c
+file
+
+
+
+add
+
+osd_client.c
+file
+
+
+
+add
+
+osdmap.c
+file
+
+
+
+add
+
+msgpool.h
+file
+
+
+
+add
+
+caps.c
+file
+
+
+
+add
+
+mon_client.c
+file
+
+
+
+add
+
+osd_client.h
+file
+
+
+
+add
+
+decode.h
+file
+
+
+
+add
+
+auth_x.c
+file
+
+
+
+add
+
+osdmap.h
+file
+
+
+
+add
+
+ceph_strings.c
+file
+
+
+
+add
+
+ceph_debug.h
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+mon_client.h
+file
+
+
+
+add
+
+auth_x.h
+file
+
+
+
+add
+
+inode.c
+file
+
+
+
+add
+
+auth.c
+file
+
+
+
+add
+
+xattr.c
+file
+
+
+
+add
+
+auth.h
+file
+
+
+
+add
+
+pagelist.c
+file
+
+
+
+add
+
+buffer.c
+file
+
+
+
+add
+
+README
+file
+
+
+
+add
+
+pagelist.h
+file
+
+
+
+add
+
+rados.h
+file
+
+
+
+add
+
+buffer.h
+file
+
+
+
+add
+
+ceph_frag.c
+file
+
+
+
+add
+
+auth_x_protocol.h
+file
+
+
+
+add
+
+dir.c
+file
+
+
+
+add
+
+debugfs.c
+file
+
+
+
+add
+
+file.c
+file
+
+
+
+add
+
+auth_none.c
+file
+
+
+
+add
+
+crypto.c
+file
+
+
+
+add
+
+mds_client.c
+file
+
+
+
+add
+
+mdsmap.c
+file
+
+
+
+add
+
+ceph_hash.c
+file
+
+
+
+add
+
+ceph_frag.h
+file
+
+
+
+add
+
+crypto.h
+file
+
+
+
+add
+
+auth_none.h
+file
+
+
+
+add
+
+mdsmap.h
+file
+
+
+
+add
+
+mds_client.h
+file
+
+
+
+add
+
+ceph_hash.h
+file
+
+
+
+add
+
+messenger.c
+file
+
+
+
+add
+
+messenger.h
+file
+
+
+
+add
+

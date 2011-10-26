@@ -1,0 +1,196 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/net/xfrm
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+xfrm_proc.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+modules.order
+file
+
+
+
+add
+
+.xfrm_state.o.cmd
+file
+
+
+
+add
+
+.xfrm_sysctl.o.cmd
+file
+
+
+
+add
+
+xfrm_user.c
+file
+
+
+
+add
+
+.xfrm_algo.o.cmd
+file
+
+
+
+add
+
+.xfrm_hash.o.cmd
+file
+
+
+
+add
+
+xfrm_state.c
+file
+
+
+
+add
+
+xfrm_sysctl.c
+file
+
+
+
+add
+
+xfrm_algo.c
+file
+
+
+
+add
+
+xfrm_hash.c
+file
+
+
+
+add
+
+.built-in.o.cmd
+file
+
+
+
+add
+
+.xfrm_ipcomp.o.cmd
+file
+
+
+
+add
+
+xfrm_ipcomp.c
+file
+
+
+
+add
+
+xfrm_hash.h
+file
+
+
+
+add
+
+.xfrm_input.o.cmd
+file
+
+
+
+add
+
+.xfrm_policy.o.cmd
+file
+
+
+
+add
+
+.xfrm_output.o.cmd
+file
+
+
+
+add
+
+xfrm_input.c
+file
+
+
+
+add
+
+xfrm_policy.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+xfrm_output.c
+file
+
+
+
+add
+
+modules.builtin
+file
+
+
+
+add
+

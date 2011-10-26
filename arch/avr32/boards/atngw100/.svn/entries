@@ -1,0 +1,77 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/avr32/boards/atngw100
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig_mrmt
+file
+
+
+
+add
+
+mrmt.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+setup.c
+file
+
+
+
+add
+
+evklcd10x.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+flash.c
+file
+
+
+
+add
+

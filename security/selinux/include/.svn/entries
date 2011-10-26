@@ -1,0 +1,119 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/security/selinux/include
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+avc.h
+file
+
+
+
+add
+
+netport.h
+file
+
+
+
+add
+
+netnode.h
+file
+
+
+
+add
+
+xfrm.h
+file
+
+
+
+add
+
+avc_ss.h
+file
+
+
+
+add
+
+initial_sid_to_string.h
+file
+
+
+
+add
+
+conditional.h
+file
+
+
+
+add
+
+classmap.h
+file
+
+
+
+add
+
+objsec.h
+file
+
+
+
+add
+
+netif.h
+file
+
+
+
+add
+
+netlabel.h
+file
+
+
+
+add
+
+audit.h
+file
+
+
+
+add
+
+security.h
+file
+
+
+
+add
+

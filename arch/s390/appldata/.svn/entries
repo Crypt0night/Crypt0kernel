@@ -1,0 +1,70 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/s390/appldata
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+appldata_base.c
+file
+
+
+
+add
+
+appldata_net_sum.c
+file
+
+
+
+add
+
+appldata_mem.c
+file
+
+
+
+add
+
+appldata_os.c
+file
+
+
+
+add
+
+appldata.h
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

@@ -1,0 +1,63 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/video/savage
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+savagefb.h
+file
+
+
+
+add
+
+savagefb_accel.c
+file
+
+
+
+add
+
+savagefb-i2c.c
+file
+
+
+
+add
+
+savagefb_driver.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

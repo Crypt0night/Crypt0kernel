@@ -1,0 +1,231 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/arm/plat-s3c24xx
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+s3c2443-clock.c
+file
+
+
+
+add
+
+gpio.c
+file
+
+
+
+add
+
+pm-simtec.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+cpu-freq-debugfs.c
+file
+
+
+
+add
+
+s3c2410-cpufreq-utils.c
+file
+
+
+
+add
+
+devs.c
+file
+
+
+
+add
+
+dma.c
+file
+
+
+
+add
+
+include
+dir
+
+
+
+add
+
+irq-pm.c
+file
+
+
+
+add
+
+clock-dclk.c
+file
+
+
+
+add
+
+setup-i2c.c
+file
+
+
+
+add
+
+pm.c
+file
+
+
+
+add
+
+s3c2410-iotiming.c
+file
+
+
+
+add
+
+s3c2412-iotiming.c
+file
+
+
+
+add
+
+spi-bus1-gpg5_6_7.c
+file
+
+
+
+add
+
+cpu-freq.c
+file
+
+
+
+add
+
+spi-bus0-gpe11_12_13.c
+file
+
+
+
+add
+
+simtec-audio.c
+file
+
+
+
+add
+
+common-smdk.c
+file
+
+
+
+add
+
+setup-ts.c
+file
+
+
+
+add
+
+gpiolib.c
+file
+
+
+
+add
+
+cpu.c
+file
+
+
+
+add
+
+sleep.S
+file
+
+
+
+add
+
+s3c2410-clock.c
+file
+
+
+
+add
+
+irq.c
+file
+
+
+
+add
+
+spi-bus1-gpd8_9_10.c
+file
+
+
+
+add
+
+clock.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

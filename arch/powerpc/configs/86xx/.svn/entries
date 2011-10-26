@@ -1,0 +1,70 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/powerpc/configs/86xx
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+gef_sbc310_defconfig
+file
+
+
+
+add
+
+mpc8610_hpcd_defconfig
+file
+
+
+
+add
+
+gef_ppc9a_defconfig
+file
+
+
+
+add
+
+sbc8641d_defconfig
+file
+
+
+
+add
+
+gef_sbc610_defconfig
+file
+
+
+
+add
+
+mpc8641_hpcn_defconfig
+file
+
+
+
+add
+

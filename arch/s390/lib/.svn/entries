@@ -1,0 +1,112 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/s390/lib
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+delay.c
+file
+
+
+
+add
+
+uaccess_std.c
+file
+
+
+
+add
+
+qrnnd.S
+file
+
+
+
+add
+
+spinlock.c
+file
+
+
+
+add
+
+ucmpdi2.c
+file
+
+
+
+add
+
+string.c
+file
+
+
+
+add
+
+uaccess_pt.c
+file
+
+
+
+add
+
+usercopy.c
+file
+
+
+
+add
+
+uaccess.h
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+div64.c
+file
+
+
+
+add
+
+uaccess_mvcos.c
+file
+
+
+
+add
+

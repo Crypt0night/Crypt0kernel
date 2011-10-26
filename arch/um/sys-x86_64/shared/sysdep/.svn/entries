@@ -1,0 +1,140 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/um/sys-x86_64/shared/sysdep
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+syscalls.h
+file
+
+
+
+add
+
+skas_ptrace.h
+file
+
+
+
+add
+
+archsetjmp.h
+file
+
+
+
+add
+
+tls.h
+file
+
+
+
+add
+
+checksum.h
+file
+
+
+
+add
+
+sc.h
+file
+
+
+
+add
+
+ptrace_user.h
+file
+
+
+
+add
+
+vm-flags.h
+file
+
+
+
+add
+
+stub.h
+file
+
+
+
+add
+
+ptrace.h
+file
+
+
+
+add
+
+host_ldt.h
+file
+
+
+
+add
+
+system.h
+file
+
+
+
+add
+
+barrier.h
+file
+
+
+
+add
+
+kernel-offsets.h
+file
+
+
+
+add
+
+faultinfo.h
+file
+
+
+
+add
+
+sigcontext.h
+file
+
+
+
+add
+

@@ -1,0 +1,56 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/fs/hostfs
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+hostfs_user.c
+file
+
+
+
+add
+
+hostfs_kern.c
+file
+
+
+
+add
+
+hostfs.h
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

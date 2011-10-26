@@ -1,0 +1,140 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/arm/mach-ixp2000/include/mach
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+enp2611.h
+file
+
+
+
+add
+
+vmalloc.h
+file
+
+
+
+add
+
+hardware.h
+file
+
+
+
+add
+
+gpio.h
+file
+
+
+
+add
+
+uncompress.h
+file
+
+
+
+add
+
+ixp2000-regs.h
+file
+
+
+
+add
+
+debug-macro.S
+file
+
+
+
+add
+
+io.h
+file
+
+
+
+add
+
+memory.h
+file
+
+
+
+add
+
+entry-macro.S
+file
+
+
+
+add
+
+ixdp2x00.h
+file
+
+
+
+add
+
+irqs.h
+file
+
+
+
+add
+
+ixdp2x01.h
+file
+
+
+
+add
+
+platform.h
+file
+
+
+
+add
+
+system.h
+file
+
+
+
+add
+
+timex.h
+file
+
+
+
+add
+

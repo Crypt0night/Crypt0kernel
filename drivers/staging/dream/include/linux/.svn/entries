@@ -1,0 +1,70 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/staging/dream/include/linux
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+msm_audio.h
+file
+
+
+
+add
+
+android_pmem.h
+file
+
+
+
+add
+
+gpio_event.h
+file
+
+
+
+add
+
+wakelock.h
+file
+
+
+
+add
+
+msm_rpcrouter.h
+file
+
+
+
+add
+
+msm_adsp.h
+file
+
+
+
+add
+

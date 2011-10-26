@@ -1,0 +1,63 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/sh/kernel/cpu/shmobile
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+pm_runtime.c
+file
+
+
+
+add
+
+cpuidle.c
+file
+
+
+
+add
+
+sleep.S
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+pm.c
+file
+
+
+
+add
+

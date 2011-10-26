@@ -1,0 +1,126 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/sh/kernel/cpu/sh2a
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+clock-sh7203.c
+file
+
+
+
+add
+
+entry.S
+file
+
+
+
+add
+
+setup-sh7201.c
+file
+
+
+
+add
+
+clock-sh7206.c
+file
+
+
+
+add
+
+setup-sh7203.c
+file
+
+
+
+add
+
+pinmux-sh7203.c
+file
+
+
+
+add
+
+probe.c
+file
+
+
+
+add
+
+setup-sh7206.c
+file
+
+
+
+add
+
+opcode_helper.c
+file
+
+
+
+add
+
+setup-mxg.c
+file
+
+
+
+add
+
+fpu.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+ex.S
+file
+
+
+
+add
+
+clock-sh7201.c
+file
+
+
+
+add
+

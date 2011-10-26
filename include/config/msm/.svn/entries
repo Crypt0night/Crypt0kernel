@@ -1,0 +1,315 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/include/config/msm
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+show
+dir
+
+
+
+add
+
+rotator.h
+file
+
+
+
+add
+
+rpc
+dir
+
+
+
+add
+
+secure
+dir
+
+
+
+add
+
+debug
+dir
+
+
+
+add
+
+sched
+dir
+
+
+
+add
+
+cpu
+dir
+
+
+
+add
+
+gemini.h
+file
+
+
+
+add
+
+rpm
+dir
+
+
+
+add
+
+dsps.h
+file
+
+
+
+add
+
+smd0
+dir
+
+
+
+add
+
+direct
+dir
+
+
+
+add
+
+gpiomux.h
+file
+
+
+
+add
+
+stacked
+dir
+
+
+
+add
+
+vpe.h
+file
+
+
+
+add
+
+suspend
+dir
+
+
+
+add
+
+dload
+dir
+
+
+
+add
+
+smd
+dir
+
+
+
+add
+
+rpcservers.h
+file
+
+
+
+add
+
+rpm.h
+file
+
+
+
+add
+
+oncrpcrouter
+dir
+
+
+
+add
+
+watchdog.h
+file
+
+
+
+add
+
+v2
+dir
+
+
+
+add
+
+camera
+dir
+
+
+
+add
+
+bus
+dir
+
+
+
+add
+
+remote
+dir
+
+
+
+add
+
+n
+dir
+
+
+
+add
+
+kgsl
+dir
+
+
+
+add
+
+rmt
+dir
+
+
+
+add
+
+amss
+dir
+
+
+
+add
+
+scm.h
+file
+
+
+
+add
+
+sleep
+dir
+
+
+
+add
+
+smd.h
+file
+
+
+
+add
+
+adm3.h
+file
+
+
+
+add
+
+mdp40.h
+file
+
+
+
+add
+
+pil.h
+file
+
+
+
+add
+
+rmnet.h
+file
+
+
+
+add
+
+oncrpcrouter.h
+file
+
+
+
+add
+
+xo.h
+file
+
+
+
+add
+
+idle
+dir
+
+
+
+add
+
+camera.h
+file
+
+
+
+add
+

@@ -1,0 +1,77 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/include/linux/lockd
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+bind.h
+file
+
+
+
+add
+
+lockd.h
+file
+
+
+
+add
+
+xdr.h
+file
+
+
+
+add
+
+xdr4.h
+file
+
+
+
+add
+
+share.h
+file
+
+
+
+add
+
+debug.h
+file
+
+
+
+add
+
+nlm.h
+file
+
+
+
+add
+

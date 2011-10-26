@@ -1,0 +1,574 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/staging/vt6655
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+tether.h
+file
+
+
+
+add
+
+tcrc.h
+file
+
+
+
+add
+
+country.h
+file
+
+
+
+add
+
+card.c
+file
+
+
+
+add
+
+wpa2.c
+file
+
+
+
+add
+
+ioctl.c
+file
+
+
+
+add
+
+wmgr.c
+file
+
+
+
+add
+
+wpa2.h
+file
+
+
+
+add
+
+card.h
+file
+
+
+
+add
+
+ioctl.h
+file
+
+
+
+add
+
+wmgr.h
+file
+
+
+
+add
+
+iwctl.c
+file
+
+
+
+add
+
+device_cfg.h
+file
+
+
+
+add
+
+iwctl.h
+file
+
+
+
+add
+
+wpactl.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+wpactl.h
+file
+
+
+
+add
+
+baseband.c
+file
+
+
+
+add
+
+mac.c
+file
+
+
+
+add
+
+michael.c
+file
+
+
+
+add
+
+baseband.h
+file
+
+
+
+add
+
+device.h
+file
+
+
+
+add
+
+mac.h
+file
+
+
+
+add
+
+michael.h
+file
+
+
+
+add
+
+80211hdr.h
+file
+
+
+
+add
+
+wroute.c
+file
+
+
+
+add
+
+key.c
+file
+
+
+
+add
+
+wroute.h
+file
+
+
+
+add
+
+wcmd.c
+file
+
+
+
+add
+
+tmacro.h
+file
+
+
+
+add
+
+power.c
+file
+
+
+
+add
+
+key.h
+file
+
+
+
+add
+
+bssdb.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+wcmd.h
+file
+
+
+
+add
+
+power.h
+file
+
+
+
+add
+
+bssdb.h
+file
+
+
+
+add
+
+dpc.c
+file
+
+
+
+add
+
+aes_ccmp.c
+file
+
+
+
+add
+
+ttype.h
+file
+
+
+
+add
+
+dpc.h
+file
+
+
+
+add
+
+aes_ccmp.h
+file
+
+
+
+add
+
+srom.c
+file
+
+
+
+add
+
+80211mgr.c
+file
+
+
+
+add
+
+IEEE11h.c
+file
+
+
+
+add
+
+desc.h
+file
+
+
+
+add
+
+iowpa.h
+file
+
+
+
+add
+
+datarate.c
+file
+
+
+
+add
+
+srom.h
+file
+
+
+
+add
+
+IEEE11h.h
+file
+
+
+
+add
+
+80211mgr.h
+file
+
+
+
+add
+
+wpa.c
+file
+
+
+
+add
+
+datarate.h
+file
+
+
+
+add
+
+upc.h
+file
+
+
+
+add
+
+wpa.h
+file
+
+
+
+add
+
+hostap.c
+file
+
+
+
+add
+
+test
+file
+
+
+
+add
+
+iocmd.h
+file
+
+
+
+add
+
+hostap.h
+file
+
+
+
+add
+
+device_main.c
+file
+
+
+
+add
+
+rxtx.c
+file
+
+
+
+add
+
+rf.c
+file
+
+
+
+add
+
+tkip.c
+file
+
+
+
+add
+
+mib.c
+file
+
+
+
+add
+
+wctl.c
+file
+
+
+
+add
+
+rxtx.h
+file
+
+
+
+add
+
+rf.h
+file
+
+
+
+add
+
+mib.h
+file
+
+
+
+add
+
+tkip.h
+file
+
+
+
+add
+
+wctl.h
+file
+
+
+
+add
+
+TODO
+file
+
+
+
+add
+
+vntconfiguration.dat
+file
+
+
+
+add
+
+vntwifi.c
+file
+
+
+
+add
+
+rc4.c
+file
+
+
+
+add
+
+vntwifi.h
+file
+
+
+
+add
+
+tcrc.c
+file
+
+
+
+add
+
+tether.c
+file
+
+
+
+add
+
+rc4.h
+file
+
+
+
+add
+

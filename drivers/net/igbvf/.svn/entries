@@ -1,0 +1,98 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/net/igbvf
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+ethtool.c
+file
+
+
+
+add
+
+vf.h
+file
+
+
+
+add
+
+defines.h
+file
+
+
+
+add
+
+igbvf.h
+file
+
+
+
+add
+
+netdev.c
+file
+
+
+
+add
+
+regs.h
+file
+
+
+
+add
+
+mbx.c
+file
+
+
+
+add
+
+mbx.h
+file
+
+
+
+add
+
+vf.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

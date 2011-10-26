@@ -1,0 +1,70 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/net/bluetooth/bnep
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+sock.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+netdev.c
+file
+
+
+
+add
+
+core.c
+file
+
+
+
+add
+
+bnep.h
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

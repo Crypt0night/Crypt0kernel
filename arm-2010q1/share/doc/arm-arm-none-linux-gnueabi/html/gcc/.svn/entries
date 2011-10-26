@@ -1,0 +1,1764 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arm-2010q1/share/doc/arm-arm-none-linux-gnueabi/html/gcc
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Mixed-Declarations.html
+file
+
+
+
+add
+
+compatibility_005falias.html
+file
+
+
+
+add
+
+Alignment.html
+file
+
+
+
+add
+
+C99-Thread_002dLocal-Edits.html
+file
+
+
+
+add
+
+Copy-Assignment.html
+file
+
+
+
+add
+
+Modifiers.html
+file
+
+
+
+add
+
+Standards.html
+file
+
+
+
+add
+
+Incomplete-Enums.html
+file
+
+
+
+add
+
+Function-Names.html
+file
+
+
+
+add
+
+Declarators-implementation.html
+file
+
+
+
+add
+
+Designated-Inits.html
+file
+
+
+
+add
+
+Directly_002dmapped-Integer-Functions.html
+file
+
+
+
+add
+
+Directory-Options.html
+file
+
+
+
+add
+
+Dollar-Signs.html
+file
+
+
+
+add
+
+Simple-Constraints.html
+file
+
+
+
+add
+
+ARM-NEON-Intrinsics.html
+file
+
+
+
+add
+
+ARM-iWMMXt-Built_002din-Functions.html
+file
+
+
+
+add
+
+MMIX-Options.html
+file
+
+
+
+add
+
+Variadic-Macros.html
+file
+
+
+
+add
+
+Type-encoding.html
+file
+
+
+
+add
+
+C-Implementation.html
+file
+
+
+
+add
+
+Namespace-Association.html
+file
+
+
+
+add
+
+Complex.html
+file
+
+
+
+add
+
+Thread_002dLocal.html
+file
+
+
+
+add
+
+Other-Builtins.html
+file
+
+
+
+add
+
+ARM-Options.html
+file
+
+
+
+add
+
+Incompatibilities.html
+file
+
+
+
+add
+
+Variable-Attributes.html
+file
+
+
+
+add
+
+Environment-Variables.html
+file
+
+
+
+add
+
+Trouble.html
+file
+
+
+
+add
+
+Option-Index.html
+file
+
+
+
+add
+
+Weak-Pragmas.html
+file
+
+
+
+add
+
+Garbage-Collection.html
+file
+
+
+
+add
+
+Paired_002dSingle-Arithmetic.html
+file
+
+
+
+add
+
+Bug-Reporting.html
+file
+
+
+
+add
+
+Arrays-and-pointers-implementation.html
+file
+
+
+
+add
+
+FRV-Options.html
+file
+
+
+
+add
+
+G_002b_002b-and-GCC.html
+file
+
+
+
+add
+
+Environment-implementation.html
+file
+
+
+
+add
+
+Optimize-Options.html
+file
+
+
+
+add
+
+Running-Protoize.html
+file
+
+
+
+add
+
+Spec-Files.html
+file
+
+
+
+add
+
+Temporaries.html
+file
+
+
+
+add
+
+Local-Labels.html
+file
+
+
+
+add
+
+Paired_002dSingle-Built_002din-Functions.html
+file
+
+
+
+add
+
+GNU-Project.html
+file
+
+
+
+add
+
+Library-functions-implementation.html
+file
+
+
+
+add
+
+Non_002dbugs.html
+file
+
+
+
+add
+
+Service.html
+file
+
+
+
+add
+
+Submodel-Options.html
+file
+
+
+
+add
+
+Option-Summary.html
+file
+
+
+
+add
+
+PowerPC-AltiVec-Built_002din-Functions.html
+file
+
+
+
+add
+
+Solaris-Pragmas.html
+file
+
+
+
+add
+
+Objective_002dC-and-Objective_002dC_002b_002b-Dialect-Options.html
+file
+
+
+
+add
+
+Type-Attributes.html
+file
+
+
+
+add
+
+Language-Independent-Options.html
+file
+
+
+
+add
+
+Actual-Bugs.html
+file
+
+
+
+add
+
+M32R_002fD-Options.html
+file
+
+
+
+add
+
+Target-Format-Checks.html
+file
+
+
+
+add
+
+Standard-Libraries.html
+file
+
+
+
+add
+
+Precompiled-Headers.html
+file
+
+
+
+add
+
+zSeries-Options.html
+file
+
+
+
+add
+
+C-Dialect-Options.html
+file
+
+
+
+add
+
+AVR-Options.html
+file
+
+
+
+add
+
+IA_002d64-Options.html
+file
+
+
+
+add
+
+C_002b_002b-Extensions.html
+file
+
+
+
+add
+
+Cross_002dprofiling.html
+file
+
+
+
+add
+
+GNU_002fLinux-Options.html
+file
+
+
+
+add
+
+CRIS-Options.html
+file
+
+
+
+add
+
+Cross_002dCompiler-Problems.html
+file
+
+
+
+add
+
+Funding.html
+file
+
+
+
+add
+
+M680x0-Options.html
+file
+
+
+
+add
+
+i386-Type-Attributes.html
+file
+
+
+
+add
+
+Characters-implementation.html
+file
+
+
+
+add
+
+dashMF.html
+file
+
+
+
+add
+
+PDP_002d11-Options.html
+file
+
+
+
+add
+
+Backwards-Compatibility.html
+file
+
+
+
+add
+
+Statements-implementation.html
+file
+
+
+
+add
+
+Push_002fPop-Macro-Pragmas.html
+file
+
+
+
+add
+
+Deprecated-Features.html
+file
+
+
+
+add
+
+Directly_002dmapped-Media-Functions.html
+file
+
+
+
+add
+
+Invoking-GCC.html
+file
+
+
+
+add
+
+Inline.html
+file
+
+
+
+add
+
+Preprocessor-Options.html
+file
+
+
+
+add
+
+Vague-Linkage.html
+file
+
+
+
+add
+
+Type-Traits.html
+file
+
+
+
+add
+
+Conditionals.html
+file
+
+
+
+add
+
+MN10300-Options.html
+file
+
+
+
+add
+
+Object-Size-Checking.html
+file
+
+
+
+add
+
+Identifiers-implementation.html
+file
+
+
+
+add
+
+Nested-Functions.html
+file
+
+
+
+add
+
+V850-Options.html
+file
+
+
+
+add
+
+Unnamed-Fields.html
+file
+
+
+
+add
+
+Long-Long.html
+file
+
+
+
+add
+
+Warning-Options.html
+file
+
+
+
+add
+
+S_002f390-and-zSeries-Options.html
+file
+
+
+
+add
+
+Solaris-Format-Checks.html
+file
+
+
+
+add
+
+SPU-Options.html
+file
+
+
+
+add
+
+Compound-Literals.html
+file
+
+
+
+add
+
+Warnings-and-Errors.html
+file
+
+
+
+add
+
+i386-and-x86_002d64-Options.html
+file
+
+
+
+add
+
+Type_002dpunning.html
+file
+
+
+
+add
+
+Floating-Types.html
+file
+
+
+
+add
+
+SPARC-VIS-Built_002din-Functions.html
+file
+
+
+
+add
+
+Typeof.html
+file
+
+
+
+add
+
+Constraints.html
+file
+
+
+
+add
+
+Locale_002dspecific-behavior-implementation.html
+file
+
+
+
+add
+
+What-you-can-and-what-you-cannot-do-in-_002bload.html
+file
+
+
+
+add
+
+Subscripting.html
+file
+
+
+
+add
+
+Character-Escapes.html
+file
+
+
+
+add
+
+x86_002d64-Options.html
+file
+
+
+
+add
+
+Constructing-Calls.html
+file
+
+
+
+add
+
+Invoking-G_002b_002b.html
+file
+
+
+
+add
+
+C-Extensions.html
+file
+
+
+
+add
+
+Empty-Structures.html
+file
+
+
+
+add
+
+Other-Built_002din-Functions.html
+file
+
+
+
+add
+
+Asm-Labels.html
+file
+
+
+
+add
+
+HPPA-Options.html
+file
+
+
+
+add
+
+Bound-member-functions.html
+file
+
+
+
+add
+
+H8_002f300-Options.html
+file
+
+
+
+add
+
+Constant-string-objects.html
+file
+
+
+
+add
+
+Alternate-Keywords.html
+file
+
+
+
+add
+
+Xstormy16-Options.html
+file
+
+
+
+add
+
+Link-Options.html
+file
+
+
+
+add
+
+Name-lookup.html
+file
+
+
+
+add
+
+Qualifiers-implementation.html
+file
+
+
+
+add
+
+Case-Ranges.html
+file
+
+
+
+add
+
+Keyword-Index.html
+file
+
+
+
+add
+
+MIPS-DSP-Built_002din-Functions.html
+file
+
+
+
+add
+
+M32C-Pragmas.html
+file
+
+
+
+add
+
+Binary-constants.html
+file
+
+
+
+add
+
+Zero-Length.html
+file
+
+
+
+add
+
+Bugs.html
+file
+
+
+
+add
+
+Java-Exceptions.html
+file
+
+
+
+add
+
+Return-Address.html
+file
+
+
+
+add
+
+Objective_002dC.html
+file
+
+
+
+add
+
+SH-Options.html
+file
+
+
+
+add
+
+Architecture-implementation.html
+file
+
+
+
+add
+
+Explicit-Reg-Vars.html
+file
+
+
+
+add
+
+Gcov-Data-Files.html
+file
+
+
+
+add
+
+SPU-Built_002din-Functions.html
+file
+
+
+
+add
+
+Blackfin-Built_002din-Functions.html
+file
+
+
+
+add
+
+PowerPC-Options.html
+file
+
+
+
+add
+
+SPU-Type-Attributes.html
+file
+
+
+
+add
+
+Raw-read_002fwrite-Functions.html
+file
+
+
+
+add
+
+Function-Prototypes.html
+file
+
+
+
+add
+
+MIPS-Paired_002dSingle-Support.html
+file
+
+
+
+add
+
+VxWorks-Options.html
+file
+
+
+
+add
+
+Extended-Asm.html
+file
+
+
+
+add
+
+Multi_002dAlternative.html
+file
+
+
+
+add
+
+Target-Options.html
+file
+
+
+
+add
+
+Gcov-and-Optimization.html
+file
+
+
+
+add
+
+Argument-Types.html
+file
+
+
+
+add
+
+X86-Built_002din-Functions.html
+file
+
+
+
+add
+
+DEC-Alpha_002fVMS-Options.html
+file
+
+
+
+add
+
+Executing-code-before-main.html
+file
+
+
+
+add
+
+Escaped-Newlines.html
+file
+
+
+
+add
+
+picoChip-Options.html
+file
+
+
+
+add
+
+M68hc1x-Options.html
+file
+
+
+
+add
+
+VAX-Options.html
+file
+
+
+
+add
+
+Attribute-Syntax.html
+file
+
+
+
+add
+
+C_002b_002b-Misunderstandings.html
+file
+
+
+
+add
+
+Wtrigraphs.html
+file
+
+
+
+add
+
+M32C-Options.html
+file
+
+
+
+add
+
+Contributors.html
+file
+
+
+
+add
+
+Overall-Options.html
+file
+
+
+
+add
+
+fdollars_002din_002didentifiers.html
+file
+
+
+
+add
+
+Fixed_002dPoint.html
+file
+
+
+
+add
+
+Gcov.html
+file
+
+
+
+add
+
+Protoize-Caveats.html
+file
+
+
+
+add
+
+i386-Variable-Attributes.html
+file
+
+
+
+add
+
+Decimal-Float.html
+file
+
+
+
+add
+
+MIPS-Options.html
+file
+
+
+
+add
+
+Blackfin-Options.html
+file
+
+
+
+add
+
+Atomic-Builtins.html
+file
+
+
+
+add
+
+Integers-implementation.html
+file
+
+
+
+add
+
+Statement-Exprs.html
+file
+
+
+
+add
+
+MIPS-Loongson-Built_002din-Functions.html
+file
+
+
+
+add
+
+FR30-Options.html
+file
+
+
+
+add
+
+Function-Specific-Option-Pragmas.html
+file
+
+
+
+add
+
+Initializers.html
+file
+
+
+
+add
+
+DEC-Alpha-Options.html
+file
+
+
+
+add
+
+Compatibility.html
+file
+
+
+
+add
+
+Restricted-Pointers.html
+file
+
+
+
+add
+
+Darwin-Pragmas.html
+file
+
+
+
+add
+
+Target-Builtins.html
+file
+
+
+
+add
+
+Invoking-Gcov.html
+file
+
+
+
+add
+
+System-V-Options.html
+file
+
+
+
+add
+
+Disappointments.html
+file
+
+
+
+add
+
+FR_002dV-Built_002din-Functions.html
+file
+
+
+
+add
+
+PowerPC-Type-Attributes.html
+file
+
+
+
+add
+
+MIPS_002d3D-Built_002din-Functions.html
+file
+
+
+
+add
+
+C_002b_002b-Dialect-Options.html
+file
+
+
+
+add
+
+C_002b_002b98-Thread_002dLocal-Edits.html
+file
+
+
+
+add
+
+Alpha-Built_002din-Functions.html
+file
+
+
+
+add
+
+CRX-Options.html
+file
+
+
+
+add
+
+RS_002f6000-and-PowerPC-Pragmas.html
+file
+
+
+
+add
+
+Other-MIPS-Built_002din-Functions.html
+file
+
+
+
+add
+
+C_002b_002b-Interface.html
+file
+
+
+
+add
+
+Xtensa-Options.html
+file
+
+
+
+add
+
+Template-Instantiation.html
+file
+
+
+
+add
+
+ARC-Options.html
+file
+
+
+
+add
+
+GNU-Free-Documentation-License.html
+file
+
+
+
+add
+
+Cast-to-Union.html
+file
+
+
+
+add
+
+SPARC-Options.html
+file
+
+
+
+add
+
+Volatiles.html
+file
+
+
+
+add
+
+Symbol_002dRenaming-Pragmas.html
+file
+
+
+
+add
+
+Score-Options.html
+file
+
+
+
+add
+
+Contributing.html
+file
+
+
+
+add
+
+Hints-implementation.html
+file
+
+
+
+add
+
+Machine-Constraints.html
+file
+
+
+
+add
+
+Code-Gen-Options.html
+file
+
+
+
+add
+
+Structure_002dPacking-Pragmas.html
+file
+
+
+
+add
+
+Offsetof.html
+file
+
+
+
+add
+
+C_002b_002b-Attributes.html
+file
+
+
+
+add
+
+Diagnostic-Pragmas.html
+file
+
+
+
+add
+
+Bug-Criteria.html
+file
+
+
+
+add
+
+Floating-point-implementation.html
+file
+
+
+
+add
+
+Darwin-Options.html
+file
+
+
+
+add
+
+Structures-unions-enumerations-and-bit_002dfields-implementation.html
+file
+
+
+
+add
+
+Local-Reg-Vars.html
+file
+
+
+
+add
+
+Visibility-Pragmas.html
+file
+
+
+
+add
+
+Translation-implementation.html
+file
+
+
+
+add
+
+Global-Reg-Vars.html
+file
+
+
+
+add
+
+Debugging-Options.html
+file
+
+
+
+add
+
+Pointer-Arith.html
+file
+
+
+
+add
+
+Gcov-Intro.html
+file
+
+
+
+add
+
+RS_002f6000-and-PowerPC-Options.html
+file
+
+
+
+add
+
+Pragmas.html
+file
+
+
+
+add
+
+Example-of-asm-with-clobbered-asm-reg.html
+file
+
+
+
+add
+
+i386-and-x86_002d64-Windows-Options.html
+file
+
+
+
+add
+
+picoChip-Built_002din-Functions.html
+file
+
+
+
+add
+
+MCore-Options.html
+file
+
+
+
+add
+
+Vector-Extensions.html
+file
+
+
+
+add
+
+Static-Definitions.html
+file
+
+
+
+add
+
+Labels-as-Values.html
+file
+
+
+
+add
+
+Interoperation.html
+file
+
+
+
+add
+
+Variable-Length.html
+file
+
+
+
+add
+
+Preprocessing-directives-implementation.html
+file
+
+
+
+add
+
+Assembler-Options.html
+file
+
+
+
+add
+
+ARM-Pragmas.html
+file
+
+
+
+add
+
+index.html
+file
+
+
+
+add
+
+Copying.html
+file
+
+
+
+add
+
+Fixed-Headers.html
+file
+
+
+
+add
+
+Function-Attributes.html
+file
+
+
+
+add
+
+Hex-Floats.html
+file
+
+
+
+add
+
+C_002b_002b-Comments.html
+file
+
+
+
+add
+
+Half_002dPrecision.html
+file
+
+
+
+add
+

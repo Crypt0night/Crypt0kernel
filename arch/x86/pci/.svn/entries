@@ -1,0 +1,182 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/x86/pci
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+broadcom_bus.c
+file
+
+
+
+add
+
+init.c
+file
+
+
+
+add
+
+mmconfig-shared.c
+file
+
+
+
+add
+
+mmconfig_32.c
+file
+
+
+
+add
+
+legacy.c
+file
+
+
+
+add
+
+mmconfig_64.c
+file
+
+
+
+add
+
+bus_numa.c
+file
+
+
+
+add
+
+amd_bus.c
+file
+
+
+
+add
+
+direct.c
+file
+
+
+
+add
+
+visws.c
+file
+
+
+
+add
+
+acpi.c
+file
+
+
+
+add
+
+early.c
+file
+
+
+
+add
+
+bus_numa.h
+file
+
+
+
+add
+
+pcbios.c
+file
+
+
+
+add
+
+mrst.c
+file
+
+
+
+add
+
+numaq_32.c
+file
+
+
+
+add
+
+common.c
+file
+
+
+
+add
+
+i386.c
+file
+
+
+
+add
+
+fixup.c
+file
+
+
+
+add
+
+irq.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+olpc.c
+file
+
+
+
+add
+

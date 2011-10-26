@@ -1,0 +1,399 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/staging/comedi/drivers/addi-data
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+hwdrv_apci2200.h
+file
+
+
+
+add
+
+addi_amcc_s5933.h
+file
+
+
+
+add
+
+hwdrv_APCI1710.c
+file
+
+
+
+add
+
+hwdrv_apci1032.h
+file
+
+
+
+add
+
+APCI1710_Ssi.c
+file
+
+
+
+add
+
+hwdrv_apci1516.c
+file
+
+
+
+add
+
+hwdrv_APCI1710.h
+file
+
+
+
+add
+
+hwdrv_apci1516.h
+file
+
+
+
+add
+
+APCI1710_Pwm.c
+file
+
+
+
+add
+
+APCI1710_Ssi.h
+file
+
+
+
+add
+
+addi_common.c
+file
+
+
+
+add
+
+APCI1710_Tor.c
+file
+
+
+
+add
+
+APCI1710_Pwm.h
+file
+
+
+
+add
+
+addi_common.h
+file
+
+
+
+add
+
+APCI1710_Tor.h
+file
+
+
+
+add
+
+hwdrv_apci035.c
+file
+
+
+
+add
+
+hwdrv_apci035.h
+file
+
+
+
+add
+
+APCI1710_INCCPT.c
+file
+
+
+
+add
+
+amcc_s5933_58.h
+file
+
+
+
+add
+
+APCI1710_INCCPT.h
+file
+
+
+
+add
+
+hwdrv_apci3200.c
+file
+
+
+
+add
+
+hwdrv_apci3120.c
+file
+
+
+
+add
+
+hwdrv_apci1500.c
+file
+
+
+
+add
+
+hwdrv_apci2032.c
+file
+
+
+
+add
+
+APCI1710_Chrono.c
+file
+
+
+
+add
+
+APCI1710_82x54.c
+file
+
+
+
+add
+
+hwdrv_apci3501.c
+file
+
+
+
+add
+
+APCI1710_Dig_io.c
+file
+
+
+
+add
+
+hwdrv_apci2016.c
+file
+
+
+
+add
+
+hwdrv_apci3200.h
+file
+
+
+
+add
+
+hwdrv_apci1500.h
+file
+
+
+
+add
+
+hwdrv_apci3120.h
+file
+
+
+
+add
+
+APCI1710_Inp_cpt.c
+file
+
+
+
+add
+
+APCI1710_Chrono.h
+file
+
+
+
+add
+
+hwdrv_apci2032.h
+file
+
+
+
+add
+
+hwdrv_apci3501.h
+file
+
+
+
+add
+
+APCI1710_Dig_io.h
+file
+
+
+
+add
+
+APCI1710_82x54.h
+file
+
+
+
+add
+
+hwdrv_apci2016.h
+file
+
+
+
+add
+
+APCI1710_Inp_cpt.h
+file
+
+
+
+add
+
+hwdrv_apci1564.c
+file
+
+
+
+add
+
+APCI1710_Ttl.c
+file
+
+
+
+add
+
+addi_eeprom.c
+file
+
+
+
+add
+
+hwdrv_apci1564.h
+file
+
+
+
+add
+
+hwdrv_apci16xx.c
+file
+
+
+
+add
+
+APCI1710_Ttl.h
+file
+
+
+
+add
+
+hwdrv_apci3xxx.c
+file
+
+
+
+add
+
+hwdrv_apci16xx.h
+file
+
+
+
+add
+
+hwdrv_apci3xxx.h
+file
+
+
+
+add
+
+addi_amcc_S5920.c
+file
+
+
+
+add
+
+hwdrv_apci2200.c
+file
+
+
+
+add
+
+addi_amcc_S5920.h
+file
+
+
+
+add
+
+hwdrv_apci1032.c
+file
+
+
+
+add
+

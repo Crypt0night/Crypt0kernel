@@ -1,0 +1,175 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/scripts/mod
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+empty.c
+file
+
+
+
+add
+
+modules.order
+file
+
+
+
+add
+
+elfconfig.h
+file
+
+
+
+add
+
+mk_elfconfig
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+modpost
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+.sumversion.o.cmd
+file
+
+
+
+add
+
+.file2alias.o.cmd
+file
+
+
+
+add
+
+sumversion.c
+file
+
+
+
+add
+
+file2alias.c
+file
+
+
+
+add
+
+.elfconfig.h.cmd
+file
+
+
+
+add
+
+.modpost.o.cmd
+file
+
+
+
+add
+
+.mk_elfconfig.cmd
+file
+
+
+
+add
+
+mk_elfconfig.c
+file
+
+
+
+add
+
+.gitignore
+file
+
+
+
+add
+
+.modpost.cmd
+file
+
+
+
+add
+
+modpost.c
+file
+
+
+
+add
+
+modpost.h
+file
+
+
+
+add
+
+.empty.o.cmd
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

@@ -1,0 +1,105 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/sound/drivers/opl4
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+.built-in.o.cmd
+file
+
+
+
+add
+
+opl4_proc.c
+file
+
+
+
+add
+
+modules.order
+file
+
+
+
+add
+
+opl4_mixer.c
+file
+
+
+
+add
+
+opl4_synth.c
+file
+
+
+
+add
+
+opl4_lib.c
+file
+
+
+
+add
+
+opl4_seq.c
+file
+
+
+
+add
+
+yrw801.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+modules.builtin
+file
+
+
+
+add
+
+opl4_local.h
+file
+
+
+
+add
+

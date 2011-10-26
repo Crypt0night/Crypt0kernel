@@ -1,0 +1,105 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/scsi/libfc
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+fc_rport.c
+file
+
+
+
+add
+
+fc_exch.c
+file
+
+
+
+add
+
+fc_fcp.c
+file
+
+
+
+add
+
+fc_frame.c
+file
+
+
+
+add
+
+fc_elsct.c
+file
+
+
+
+add
+
+fc_npiv.c
+file
+
+
+
+add
+
+fc_libfc.c
+file
+
+
+
+add
+
+fc_lport.c
+file
+
+
+
+add
+
+fc_disc.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+fc_libfc.h
+file
+
+
+
+add
+

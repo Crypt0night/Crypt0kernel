@@ -1,0 +1,98 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/score/lib
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+cmpdi2.c
+file
+
+
+
+add
+
+checksum.S
+file
+
+
+
+add
+
+ucmpdi2.c
+file
+
+
+
+add
+
+string.S
+file
+
+
+
+add
+
+ashldi3.c
+file
+
+
+
+add
+
+libgcc.h
+file
+
+
+
+add
+
+lshrdi3.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+checksum_copy.c
+file
+
+
+
+add
+
+ashrdi3.c
+file
+
+
+
+add
+

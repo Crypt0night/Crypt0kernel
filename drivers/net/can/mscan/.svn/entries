@@ -1,0 +1,63 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/net/can/mscan
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+mscan.c
+file
+
+
+
+add
+
+mscan.h
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+mpc5xxx_can.c
+file
+
+
+
+add
+

@@ -1,0 +1,56 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/Documentation/filesystems/configfs
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+configfs_example_explicit.c
+file
+
+
+
+add
+
+configfs.txt
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+configfs_example_macros.c
+file
+
+
+
+add
+

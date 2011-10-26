@@ -1,0 +1,84 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/sh/boards/mach-highlander
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+setup.c
+file
+
+
+
+add
+
+irq-r7780rp.c
+file
+
+
+
+add
+
+irq-r7785rp.c
+file
+
+
+
+add
+
+psw.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+pinmux-r7785rp.c
+file
+
+
+
+add
+
+irq-r7780mp.c
+file
+
+
+
+add
+

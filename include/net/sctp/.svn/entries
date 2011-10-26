@@ -1,0 +1,105 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/include/net/sctp
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+sctp.h
+file
+
+
+
+add
+
+constants.h
+file
+
+
+
+add
+
+command.h
+file
+
+
+
+add
+
+user.h
+file
+
+
+
+add
+
+sm.h
+file
+
+
+
+add
+
+auth.h
+file
+
+
+
+add
+
+tsnmap.h
+file
+
+
+
+add
+
+checksum.h
+file
+
+
+
+add
+
+ulpevent.h
+file
+
+
+
+add
+
+ulpqueue.h
+file
+
+
+
+add
+
+structs.h
+file
+
+
+
+add
+

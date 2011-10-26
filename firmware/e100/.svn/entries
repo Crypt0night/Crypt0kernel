@@ -1,0 +1,49 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/firmware/e100
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+d101m_ucode.bin.ihex
+file
+
+
+
+add
+
+d101s_ucode.bin.ihex
+file
+
+
+
+add
+
+d102e_ucode.bin.ihex
+file
+
+
+
+add
+

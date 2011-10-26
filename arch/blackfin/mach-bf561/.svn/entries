@@ -1,0 +1,105 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/blackfin/mach-bf561
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+smp.c
+file
+
+
+
+add
+
+dma.c
+file
+
+
+
+add
+
+include
+dir
+
+
+
+add
+
+hotplug.c
+file
+
+
+
+add
+
+secondary.S
+file
+
+
+
+add
+
+boards
+dir
+
+
+
+add
+
+coreb.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+ints-priority.c
+file
+
+
+
+add
+
+atomic.S
+file
+
+
+
+add
+

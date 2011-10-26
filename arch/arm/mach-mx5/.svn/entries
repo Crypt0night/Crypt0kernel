@@ -1,0 +1,98 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/arm/mach-mx5
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Makefile.boot
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+devices.c
+file
+
+
+
+add
+
+board-mx51_babbage.c
+file
+
+
+
+add
+
+clock-mx51.c
+file
+
+
+
+add
+
+crm_regs.h
+file
+
+
+
+add
+
+cpu.c
+file
+
+
+
+add
+
+devices.h
+file
+
+
+
+add
+
+mm.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

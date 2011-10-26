@@ -1,0 +1,252 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/um/kernel
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+umid.c
+file
+
+
+
+add
+
+smp.c
+file
+
+
+
+add
+
+exitcode.c
+file
+
+
+
+add
+
+ksyms.c
+file
+
+
+
+add
+
+syscall.c
+file
+
+
+
+add
+
+config.c.in
+file
+
+
+
+add
+
+gmon_syms.c
+file
+
+
+
+add
+
+process.c
+file
+
+
+
+add
+
+um_arch.c
+file
+
+
+
+add
+
+tlb.c
+file
+
+
+
+add
+
+physmem.c
+file
+
+
+
+add
+
+uaccess.c
+file
+
+
+
+add
+
+asm-offsets.c
+file
+
+
+
+add
+
+initrd.c
+file
+
+
+
+add
+
+dyn.lds.S
+file
+
+
+
+add
+
+irq.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+uml.lds.S
+file
+
+
+
+add
+
+time.c
+file
+
+
+
+add
+
+vmlinux.lds.S
+file
+
+
+
+add
+
+trap.c
+file
+
+
+
+add
+
+sigio.c
+file
+
+
+
+add
+
+signal.c
+file
+
+
+
+add
+
+mem.c
+file
+
+
+
+add
+
+ptrace.c
+file
+
+
+
+add
+
+skas
+dir
+
+
+
+add
+
+internal.h
+file
+
+
+
+add
+
+sysrq.c
+file
+
+
+
+add
+
+exec.c
+file
+
+
+
+add
+
+init_task.c
+file
+
+
+
+add
+
+gprof_syms.c
+file
+
+
+
+add
+
+reboot.c
+file
+
+
+
+add
+

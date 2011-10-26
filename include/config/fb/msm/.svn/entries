@@ -1,0 +1,84 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/include/config/fb/msm
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+ext
+dir
+
+
+
+add
+
+hdmi
+dir
+
+
+
+add
+
+dtv.h
+file
+
+
+
+add
+
+default
+dir
+
+
+
+add
+
+lcdc
+dir
+
+
+
+add
+
+overlay.h
+file
+
+
+
+add
+
+lcdc.h
+file
+
+
+
+add
+
+mipi
+dir
+
+
+
+add
+

@@ -1,0 +1,91 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/include/math-emu
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+double.h
+file
+
+
+
+add
+
+quad.h
+file
+
+
+
+add
+
+op-1.h
+file
+
+
+
+add
+
+op-2.h
+file
+
+
+
+add
+
+soft-fp.h
+file
+
+
+
+add
+
+op-4.h
+file
+
+
+
+add
+
+single.h
+file
+
+
+
+add
+
+op-8.h
+file
+
+
+
+add
+
+op-common.h
+file
+
+
+
+add
+

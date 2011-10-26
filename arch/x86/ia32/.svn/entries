@@ -1,0 +1,77 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/x86/ia32
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+ia32entry.S
+file
+
+
+
+add
+
+ipc32.c
+file
+
+
+
+add
+
+audit.c
+file
+
+
+
+add
+
+ia32_aout.c
+file
+
+
+
+add
+
+ia32_signal.c
+file
+
+
+
+add
+
+sys_ia32.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

@@ -1,0 +1,56 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/ia64/include/asm/native
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+irq.h
+file
+
+
+
+add
+
+patchlist.h
+file
+
+
+
+add
+
+inst.h
+file
+
+
+
+add
+
+pvchk_inst.h
+file
+
+
+
+add
+

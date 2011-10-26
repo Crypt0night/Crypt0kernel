@@ -1,0 +1,252 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/sh/boards
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+board-espt.c
+file
+
+
+
+add
+
+mach-sh03
+dir
+
+
+
+add
+
+mach-lboxre2
+dir
+
+
+
+add
+
+mach-migor
+dir
+
+
+
+add
+
+board-shmin.c
+file
+
+
+
+add
+
+mach-landisk
+dir
+
+
+
+add
+
+mach-edosk7705
+dir
+
+
+
+add
+
+mach-rsk
+dir
+
+
+
+add
+
+board-sh7785lcr.c
+file
+
+
+
+add
+
+mach-se
+dir
+
+
+
+add
+
+mach-sh7763rdp
+dir
+
+
+
+add
+
+mach-sdk7780
+dir
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+board-polaris.c
+file
+
+
+
+add
+
+mach-ecovec24
+dir
+
+
+
+add
+
+mach-sdk7786
+dir
+
+
+
+add
+
+mach-hp6xx
+dir
+
+
+
+add
+
+mach-x3proto
+dir
+
+
+
+add
+
+board-titan.c
+file
+
+
+
+add
+
+mach-r2d
+dir
+
+
+
+add
+
+board-edosk7760.c
+file
+
+
+
+add
+
+board-urquell.c
+file
+
+
+
+add
+
+mach-systemh
+dir
+
+
+
+add
+
+mach-kfr2r09
+dir
+
+
+
+add
+
+mach-snapgear
+dir
+
+
+
+add
+
+mach-dreamcast
+dir
+
+
+
+add
+
+board-magicpanelr2.c
+file
+
+
+
+add
+
+mach-ap325rxa
+dir
+
+
+
+add
+
+mach-highlander
+dir
+
+
+
+add
+
+mach-cayman
+dir
+
+
+
+add
+
+mach-microdev
+dir
+
+
+
+add
+

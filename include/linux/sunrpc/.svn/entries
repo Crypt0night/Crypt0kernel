@@ -1,0 +1,238 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/include/linux/sunrpc
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+svcauth_gss.h
+file
+
+
+
+add
+
+rpc_pipe_fs.h
+file
+
+
+
+add
+
+msg_prot.h
+file
+
+
+
+add
+
+svc.h
+file
+
+
+
+add
+
+xprt.h
+file
+
+
+
+add
+
+xdr.h
+file
+
+
+
+add
+
+svc_rdma.h
+file
+
+
+
+add
+
+stats.h
+file
+
+
+
+add
+
+clnt.h
+file
+
+
+
+add
+
+xprtrdma.h
+file
+
+
+
+add
+
+bc_xprt.h
+file
+
+
+
+add
+
+auth.h
+file
+
+
+
+add
+
+cache.h
+file
+
+
+
+add
+
+types.h
+file
+
+
+
+add
+
+gss_err.h
+file
+
+
+
+add
+
+metrics.h
+file
+
+
+
+add
+
+svc_xprt.h
+file
+
+
+
+add
+
+gss_spkm3.h
+file
+
+
+
+add
+
+svcsock.h
+file
+
+
+
+add
+
+auth_gss.h
+file
+
+
+
+add
+
+xprtsock.h
+file
+
+
+
+add
+
+svcauth.h
+file
+
+
+
+add
+
+gss_asn1.h
+file
+
+
+
+add
+
+gss_krb5.h
+file
+
+
+
+add
+
+timer.h
+file
+
+
+
+add
+
+Kbuild
+file
+
+
+
+add
+
+gss_api.h
+file
+
+
+
+add
+
+debug.h
+file
+
+
+
+add
+
+sched.h
+file
+
+
+
+add
+
+rpc_rdma.h
+file
+
+
+
+add
+

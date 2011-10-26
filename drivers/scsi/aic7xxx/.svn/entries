@@ -1,0 +1,329 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/scsi/aic7xxx
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+aic79xx_inline.h
+file
+
+
+
+add
+
+aic7xxx_core.c
+file
+
+
+
+add
+
+aic7xxx_reg.h_shipped
+file
+
+
+
+add
+
+aic7xxx_osm.c
+file
+
+
+
+add
+
+scsi_message.h
+file
+
+
+
+add
+
+aic79xx_osm.c
+file
+
+
+
+add
+
+aic79xx_reg.h_shipped
+file
+
+
+
+add
+
+aicasm
+dir
+
+
+
+add
+
+aic7xxx_proc.c
+file
+
+
+
+add
+
+aic7xxx_osm.h
+file
+
+
+
+add
+
+aic79xx_osm.h
+file
+
+
+
+add
+
+aiclib.c
+file
+
+
+
+add
+
+aic7xxx_seq.h_shipped
+file
+
+
+
+add
+
+aic79xx_seq.h_shipped
+file
+
+
+
+add
+
+aic7xxx.reg
+file
+
+
+
+add
+
+aic79xx.reg
+file
+
+
+
+add
+
+aiclib.h
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+aic7xxx_inline.h
+file
+
+
+
+add
+
+aic7770_osm.c
+file
+
+
+
+add
+
+aic7xxx.h
+file
+
+
+
+add
+
+aic79xx.h
+file
+
+
+
+add
+
+aic7xxx.seq
+file
+
+
+
+add
+
+aic79xx.seq
+file
+
+
+
+add
+
+scsi_iu.h
+file
+
+
+
+add
+
+aic7xxx_osm_pci.c
+file
+
+
+
+add
+
+aic79xx_core.c
+file
+
+
+
+add
+
+aic79xx_osm_pci.c
+file
+
+
+
+add
+
+cam.h
+file
+
+
+
+add
+
+aic79xx_proc.c
+file
+
+
+
+add
+
+aic7xxx_reg_print.c_shipped
+file
+
+
+
+add
+
+aic7770.c
+file
+
+
+
+add
+
+aic79xx_reg_print.c_shipped
+file
+
+
+
+add
+
+.gitignore
+file
+
+
+
+add
+
+aic7xxx_pci.c
+file
+
+
+
+add
+
+aic7xxx_93cx6.c
+file
+
+
+
+add
+
+aic79xx_pci.c
+file
+
+
+
+add
+
+Kconfig.aic7xxx
+file
+
+
+
+add
+
+queue.h
+file
+
+
+
+add
+
+Kconfig.aic79xx
+file
+
+
+
+add
+
+aic7xxx_pci.h
+file
+
+
+
+add
+
+aic7xxx_93cx6.h
+file
+
+
+
+add
+
+aic79xx_pci.h
+file
+
+
+
+add
+

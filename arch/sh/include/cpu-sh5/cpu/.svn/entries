@@ -1,0 +1,77 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/sh/include/cpu-sh5/cpu
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+irq.h
+file
+
+
+
+add
+
+dma.h
+file
+
+
+
+add
+
+mmu_context.h
+file
+
+
+
+add
+
+cache.h
+file
+
+
+
+add
+
+addrspace.h
+file
+
+
+
+add
+
+registers.h
+file
+
+
+
+add
+
+rtc.h
+file
+
+
+
+add
+

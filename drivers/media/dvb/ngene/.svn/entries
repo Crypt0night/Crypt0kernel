@@ -1,0 +1,77 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/media/dvb/ngene
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+ngene.h
+file
+
+
+
+add
+
+ngene-core.c
+file
+
+
+
+add
+
+ngene-dvb.c
+file
+
+
+
+add
+
+ngene-cards.c
+file
+
+
+
+add
+
+ngene-i2c.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

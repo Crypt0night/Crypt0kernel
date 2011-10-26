@@ -1,0 +1,133 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/staging/dream
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+pmem.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+gpio_event.c
+file
+
+
+
+add
+
+include
+dir
+
+
+
+add
+
+camera
+dir
+
+
+
+add
+
+qdsp5
+dir
+
+
+
+add
+
+gpio_input.c
+file
+
+
+
+add
+
+gpio_output.c
+file
+
+
+
+add
+
+synaptics_i2c_rmi.c
+file
+
+
+
+add
+
+gpio_axis.c
+file
+
+
+
+add
+
+gpio_matrix.c
+file
+
+
+
+add
+
+TODO
+file
+
+
+
+add
+
+synaptics_i2c_rmi.h
+file
+
+
+
+add
+
+generic_gpio.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

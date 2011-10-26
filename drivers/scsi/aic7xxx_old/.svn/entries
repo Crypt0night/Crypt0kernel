@@ -1,0 +1,84 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/scsi/aic7xxx_old
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+aic7xxx_proc.c
+file
+
+
+
+add
+
+sequencer.h
+file
+
+
+
+add
+
+aic7xxx.h
+file
+
+
+
+add
+
+aic7xxx.seq
+file
+
+
+
+add
+
+aic7xxx_seq.c
+file
+
+
+
+add
+
+aic7xxx.reg
+file
+
+
+
+add
+
+scsi_message.h
+file
+
+
+
+add
+
+aic7xxx_reg.h
+file
+
+
+
+add
+

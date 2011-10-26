@@ -1,0 +1,182 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/Documentation/sound/alsa
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+seq_oss.html
+file
+
+
+
+add
+
+Procfile.txt
+file
+
+
+
+add
+
+ControlNames.txt
+file
+
+
+
+add
+
+Audigy-mixer.txt
+file
+
+
+
+add
+
+CMIPCI.txt
+file
+
+
+
+add
+
+MIXART.txt
+file
+
+
+
+add
+
+soc
+dir
+
+
+
+add
+
+Audiophile-Usb.txt
+file
+
+
+
+add
+
+hdspm.txt
+file
+
+
+
+add
+
+powersave.txt
+file
+
+
+
+add
+
+HD-Audio-Models.txt
+file
+
+
+
+add
+
+Bt87x.txt
+file
+
+
+
+add
+
+README.maya44
+file
+
+
+
+add
+
+serial-u16550.txt
+file
+
+
+
+add
+
+SB-Live-mixer.txt
+file
+
+
+
+add
+
+ALSA-Configuration.txt
+file
+
+
+
+add
+
+hda_codec.txt
+file
+
+
+
+add
+
+emu10k1-jack.txt
+file
+
+
+
+add
+
+HD-Audio.txt
+file
+
+
+
+add
+
+VIA82xx-mixer.txt
+file
+
+
+
+add
+
+Joystick.txt
+file
+
+
+
+add
+
+OSS-Emulation.txt
+file
+
+
+
+add
+

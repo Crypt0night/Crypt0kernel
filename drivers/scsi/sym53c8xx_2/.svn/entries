@@ -1,0 +1,133 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/scsi/sym53c8xx_2
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+sym_malloc.c
+file
+
+
+
+add
+
+sym53c8xx.h
+file
+
+
+
+add
+
+sym_fw.c
+file
+
+
+
+add
+
+sym_fw.h
+file
+
+
+
+add
+
+sym_nvram.c
+file
+
+
+
+add
+
+sym_hipd.c
+file
+
+
+
+add
+
+sym_defs.h
+file
+
+
+
+add
+
+sym_nvram.h
+file
+
+
+
+add
+
+sym_hipd.h
+file
+
+
+
+add
+
+sym_glue.c
+file
+
+
+
+add
+
+sym_misc.h
+file
+
+
+
+add
+
+sym_glue.h
+file
+
+
+
+add
+
+sym_fw1.h
+file
+
+
+
+add
+
+sym_fw2.h
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

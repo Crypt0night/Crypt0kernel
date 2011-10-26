@@ -1,0 +1,154 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/sound/core/seq/oss
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+seq_oss_init.c
+file
+
+
+
+add
+
+seq_oss_device.h
+file
+
+
+
+add
+
+seq_oss_synth.c
+file
+
+
+
+add
+
+seq_oss_ioctl.c
+file
+
+
+
+add
+
+seq_oss_synth.h
+file
+
+
+
+add
+
+seq_oss_writeq.c
+file
+
+
+
+add
+
+seq_oss_timer.c
+file
+
+
+
+add
+
+seq_oss_writeq.h
+file
+
+
+
+add
+
+seq_oss.c
+file
+
+
+
+add
+
+seq_oss_event.c
+file
+
+
+
+add
+
+seq_oss_midi.c
+file
+
+
+
+add
+
+seq_oss_timer.h
+file
+
+
+
+add
+
+seq_oss_event.h
+file
+
+
+
+add
+
+seq_oss_midi.h
+file
+
+
+
+add
+
+seq_oss_rw.c
+file
+
+
+
+add
+
+seq_oss_readq.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+seq_oss_readq.h
+file
+
+
+
+add
+

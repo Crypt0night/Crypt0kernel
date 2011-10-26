@@ -1,0 +1,287 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/parisc/math-emu
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+sfmpy.c
+file
+
+
+
+add
+
+denormal.c
+file
+
+
+
+add
+
+dfadd.c
+file
+
+
+
+add
+
+dfsub.c
+file
+
+
+
+add
+
+dfsqrt.c
+file
+
+
+
+add
+
+sfcmp.c
+file
+
+
+
+add
+
+fcnvff.c
+file
+
+
+
+add
+
+fpudispatch.c
+file
+
+
+
+add
+
+float.h
+file
+
+
+
+add
+
+fcnvfut.c
+file
+
+
+
+add
+
+sfdiv.c
+file
+
+
+
+add
+
+sfrem.c
+file
+
+
+
+add
+
+cnv_float.h
+file
+
+
+
+add
+
+sfadd.c
+file
+
+
+
+add
+
+math-emu.h
+file
+
+
+
+add
+
+decode_exc.c
+file
+
+
+
+add
+
+sfsub.c
+file
+
+
+
+add
+
+fcnvfu.c
+file
+
+
+
+add
+
+fcnvfx.c
+file
+
+
+
+add
+
+fmpyfadd.c
+file
+
+
+
+add
+
+fcnvxf.c
+file
+
+
+
+add
+
+driver.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+fpbits.h
+file
+
+
+
+add
+
+fpu.h
+file
+
+
+
+add
+
+README
+file
+
+
+
+add
+
+fcnvfxt.c
+file
+
+
+
+add
+
+sgl_float.h
+file
+
+
+
+add
+
+dfmpy.c
+file
+
+
+
+add
+
+sfsqrt.c
+file
+
+
+
+add
+
+fcnvuf.c
+file
+
+
+
+add
+
+dfcmp.c
+file
+
+
+
+add
+
+frnd.c
+file
+
+
+
+add
+
+dbl_float.h
+file
+
+
+
+add
+
+dfdiv.c
+file
+
+
+
+add
+
+dfrem.c
+file
+
+
+
+add
+
+hppa.h
+file
+
+
+
+add
+

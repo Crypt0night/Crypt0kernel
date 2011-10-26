@@ -1,0 +1,133 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/include/linux/i2c
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+adp8860.h
+file
+
+
+
+add
+
+pca953x.h
+file
+
+
+
+add
+
+mcs5000_ts.h
+file
+
+
+
+add
+
+adp5588.h
+file
+
+
+
+add
+
+tsc2007.h
+file
+
+
+
+add
+
+tps65010.h
+file
+
+
+
+add
+
+pcf857x.h
+file
+
+
+
+add
+
+twl.h
+file
+
+
+
+add
+
+s6000.h
+file
+
+
+
+add
+
+sx150x.h
+file
+
+
+
+add
+
+max732x.h
+file
+
+
+
+add
+
+at24.h
+file
+
+
+
+add
+
+isl9519.h
+file
+
+
+
+add
+
+dm355evm_msp.h
+file
+
+
+
+add
+
+lm8323.h
+file
+
+
+
+add
+

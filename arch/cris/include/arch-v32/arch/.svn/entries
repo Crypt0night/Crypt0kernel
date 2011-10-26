@@ -1,0 +1,238 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/cris/include/arch-v32/arch
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+intmem.h
+file
+
+
+
+add
+
+irq.h
+file
+
+
+
+add
+
+swab.h
+file
+
+
+
+add
+
+delay.h
+file
+
+
+
+add
+
+mmu.h
+file
+
+
+
+add
+
+bitops.h
+file
+
+
+
+add
+
+dma.h
+file
+
+
+
+add
+
+checksum.h
+file
+
+
+
+add
+
+cache.h
+file
+
+
+
+add
+
+unistd.h
+file
+
+
+
+add
+
+elf.h
+file
+
+
+
+add
+
+io.h
+file
+
+
+
+add
+
+hwregs
+dir
+
+
+
+add
+
+atomic.h
+file
+
+
+
+add
+
+page.h
+file
+
+
+
+add
+
+memmap.h
+file
+
+
+
+add
+
+bug.h
+file
+
+
+
+add
+
+ptrace.h
+file
+
+
+
+add
+
+pgtable.h
+file
+
+
+
+add
+
+user.h
+file
+
+
+
+add
+
+processor.h
+file
+
+
+
+add
+
+tlb.h
+file
+
+
+
+add
+
+cryptocop.h
+file
+
+
+
+add
+
+spinlock.h
+file
+
+
+
+add
+
+thread_info.h
+file
+
+
+
+add
+
+system.h
+file
+
+
+
+add
+
+Kbuild
+file
+
+
+
+add
+
+offset.h
+file
+
+
+
+add
+
+uaccess.h
+file
+
+
+
+add
+
+timex.h
+file
+
+
+
+add
+

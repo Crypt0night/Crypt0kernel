@@ -1,0 +1,98 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/sh/include/cpu-sh3/cpu
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+sh7720.h
+file
+
+
+
+add
+
+freq.h
+file
+
+
+
+add
+
+gpio.h
+file
+
+
+
+add
+
+watchdog.h
+file
+
+
+
+add
+
+dma.h
+file
+
+
+
+add
+
+mmu_context.h
+file
+
+
+
+add
+
+cache.h
+file
+
+
+
+add
+
+dma-register.h
+file
+
+
+
+add
+
+dac.h
+file
+
+
+
+add
+
+adc.h
+file
+
+
+
+add
+

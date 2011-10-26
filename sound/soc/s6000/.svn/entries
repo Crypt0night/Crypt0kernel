@@ -1,0 +1,98 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/sound/soc/s6000
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+.built-in.o.cmd
+file
+
+
+
+add
+
+modules.order
+file
+
+
+
+add
+
+s6000-i2s.c
+file
+
+
+
+add
+
+s6105-ipcam.c
+file
+
+
+
+add
+
+s6000-pcm.c
+file
+
+
+
+add
+
+s6000-i2s.h
+file
+
+
+
+add
+
+s6000-pcm.h
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+modules.builtin
+file
+
+
+
+add
+

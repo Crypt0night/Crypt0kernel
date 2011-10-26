@@ -1,0 +1,84 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/alpha/boot
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+tools
+dir
+
+
+
+add
+
+head.S
+file
+
+
+
+add
+
+bootp.c
+file
+
+
+
+add
+
+main.c
+file
+
+
+
+add
+
+bootloader.lds
+file
+
+
+
+add
+
+misc.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+bootpz.c
+file
+
+
+
+add
+

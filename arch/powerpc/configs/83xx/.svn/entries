@@ -1,0 +1,126 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/powerpc/configs/83xx
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+mpc832x_rdb_defconfig
+file
+
+
+
+add
+
+mpc836x_mds_defconfig
+file
+
+
+
+add
+
+mpc837x_mds_defconfig
+file
+
+
+
+add
+
+sbc834x_defconfig
+file
+
+
+
+add
+
+mpc837x_rdb_defconfig
+file
+
+
+
+add
+
+mpc834x_itxgp_defconfig
+file
+
+
+
+add
+
+mpc8313_rdb_defconfig
+file
+
+
+
+add
+
+mpc832x_mds_defconfig
+file
+
+
+
+add
+
+mpc8315_rdb_defconfig
+file
+
+
+
+add
+
+mpc836x_rdk_defconfig
+file
+
+
+
+add
+
+kmeter1_defconfig
+file
+
+
+
+add
+
+mpc834x_mds_defconfig
+file
+
+
+
+add
+
+asp8347_defconfig
+file
+
+
+
+add
+
+mpc834x_itx_defconfig
+file
+
+
+
+add
+

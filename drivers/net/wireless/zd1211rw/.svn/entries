@@ -1,0 +1,133 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/net/wireless/zd1211rw
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+zd_rf_al7230b.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+zd_def.h
+file
+
+
+
+add
+
+zd_mac.h
+file
+
+
+
+add
+
+zd_rf.c
+file
+
+
+
+add
+
+zd_rf.h
+file
+
+
+
+add
+
+zd_chip.c
+file
+
+
+
+add
+
+zd_rf_rf2959.c
+file
+
+
+
+add
+
+zd_chip.h
+file
+
+
+
+add
+
+zd_usb.c
+file
+
+
+
+add
+
+zd_rf_al2230.c
+file
+
+
+
+add
+
+zd_usb.h
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+zd_rf_uw2453.c
+file
+
+
+
+add
+
+zd_mac.c
+file
+
+
+
+add
+

@@ -1,0 +1,420 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/um/include/asm
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+hw_irq.h
+file
+
+
+
+add
+
+dma-mapping.h
+file
+
+
+
+add
+
+futex.h
+file
+
+
+
+add
+
+mmu.h
+file
+
+
+
+add
+
+smp.h
+file
+
+
+
+add
+
+irq_vectors.h
+file
+
+
+
+add
+
+setup.h
+file
+
+
+
+add
+
+mutex.h
+file
+
+
+
+add
+
+segment.h
+file
+
+
+
+add
+
+pda.h
+file
+
+
+
+add
+
+pgtable-2level.h
+file
+
+
+
+add
+
+io.h
+file
+
+
+
+add
+
+irqflags.h
+file
+
+
+
+add
+
+xor.h
+file
+
+
+
+add
+
+irq_regs.h
+file
+
+
+
+add
+
+page.h
+file
+
+
+
+add
+
+desc.h
+file
+
+
+
+add
+
+tlb.h
+file
+
+
+
+add
+
+thread_info.h
+file
+
+
+
+add
+
+page_offset.h
+file
+
+
+
+add
+
+tlbflush.h
+file
+
+
+
+add
+
+system.h
+file
+
+
+
+add
+
+common.lds.S
+file
+
+
+
+add
+
+uaccess.h
+file
+
+
+
+add
+
+sections.h
+file
+
+
+
+add
+
+asm-offsets.h
+file
+
+
+
+add
+
+processor-generic.h
+file
+
+
+
+add
+
+hardirq.h
+file
+
+
+
+add
+
+auxvec.h
+file
+
+
+
+add
+
+irq.h
+file
+
+
+
+add
+
+arch_hweight.h
+file
+
+
+
+add
+
+required-features.h
+file
+
+
+
+add
+
+delay.h
+file
+
+
+
+add
+
+device.h
+file
+
+
+
+add
+
+bugs.h
+file
+
+
+
+add
+
+param.h
+file
+
+
+
+add
+
+emergency-restart.h
+file
+
+
+
+add
+
+kdebug.h
+file
+
+
+
+add
+
+dma.h
+file
+
+
+
+add
+
+checksum.h
+file
+
+
+
+add
+
+mmu_context.h
+file
+
+
+
+add
+
+cache.h
+file
+
+
+
+add
+
+ftrace.h
+file
+
+
+
+add
+
+cputime.h
+file
+
+
+
+add
+
+pgtable-3level.h
+file
+
+
+
+add
+
+pci.h
+file
+
+
+
+add
+
+kmap_types.h
+file
+
+
+
+add
+
+a.out-core.h
+file
+
+
+
+add
+
+apic.h
+file
+
+
+
+add
+
+topology.h
+file
+
+
+
+add
+
+pgtable.h
+file
+
+
+
+add
+
+pgalloc.h
+file
+
+
+
+add
+
+current.h
+file
+
+
+
+add
+
+fixmap.h
+file
+
+
+
+add
+
+timex.h
+file
+
+
+
+add
+
+ptrace-generic.h
+file
+
+
+
+add
+

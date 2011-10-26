@@ -1,0 +1,168 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/include/rdma
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+ib_user_verbs.h
+file
+
+
+
+add
+
+ib_verbs.h
+file
+
+
+
+add
+
+iw_cm.h
+file
+
+
+
+add
+
+rdma_user_cm.h
+file
+
+
+
+add
+
+ib_smi.h
+file
+
+
+
+add
+
+rdma_cm.h
+file
+
+
+
+add
+
+ib_user_cm.h
+file
+
+
+
+add
+
+ib_user_mad.h
+file
+
+
+
+add
+
+ib_cm.h
+file
+
+
+
+add
+
+ib_mad.h
+file
+
+
+
+add
+
+ib_user_sa.h
+file
+
+
+
+add
+
+rdma_cm_ib.h
+file
+
+
+
+add
+
+ib_marshall.h
+file
+
+
+
+add
+
+ib_cache.h
+file
+
+
+
+add
+
+ib_sa.h
+file
+
+
+
+add
+
+ib_umem.h
+file
+
+
+
+add
+
+Kbuild
+file
+
+
+
+add
+
+ib_addr.h
+file
+
+
+
+add
+
+ib_fmr_pool.h
+file
+
+
+
+add
+
+ib_pack.h
+file
+
+
+
+add
+

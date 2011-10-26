@@ -1,0 +1,119 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/firewire
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+core-card.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+core-iso.c
+file
+
+
+
+add
+
+ohci.c
+file
+
+
+
+add
+
+core-topology.c
+file
+
+
+
+add
+
+core-device.c
+file
+
+
+
+add
+
+net.c
+file
+
+
+
+add
+
+sbp2.c
+file
+
+
+
+add
+
+ohci.h
+file
+
+
+
+add
+
+core-cdev.c
+file
+
+
+
+add
+
+core-transaction.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+core.h
+file
+
+
+
+add
+

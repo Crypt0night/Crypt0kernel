@@ -1,0 +1,413 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/fs/nls
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+.nls_utf8.o.cmd
+file
+
+
+
+add
+
+.nls_iso8859-1.o.cmd
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+modules.order
+file
+
+
+
+add
+
+nls_iso8859-1.c
+file
+
+
+
+add
+
+nls_utf8.c
+file
+
+
+
+add
+
+nls_iso8859-2.c
+file
+
+
+
+add
+
+nls_iso8859-3.c
+file
+
+
+
+add
+
+nls_iso8859-4.c
+file
+
+
+
+add
+
+nls_iso8859-5.c
+file
+
+
+
+add
+
+nls_iso8859-6.c
+file
+
+
+
+add
+
+nls_iso8859-7.c
+file
+
+
+
+add
+
+nls_koi8-ru.c
+file
+
+
+
+add
+
+nls_iso8859-9.c
+file
+
+
+
+add
+
+nls_cp860.c
+file
+
+
+
+add
+
+.nls_utf8.mod.o.cmd
+file
+
+
+
+add
+
+nls_cp861.c
+file
+
+
+
+add
+
+nls_cp862.c
+file
+
+
+
+add
+
+nls_cp863.c
+file
+
+
+
+add
+
+nls_utf8.mod.c
+file
+
+
+
+add
+
+nls_cp864.c
+file
+
+
+
+add
+
+nls_cp865.c
+file
+
+
+
+add
+
+nls_cp866.c
+file
+
+
+
+add
+
+.nls_base.o.cmd
+file
+
+
+
+add
+
+nls_cp949.c
+file
+
+
+
+add
+
+nls_koi8-r.c
+file
+
+
+
+add
+
+nls_iso8859-13.c
+file
+
+
+
+add
+
+nls_cp869.c
+file
+
+
+
+add
+
+nls_base.c
+file
+
+
+
+add
+
+nls_cp1250.c
+file
+
+
+
+add
+
+nls_iso8859-14.c
+file
+
+
+
+add
+
+nls_cp1251.c
+file
+
+
+
+add
+
+nls_iso8859-15.c
+file
+
+
+
+add
+
+nls_koi8-u.c
+file
+
+
+
+add
+
+nls_cp1255.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+nls_euc-jp.c
+file
+
+
+
+add
+
+nls_ascii.c
+file
+
+
+
+add
+
+.nls_cp437.o.cmd
+file
+
+
+
+add
+
+.nls_utf8.ko.cmd
+file
+
+
+
+add
+
+nls_cp850.c
+file
+
+
+
+add
+
+nls_cp950.c
+file
+
+
+
+add
+
+nls_cp437.c
+file
+
+
+
+add
+
+nls_cp932.c
+file
+
+
+
+add
+
+nls_cp852.c
+file
+
+
+
+add
+
+nls_cp737.c
+file
+
+
+
+add
+
+.built-in.o.cmd
+file
+
+
+
+add
+
+nls_cp855.c
+file
+
+
+
+add
+
+nls_cp936.c
+file
+
+
+
+add
+
+nls_cp874.c
+file
+
+
+
+add
+
+nls_cp775.c
+file
+
+
+
+add
+
+nls_cp857.c
+file
+
+
+
+add
+
+nls_utf8.ko
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+modules.builtin
+file
+
+
+
+add
+

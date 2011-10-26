@@ -1,0 +1,140 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/arm/mach-shmobile/include/mach
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+sh7372.h
+file
+
+
+
+add
+
+vmalloc.h
+file
+
+
+
+add
+
+hardware.h
+file
+
+
+
+add
+
+gpio.h
+file
+
+
+
+add
+
+uncompress.h
+file
+
+
+
+add
+
+sh7367.h
+file
+
+
+
+add
+
+dma.h
+file
+
+
+
+add
+
+sh7377.h
+file
+
+
+
+add
+
+io.h
+file
+
+
+
+add
+
+clkdev.h
+file
+
+
+
+add
+
+memory.h
+file
+
+
+
+add
+
+entry-macro.S
+file
+
+
+
+add
+
+irqs.h
+file
+
+
+
+add
+
+system.h
+file
+
+
+
+add
+
+timex.h
+file
+
+
+
+add
+
+common.h
+file
+
+
+
+add
+

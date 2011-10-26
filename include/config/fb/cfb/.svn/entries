@@ -1,0 +1,49 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/include/config/fb/cfb
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+imageblit.h
+file
+
+
+
+add
+
+copyarea.h
+file
+
+
+
+add
+
+fillrect.h
+file
+
+
+
+add
+

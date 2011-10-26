@@ -1,0 +1,91 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/mips/dec/prom
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+call_o32.S
+file
+
+
+
+add
+
+console.c
+file
+
+
+
+add
+
+locore.S
+file
+
+
+
+add
+
+init.c
+file
+
+
+
+add
+
+dectypes.h
+file
+
+
+
+add
+
+memory.c
+file
+
+
+
+add
+
+identify.c
+file
+
+
+
+add
+
+cmdline.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

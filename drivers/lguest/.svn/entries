@@ -1,0 +1,133 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/lguest
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+modules.order
+file
+
+
+
+add
+
+lguest_user.c
+file
+
+
+
+add
+
+x86
+dir
+
+
+
+add
+
+hypercalls.c
+file
+
+
+
+add
+
+page_tables.c
+file
+
+
+
+add
+
+lg.h
+file
+
+
+
+add
+
+interrupts_and_traps.c
+file
+
+
+
+add
+
+README
+file
+
+
+
+add
+
+.built-in.o.cmd
+file
+
+
+
+add
+
+lguest_device.c
+file
+
+
+
+add
+
+segments.c
+file
+
+
+
+add
+
+core.c
+file
+
+
+
+add
+
+modules.builtin
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

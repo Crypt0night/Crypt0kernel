@@ -1,0 +1,224 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/net/bluetooth
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+.hci_event.o.cmd
+file
+
+
+
+add
+
+l2cap.c
+file
+
+
+
+add
+
+.bluetooth.o.cmd
+file
+
+
+
+add
+
+modules.order
+file
+
+
+
+add
+
+.lib.o.cmd
+file
+
+
+
+add
+
+rfcomm
+dir
+
+
+
+add
+
+hidp
+dir
+
+
+
+add
+
+bnep
+dir
+
+
+
+add
+
+hci_event.c
+file
+
+
+
+add
+
+lib.c
+file
+
+
+
+add
+
+.af_bluetooth.o.cmd
+file
+
+
+
+add
+
+.hci_core.o.cmd
+file
+
+
+
+add
+
+af_bluetooth.c
+file
+
+
+
+add
+
+hci_core.c
+file
+
+
+
+add
+
+.hci_conn.o.cmd
+file
+
+
+
+add
+
+.hci_sock.o.cmd
+file
+
+
+
+add
+
+.built-in.o.cmd
+file
+
+
+
+add
+
+hci_conn.c
+file
+
+
+
+add
+
+cmtp
+dir
+
+
+
+add
+
+hci_sock.c
+file
+
+
+
+add
+
+sco.c
+file
+
+
+
+add
+
+.hci_sysfs.o.cmd
+file
+
+
+
+add
+
+hidbrcm
+dir
+
+
+
+add
+
+hci_sysfs.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+modules.builtin
+file
+
+
+
+add
+
+.l2cap.o.cmd
+file
+
+
+
+add
+

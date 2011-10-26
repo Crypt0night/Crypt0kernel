@@ -1,0 +1,133 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/isdn
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+gigaset
+dir
+
+
+
+add
+
+hysdn
+dir
+
+
+
+add
+
+isdnloop
+dir
+
+
+
+add
+
+i4l
+dir
+
+
+
+add
+
+hardware
+dir
+
+
+
+add
+
+divert
+dir
+
+
+
+add
+
+pcbit
+dir
+
+
+
+add
+
+sc
+dir
+
+
+
+add
+
+icn
+dir
+
+
+
+add
+
+act2000
+dir
+
+
+
+add
+
+mISDN
+dir
+
+
+
+add
+
+capi
+dir
+
+
+
+add
+
+hisax
+dir
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

@@ -1,0 +1,105 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/sound/drivers/opl3
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+opl3_midi.c
+file
+
+
+
+add
+
+.built-in.o.cmd
+file
+
+
+
+add
+
+opl3_oss.c
+file
+
+
+
+add
+
+modules.order
+file
+
+
+
+add
+
+opl3_synth.c
+file
+
+
+
+add
+
+opl3_lib.c
+file
+
+
+
+add
+
+opl3_seq.c
+file
+
+
+
+add
+
+opl3_voice.h
+file
+
+
+
+add
+
+opl3_drums.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+modules.builtin
+file
+
+
+
+add
+

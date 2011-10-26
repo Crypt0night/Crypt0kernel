@@ -1,0 +1,133 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/arm/mach-spear3xx
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Makefile.boot
+file
+
+
+
+add
+
+spear310.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+spear320.c
+file
+
+
+
+add
+
+include
+dir
+
+
+
+add
+
+spear3xx.c
+file
+
+
+
+add
+
+Kconfig300
+file
+
+
+
+add
+
+Kconfig310
+file
+
+
+
+add
+
+Kconfig320
+file
+
+
+
+add
+
+spear300_evb.c
+file
+
+
+
+add
+
+spear310_evb.c
+file
+
+
+
+add
+
+clock.c
+file
+
+
+
+add
+
+spear320_evb.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+spear300.c
+file
+
+
+
+add
+

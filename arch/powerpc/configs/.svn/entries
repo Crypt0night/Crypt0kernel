@@ -1,0 +1,343 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/powerpc/configs
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+g5_defconfig
+file
+
+
+
+add
+
+pasemi_defconfig
+file
+
+
+
+add
+
+ppc40x_defconfig
+file
+
+
+
+add
+
+c2k_defconfig
+file
+
+
+
+add
+
+cell_defconfig
+file
+
+
+
+add
+
+ep88xc_defconfig
+file
+
+
+
+add
+
+mpc7448_hpc2_defconfig
+file
+
+
+
+add
+
+ppc44x_defconfig
+file
+
+
+
+add
+
+pmac32_defconfig
+file
+
+
+
+add
+
+holly_defconfig
+file
+
+
+
+add
+
+ppc6xx_defconfig
+file
+
+
+
+add
+
+storcenter_defconfig
+file
+
+
+
+add
+
+mpc85xx_smp_defconfig
+file
+
+
+
+add
+
+prpmc2800_defconfig
+file
+
+
+
+add
+
+ep8248e_defconfig
+file
+
+
+
+add
+
+linkstation_defconfig
+file
+
+
+
+add
+
+pq2fads_defconfig
+file
+
+
+
+add
+
+mgcoge_defconfig
+file
+
+
+
+add
+
+chrp32_defconfig
+file
+
+
+
+add
+
+mgsuvd_defconfig
+file
+
+
+
+add
+
+83xx
+dir
+
+
+
+add
+
+40x
+dir
+
+
+
+add
+
+gamecube_defconfig
+file
+
+
+
+add
+
+85xx
+dir
+
+
+
+add
+
+86xx
+dir
+
+
+
+add
+
+mpc866_ads_defconfig
+file
+
+
+
+add
+
+mpc83xx_defconfig
+file
+
+
+
+add
+
+mpc885_ads_defconfig
+file
+
+
+
+add
+
+44x
+dir
+
+
+
+add
+
+mpc85xx_defconfig
+file
+
+
+
+add
+
+mpc86xx_defconfig
+file
+
+
+
+add
+
+amigaone_defconfig
+file
+
+
+
+add
+
+adder875_defconfig
+file
+
+
+
+add
+
+celleb_defconfig
+file
+
+
+
+add
+
+mpc5200_defconfig
+file
+
+
+
+add
+
+wii_defconfig
+file
+
+
+
+add
+
+mpc8272_ads_defconfig
+file
+
+
+
+add
+
+ppc64_defconfig
+file
+
+
+
+add
+
+maple_defconfig
+file
+
+
+
+add
+
+mpc512x_defconfig
+file
+
+
+
+add
+
+ppc64e_defconfig
+file
+
+
+
+add
+
+52xx
+dir
+
+
+
+add
+
+iseries_defconfig
+file
+
+
+
+add
+
+ps3_defconfig
+file
+
+
+
+add
+
+pseries_defconfig
+file
+
+
+
+add
+

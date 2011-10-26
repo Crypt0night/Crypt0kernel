@@ -1,0 +1,147 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/blackfin/mach-bf527/include/mach
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+irq.h
+file
+
+
+
+add
+
+gpio.h
+file
+
+
+
+add
+
+defBF52x_base.h
+file
+
+
+
+add
+
+defBF522.h
+file
+
+
+
+add
+
+anomaly.h
+file
+
+
+
+add
+
+dma.h
+file
+
+
+
+add
+
+cdefBF52x_base.h
+file
+
+
+
+add
+
+defBF525.h
+file
+
+
+
+add
+
+cdefBF522.h
+file
+
+
+
+add
+
+defBF527.h
+file
+
+
+
+add
+
+cdefBF525.h
+file
+
+
+
+add
+
+cdefBF527.h
+file
+
+
+
+add
+
+blackfin.h
+file
+
+
+
+add
+
+mem_map.h
+file
+
+
+
+add
+
+portmux.h
+file
+
+
+
+add
+
+bfin_serial_5xx.h
+file
+
+
+
+add
+
+bf527.h
+file
+
+
+
+add
+

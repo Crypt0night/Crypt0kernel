@@ -1,0 +1,63 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/uwb/i1480
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+i1480-est.c
+file
+
+
+
+add
+
+i1480u-wlp
+dir
+
+
+
+add
+
+i1480-wlp.h
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+dfu
+dir
+
+
+
+add
+

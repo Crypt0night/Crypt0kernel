@@ -1,0 +1,245 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/isdn/mISDN
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+dsp_core.c
+file
+
+
+
+add
+
+layer2.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+dsp_dtmf.c
+file
+
+
+
+add
+
+dsp_hwec.h
+file
+
+
+
+add
+
+dsp_ecdis.h
+file
+
+
+
+add
+
+layer1.h
+file
+
+
+
+add
+
+layer2.h
+file
+
+
+
+add
+
+stack.c
+file
+
+
+
+add
+
+dsp_audio.c
+file
+
+
+
+add
+
+hwchannel.c
+file
+
+
+
+add
+
+dsp_pipeline.c
+file
+
+
+
+add
+
+dsp_blowfish.c
+file
+
+
+
+add
+
+core.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+core.h
+file
+
+
+
+add
+
+dsp_cmx.c
+file
+
+
+
+add
+
+dsp_tones.c
+file
+
+
+
+add
+
+timerdev.c
+file
+
+
+
+add
+
+dsp_biquad.h
+file
+
+
+
+add
+
+tei.c
+file
+
+
+
+add
+
+l1oip_codec.c
+file
+
+
+
+add
+
+fsm.c
+file
+
+
+
+add
+
+socket.c
+file
+
+
+
+add
+
+l1oip.h
+file
+
+
+
+add
+
+fsm.h
+file
+
+
+
+add
+
+clock.c
+file
+
+
+
+add
+
+dsp.h
+file
+
+
+
+add
+
+dsp_hwec.c
+file
+
+
+
+add
+
+l1oip_core.c
+file
+
+
+
+add
+
+layer1.c
+file
+
+
+
+add
+

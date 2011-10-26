@@ -1,0 +1,147 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/sound/usb/usx2y
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+usx2y.h
+file
+
+
+
+add
+
+modules.order
+file
+
+
+
+add
+
+usb_stream.c
+file
+
+
+
+add
+
+usbusx2y.c
+file
+
+
+
+add
+
+usb_stream.h
+file
+
+
+
+add
+
+usbusx2y.h
+file
+
+
+
+add
+
+usbus428ctldefs.h
+file
+
+
+
+add
+
+.built-in.o.cmd
+file
+
+
+
+add
+
+usX2Yhwdep.c
+file
+
+
+
+add
+
+usx2yhwdeppcm.c
+file
+
+
+
+add
+
+usbusx2yaudio.c
+file
+
+
+
+add
+
+usx2yhwdeppcm.h
+file
+
+
+
+add
+
+usX2Yhwdep.h
+file
+
+
+
+add
+
+us122l.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+modules.builtin
+file
+
+
+
+add
+
+us122l.h
+file
+
+
+
+add
+

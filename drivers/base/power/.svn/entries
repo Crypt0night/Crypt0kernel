@@ -1,0 +1,126 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/base/power
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+trace.c
+file
+
+
+
+add
+
+.built-in.o.cmd
+file
+
+
+
+add
+
+.runtime.o.cmd
+file
+
+
+
+add
+
+.main.o.cmd
+file
+
+
+
+add
+
+modules.order
+file
+
+
+
+add
+
+power.h
+file
+
+
+
+add
+
+.sysfs.o.cmd
+file
+
+
+
+add
+
+runtime.c
+file
+
+
+
+add
+
+main.c
+file
+
+
+
+add
+
+sysfs.c
+file
+
+
+
+add
+
+.generic_ops.o.cmd
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+modules.builtin
+file
+
+
+
+add
+
+generic_ops.c
+file
+
+
+
+add
+

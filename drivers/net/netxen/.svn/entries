@@ -1,0 +1,91 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/net/netxen
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+netxen_nic_main.c
+file
+
+
+
+add
+
+netxen_nic.h
+file
+
+
+
+add
+
+netxen_nic_ethtool.c
+file
+
+
+
+add
+
+netxen_nic_ctx.c
+file
+
+
+
+add
+
+netxen_nic_hw.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+netxen_nic_hdr.h
+file
+
+
+
+add
+
+netxen_nic_init.c
+file
+
+
+
+add
+
+netxen_nic_hw.h
+file
+
+
+
+add
+

@@ -1,0 +1,126 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/include/config/usb
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+otg.h
+file
+
+
+
+add
+
+device
+dir
+
+
+
+add
+
+android
+dir
+
+
+
+add
+
+gadget.h
+file
+
+
+
+add
+
+support.h
+file
+
+
+
+add
+
+announce
+dir
+
+
+
+add
+
+android.h
+file
+
+
+
+add
+
+suspend.h
+file
+
+
+
+add
+
+ehci
+dir
+
+
+
+add
+
+ehset
+dir
+
+
+
+add
+
+otg
+dir
+
+
+
+add
+
+gadget
+dir
+
+
+
+add
+
+msm
+dir
+
+
+
+add
+
+arch
+dir
+
+
+
+add
+

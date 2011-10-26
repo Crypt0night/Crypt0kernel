@@ -1,0 +1,91 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/scsi/bnx2i
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+bnx2i_init.c
+file
+
+
+
+add
+
+57xx_iscsi_constants.h
+file
+
+
+
+add
+
+bnx2i.h
+file
+
+
+
+add
+
+bnx2i_hwi.c
+file
+
+
+
+add
+
+bnx2i_sysfs.c
+file
+
+
+
+add
+
+bnx2i_iscsi.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+57xx_iscsi_hsi.h
+file
+
+
+
+add
+

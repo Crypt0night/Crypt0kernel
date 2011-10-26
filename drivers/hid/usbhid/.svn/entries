@@ -1,0 +1,91 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/hid/usbhid
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+hid-quirks.c
+file
+
+
+
+add
+
+usbmouse.c
+file
+
+
+
+add
+
+usbhid.h
+file
+
+
+
+add
+
+hiddev.c
+file
+
+
+
+add
+
+hid-pidff.c
+file
+
+
+
+add
+
+hid-core.c
+file
+
+
+
+add
+
+usbkbd.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

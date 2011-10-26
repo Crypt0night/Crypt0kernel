@@ -1,0 +1,245 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/net/wireless/orinoco
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+cfg.c
+file
+
+
+
+add
+
+orinoco_pci.c
+file
+
+
+
+add
+
+cfg.h
+file
+
+
+
+add
+
+orinoco_pci.h
+file
+
+
+
+add
+
+orinoco_tmd.c
+file
+
+
+
+add
+
+orinoco_usb.c
+file
+
+
+
+add
+
+hermes_rid.h
+file
+
+
+
+add
+
+spectrum_cs.c
+file
+
+
+
+add
+
+orinoco_nortel.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+orinoco_cs.c
+file
+
+
+
+add
+
+hermes_dld.c
+file
+
+
+
+add
+
+mic.c
+file
+
+
+
+add
+
+hermes_dld.h
+file
+
+
+
+add
+
+fw.c
+file
+
+
+
+add
+
+orinoco.h
+file
+
+
+
+add
+
+mic.h
+file
+
+
+
+add
+
+hw.c
+file
+
+
+
+add
+
+airport.c
+file
+
+
+
+add
+
+fw.h
+file
+
+
+
+add
+
+hermes.c
+file
+
+
+
+add
+
+hw.h
+file
+
+
+
+add
+
+scan.c
+file
+
+
+
+add
+
+main.c
+file
+
+
+
+add
+
+wext.c
+file
+
+
+
+add
+
+hermes.h
+file
+
+
+
+add
+
+scan.h
+file
+
+
+
+add
+
+main.h
+file
+
+
+
+add
+
+orinoco_plx.c
+file
+
+
+
+add
+
+wext.h
+file
+
+
+
+add
+

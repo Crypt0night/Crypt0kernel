@@ -1,0 +1,91 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/include/config/nf/nat
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+ftp.h
+file
+
+
+
+add
+
+sip.h
+file
+
+
+
+add
+
+tftp.h
+file
+
+
+
+add
+
+proto
+dir
+
+
+
+add
+
+irc.h
+file
+
+
+
+add
+
+h323.h
+file
+
+
+
+add
+
+amanda.h
+file
+
+
+
+add
+
+pptp.h
+file
+
+
+
+add
+
+needed.h
+file
+
+
+
+add
+

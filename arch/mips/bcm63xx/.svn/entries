@@ -1,0 +1,147 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/mips/bcm63xx
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+gpio.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+setup.c
+file
+
+
+
+add
+
+dev-dsp.c
+file
+
+
+
+add
+
+early_printk.c
+file
+
+
+
+add
+
+cs.c
+file
+
+
+
+add
+
+dev-enet.c
+file
+
+
+
+add
+
+dev-pcmcia.c
+file
+
+
+
+add
+
+clk.c
+file
+
+
+
+add
+
+dev-wdt.c
+file
+
+
+
+add
+
+prom.c
+file
+
+
+
+add
+
+timer.c
+file
+
+
+
+add
+
+dev-uart.c
+file
+
+
+
+add
+
+cpu.c
+file
+
+
+
+add
+
+boards
+dir
+
+
+
+add
+
+irq.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

@@ -1,0 +1,154 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/ipc
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+modules.order
+file
+
+
+
+add
+
+mqueue.c
+file
+
+
+
+add
+
+syscall.c
+file
+
+
+
+add
+
+ipcns_notifier.c
+file
+
+
+
+add
+
+ipc_sysctl.c
+file
+
+
+
+add
+
+util.c
+file
+
+
+
+add
+
+mq_sysctl.c
+file
+
+
+
+add
+
+.built-in.o.cmd
+file
+
+
+
+add
+
+compat_mq.c
+file
+
+
+
+add
+
+util.h
+file
+
+
+
+add
+
+compat.c
+file
+
+
+
+add
+
+msgutil.c
+file
+
+
+
+add
+
+sem.c
+file
+
+
+
+add
+
+msg.c
+file
+
+
+
+add
+
+shm.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+namespace.c
+file
+
+
+
+add
+
+modules.builtin
+file
+
+
+
+add
+

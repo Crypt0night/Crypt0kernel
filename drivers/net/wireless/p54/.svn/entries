@@ -1,0 +1,154 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/net/wireless/p54
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+p54spi_eeprom.h
+file
+
+
+
+add
+
+led.c
+file
+
+
+
+add
+
+p54pci.c
+file
+
+
+
+add
+
+fwio.c
+file
+
+
+
+add
+
+txrx.c
+file
+
+
+
+add
+
+net2280.h
+file
+
+
+
+add
+
+p54pci.h
+file
+
+
+
+add
+
+p54.h
+file
+
+
+
+add
+
+lmac.h
+file
+
+
+
+add
+
+p54usb.c
+file
+
+
+
+add
+
+p54spi.c
+file
+
+
+
+add
+
+main.c
+file
+
+
+
+add
+
+p54usb.h
+file
+
+
+
+add
+
+eeprom.c
+file
+
+
+
+add
+
+p54spi.h
+file
+
+
+
+add
+
+eeprom.h
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

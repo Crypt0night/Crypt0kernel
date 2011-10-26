@@ -1,0 +1,56 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/firmware/kaweth
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+trigger_code.bin.ihex
+file
+
+
+
+add
+
+trigger_code_fix.bin.ihex
+file
+
+
+
+add
+
+new_code.bin.ihex
+file
+
+
+
+add
+
+new_code_fix.bin.ihex
+file
+
+
+
+add
+

@@ -1,0 +1,406 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/arm/mach-s3c2410/include/mach
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+otom-map.h
+file
+
+
+
+add
+
+regs-irq.h
+file
+
+
+
+add
+
+vmalloc.h
+file
+
+
+
+add
+
+hardware.h
+file
+
+
+
+add
+
+gpio.h
+file
+
+
+
+add
+
+h1940-latch.h
+file
+
+
+
+add
+
+regs-s3c2412.h
+file
+
+
+
+add
+
+gpio-track.h
+file
+
+
+
+add
+
+debug-macro.S
+file
+
+
+
+add
+
+regs-lcd.h
+file
+
+
+
+add
+
+pm-core.h
+file
+
+
+
+add
+
+regs-s3c2416.h
+file
+
+
+
+add
+
+vr1000-map.h
+file
+
+
+
+add
+
+bast-map.h
+file
+
+
+
+add
+
+system-reset.h
+file
+
+
+
+add
+
+regs-dsc.h
+file
+
+
+
+add
+
+io.h
+file
+
+
+
+add
+
+bast-cpld.h
+file
+
+
+
+add
+
+anubis-irq.h
+file
+
+
+
+add
+
+regs-mem.h
+file
+
+
+
+add
+
+idle.h
+file
+
+
+
+add
+
+irqs.h
+file
+
+
+
+add
+
+gpio-fns.h
+file
+
+
+
+add
+
+leds-gpio.h
+file
+
+
+
+add
+
+system.h
+file
+
+
+
+add
+
+fb.h
+file
+
+
+
+add
+
+osiris-cpld.h
+file
+
+
+
+add
+
+bast-pmu.h
+file
+
+
+
+add
+
+regs-clock.h
+file
+
+
+
+add
+
+regs-power.h
+file
+
+
+
+add
+
+tick.h
+file
+
+
+
+add
+
+spi.h
+file
+
+
+
+add
+
+regs-gpio.h
+file
+
+
+
+add
+
+anubis-map.h
+file
+
+
+
+add
+
+regs-s3c2443-clock.h
+file
+
+
+
+add
+
+uncompress.h
+file
+
+
+
+add
+
+gpio-nrs.h
+file
+
+
+
+add
+
+anubis-cpld.h
+file
+
+
+
+add
+
+dma.h
+file
+
+
+
+add
+
+h1940.h
+file
+
+
+
+add
+
+regs-gpioj.h
+file
+
+
+
+add
+
+memory.h
+file
+
+
+
+add
+
+vr1000-cpld.h
+file
+
+
+
+add
+
+regs-s3c2412-mem.h
+file
+
+
+
+add
+
+entry-macro.S
+file
+
+
+
+add
+
+regs-sdi.h
+file
+
+
+
+add
+
+map.h
+file
+
+
+
+add
+
+regs-s3c2416-mem.h
+file
+
+
+
+add
+
+vr1000-irq.h
+file
+
+
+
+add
+
+reset.h
+file
+
+
+
+add
+
+bast-irq.h
+file
+
+
+
+add
+
+osiris-map.h
+file
+
+
+
+add
+
+timex.h
+file
+
+
+
+add
+
+spi-gpio.h
+file
+
+
+
+add
+

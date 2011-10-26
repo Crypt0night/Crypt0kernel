@@ -1,0 +1,133 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/pnp
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+interface.c
+file
+
+
+
+add
+
+card.c
+file
+
+
+
+add
+
+isapnp
+dir
+
+
+
+add
+
+pnpacpi
+dir
+
+
+
+add
+
+manager.c
+file
+
+
+
+add
+
+support.c
+file
+
+
+
+add
+
+quirks.c
+file
+
+
+
+add
+
+base.h
+file
+
+
+
+add
+
+system.c
+file
+
+
+
+add
+
+resource.c
+file
+
+
+
+add
+
+core.c
+file
+
+
+
+add
+
+pnpbios
+dir
+
+
+
+add
+
+driver.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

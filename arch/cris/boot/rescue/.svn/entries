@@ -1,0 +1,77 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/cris/boot/rescue
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+rescue_v32.lds
+file
+
+
+
+add
+
+kimagerescue.S
+file
+
+
+
+add
+
+testrescue.S
+file
+
+
+
+add
+
+head_v10.S
+file
+
+
+
+add
+
+head_v32.S
+file
+
+
+
+add
+
+rescue_v10.lds
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

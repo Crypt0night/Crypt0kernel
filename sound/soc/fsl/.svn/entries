@@ -1,0 +1,161 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/sound/soc/fsl
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+modules.order
+file
+
+
+
+add
+
+efika-audio-fabric.c
+file
+
+
+
+add
+
+fsl_ssi.c
+file
+
+
+
+add
+
+fsl_dma.c
+file
+
+
+
+add
+
+mpc5200_dma.c
+file
+
+
+
+add
+
+fsl_ssi.h
+file
+
+
+
+add
+
+mpc5200_psc_i2s.c
+file
+
+
+
+add
+
+fsl_dma.h
+file
+
+
+
+add
+
+mpc5200_dma.h
+file
+
+
+
+add
+
+soc-of-simple.c
+file
+
+
+
+add
+
+mpc5200_psc_i2s.h
+file
+
+
+
+add
+
+mpc5200_psc_ac97.c
+file
+
+
+
+add
+
+.built-in.o.cmd
+file
+
+
+
+add
+
+mpc5200_psc_ac97.h
+file
+
+
+
+add
+
+pcm030-audio-fabric.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+mpc8610_hpcd.c
+file
+
+
+
+add
+
+modules.builtin
+file
+
+
+
+add
+

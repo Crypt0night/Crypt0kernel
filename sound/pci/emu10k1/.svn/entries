@@ -1,0 +1,203 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/sound/pci/emu10k1
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+emu10k1_callback.c
+file
+
+
+
+add
+
+p16v.h
+file
+
+
+
+add
+
+modules.order
+file
+
+
+
+add
+
+p17v.h
+file
+
+
+
+add
+
+emu10k1_patch.c
+file
+
+
+
+add
+
+voice.c
+file
+
+
+
+add
+
+io.c
+file
+
+
+
+add
+
+memory.c
+file
+
+
+
+add
+
+emu10k1_synth.c
+file
+
+
+
+add
+
+emuproc.c
+file
+
+
+
+add
+
+emu10k1x.c
+file
+
+
+
+add
+
+.built-in.o.cmd
+file
+
+
+
+add
+
+timer.c
+file
+
+
+
+add
+
+tina2.h
+file
+
+
+
+add
+
+emu10k1.c
+file
+
+
+
+add
+
+emufx.c
+file
+
+
+
+add
+
+emupcm.c
+file
+
+
+
+add
+
+emu10k1_synth_local.h
+file
+
+
+
+add
+
+emu10k1_main.c
+file
+
+
+
+add
+
+irq.c
+file
+
+
+
+add
+
+emumixer.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+p16v.c
+file
+
+
+
+add
+
+modules.builtin
+file
+
+
+
+add
+
+emumpu401.c
+file
+
+
+
+add
+

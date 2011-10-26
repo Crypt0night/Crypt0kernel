@@ -1,0 +1,98 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/sound/pci/ca0106
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+ca0106_main.c
+file
+
+
+
+add
+
+ca0106_mixer.c
+file
+
+
+
+add
+
+.built-in.o.cmd
+file
+
+
+
+add
+
+ca0106.h
+file
+
+
+
+add
+
+modules.order
+file
+
+
+
+add
+
+ca_midi.c
+file
+
+
+
+add
+
+ca_midi.h
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+modules.builtin
+file
+
+
+
+add
+
+ca0106_proc.c
+file
+
+
+
+add
+

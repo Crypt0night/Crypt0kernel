@@ -1,0 +1,70 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/include/config/msm/smd
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+pkt.h
+file
+
+
+
+add
+
+tty.h
+file
+
+
+
+add
+
+pkg4.h
+file
+
+
+
+add
+
+logging.h
+file
+
+
+
+add
+
+debug.h
+file
+
+
+
+add
+
+qmi.h
+file
+
+
+
+add
+

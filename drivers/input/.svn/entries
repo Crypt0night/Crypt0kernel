@@ -1,0 +1,273 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/input
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+xen-kbdfront.c
+file
+
+
+
+add
+
+modules.order
+file
+
+
+
+add
+
+.evdev.o.cmd
+file
+
+
+
+add
+
+apm-power.c
+file
+
+
+
+add
+
+evbug.c
+file
+
+
+
+add
+
+evdev.c
+file
+
+
+
+add
+
+.ff-core.o.cmd
+file
+
+
+
+add
+
+.input-core.o.cmd
+file
+
+
+
+add
+
+sparse-keymap.c
+file
+
+
+
+add
+
+ff-core.c
+file
+
+
+
+add
+
+opticaljoystick
+dir
+
+
+
+add
+
+tablet
+dir
+
+
+
+add
+
+.input.o.cmd
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+gameport
+dir
+
+
+
+add
+
+ff-memless.c
+file
+
+
+
+add
+
+input.c
+file
+
+
+
+add
+
+serio
+dir
+
+
+
+add
+
+joydev.c
+file
+
+
+
+add
+
+touchscreen
+dir
+
+
+
+add
+
+input-polldev.c
+file
+
+
+
+add
+
+mouse
+dir
+
+
+
+add
+
+misc
+dir
+
+
+
+add
+
+.input-compat.o.cmd
+file
+
+
+
+add
+
+joystick
+dir
+
+
+
+add
+
+.built-in.o.cmd
+file
+
+
+
+add
+
+keyboard
+dir
+
+
+
+add
+
+fixp-arith.h
+file
+
+
+
+add
+
+input-compat.c
+file
+
+
+
+add
+
+input-compat.h
+file
+
+
+
+add
+
+.keyreset.o.cmd
+file
+
+
+
+add
+
+mousedev.c
+file
+
+
+
+add
+
+keyreset.c
+file
+
+
+
+add
+
+modules.builtin
+file
+
+
+
+add
+

@@ -1,0 +1,532 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/arm/plat-mxc/include/mach
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+clock.h
+file
+
+
+
+add
+
+iomux-mx35.h
+file
+
+
+
+add
+
+gpio.h
+file
+
+
+
+add
+
+ssi.h
+file
+
+
+
+add
+
+board-pcm038.h
+file
+
+
+
+add
+
+iomux.h
+file
+
+
+
+add
+
+imxfb.h
+file
+
+
+
+add
+
+mxc_ehci.h
+file
+
+
+
+add
+
+board-mx31moboard.h
+file
+
+
+
+add
+
+iomux-v1.h
+file
+
+
+
+add
+
+iomux-mx21.h
+file
+
+
+
+add
+
+board-armadillo5x0.h
+file
+
+
+
+add
+
+iomux-v3.h
+file
+
+
+
+add
+
+mxc_nand.h
+file
+
+
+
+add
+
+mxc91231.h
+file
+
+
+
+add
+
+mx31.h
+file
+
+
+
+add
+
+iomux-mx25.h
+file
+
+
+
+add
+
+board-pcm043.h
+file
+
+
+
+add
+
+board-mx31lite.h
+file
+
+
+
+add
+
+mx35.h
+file
+
+
+
+add
+
+iomux-mx27.h
+file
+
+
+
+add
+
+iomux-mx2x.h
+file
+
+
+
+add
+
+mx3x.h
+file
+
+
+
+add
+
+iomux-mx1.h
+file
+
+
+
+add
+
+board-mx21ads.h
+file
+
+
+
+add
+
+mx1.h
+file
+
+
+
+add
+
+iomux-mx3.h
+file
+
+
+
+add
+
+clkdev.h
+file
+
+
+
+add
+
+memory.h
+file
+
+
+
+add
+
+dma-mx1-mx2.h
+file
+
+
+
+add
+
+mmc.h
+file
+
+
+
+add
+
+mx1_camera.h
+file
+
+
+
+add
+
+iim.h
+file
+
+
+
+add
+
+mx3fb.h
+file
+
+
+
+add
+
+board-mx31_3ds.h
+file
+
+
+
+add
+
+mx21.h
+file
+
+
+
+add
+
+board-kzmarm11.h
+file
+
+
+
+add
+
+iomux-mx51.h
+file
+
+
+
+add
+
+board-qong.h
+file
+
+
+
+add
+
+usb.h
+file
+
+
+
+add
+
+mx25.h
+file
+
+
+
+add
+
+vmalloc.h
+file
+
+
+
+add
+
+mx27.h
+file
+
+
+
+add
+
+hardware.h
+file
+
+
+
+add
+
+board-pcm037.h
+file
+
+
+
+add
+
+mx2x.h
+file
+
+
+
+add
+
+board-eukrea_cpuimx27.h
+file
+
+
+
+add
+
+board-mx27lite.h
+file
+
+
+
+add
+
+debug-macro.S
+file
+
+
+
+add
+
+imx-uart.h
+file
+
+
+
+add
+
+io.h
+file
+
+
+
+add
+
+mx21-usbhost.h
+file
+
+
+
+add
+
+i2c.h
+file
+
+
+
+add
+
+irqs.h
+file
+
+
+
+add
+
+system.h
+file
+
+
+
+add
+
+mxc.h
+file
+
+
+
+add
+
+mx51.h
+file
+
+
+
+add
+
+spi.h
+file
+
+
+
+add
+
+ipu.h
+file
+
+
+
+add
+
+uncompress.h
+file
+
+
+
+add
+
+audmux.h
+file
+
+
+
+add
+
+board-mx31ads.h
+file
+
+
+
+add
+
+ulpi.h
+file
+
+
+
+add
+
+board-mx27ads.h
+file
+
+
+
+add
+
+entry-macro.S
+file
+
+
+
+add
+
+mx3_camera.h
+file
+
+
+
+add
+
+board-mx35pdk.h
+file
+
+
+
+add
+
+board-mx27pdk.h
+file
+
+
+
+add
+
+board-mx31lilly.h
+file
+
+
+
+add
+
+iomux-mxc91231.h
+file
+
+
+
+add
+
+timex.h
+file
+
+
+
+add
+
+common.h
+file
+
+
+
+add
+

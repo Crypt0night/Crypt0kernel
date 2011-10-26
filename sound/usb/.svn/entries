@@ -1,0 +1,280 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/sound/usb
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+clock.h
+file
+
+
+
+add
+
+modules.order
+file
+
+
+
+add
+
+mixer_maps.c
+file
+
+
+
+add
+
+quirks-table.h
+file
+
+
+
+add
+
+card.c
+file
+
+
+
+add
+
+card.h
+file
+
+
+
+add
+
+quirks.c
+file
+
+
+
+add
+
+usbaudio.h
+file
+
+
+
+add
+
+midi.c
+file
+
+
+
+add
+
+quirks.h
+file
+
+
+
+add
+
+midi.h
+file
+
+
+
+add
+
+urb.c
+file
+
+
+
+add
+
+debug.h
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+urb.h
+file
+
+
+
+add
+
+proc.c
+file
+
+
+
+add
+
+proc.h
+file
+
+
+
+add
+
+usx2y
+dir
+
+
+
+add
+
+misc
+dir
+
+
+
+add
+
+.built-in.o.cmd
+file
+
+
+
+add
+
+helper.c
+file
+
+
+
+add
+
+pcm.c
+file
+
+
+
+add
+
+endpoint.c
+file
+
+
+
+add
+
+mixer_quirks.c
+file
+
+
+
+add
+
+pcm.h
+file
+
+
+
+add
+
+helper.h
+file
+
+
+
+add
+
+mixer.c
+file
+
+
+
+add
+
+endpoint.h
+file
+
+
+
+add
+
+mixer_quirks.h
+file
+
+
+
+add
+
+format.c
+file
+
+
+
+add
+
+mixer.h
+file
+
+
+
+add
+
+clock.c
+file
+
+
+
+add
+
+modules.builtin
+file
+
+
+
+add
+
+format.h
+file
+
+
+
+add
+
+caiaq
+dir
+
+
+
+add
+

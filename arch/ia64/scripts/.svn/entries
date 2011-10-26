@@ -1,0 +1,112 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/ia64/scripts
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+check-serialize.S
+file
+
+
+
+add
+
+check-gas-asm.S
+file
+
+
+
+add
+
+check-gas
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+check-text-align.S
+file
+
+
+
+add
+
+toolchain-flags
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+check-model.c
+file
+
+
+
+add
+
+check-segrel.lds
+file
+
+
+
+add
+
+check-segrel.S
+file
+
+
+
+add
+
+pvcheck.sed
+file
+
+
+
+add
+
+unwcheck.py
+file
+
+
+
+add
+

@@ -1,0 +1,63 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/parisc/configs
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+default_defconfig
+file
+
+
+
+add
+
+a500_defconfig
+file
+
+
+
+add
+
+c3000_defconfig
+file
+
+
+
+add
+
+712_defconfig
+file
+
+
+
+add
+
+b180_defconfig
+file
+
+
+
+add
+

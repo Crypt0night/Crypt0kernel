@@ -1,0 +1,735 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/arm/lib
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+csumpartialcopy.S
+file
+
+
+
+add
+
+.strchr.o.cmd
+file
+
+
+
+add
+
+.memmove.o.cmd
+file
+
+
+
+add
+
+strnlen_user.S
+file
+
+
+
+add
+
+.lshrdi3.o.cmd
+file
+
+
+
+add
+
+testchangebit.S
+file
+
+
+
+add
+
+testclearbit.S
+file
+
+
+
+add
+
+uaccess.S
+file
+
+
+
+add
+
+.copy_to_user.o.cmd
+file
+
+
+
+add
+
+strrchr.S
+file
+
+
+
+add
+
+setbit.S
+file
+
+
+
+add
+
+copy_from_user.S
+file
+
+
+
+add
+
+.csumpartialcopy.o.cmd
+file
+
+
+
+add
+
+delay.S
+file
+
+
+
+add
+
+.testchangebit.o.cmd
+file
+
+
+
+add
+
+.strrchr.o.cmd
+file
+
+
+
+add
+
+copy_template.S
+file
+
+
+
+add
+
+io-readsb.S
+file
+
+
+
+add
+
+.memcpy.o.cmd
+file
+
+
+
+add
+
+copy_page.S
+file
+
+
+
+add
+
+.muldi3.o.cmd
+file
+
+
+
+add
+
+.delay.o.cmd
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+memzero.S
+file
+
+
+
+add
+
+getuser.S
+file
+
+
+
+add
+
+delay.c
+file
+
+
+
+add
+
+ecard.S
+file
+
+
+
+add
+
+io-readsl.S
+file
+
+
+
+add
+
+io-readsw-armv3.S
+file
+
+
+
+add
+
+.io-readsb.o.cmd
+file
+
+
+
+add
+
+.copy_page.o.cmd
+file
+
+
+
+add
+
+clear_user.S
+file
+
+
+
+add
+
+io-writesb.S
+file
+
+
+
+add
+
+csumpartial.S
+file
+
+
+
+add
+
+changebit.S
+file
+
+
+
+add
+
+clearbit.S
+file
+
+
+
+add
+
+bitops.h
+file
+
+
+
+add
+
+ashldi3.S
+file
+
+
+
+add
+
+.csumipv6.o.cmd
+file
+
+
+
+add
+
+.memzero.o.cmd
+file
+
+
+
+add
+
+.getuser.o.cmd
+file
+
+
+
+add
+
+.io-readsl.o.cmd
+file
+
+
+
+add
+
+sha1.S
+file
+
+
+
+add
+
+io-shark.c
+file
+
+
+
+add
+
+io-writesl.S
+file
+
+
+
+add
+
+.built-in.o.cmd
+file
+
+
+
+add
+
+.csumpartial.o.cmd
+file
+
+
+
+add
+
+.changebit.o.cmd
+file
+
+
+
+add
+
+io-writesw-armv4.S
+file
+
+
+
+add
+
+.ashldi3.o.cmd
+file
+
+
+
+add
+
+ucmpdi2.S
+file
+
+
+
+add
+
+strchr.S
+file
+
+
+
+add
+
+.memset.o.cmd
+file
+
+
+
+add
+
+.testsetbit.o.cmd
+file
+
+
+
+add
+
+io-acorn.S
+file
+
+
+
+add
+
+putuser.S
+file
+
+
+
+add
+
+copy_to_user.S
+file
+
+
+
+add
+
+modules.builtin
+file
+
+
+
+add
+
+csumpartialcopyuser.S
+file
+
+
+
+add
+
+backtrace.S
+file
+
+
+
+add
+
+.ucmpdi2.o.cmd
+file
+
+
+
+add
+
+modules.order
+file
+
+
+
+add
+
+strncpy_from_user.S
+file
+
+
+
+add
+
+.putuser.o.cmd
+file
+
+
+
+add
+
+lib1funcs.S
+file
+
+
+
+add
+
+.memchr.o.cmd
+file
+
+
+
+add
+
+.csumpartialcopyuser.o.cmd
+file
+
+
+
+add
+
+memcpy.S
+file
+
+
+
+add
+
+.backtrace.o.cmd
+file
+
+
+
+add
+
+floppydma.S
+file
+
+
+
+add
+
+div64.S
+file
+
+
+
+add
+
+muldi3.S
+file
+
+
+
+add
+
+.strncpy_from_user.o.cmd
+file
+
+
+
+add
+
+.strnlen_user.o.cmd
+file
+
+
+
+add
+
+.testclearbit.o.cmd
+file
+
+
+
+add
+
+.lib1funcs.o.cmd
+file
+
+
+
+add
+
+.lib.a.cmd
+file
+
+
+
+add
+
+.setbit.o.cmd
+file
+
+
+
+add
+
+.copy_from_user.o.cmd
+file
+
+
+
+add
+
+.div64.o.cmd
+file
+
+
+
+add
+
+uaccess_with_memcpy.c
+file
+
+
+
+add
+
+csumipv6.S
+file
+
+
+
+add
+
+findbit.S
+file
+
+
+
+add
+
+io-readsw-armv4.S
+file
+
+
+
+add
+
+memset.S
+file
+
+
+
+add
+
+testsetbit.S
+file
+
+
+
+add
+
+.findbit.o.cmd
+file
+
+
+
+add
+
+ashrdi3.S
+file
+
+
+
+add
+
+.io-readsw-armv4.o.cmd
+file
+
+
+
+add
+
+io-writesw-armv3.S
+file
+
+
+
+add
+
+.clear_user.o.cmd
+file
+
+
+
+add
+
+.io-writesb.o.cmd
+file
+
+
+
+add
+
+.clearbit.o.cmd
+file
+
+
+
+add
+
+memmove.S
+file
+
+
+
+add
+
+.sha1.o.cmd
+file
+
+
+
+add
+
+lshrdi3.S
+file
+
+
+
+add
+
+.ashrdi3.o.cmd
+file
+
+
+
+add
+
+.io-writesl.o.cmd
+file
+
+
+
+add
+
+memchr.S
+file
+
+
+
+add
+
+csumpartialcopygeneric.S
+file
+
+
+
+add
+
+.io-writesw-armv4.o.cmd
+file
+
+
+
+add
+

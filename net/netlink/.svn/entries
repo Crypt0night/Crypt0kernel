@@ -1,0 +1,84 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/net/netlink
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+.built-in.o.cmd
+file
+
+
+
+add
+
+genetlink.c
+file
+
+
+
+add
+
+modules.order
+file
+
+
+
+add
+
+.af_netlink.o.cmd
+file
+
+
+
+add
+
+af_netlink.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+.genetlink.o.cmd
+file
+
+
+
+add
+
+modules.builtin
+file
+
+
+
+add
+

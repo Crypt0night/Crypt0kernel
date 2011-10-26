@@ -1,0 +1,350 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/macintosh
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+via-macii.c
+file
+
+
+
+add
+
+modules.order
+file
+
+
+
+add
+
+via-pmu-backlight.c
+file
+
+
+
+add
+
+windfarm_lm75_sensor.c
+file
+
+
+
+add
+
+smu.c
+file
+
+
+
+add
+
+windfarm_smu_sensors.c
+file
+
+
+
+add
+
+windfarm_cpufreq_clamp.c
+file
+
+
+
+add
+
+macio-adb.c
+file
+
+
+
+add
+
+windfarm.h
+file
+
+
+
+add
+
+windfarm_pm91.c
+file
+
+
+
+add
+
+via-pmu-led.c
+file
+
+
+
+add
+
+nvram.c
+file
+
+
+
+add
+
+therm_windtunnel.c
+file
+
+
+
+add
+
+windfarm_pm121.c
+file
+
+
+
+add
+
+via-cuda.c
+file
+
+
+
+add
+
+windfarm_max6690_sensor.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+via-pmu-event.c
+file
+
+
+
+add
+
+therm_adt746x.c
+file
+
+
+
+add
+
+windfarm_smu_sat.c
+file
+
+
+
+add
+
+via-pmu-event.h
+file
+
+
+
+add
+
+windfarm_pid.c
+file
+
+
+
+add
+
+via-pmu68k.c
+file
+
+
+
+add
+
+windfarm_pid.h
+file
+
+
+
+add
+
+adb-iop.c
+file
+
+
+
+add
+
+mediabay.c
+file
+
+
+
+add
+
+adbhid.c
+file
+
+
+
+add
+
+windfarm_pm81.c
+file
+
+
+
+add
+
+via-pmu.c
+file
+
+
+
+add
+
+windfarm_smu_controls.c
+file
+
+
+
+add
+
+windfarm_core.c
+file
+
+
+
+add
+
+macio_sysfs.c
+file
+
+
+
+add
+
+.built-in.o.cmd
+file
+
+
+
+add
+
+ans-lcd.c
+file
+
+
+
+add
+
+apm_emu.c
+file
+
+
+
+add
+
+mac_hid.c
+file
+
+
+
+add
+
+therm_pm72.c
+file
+
+
+
+add
+
+adb.c
+file
+
+
+
+add
+
+ans-lcd.h
+file
+
+
+
+add
+
+windfarm_pm112.c
+file
+
+
+
+add
+
+macio_asic.c
+file
+
+
+
+add
+
+therm_pm72.h
+file
+
+
+
+add
+
+rack-meter.c
+file
+
+
+
+add
+
+via-maciisi.c
+file
+
+
+
+add
+
+modules.builtin
+file
+
+
+
+add
+

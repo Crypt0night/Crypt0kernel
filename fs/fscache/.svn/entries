@@ -1,0 +1,133 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/fs/fscache
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+stats.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+operation.c
+file
+
+
+
+add
+
+proc.c
+file
+
+
+
+add
+
+cache.c
+file
+
+
+
+add
+
+object.c
+file
+
+
+
+add
+
+cookie.c
+file
+
+
+
+add
+
+page.c
+file
+
+
+
+add
+
+object-list.c
+file
+
+
+
+add
+
+netfs.c
+file
+
+
+
+add
+
+internal.h
+file
+
+
+
+add
+
+main.c
+file
+
+
+
+add
+
+fsdef.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+histogram.c
+file
+
+
+
+add
+

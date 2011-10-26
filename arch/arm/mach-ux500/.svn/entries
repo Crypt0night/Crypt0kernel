@@ -1,0 +1,154 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/arm/mach-ux500
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Makefile.boot
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+clock.h
+file
+
+
+
+add
+
+headsmp.S
+file
+
+
+
+add
+
+include
+dir
+
+
+
+add
+
+ste-dma40-db8500.h
+file
+
+
+
+add
+
+board-u5500.c
+file
+
+
+
+add
+
+board-mop500.c
+file
+
+
+
+add
+
+devices-db5500.c
+file
+
+
+
+add
+
+platsmp.c
+file
+
+
+
+add
+
+devices.c
+file
+
+
+
+add
+
+devices-db8500.c
+file
+
+
+
+add
+
+cpu-db5500.c
+file
+
+
+
+add
+
+cpu.c
+file
+
+
+
+add
+
+cpu-db8500.c
+file
+
+
+
+add
+
+localtimer.c
+file
+
+
+
+add
+
+clock.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

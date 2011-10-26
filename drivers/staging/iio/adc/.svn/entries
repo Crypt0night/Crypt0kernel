@@ -1,0 +1,70 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/staging/iio/adc
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+max1363_ring.c
+file
+
+
+
+add
+
+max1363.h
+file
+
+
+
+add
+
+max1363_core.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+adc.h
+file
+
+
+
+add
+

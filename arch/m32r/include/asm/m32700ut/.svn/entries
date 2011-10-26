@@ -1,0 +1,49 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/m32r/include/asm/m32700ut
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+m32700ut_lan.h
+file
+
+
+
+add
+
+m32700ut_pld.h
+file
+
+
+
+add
+
+m32700ut_lcd.h
+file
+
+
+
+add
+

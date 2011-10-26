@@ -1,0 +1,133 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/staging/rtl8187se
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+r8180_wx.c
+file
+
+
+
+add
+
+r8180_rtl8225z2.c
+file
+
+
+
+add
+
+r8180_dm.c
+file
+
+
+
+add
+
+r8180_wx.h
+file
+
+
+
+add
+
+r8180_dm.h
+file
+
+
+
+add
+
+r8185b_init.c
+file
+
+
+
+add
+
+ieee80211
+dir
+
+
+
+add
+
+r8180_93cx6.h
+file
+
+
+
+add
+
+TODO
+file
+
+
+
+add
+
+r8180_hw.h
+file
+
+
+
+add
+
+r8180.h
+file
+
+
+
+add
+
+r8180_rtl8225.h
+file
+
+
+
+add
+
+r8180_core.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

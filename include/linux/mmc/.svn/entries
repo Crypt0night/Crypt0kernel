@@ -1,0 +1,105 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/include/linux/mmc
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+card.h
+file
+
+
+
+add
+
+sdio_func.h
+file
+
+
+
+add
+
+mmc.h
+file
+
+
+
+add
+
+pm.h
+file
+
+
+
+add
+
+sdio_ids.h
+file
+
+
+
+add
+
+host.h
+file
+
+
+
+add
+
+sdio.h
+file
+
+
+
+add
+
+sdhci-spear.h
+file
+
+
+
+add
+
+sh_mmcif.h
+file
+
+
+
+add
+
+sd.h
+file
+
+
+
+add
+
+core.h
+file
+
+
+
+add
+

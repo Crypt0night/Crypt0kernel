@@ -1,0 +1,98 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/net/ixgbevf
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+ixgbevf_main.c
+file
+
+
+
+add
+
+ethtool.c
+file
+
+
+
+add
+
+ixgbevf.h
+file
+
+
+
+add
+
+vf.h
+file
+
+
+
+add
+
+defines.h
+file
+
+
+
+add
+
+regs.h
+file
+
+
+
+add
+
+mbx.c
+file
+
+
+
+add
+
+mbx.h
+file
+
+
+
+add
+
+vf.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

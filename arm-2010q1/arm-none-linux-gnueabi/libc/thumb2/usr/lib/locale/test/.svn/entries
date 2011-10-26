@@ -1,0 +1,182 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arm-2010q1/arm-none-linux-gnueabi/libc/thumb2/usr/lib/locale/test
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+sv_SE.ISO-8859-1
+dir
+
+
+
+add
+
+fa_IR.UTF-8
+dir
+
+
+
+add
+
+en_US.ANSI_X3.4-1968
+dir
+
+
+
+add
+
+ja_JP.UTF-8
+dir
+
+
+
+add
+
+ja_JP.SJIS
+dir
+
+
+
+add
+
+tr_TR.UTF-8
+dir
+
+
+
+add
+
+README
+file
+
+
+
+add
+
+nb_NO.ISO-8859-1
+dir
+
+
+
+add
+
+zh_TW.EUC-TW
+dir
+
+
+
+add
+
+fr_FR.UTF-8
+dir
+
+
+
+add
+
+fr_FR.ISO-8859-1
+dir
+
+
+
+add
+
+de_DE.UTF-8
+dir
+
+
+
+add
+
+de_DE.ISO-8859-1
+dir
+
+
+
+add
+
+cs_CZ.UTF-8
+dir
+
+
+
+add
+
+si_LK.UTF-8
+dir
+
+
+
+add
+
+da_DK.ISO-8859-1
+dir
+
+
+
+add
+
+ja_JP.EUC-JP
+dir
+
+
+
+add
+
+hr_HR.ISO-8859-2
+dir
+
+
+
+add
+
+vi_VN.TCVN5712-1
+dir
+
+
+
+add
+
+nn_NO.ISO-8859-1
+dir
+
+
+
+add
+
+en_US.UTF-8
+dir
+
+
+
+add
+
+en_US.ISO-8859-1
+dir
+
+
+
+add
+

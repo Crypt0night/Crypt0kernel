@@ -1,0 +1,224 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/staging/dream/qdsp5
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+adsp_vfe_verify_cmd.c
+file
+
+
+
+add
+
+adsp_6210.c
+file
+
+
+
+add
+
+adsp_6220.c
+file
+
+
+
+add
+
+adsp_driver.c
+file
+
+
+
+add
+
+adsp_info.c
+file
+
+
+
+add
+
+adsp_jpeg_verify_cmd.c
+file
+
+
+
+add
+
+audio_aac.c
+file
+
+
+
+add
+
+adsp_6225.c
+file
+
+
+
+add
+
+adsp_lpm_verify_cmd.c
+file
+
+
+
+add
+
+adsp_vfe_patch_event.c
+file
+
+
+
+add
+
+audpp.c
+file
+
+
+
+add
+
+adsp_videoenc_verify_cmd.c
+file
+
+
+
+add
+
+adsp_jpeg_patch_event.c
+file
+
+
+
+add
+
+audmgr.c
+file
+
+
+
+add
+
+audio_mp3.c
+file
+
+
+
+add
+
+audio_evrc.c
+file
+
+
+
+add
+
+audio_amrnb.c
+file
+
+
+
+add
+
+evlog.h
+file
+
+
+
+add
+
+snd.c
+file
+
+
+
+add
+
+audmgr.h
+file
+
+
+
+add
+
+adsp_video_verify_cmd.c
+file
+
+
+
+add
+
+audio_qcelp.c
+file
+
+
+
+add
+
+audio_in.c
+file
+
+
+
+add
+
+adsp.c
+file
+
+
+
+add
+
+audio_out.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+adsp.h
+file
+
+
+
+add
+
+audmgr_new.h
+file
+
+
+
+add
+

@@ -1,0 +1,364 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/net/wireless/bcm4329/include
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+sbconfig.h
+file
+
+
+
+add
+
+dhdioctl.h
+file
+
+
+
+add
+
+sbsdpcmdev.h
+file
+
+
+
+add
+
+hndpmu.h
+file
+
+
+
+add
+
+siutils.h
+file
+
+
+
+add
+
+osl.h
+file
+
+
+
+add
+
+sdio.h
+file
+
+
+
+add
+
+spid.h
+file
+
+
+
+add
+
+bcmdefs.h
+file
+
+
+
+add
+
+bcmsdstd.h
+file
+
+
+
+add
+
+bcmsdspi.h
+file
+
+
+
+add
+
+msgtrace.h
+file
+
+
+
+add
+
+sdioh.h
+file
+
+
+
+add
+
+sdiovar.h
+file
+
+
+
+add
+
+bcmpcispi.h
+file
+
+
+
+add
+
+bcmcdc.h
+file
+
+
+
+add
+
+epivers.h
+file
+
+
+
+add
+
+bcmperf.h
+file
+
+
+
+add
+
+miniopt.h
+file
+
+
+
+add
+
+sbhnddma.h
+file
+
+
+
+add
+
+bcmendian.h
+file
+
+
+
+add
+
+bcmutils.h
+file
+
+
+
+add
+
+bcmdevs.h
+file
+
+
+
+add
+
+bcmsdh_sdmmc.h
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+bcmsdpcm.h
+file
+
+
+
+add
+
+packed_section_start.h
+file
+
+
+
+add
+
+aidmp.h
+file
+
+
+
+add
+
+pcicfg.h
+file
+
+
+
+add
+
+bcmsdh.h
+file
+
+
+
+add
+
+packed_section_end.h
+file
+
+
+
+add
+
+bcmsdbus.h
+file
+
+
+
+add
+
+hndrte_cons.h
+file
+
+
+
+add
+
+sbsocram.h
+file
+
+
+
+add
+
+hndrte_armtrap.h
+file
+
+
+
+add
+
+sbchipc.h
+file
+
+
+
+add
+
+trxhdr.h
+file
+
+
+
+add
+
+linux_osl.h
+file
+
+
+
+add
+
+linuxver.h
+file
+
+
+
+add
+
+bcmspi.h
+file
+
+
+
+add
+
+wlioctl.h
+file
+
+
+
+add
+
+proto
+dir
+
+
+
+add
+
+hndsoc.h
+file
+
+
+
+add
+
+bcmwifi.h
+file
+
+
+
+add
+
+bcmspibrcm.h
+file
+
+
+
+add
+
+sbpcmcia.h
+file
+
+
+
+add
+
+typedefs.h
+file
+
+
+
+add
+
+sbsdio.h
+file
+
+
+
+add
+

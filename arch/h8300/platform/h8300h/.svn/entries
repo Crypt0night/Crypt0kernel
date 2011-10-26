@@ -1,0 +1,70 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/h8300/platform/h8300h
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+h8max
+dir
+
+
+
+add
+
+ptrace_h8300h.c
+file
+
+
+
+add
+
+generic
+dir
+
+
+
+add
+
+irq.c
+file
+
+
+
+add
+
+aki3068net
+dir
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

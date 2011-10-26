@@ -1,0 +1,56 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/pci/pcie/pme
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+pcie_pme.c
+file
+
+
+
+add
+
+pcie_pme.h
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+pcie_pme_acpi.c
+file
+
+
+
+add
+

@@ -1,0 +1,189 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/staging/dream/camera
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+mt9d112_reg.c
+file
+
+
+
+add
+
+msm_vfe8x_proc.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+mt9d112.c
+file
+
+
+
+add
+
+msm_io7x.c
+file
+
+
+
+add
+
+msm_io8x.c
+file
+
+
+
+add
+
+msm_v4l2.c
+file
+
+
+
+add
+
+msm_camera.c
+file
+
+
+
+add
+
+msm_vfe8x_proc.h
+file
+
+
+
+add
+
+mt9d112.h
+file
+
+
+
+add
+
+mt9p012_reg.c
+file
+
+
+
+add
+
+s5k3e2fx.c
+file
+
+
+
+add
+
+msm_vfe7x.c
+file
+
+
+
+add
+
+msm_vfe8x.c
+file
+
+
+
+add
+
+mt9t013_reg.c
+file
+
+
+
+add
+
+s5k3e2fx.h
+file
+
+
+
+add
+
+msm_vfe7x.h
+file
+
+
+
+add
+
+mt9p012.h
+file
+
+
+
+add
+
+mt9t013.c
+file
+
+
+
+add
+
+msm_vfe8x.h
+file
+
+
+
+add
+
+mt9t013.h
+file
+
+
+
+add
+
+mt9p012_fox.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

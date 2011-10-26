@@ -1,0 +1,147 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/sh/kernel/cpu/sh3
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+setup-sh770x.c
+file
+
+
+
+add
+
+probe.c
+file
+
+
+
+add
+
+pinmux-sh7720.c
+file
+
+
+
+add
+
+entry.S
+file
+
+
+
+add
+
+clock-sh7710.c
+file
+
+
+
+add
+
+swsusp.S
+file
+
+
+
+add
+
+clock-sh7712.c
+file
+
+
+
+add
+
+clock-sh7705.c
+file
+
+
+
+add
+
+clock-sh3.c
+file
+
+
+
+add
+
+setup-sh7710.c
+file
+
+
+
+add
+
+clock-sh7706.c
+file
+
+
+
+add
+
+setup-sh7720.c
+file
+
+
+
+add
+
+clock-sh7709.c
+file
+
+
+
+add
+
+setup-sh3.c
+file
+
+
+
+add
+
+setup-sh7705.c
+file
+
+
+
+add
+
+ex.S
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

@@ -1,0 +1,147 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/fs/ufs
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+inode.c
+file
+
+
+
+add
+
+super.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+swab.h
+file
+
+
+
+add
+
+ufs.h
+file
+
+
+
+add
+
+ialloc.c
+file
+
+
+
+add
+
+cylinder.c
+file
+
+
+
+add
+
+util.c
+file
+
+
+
+add
+
+dir.c
+file
+
+
+
+add
+
+file.c
+file
+
+
+
+add
+
+util.h
+file
+
+
+
+add
+
+truncate.c
+file
+
+
+
+add
+
+symlink.c
+file
+
+
+
+add
+
+namei.c
+file
+
+
+
+add
+
+ufs_fs.h
+file
+
+
+
+add
+
+balloc.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

@@ -1,0 +1,126 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/powerpc/configs/85xx
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+xes_mpc85xx_defconfig
+file
+
+
+
+add
+
+sbc8548_defconfig
+file
+
+
+
+add
+
+tqm8540_defconfig
+file
+
+
+
+add
+
+socrates_defconfig
+file
+
+
+
+add
+
+tqm8541_defconfig
+file
+
+
+
+add
+
+tqm8560_defconfig
+file
+
+
+
+add
+
+mpc85xx_cds_defconfig
+file
+
+
+
+add
+
+mpc8540_ads_defconfig
+file
+
+
+
+add
+
+stx_gp3_defconfig
+file
+
+
+
+add
+
+tqm8555_defconfig
+file
+
+
+
+add
+
+mpc8560_ads_defconfig
+file
+
+
+
+add
+
+ksi8560_defconfig
+file
+
+
+
+add
+
+tqm8548_defconfig
+file
+
+
+
+add
+
+sbc8560_defconfig
+file
+
+
+
+add
+

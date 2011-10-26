@@ -1,0 +1,231 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/Documentation/usb
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+dma.txt
+file
+
+
+
+add
+
+hiddev.txt
+file
+
+
+
+add
+
+usbmon.txt
+file
+
+
+
+add
+
+usb-serial.txt
+file
+
+
+
+add
+
+power-management.txt
+file
+
+
+
+add
+
+ehci.txt
+file
+
+
+
+add
+
+mtouchusb.txt
+file
+
+
+
+add
+
+bulk-streams.txt
+file
+
+
+
+add
+
+gadget_hid.txt
+file
+
+
+
+add
+
+CREDITS
+file
+
+
+
+add
+
+usb-help.txt
+file
+
+
+
+add
+
+callbacks.txt
+file
+
+
+
+add
+
+misc_usbsevseg.txt
+file
+
+
+
+add
+
+ohci.txt
+file
+
+
+
+add
+
+hotplug.txt
+file
+
+
+
+add
+
+error-codes.txt
+file
+
+
+
+add
+
+proc_usb_info.txt
+file
+
+
+
+add
+
+URB.txt
+file
+
+
+
+add
+
+persist.txt
+file
+
+
+
+add
+
+rio.txt
+file
+
+
+
+add
+
+gadget_serial.txt
+file
+
+
+
+add
+
+WUSB-Design-overview.txt
+file
+
+
+
+add
+
+wusb-cbaf
+file
+
+
+
+add
+
+iuu_phoenix.txt
+file
+
+
+
+add
+
+linux.inf
+file
+
+
+
+add
+
+anchors.txt
+file
+
+
+
+add
+
+gadget_printer.txt
+file
+
+
+
+add
+
+authorization.txt
+file
+
+
+
+add
+
+acm.txt
+file
+
+
+
+add
+

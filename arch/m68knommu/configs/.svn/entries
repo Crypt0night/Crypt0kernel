@@ -1,0 +1,70 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/m68knommu/configs
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+m5275evb_defconfig
+file
+
+
+
+add
+
+m5249evb_defconfig
+file
+
+
+
+add
+
+m5307c3_defconfig
+file
+
+
+
+add
+
+m5407c3_defconfig
+file
+
+
+
+add
+
+m5272c3_defconfig
+file
+
+
+
+add
+
+m5208evb_defconfig
+file
+
+
+
+add
+

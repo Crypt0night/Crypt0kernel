@@ -1,0 +1,63 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/mips/alchemy
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+mtx-1
+dir
+
+
+
+add
+
+common
+dir
+
+
+
+add
+
+xxs1500
+dir
+
+
+
+add
+
+devboards
+dir
+
+
+
+add
+

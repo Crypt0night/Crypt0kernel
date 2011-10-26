@@ -1,0 +1,847 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/usb/gadget
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+webcam.c
+file
+
+
+
+add
+
+.u_serial.o.cmd
+file
+
+
+
+add
+
+goku_udc.c
+file
+
+
+
+add
+
+u_ether.h
+file
+
+
+
+add
+
+net2280.c
+file
+
+
+
+add
+
+f_obex.c
+file
+
+
+
+add
+
+file_storage.c
+file
+
+
+
+add
+
+uvc_v4l2.c
+file
+
+
+
+add
+
+.f_diag.o.cmd
+file
+
+
+
+add
+
+config.c
+file
+
+
+
+add
+
+.f_ecm.o.cmd
+file
+
+
+
+add
+
+goku_udc.h
+file
+
+
+
+add
+
+f_acm.c
+file
+
+
+
+add
+
+atmel_usba_udc.c
+file
+
+
+
+add
+
+net2280.h
+file
+
+
+
+add
+
+ether.c
+file
+
+
+
+add
+
+at91_udc.c
+file
+
+
+
+add
+
+f_hid.c
+file
+
+
+
+add
+
+f_ecm.c
+file
+
+
+
+add
+
+.serial.o.cmd
+file
+
+
+
+add
+
+.android.o.cmd
+file
+
+
+
+add
+
+atmel_usba_udc.h
+file
+
+
+
+add
+
+storage_common.c
+file
+
+
+
+add
+
+at91_udc.h
+file
+
+
+
+add
+
+fsl_usb2_udc.h
+file
+
+
+
+add
+
+.f_serial.o.cmd
+file
+
+
+
+add
+
+android.c
+file
+
+
+
+add
+
+m66592-udc.c
+file
+
+
+
+add
+
+gadget_chips.h
+file
+
+
+
+add
+
+u_phonet.h
+file
+
+
+
+add
+
+m66592-udc.h
+file
+
+
+
+add
+
+.f_adb.o.cmd
+file
+
+
+
+add
+
+fsl_udc_core.c
+file
+
+
+
+add
+
+mass_storage.c
+file
+
+
+
+add
+
+.f_mass_storage.o.cmd
+file
+
+
+
+add
+
+multi.c
+file
+
+
+
+add
+
+f_adb.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+.f_accessory.o.cmd
+file
+
+
+
+add
+
+inode.c
+file
+
+
+
+add
+
+f_loopback.c
+file
+
+
+
+add
+
+f_accessory.c
+file
+
+
+
+add
+
+f_phonet.c
+file
+
+
+
+add
+
+composite.c
+file
+
+
+
+add
+
+ci13xxx_udc.c
+file
+
+
+
+add
+
+uvc.h
+file
+
+
+
+add
+
+fsl_qe_udc.c
+file
+
+
+
+add
+
+ci13xxx_udc.h
+file
+
+
+
+add
+
+fsl_qe_udc.h
+file
+
+
+
+add
+
+cdc2.c
+file
+
+
+
+add
+
+f_fs.c
+file
+
+
+
+add
+
+.built-in.o.cmd
+file
+
+
+
+add
+
+usbstring.c
+file
+
+
+
+add
+
+.f_rndis.o.cmd
+file
+
+
+
+add
+
+lh7a40x_udc.c
+file
+
+
+
+add
+
+pxa25x_udc.c
+file
+
+
+
+add
+
+.msm72k_udc_exp.o.cmd
+file
+
+
+
+add
+
+f_rndis.c
+file
+
+
+
+add
+
+r8a66597-udc.c
+file
+
+
+
+add
+
+fsl_mxc_udc.c
+file
+
+
+
+add
+
+pxa25x_udc.h
+file
+
+
+
+add
+
+lh7a40x_udc.h
+file
+
+
+
+add
+
+imx_udc.c
+file
+
+
+
+add
+
+r8a66597-udc.h
+file
+
+
+
+add
+
+modules.builtin
+file
+
+
+
+add
+
+imx_udc.h
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+langwell_udc.c
+file
+
+
+
+add
+
+.diag.o.cmd
+file
+
+
+
+add
+
+uvc_queue.c
+file
+
+
+
+add
+
+modules.order
+file
+
+
+
+add
+
+f_uvc.c
+file
+
+
+
+add
+
+u_serial.c
+file
+
+
+
+add
+
+f_mtp.c
+file
+
+
+
+add
+
+langwell_udc.h
+file
+
+
+
+add
+
+f_audio.c
+file
+
+
+
+add
+
+uvc_queue.h
+file
+
+
+
+add
+
+f_uvc.h
+file
+
+
+
+add
+
+.f_projector.o.cmd
+file
+
+
+
+add
+
+u_serial.h
+file
+
+
+
+add
+
+dummy_hcd.c
+file
+
+
+
+add
+
+f_diag.c
+file
+
+
+
+add
+
+s3c-hsotg.c
+file
+
+
+
+add
+
+f_eem.c
+file
+
+
+
+add
+
+f_projector.c
+file
+
+
+
+add
+
+f_diag.h
+file
+
+
+
+add
+
+zero.c
+file
+
+
+
+add
+
+rndis.c
+file
+
+
+
+add
+
+serial.c
+file
+
+
+
+add
+
+amd5536udc.c
+file
+
+
+
+add
+
+rndis.h
+file
+
+
+
+add
+
+f_serial.c
+file
+
+
+
+add
+
+u_audio.c
+file
+
+
+
+add
+
+amd5536udc.h
+file
+
+
+
+add
+
+s3c2410_udc.c
+file
+
+
+
+add
+
+u_audio.h
+file
+
+
+
+add
+
+f_sourcesink.c
+file
+
+
+
+add
+
+f_mass_storage.c
+file
+
+
+
+add
+
+s3c2410_udc.h
+file
+
+
+
+add
+
+nokia.c
+file
+
+
+
+add
+
+audio.c
+file
+
+
+
+add
+
+ndis.h
+file
+
+
+
+add
+
+epautoconf.c
+file
+
+
+
+add
+
+hid.c
+file
+
+
+
+add
+
+f_subset.c
+file
+
+
+
+add
+
+uvc_video.c
+file
+
+
+
+add
+
+printer.c
+file
+
+
+
+add
+
+g_ffs.c
+file
+
+
+
+add
+
+pxa27x_udc.c
+file
+
+
+
+add
+
+.u_ether.o.cmd
+file
+
+
+
+add
+
+msm72k_udc_exp.c
+file
+
+
+
+add
+
+omap_udc.c
+file
+
+
+
+add
+
+gmidi.c
+file
+
+
+
+add
+
+pxa27x_udc.h
+file
+
+
+
+add
+
+g_zero.h
+file
+
+
+
+add
+
+u_ether.c
+file
+
+
+
+add
+
+omap_udc.h
+file
+
+
+
+add
+

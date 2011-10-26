@@ -1,0 +1,105 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/zorro
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+zorro.h
+file
+
+
+
+add
+
+zorro-sysfs.c
+file
+
+
+
+add
+
+gen-devlist.c
+file
+
+
+
+add
+
+names.c
+file
+
+
+
+add
+
+proc.c
+file
+
+
+
+add
+
+.gitignore
+file
+
+
+
+add
+
+zorro-driver.c
+file
+
+
+
+add
+
+zorro.ids
+file
+
+
+
+add
+
+zorro.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

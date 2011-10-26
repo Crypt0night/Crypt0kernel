@@ -1,0 +1,161 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/arm/mach-shmobile
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Makefile.boot
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+setup-sh7367.c
+file
+
+
+
+add
+
+setup-sh7377.c
+file
+
+
+
+add
+
+include
+dir
+
+
+
+add
+
+console.c
+file
+
+
+
+add
+
+pfc-sh7372.c
+file
+
+
+
+add
+
+board-g3evm.c
+file
+
+
+
+add
+
+board-ap4evb.c
+file
+
+
+
+add
+
+board-g4evm.c
+file
+
+
+
+add
+
+pfc-sh7367.c
+file
+
+
+
+add
+
+pfc-sh7377.c
+file
+
+
+
+add
+
+timer.c
+file
+
+
+
+add
+
+intc-sh7372.c
+file
+
+
+
+add
+
+clock-sh7367.c
+file
+
+
+
+add
+
+setup-sh7372.c
+file
+
+
+
+add
+
+intc-sh7367.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+intc-sh7377.c
+file
+
+
+
+add
+

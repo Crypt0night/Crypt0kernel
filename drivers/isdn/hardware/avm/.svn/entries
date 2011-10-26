@@ -1,0 +1,112 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/isdn/hardware/avm
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+b1pci.c
+file
+
+
+
+add
+
+b1pcmcia.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+b1isa.c
+file
+
+
+
+add
+
+t1pci.c
+file
+
+
+
+add
+
+t1isa.c
+file
+
+
+
+add
+
+b1.c
+file
+
+
+
+add
+
+avmcard.h
+file
+
+
+
+add
+
+b1dma.c
+file
+
+
+
+add
+
+c4.c
+file
+
+
+
+add
+
+avm_cs.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

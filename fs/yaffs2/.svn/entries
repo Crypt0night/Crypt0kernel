@@ -1,0 +1,371 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/fs/yaffs2
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+yaffs_tagscompat.h
+file
+
+
+
+add
+
+yaffs_mtdif.h
+file
+
+
+
+add
+
+yaffs_tagsvalidity.h
+file
+
+
+
+add
+
+yaffs_vfs_glue.c
+file
+
+
+
+add
+
+devextras.h
+file
+
+
+
+add
+
+yaffs_nameval.c
+file
+
+
+
+add
+
+yaffs_packedtags1.c
+file
+
+
+
+add
+
+yaffs_packedtags2.c
+file
+
+
+
+add
+
+yaffs_nameval.h
+file
+
+
+
+add
+
+yaffs_yaffs1.c
+file
+
+
+
+add
+
+yaffs_yaffs2.c
+file
+
+
+
+add
+
+yaffs_ecc.c
+file
+
+
+
+add
+
+yaffs_packedtags1.h
+file
+
+
+
+add
+
+yaffs_packedtags2.h
+file
+
+
+
+add
+
+yaffs_yaffs1.h
+file
+
+
+
+add
+
+yaffs_ecc.h
+file
+
+
+
+add
+
+yaffs_yaffs2.h
+file
+
+
+
+add
+
+yaffs_linux_allocator.c
+file
+
+
+
+add
+
+yportenv.h
+file
+
+
+
+add
+
+yaffs_verify.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+yaffsinterface.h
+file
+
+
+
+add
+
+yaffs_qsort.c
+file
+
+
+
+add
+
+yaffs_verify.h
+file
+
+
+
+add
+
+yaffs_getblockinfo.h
+file
+
+
+
+add
+
+yaffs_bitmap.c
+file
+
+
+
+add
+
+yaffs_qsort.h
+file
+
+
+
+add
+
+yaffs_allocator.c
+file
+
+
+
+add
+
+yaffs_nand.c
+file
+
+
+
+add
+
+yaffs_list.h
+file
+
+
+
+add
+
+yaffs_bitmap.h
+file
+
+
+
+add
+
+yaffs_guts.c
+file
+
+
+
+add
+
+yaffs_mtdif1.c
+file
+
+
+
+add
+
+yaffs_allocator.h
+file
+
+
+
+add
+
+yaffs_mtdif2.c
+file
+
+
+
+add
+
+yaffs_nand.h
+file
+
+
+
+add
+
+yaffs_guts.h
+file
+
+
+
+add
+
+moduleconfig.h
+file
+
+
+
+add
+
+yaffs_mtdif1.h
+file
+
+
+
+add
+
+yaffs_checkptrw.c
+file
+
+
+
+add
+
+yaffs_mtdif2.h
+file
+
+
+
+add
+
+yaffs_checkptrw.h
+file
+
+
+
+add
+
+yaffs_tagscompat.c
+file
+
+
+
+add
+
+yaffs_trace.h
+file
+
+
+
+add
+
+yaffs_mtdif.c
+file
+
+
+
+add
+
+yaffs_linux.h
+file
+
+
+
+add
+
+yaffs_tagsvalidity.c
+file
+
+
+
+add
+
+yaffs_nandemul2k.h
+file
+
+
+
+add
+

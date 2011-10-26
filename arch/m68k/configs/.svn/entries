@@ -1,0 +1,112 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/m68k/configs
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+amiga_defconfig
+file
+
+
+
+add
+
+bvme6000_defconfig
+file
+
+
+
+add
+
+atari_defconfig
+file
+
+
+
+add
+
+sun3x_defconfig
+file
+
+
+
+add
+
+mac_defconfig
+file
+
+
+
+add
+
+mvme147_defconfig
+file
+
+
+
+add
+
+mvme16x_defconfig
+file
+
+
+
+add
+
+q40_defconfig
+file
+
+
+
+add
+
+apollo_defconfig
+file
+
+
+
+add
+
+sun3_defconfig
+file
+
+
+
+add
+
+multi_defconfig
+file
+
+
+
+add
+
+hp300_defconfig
+file
+
+
+
+add
+

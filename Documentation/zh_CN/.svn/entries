@@ -1,0 +1,91 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/Documentation/zh_CN
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+HOWTO
+file
+
+
+
+add
+
+stable_kernel_rules.txt
+file
+
+
+
+add
+
+oops-tracing.txt
+file
+
+
+
+add
+
+SubmittingDrivers
+file
+
+
+
+add
+
+CodingStyle
+file
+
+
+
+add
+
+volatile-considered-harmful.txt
+file
+
+
+
+add
+
+stable_api_nonsense.txt
+file
+
+
+
+add
+
+sparse.txt
+file
+
+
+
+add
+
+SubmittingPatches
+file
+
+
+
+add
+

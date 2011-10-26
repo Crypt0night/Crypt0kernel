@@ -1,0 +1,147 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/fs/hpfs
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+inode.c
+file
+
+
+
+add
+
+super.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+dentry.c
+file
+
+
+
+add
+
+hpfs.h
+file
+
+
+
+add
+
+buffer.c
+file
+
+
+
+add
+
+map.c
+file
+
+
+
+add
+
+dir.c
+file
+
+
+
+add
+
+file.c
+file
+
+
+
+add
+
+name.c
+file
+
+
+
+add
+
+ea.c
+file
+
+
+
+add
+
+anode.c
+file
+
+
+
+add
+
+hpfs_fn.h
+file
+
+
+
+add
+
+namei.c
+file
+
+
+
+add
+
+dnode.c
+file
+
+
+
+add
+
+alloc.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

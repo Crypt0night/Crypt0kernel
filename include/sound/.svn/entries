@@ -1,0 +1,714 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/include/sound
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+uda134x.h
+file
+
+
+
+add
+
+asequencer.h
+file
+
+
+
+add
+
+emu8000.h
+file
+
+
+
+add
+
+ac97_codec.h
+file
+
+
+
+add
+
+emux_legacy.h
+file
+
+
+
+add
+
+ad1816a.h
+file
+
+
+
+add
+
+jack.h
+file
+
+
+
+add
+
+trident.h
+file
+
+
+
+add
+
+tea6330t.h
+file
+
+
+
+add
+
+asound_fm.h
+file
+
+
+
+add
+
+wss.h
+file
+
+
+
+add
+
+soc-of-simple.h
+file
+
+
+
+add
+
+wm8955.h
+file
+
+
+
+add
+
+soundfont.h
+file
+
+
+
+add
+
+soc-dai.h
+file
+
+
+
+add
+
+wm8993.h
+file
+
+
+
+add
+
+control.h
+file
+
+
+
+add
+
+cs8403.h
+file
+
+
+
+add
+
+wm2000.h
+file
+
+
+
+add
+
+ymfpci.h
+file
+
+
+
+add
+
+asound.h
+file
+
+
+
+add
+
+info.h
+file
+
+
+
+add
+
+emu8000_reg.h
+file
+
+
+
+add
+
+seq_midi_event.h
+file
+
+
+
+add
+
+hdsp.h
+file
+
+
+
+add
+
+pt2258.h
+file
+
+
+
+add
+
+ak4113.h
+file
+
+
+
+add
+
+ad1843.h
+file
+
+
+
+add
+
+tlv.h
+file
+
+
+
+add
+
+initval.h
+file
+
+
+
+add
+
+hwdep.h
+file
+
+
+
+add
+
+wm8903.h
+file
+
+
+
+add
+
+mixer_oss.h
+file
+
+
+
+add
+
+ak4117.h
+file
+
+
+
+add
+
+wm8960.h
+file
+
+
+
+add
+
+hdspm.h
+file
+
+
+
+add
+
+seq_virmidi.h
+file
+
+
+
+add
+
+util_mem.h
+file
+
+
+
+add
+
+sh_fsi.h
+file
+
+
+
+add
+
+seq_midi_emul.h
+file
+
+
+
+add
+
+seq_oss.h
+file
+
+
+
+add
+
+ak4xxx-adda.h
+file
+
+
+
+add
+
+opl4.h
+file
+
+
+
+add
+
+l3.h
+file
+
+
+
+add
+
+snd_wavefront.h
+file
+
+
+
+add
+
+emu10k1.h
+file
+
+
+
+add
+
+version.h
+file
+
+
+
+add
+
+uda1380.h
+file
+
+
+
+add
+
+s3c24xx_uda134x.h
+file
+
+
+
+add
+
+memalloc.h
+file
+
+
+
+add
+
+rawmidi.h
+file
+
+
+
+add
+
+tea575x-tuner.h
+file
+
+
+
+add
+
+pxa2xx-lib.h
+file
+
+
+
+add
+
+es1688.h
+file
+
+
+
+add
+
+gus.h
+file
+
+
+
+add
+
+asoundef.h
+file
+
+
+
+add
+
+sb.h
+file
+
+
+
+add
+
+wm9081.h
+file
+
+
+
+add
+
+tlv320dac33-plat.h
+file
+
+
+
+add
+
+minors.h
+file
+
+
+
+add
+
+seq_device.h
+file
+
+
+
+add
+
+emu10k1_synth.h
+file
+
+
+
+add
+
+i2c.h
+file
+
+
+
+add
+
+cs46xx_dsp_scb_types.h
+file
+
+
+
+add
+
+hda_hwdep.h
+file
+
+
+
+add
+
+Kbuild
+file
+
+
+
+add
+
+core.h
+file
+
+
+
+add
+
+cs8427.h
+file
+
+
+
+add
+
+atmel-abdac.h
+file
+
+
+
+add
+
+aci.h
+file
+
+
+
+add
+
+cs46xx.h
+file
+
+
+
+add
+
+seq_oss_legacy.h
+file
+
+
+
+add
+
+sh_dac_audio.h
+file
+
+
+
+add
+
+soc-dapm.h
+file
+
+
+
+add
+
+pcm_oss.h
+file
+
+
+
+add
+
+emux_synth.h
+file
+
+
+
+add
+
+ak4114.h
+file
+
+
+
+add
+
+ak4531_codec.h
+file
+
+
+
+add
+
+wm9090.h
+file
+
+
+
+add
+
+vx_core.h
+file
+
+
+
+add
+
+atmel-ac97c.h
+file
+
+
+
+add
+
+wm8904.h
+file
+
+
+
+add
+
+cs46xx_dsp_spos.h
+file
+
+
+
+add
+
+cs46xx_dsp_task_types.h
+file
+
+
+
+add
+
+wavefront.h
+file
+
+
+
+add
+
+opl3.h
+file
+
+
+
+add
+
+cs4231-regs.h
+file
+
+
+
+add
+
+pcm-indirect.h
+file
+
+
+
+add
+
+tpa6130a2-plat.h
+file
+
+
+
+add
+
+pcm.h
+file
+
+
+
+add
+
+sb16_csp.h
+file
+
+
+
+add
+
+timer.h
+file
+
+
+
+add
+
+pcm_params.h
+file
+
+
+
+add
+
+tlv320aic3x.h
+file
+
+
+
+add
+
+soc.h
+file
+
+
+
+add
+
+sfnt_info.h
+file
+
+
+
+add
+
+mpu401.h
+file
+
+
+
+add
+
+seq_kernel.h
+file
+
+
+
+add
+

@@ -1,0 +1,203 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/x86
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+oprofile
+dir
+
+
+
+add
+
+kernel
+dir
+
+
+
+add
+
+crypto
+dir
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+include
+dir
+
+
+
+add
+
+configs
+dir
+
+
+
+add
+
+xen
+dir
+
+
+
+add
+
+power
+dir
+
+
+
+add
+
+kvm
+dir
+
+
+
+add
+
+ia32
+dir
+
+
+
+add
+
+tools
+dir
+
+
+
+add
+
+boot
+dir
+
+
+
+add
+
+lguest
+dir
+
+
+
+add
+
+.gitignore
+file
+
+
+
+add
+
+Kconfig.debug
+file
+
+
+
+add
+
+video
+dir
+
+
+
+add
+
+lib
+dir
+
+
+
+add
+
+Kconfig.cpu
+file
+
+
+
+add
+
+Makefile_32.cpu
+file
+
+
+
+add
+
+mm
+dir
+
+
+
+add
+
+Kbuild
+file
+
+
+
+add
+
+pci
+dir
+
+
+
+add
+
+vdso
+dir
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+math-emu
+dir
+
+
+
+add
+

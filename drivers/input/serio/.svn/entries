@@ -1,0 +1,245 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/input/serio
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+serport.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+ambakmi.c
+file
+
+
+
+add
+
+gscps2.c
+file
+
+
+
+add
+
+i8042-snirm.h
+file
+
+
+
+add
+
+parkbd.c
+file
+
+
+
+add
+
+i8042.c
+file
+
+
+
+add
+
+i8042-x86ia64io.h
+file
+
+
+
+add
+
+i8042.h
+file
+
+
+
+add
+
+i8042-jazzio.h
+file
+
+
+
+add
+
+i8042-io.h
+file
+
+
+
+add
+
+i8042-ppcio.h
+file
+
+
+
+add
+
+maceps2.c
+file
+
+
+
+add
+
+serio_raw.c
+file
+
+
+
+add
+
+at32psif.c
+file
+
+
+
+add
+
+hp_sdc_mlc.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+altera_ps2.c
+file
+
+
+
+add
+
+xilinx_ps2.c
+file
+
+
+
+add
+
+hp_sdc.c
+file
+
+
+
+add
+
+pcips2.c
+file
+
+
+
+add
+
+rpckbd.c
+file
+
+
+
+add
+
+hil_mlc.c
+file
+
+
+
+add
+
+i8042-sparcio.h
+file
+
+
+
+add
+
+ct82c710.c
+file
+
+
+
+add
+
+i8042-ip22io.h
+file
+
+
+
+add
+
+serio.c
+file
+
+
+
+add
+
+q40kbd.c
+file
+
+
+
+add
+
+ams_delta_serio.c
+file
+
+
+
+add
+
+libps2.c
+file
+
+
+
+add
+
+sa1111ps2.c
+file
+
+
+
+add
+

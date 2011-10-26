@@ -1,0 +1,266 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/arm/mach-s3c64xx
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+mach-smartq5.c
+file
+
+
+
+add
+
+s3c6400.c
+file
+
+
+
+add
+
+mach-smartq7.c
+file
+
+
+
+add
+
+dev-spi.c
+file
+
+
+
+add
+
+setup-fb-24bpp.c
+file
+
+
+
+add
+
+mach-smartq.c
+file
+
+
+
+add
+
+dev-audio.c
+file
+
+
+
+add
+
+mach-smdk6400.c
+file
+
+
+
+add
+
+mach-smartq.h
+file
+
+
+
+add
+
+mach-ncp.c
+file
+
+
+
+add
+
+dev-uart.c
+file
+
+
+
+add
+
+cpu.c
+file
+
+
+
+add
+
+irq-eint.c
+file
+
+
+
+add
+
+irq.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+Makefile.boot
+file
+
+
+
+add
+
+mach-hmt.c
+file
+
+
+
+add
+
+dma.c
+file
+
+
+
+add
+
+include
+dir
+
+
+
+add
+
+s3c6410.c
+file
+
+
+
+add
+
+cpufreq.c
+file
+
+
+
+add
+
+irq-pm.c
+file
+
+
+
+add
+
+mach-anw6410.c
+file
+
+
+
+add
+
+pm.c
+file
+
+
+
+add
+
+dev-onenand1.c
+file
+
+
+
+add
+
+mach-smdk6410.c
+file
+
+
+
+add
+
+setup-sdhci-gpio.c
+file
+
+
+
+add
+
+gpiolib.c
+file
+
+
+
+add
+
+setup-sdhci.c
+file
+
+
+
+add
+
+sleep.S
+file
+
+
+
+add
+
+setup-i2c0.c
+file
+
+
+
+add
+
+clock.c
+file
+
+
+
+add
+
+setup-i2c1.c
+file
+
+
+
+add
+

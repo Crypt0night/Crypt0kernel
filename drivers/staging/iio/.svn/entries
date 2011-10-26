@@ -1,0 +1,189 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/staging/iio
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+gyro
+dir
+
+
+
+add
+
+ring_generic.h
+file
+
+
+
+add
+
+ring_hw.h
+file
+
+
+
+add
+
+industrialio-ring.c
+file
+
+
+
+add
+
+adc
+dir
+
+
+
+add
+
+magnetometer
+dir
+
+
+
+add
+
+industrialio-trigger.c
+file
+
+
+
+add
+
+ring_sw.c
+file
+
+
+
+add
+
+trigger.h
+file
+
+
+
+add
+
+imu
+dir
+
+
+
+add
+
+sysfs.h
+file
+
+
+
+add
+
+ring_sw.h
+file
+
+
+
+add
+
+chrdev.h
+file
+
+
+
+add
+
+trigger
+dir
+
+
+
+add
+
+trigger_consumer.h
+file
+
+
+
+add
+
+TODO
+file
+
+
+
+add
+
+iio.h
+file
+
+
+
+add
+
+accel
+dir
+
+
+
+add
+
+light
+dir
+
+
+
+add
+
+Documentation
+dir
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+industrialio-core.c
+file
+
+
+
+add
+

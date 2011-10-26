@@ -1,0 +1,56 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/firmware/advansys
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+3550.bin.ihex
+file
+
+
+
+add
+
+38C1600.bin.ihex
+file
+
+
+
+add
+
+38C0800.bin.ihex
+file
+
+
+
+add
+
+mcode.bin.ihex
+file
+
+
+
+add
+

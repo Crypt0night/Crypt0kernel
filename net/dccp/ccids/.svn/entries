@@ -1,0 +1,70 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/net/dccp/ccids
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+ccid2.c
+file
+
+
+
+add
+
+lib
+dir
+
+
+
+add
+
+ccid3.c
+file
+
+
+
+add
+
+ccid2.h
+file
+
+
+
+add
+
+ccid3.h
+file
+
+
+
+add
+

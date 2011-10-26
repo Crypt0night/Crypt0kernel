@@ -1,0 +1,77 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/x86/vdso/vdso32
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+vdso32.lds.S
+file
+
+
+
+add
+
+int80.S
+file
+
+
+
+add
+
+sigreturn.S
+file
+
+
+
+add
+
+.gitignore
+file
+
+
+
+add
+
+note.S
+file
+
+
+
+add
+
+syscall.S
+file
+
+
+
+add
+
+sysenter.S
+file
+
+
+
+add
+

@@ -1,0 +1,399 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/um/drivers
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+mconsole_kern.c
+file
+
+
+
+add
+
+slirp.h
+file
+
+
+
+add
+
+xterm.c
+file
+
+
+
+add
+
+ssl.c
+file
+
+
+
+add
+
+pcap_kern.c
+file
+
+
+
+add
+
+xterm.h
+file
+
+
+
+add
+
+stdio_console.c
+file
+
+
+
+add
+
+mcast_user.c
+file
+
+
+
+add
+
+net_kern.c
+file
+
+
+
+add
+
+ssl.h
+file
+
+
+
+add
+
+chan_user.c
+file
+
+
+
+add
+
+daemon.h
+file
+
+
+
+add
+
+ubd_user.c
+file
+
+
+
+add
+
+stdio_console.h
+file
+
+
+
+add
+
+null.c
+file
+
+
+
+add
+
+slip.h
+file
+
+
+
+add
+
+vde_user.c
+file
+
+
+
+add
+
+slip_common.c
+file
+
+
+
+add
+
+port_user.c
+file
+
+
+
+add
+
+vde.h
+file
+
+
+
+add
+
+slip_common.h
+file
+
+
+
+add
+
+mcast_kern.c
+file
+
+
+
+add
+
+slirp_user.c
+file
+
+
+
+add
+
+chan_kern.c
+file
+
+
+
+add
+
+port.h
+file
+
+
+
+add
+
+ubd_kern.c
+file
+
+
+
+add
+
+fd.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+vde_kern.c
+file
+
+
+
+add
+
+daemon_user.c
+file
+
+
+
+add
+
+port_kern.c
+file
+
+
+
+add
+
+slip_user.c
+file
+
+
+
+add
+
+harddog_user.c
+file
+
+
+
+add
+
+slirp_kern.c
+file
+
+
+
+add
+
+pty.c
+file
+
+
+
+add
+
+mcast.h
+file
+
+
+
+add
+
+mconsole_user.c
+file
+
+
+
+add
+
+hostaudio_kern.c
+file
+
+
+
+add
+
+xterm_kern.c
+file
+
+
+
+add
+
+tty.c
+file
+
+
+
+add
+
+random.c
+file
+
+
+
+add
+
+mmapper_kern.c
+file
+
+
+
+add
+
+pcap_user.c
+file
+
+
+
+add
+
+daemon_kern.c
+file
+
+
+
+add
+
+net_user.c
+file
+
+
+
+add
+
+stderr_console.c
+file
+
+
+
+add
+
+slip_kern.c
+file
+
+
+
+add
+
+cow_user.c
+file
+
+
+
+add
+
+pcap_user.h
+file
+
+
+
+add
+
+line.c
+file
+
+
+
+add
+
+harddog_kern.c
+file
+
+
+
+add
+
+cow_sys.h
+file
+
+
+
+add
+
+cow.h
+file
+
+
+
+add
+

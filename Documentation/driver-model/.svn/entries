@@ -1,0 +1,98 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/Documentation/driver-model
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+porting.txt
+file
+
+
+
+add
+
+platform.txt
+file
+
+
+
+add
+
+class.txt
+file
+
+
+
+add
+
+overview.txt
+file
+
+
+
+add
+
+devres.txt
+file
+
+
+
+add
+
+bus.txt
+file
+
+
+
+add
+
+binding.txt
+file
+
+
+
+add
+
+driver.txt
+file
+
+
+
+add
+
+device.txt
+file
+
+
+
+add
+
+interface.txt
+file
+
+
+
+add
+

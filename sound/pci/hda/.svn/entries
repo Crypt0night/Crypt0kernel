@@ -1,0 +1,224 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/sound/pci/hda
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+patch_conexant.c
+file
+
+
+
+add
+
+hda_codec.h
+file
+
+
+
+add
+
+patch_via.c
+file
+
+
+
+add
+
+patch_atihdmi.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+patch_hdmi.c
+file
+
+
+
+add
+
+patch_cmedia.c
+file
+
+
+
+add
+
+modules.order
+file
+
+
+
+add
+
+patch_nvhdmi.c
+file
+
+
+
+add
+
+patch_ca0110.c
+file
+
+
+
+add
+
+patch_si3054.c
+file
+
+
+
+add
+
+patch_realtek.c
+file
+
+
+
+add
+
+hda_local.h
+file
+
+
+
+add
+
+hda_proc.c
+file
+
+
+
+add
+
+.built-in.o.cmd
+file
+
+
+
+add
+
+hda_eld.c
+file
+
+
+
+add
+
+patch_analog.c
+file
+
+
+
+add
+
+hda_hwdep.c
+file
+
+
+
+add
+
+patch_sigmatel.c
+file
+
+
+
+add
+
+patch_cirrus.c
+file
+
+
+
+add
+
+hda_intel.c
+file
+
+
+
+add
+
+hda_beep.c
+file
+
+
+
+add
+
+hda_generic.c
+file
+
+
+
+add
+
+hda_codec.c
+file
+
+
+
+add
+
+hda_beep.h
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+patch_intelhdmi.c
+file
+
+
+
+add
+
+modules.builtin
+file
+
+
+
+add
+

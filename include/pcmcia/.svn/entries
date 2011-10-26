@@ -1,0 +1,84 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/include/pcmcia
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+cs_types.h
+file
+
+
+
+add
+
+ciscode.h
+file
+
+
+
+add
+
+device_id.h
+file
+
+
+
+add
+
+cisreg.h
+file
+
+
+
+add
+
+cistpl.h
+file
+
+
+
+add
+
+ss.h
+file
+
+
+
+add
+
+cs.h
+file
+
+
+
+add
+
+ds.h
+file
+
+
+
+add
+

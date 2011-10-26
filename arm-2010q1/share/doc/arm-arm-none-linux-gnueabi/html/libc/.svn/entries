@@ -1,0 +1,4921 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arm-2010q1/share/doc/arm-arm-none-linux-gnueabi/html/libc
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Handler-Returns.html
+file
+
+
+
+add
+
+Opening-a-Directory.html
+file
+
+
+
+add
+
+Random-Access-Directory.html
+file
+
+
+
+add
+
+Freeing-after-Malloc.html
+file
+
+
+
+add
+
+Local-Namespace.html
+file
+
+
+
+add
+
+Other-Output-Conversions.html
+file
+
+
+
+add
+
+Job-Control-Signals.html
+file
+
+
+
+add
+
+Expansion-Stages.html
+file
+
+
+
+add
+
+Argp.html
+file
+
+
+
+add
+
+Orphaned-Process-Groups.html
+file
+
+
+
+add
+
+Setting-Groups.html
+file
+
+
+
+add
+
+Shift-State.html
+file
+
+
+
+add
+
+Signal-and-Sigaction.html
+file
+
+
+
+add
+
+Absolute-Priority.html
+file
+
+
+
+add
+
+Standard-Signals.html
+file
+
+
+
+add
+
+Example-of-Parsing.html
+file
+
+
+
+add
+
+Symbolic-Links.html
+file
+
+
+
+add
+
+Duplicating-Descriptors.html
+file
+
+
+
+add
+
+Traditional-Scheduling-Functions.html
+file
+
+
+
+add
+
+Launching-Jobs.html
+file
+
+
+
+add
+
+Socket-Option-Functions.html
+file
+
+
+
+add
+
+Netgroup-Database.html
+file
+
+
+
+add
+
+Converting-Strings.html
+file
+
+
+
+add
+
+Scanning-Directory-Content.html
+file
+
+
+
+add
+
+Stream_002fDescriptor-Precautions.html
+file
+
+
+
+add
+
+Unreading.html
+file
+
+
+
+add
+
+File-Names.html
+file
+
+
+
+add
+
+Limits-on-Resources.html
+file
+
+
+
+add
+
+NSS-Module-Internals.html
+file
+
+
+
+add
+
+Sigsuspend.html
+file
+
+
+
+add
+
+Floating-Point-Classes.html
+file
+
+
+
+add
+
+NSS-Configuration-File.html
+file
+
+
+
+add
+
+Important-Data-Types.html
+file
+
+
+
+add
+
+Socket_002dLevel-Options.html
+file
+
+
+
+add
+
+Flags-for-Sigaction.html
+file
+
+
+
+add
+
+Synchronizing-I_002fO.html
+file
+
+
+
+add
+
+Group-Data-Structure.html
+file
+
+
+
+add
+
+Flags-for-Globbing.html
+file
+
+
+
+add
+
+Obstack-Streams.html
+file
+
+
+
+add
+
+Ports.html
+file
+
+
+
+add
+
+Kinds-of-Signals.html
+file
+
+
+
+add
+
+setlogmask.html
+file
+
+
+
+add
+
+Macro-Definitions.html
+file
+
+
+
+add
+
+Accepting-Connections.html
+file
+
+
+
+add
+
+Helper-programs-for-gettext.html
+file
+
+
+
+add
+
+Streams.html
+file
+
+
+
+add
+
+Argp-Children.html
+file
+
+
+
+add
+
+Connections.html
+file
+
+
+
+add
+
+Making-Special-Files.html
+file
+
+
+
+add
+
+Error-Recovery.html
+file
+
+
+
+add
+
+Setting-Permissions.html
+file
+
+
+
+add
+
+Flags-for-POSIX-Regexps.html
+file
+
+
+
+add
+
+Normalization-Functions.html
+file
+
+
+
+add
+
+Interrupted-Primitives.html
+file
+
+
+
+add
+
+Identifying-the-Terminal.html
+file
+
+
+
+add
+
+Statistics-of-Malloc.html
+file
+
+
+
+add
+
+Mathematical-Constants.html
+file
+
+
+
+add
+
+Allocating-Cleared-Space.html
+file
+
+
+
+add
+
+Floating-Point-Errors.html
+file
+
+
+
+add
+
+Scanning-All-Users.html
+file
+
+
+
+add
+
+NSS-Basics.html
+file
+
+
+
+add
+
+Program-Basics.html
+file
+
+
+
+add
+
+Variadic-Example.html
+file
+
+
+
+add
+
+Using-gettextized-software.html
+file
+
+
+
+add
+
+Trig-Functions.html
+file
+
+
+
+add
+
+Hooks-for-Malloc.html
+file
+
+
+
+add
+
+Reading-Persona.html
+file
+
+
+
+add
+
+Resizing-the-Data-Segment.html
+file
+
+
+
+add
+
+Dynamic-Output.html
+file
+
+
+
+add
+
+String-Streams.html
+file
+
+
+
+add
+
+Argp-Example-3.html
+file
+
+
+
+add
+
+Line-Input.html
+file
+
+
+
+add
+
+Remembering-a-Signal.html
+file
+
+
+
+add
+
+User-and-Group-IDs.html
+file
+
+
+
+add
+
+Sign-of-Money-Amount.html
+file
+
+
+
+add
+
+Abstract-Host-Addresses.html
+file
+
+
+
+add
+
+Testing-File-Access.html
+file
+
+
+
+add
+
+Configuring-and-compiling.html
+file
+
+
+
+add
+
+Mode-Functions.html
+file
+
+
+
+add
+
+Error-Messages.html
+file
+
+
+
+add
+
+crypt.html
+file
+
+
+
+add
+
+Growing-Objects.html
+file
+
+
+
+add
+
+Argz-and-Envz-Vectors.html
+file
+
+
+
+add
+
+Flags-for-Wordexp.html
+file
+
+
+
+add
+
+Processes.html
+file
+
+
+
+add
+
+User-Accounting-Database.html
+file
+
+
+
+add
+
+Hash-Search-Function.html
+file
+
+
+
+add
+
+I_002fO-Concepts.html
+file
+
+
+
+add
+
+Processor-Time.html
+file
+
+
+
+add
+
+Argp-Helper-Functions.html
+file
+
+
+
+add
+
+System-Options.html
+file
+
+
+
+add
+
+Obstack-Chunks.html
+file
+
+
+
+add
+
+TZ-Variable.html
+file
+
+
+
+add
+
+Comparison-Functions.html
+file
+
+
+
+add
+
+Atomic-Data-Access.html
+file
+
+
+
+add
+
+Notes-on-NSS-Configuration-File.html
+file
+
+
+
+add
+
+Variable-Arguments-Input.html
+file
+
+
+
+add
+
+Lookup-User.html
+file
+
+
+
+add
+
+Overview-of-Syslog.html
+file
+
+
+
+add
+
+Host-Addresses.html
+file
+
+
+
+add
+
+Feature-Test-Macros.html
+file
+
+
+
+add
+
+Alarm-Signals.html
+file
+
+
+
+add
+
+Floating-Point-Parameters.html
+file
+
+
+
+add
+
+Sigaction-Function-Example.html
+file
+
+
+
+add
+
+Currency-Symbol.html
+file
+
+
+
+add
+
+CPU-Affinity.html
+file
+
+
+
+add
+
+Parsing-a-Template-String.html
+file
+
+
+
+add
+
+IEEE-Floating-Point.html
+file
+
+
+
+add
+
+Open_002dtime-Flags.html
+file
+
+
+
+add
+
+Controlling-Buffering.html
+file
+
+
+
+add
+
+High_002dResolution-Calendar.html
+file
+
+
+
+add
+
+Merged-Signals.html
+file
+
+
+
+add
+
+Operations-on-Complex.html
+file
+
+
+
+add
+
+Floating-Point-Numbers.html
+file
+
+
+
+add
+
+FP-Bit-Twiddling.html
+file
+
+
+
+add
+
+String_002fArray-Comparison.html
+file
+
+
+
+add
+
+BSD-Signal-Handling.html
+file
+
+
+
+add
+
+POSIX-Regexp-Compilation.html
+file
+
+
+
+add
+
+Testing-File-Type.html
+file
+
+
+
+add
+
+How-Unread.html
+file
+
+
+
+add
+
+How-Variadic.html
+file
+
+
+
+add
+
+Host-Names.html
+file
+
+
+
+add
+
+Character-Handling.html
+file
+
+
+
+add
+
+BSD-Wait-Functions.html
+file
+
+
+
+add
+
+Generating-Signals.html
+file
+
+
+
+add
+
+Setting-Modes.html
+file
+
+
+
+add
+
+Constants-for-Sysconf.html
+file
+
+
+
+add
+
+Non_002dLocal-Exits-and-Signals.html
+file
+
+
+
+add
+
+mtab.html
+file
+
+
+
+add
+
+Berkeley-Unix.html
+file
+
+
+
+add
+
+Nonreentrancy.html
+file
+
+
+
+add
+
+BSD-Random.html
+file
+
+
+
+add
+
+Custom-Streams.html
+file
+
+
+
+add
+
+Blocking-for-Handler.html
+file
+
+
+
+add
+
+Why-Lock-Pages.html
+file
+
+
+
+add
+
+Enable_002fDisable-Setuid.html
+file
+
+
+
+add
+
+Listening.html
+file
+
+
+
+add
+
+Table-of-Input-Conversions.html
+file
+
+
+
+add
+
+Traditional-Scheduling.html
+file
+
+
+
+add
+
+Arithmetic-Functions.html
+file
+
+
+
+add
+
+I_002fO-Queues.html
+file
+
+
+
+add
+
+Socket-Addresses.html
+file
+
+
+
+add
+
+Printf-Extension-Example.html
+file
+
+
+
+add
+
+Suboptions.html
+file
+
+
+
+add
+
+Process-Creation-Example.html
+file
+
+
+
+add
+
+The-message-catalog-files.html
+file
+
+
+
+add
+
+Basic-Scheduling-Functions.html
+file
+
+
+
+add
+
+Netgroup-Data.html
+file
+
+
+
+add
+
+Configuring-Inetd.html
+file
+
+
+
+add
+
+Users-and-Groups.html
+file
+
+
+
+add
+
+Argp-Special-Keys.html
+file
+
+
+
+add
+
+Standard-Locales.html
+file
+
+
+
+add
+
+Maintenance.html
+file
+
+
+
+add
+
+Pipes-and-FIFOs.html
+file
+
+
+
+add
+
+Communication-Styles.html
+file
+
+
+
+add
+
+Connecting.html
+file
+
+
+
+add
+
+Documentation-License.html
+file
+
+
+
+add
+
+Variable-Index.html
+file
+
+
+
+add
+
+Mode-Data-Types.html
+file
+
+
+
+add
+
+XPG.html
+file
+
+
+
+add
+
+Variable-Substitution.html
+file
+
+
+
+add
+
+Stream-Buffering.html
+file
+
+
+
+add
+
+Creating-a-Socket.html
+file
+
+
+
+add
+
+Advanced-Signal-Handling.html
+file
+
+
+
+add
+
+Stopped-and-Terminated-Jobs.html
+file
+
+
+
+add
+
+Basic-Allocation.html
+file
+
+
+
+add
+
+Argp-Parsers.html
+file
+
+
+
+add
+
+Reporting-Bugs.html
+file
+
+
+
+add
+
+Argp-Parsing-State.html
+file
+
+
+
+add
+
+Defining-the-Output-Handler.html
+file
+
+
+
+add
+
+Byte-Order.html
+file
+
+
+
+add
+
+Selecting-the-Conversion.html
+file
+
+
+
+add
+
+Access-Permission.html
+file
+
+
+
+add
+
+Parsing-of-Floats.html
+file
+
+
+
+add
+
+Special-Characters.html
+file
+
+
+
+add
+
+Library-Summary.html
+file
+
+
+
+add
+
+Block-Input_002fOutput.html
+file
+
+
+
+add
+
+Malloc-Tunable-Parameters.html
+file
+
+
+
+add
+
+Width-of-Type.html
+file
+
+
+
+add
+
+Getopt.html
+file
+
+
+
+add
+
+Socket-Concepts.html
+file
+
+
+
+add
+
+Getting-Started.html
+file
+
+
+
+add
+
+Disadvantages-of-Alloca.html
+file
+
+
+
+add
+
+Obstacks.html
+file
+
+
+
+add
+
+Receiving-Arguments.html
+file
+
+
+
+add
+
+Atomic-Types.html
+file
+
+
+
+add
+
+Wordexp-Example.html
+file
+
+
+
+add
+
+File-Position.html
+file
+
+
+
+add
+
+Argp-Example-4.html
+file
+
+
+
+add
+
+Standards-and-Portability.html
+file
+
+
+
+add
+
+Internet-Address-Formats.html
+file
+
+
+
+add
+
+Why-Variadic.html
+file
+
+
+
+add
+
+Non_002dreentrant-String-Conversion.html
+file
+
+
+
+add
+
+Argp-Option-Flags.html
+file
+
+
+
+add
+
+iconv-Examples.html
+file
+
+
+
+add
+
+Exit-Status.html
+file
+
+
+
+add
+
+Tips-for-Setuid.html
+file
+
+
+
+add
+
+String_002fArray-Conventions.html
+file
+
+
+
+add
+
+System-V-Number-Conversion.html
+file
+
+
+
+add
+
+Closing-a-Socket.html
+file
+
+
+
+add
+
+Filesystem-Handling.html
+file
+
+
+
+add
+
+Tips-for-the-Memory-Debugger.html
+file
+
+
+
+add
+
+Argp-Help-Flags.html
+file
+
+
+
+add
+
+Environment-Variables.html
+file
+
+
+
+add
+
+Concepts-of-Signals.html
+file
+
+
+
+add
+
+The-catgets-Functions.html
+file
+
+
+
+add
+
+Porting.html
+file
+
+
+
+add
+
+Asynchronous-I_002fO-Signals.html
+file
+
+
+
+add
+
+Signaling-Another-Process.html
+file
+
+
+
+add
+
+Misc-FP-Arithmetic.html
+file
+
+
+
+add
+
+Inet-Example.html
+file
+
+
+
+add
+
+Cleaning-Streams.html
+file
+
+
+
+add
+
+Reading-Attributes.html
+file
+
+
+
+add
+
+Address-Formats.html
+file
+
+
+
+add
+
+Server-Example.html
+file
+
+
+
+add
+
+Attribute-Meanings.html
+file
+
+
+
+add
+
+Line-Control.html
+file
+
+
+
+add
+
+Argz-Functions.html
+file
+
+
+
+add
+
+Keeping-the-state.html
+file
+
+
+
+add
+
+CPU-Time.html
+file
+
+
+
+add
+
+Formatted-Input-Basics.html
+file
+
+
+
+add
+
+Aligned-Memory-Blocks.html
+file
+
+
+
+add
+
+String-Length.html
+file
+
+
+
+add
+
+Broken_002ddown-Time.html
+file
+
+
+
+add
+
+Data-Structures.html
+file
+
+
+
+add
+
+Simple-Directory-Lister.html
+file
+
+
+
+add
+
+Simple-Calendar-Time.html
+file
+
+
+
+add
+
+Pseudo_002dRandom-Numbers.html
+file
+
+
+
+add
+
+Pause-Problems.html
+file
+
+
+
+add
+
+File-Name-Resolution.html
+file
+
+
+
+add
+
+Control-Operations.html
+file
+
+
+
+add
+
+Canonical-or-Not.html
+file
+
+
+
+add
+
+Status-of-an-Obstack.html
+file
+
+
+
+add
+
+Process-Completion-Status.html
+file
+
+
+
+add
+
+Concepts-of-Job-Control.html
+file
+
+
+
+add
+
+Sleeping.html
+file
+
+
+
+add
+
+Descriptor-Flags.html
+file
+
+
+
+add
+
+Range-of-Type.html
+file
+
+
+
+add
+
+Terminal-Modes.html
+file
+
+
+
+add
+
+Internet-Namespace.html
+file
+
+
+
+add
+
+Preparing-for-Obstacks.html
+file
+
+
+
+add
+
+Simple-Directory-Lister-Mark-II.html
+file
+
+
+
+add
+
+User-Data-Structure.html
+file
+
+
+
+add
+
+Structure-Measurement.html
+file
+
+
+
+add
+
+Non_002dLocal-Exits.html
+file
+
+
+
+add
+
+Termination-Internals.html
+file
+
+
+
+add
+
+The-Elegant-and-Fast-Way.html
+file
+
+
+
+add
+
+File-Position-Primitive.html
+file
+
+
+
+add
+
+Calling-Glob.html
+file
+
+
+
+add
+
+Locating-gettext-catalog.html
+file
+
+
+
+add
+
+Inetd-Servers.html
+file
+
+
+
+add
+
+Representation-of-Strings.html
+file
+
+
+
+add
+
+Hard-Links.html
+file
+
+
+
+add
+
+Pseudo_002dTerminal-Pairs.html
+file
+
+
+
+add
+
+Generic-Conversion-Interface.html
+file
+
+
+
+add
+
+XPG-Functions.html
+file
+
+
+
+add
+
+Memory-Subsystem.html
+file
+
+
+
+add
+
+Extended-Char-Intro.html
+file
+
+
+
+add
+
+NSS-Modules-Interface.html
+file
+
+
+
+add
+
+Start_002fStop-Characters.html
+file
+
+
+
+add
+
+ISO-Random.html
+file
+
+
+
+add
+
+Working-with-Directory-Trees.html
+file
+
+
+
+add
+
+Argp-User-Customization.html
+file
+
+
+
+add
+
+General-Limits.html
+file
+
+
+
+add
+
+Cancel-AIO-Operations.html
+file
+
+
+
+add
+
+Errors-in-Math-Functions.html
+file
+
+
+
+add
+
+Signals-in-Handler.html
+file
+
+
+
+add
+
+Options-for-Files.html
+file
+
+
+
+add
+
+Memory-Resources.html
+file
+
+
+
+add
+
+Introduction.html
+file
+
+
+
+add
+
+Non_002dLocal-Intro.html
+file
+
+
+
+add
+
+Process-Persona.html
+file
+
+
+
+add
+
+Operation-Error-Signals.html
+file
+
+
+
+add
+
+Blocking-Signals.html
+file
+
+
+
+add
+
+Translation-with-gettext.html
+file
+
+
+
+add
+
+Roadmap-to-the-Manual.html
+file
+
+
+
+add
+
+Concept-Index.html
+file
+
+
+
+add
+
+Setting-an-Alarm.html
+file
+
+
+
+add
+
+Other-Kinds-of-Streams.html
+file
+
+
+
+add
+
+Finding-Tokens-in-a-String.html
+file
+
+
+
+add
+
+Message-catalogs-a-la-X_002fOpen.html
+file
+
+
+
+add
+
+Matching-POSIX-Regexps.html
+file
+
+
+
+add
+
+Output-Modes.html
+file
+
+
+
+add
+
+Choosing-Locale.html
+file
+
+
+
+add
+
+Interface-Naming.html
+file
+
+
+
+add
+
+Advantages-of-Alloca.html
+file
+
+
+
+add
+
+Source-Layout.html
+file
+
+
+
+add
+
+Basic-Signal-Handling.html
+file
+
+
+
+add
+
+Regexp-Cleanup.html
+file
+
+
+
+add
+
+Hierarchy-Conventions.html
+file
+
+
+
+add
+
+Socket-Options.html
+file
+
+
+
+add
+
+Formatted-Input.html
+file
+
+
+
+add
+
+Cryptographic-Functions.html
+file
+
+
+
+add
+
+Control-Functions.html
+file
+
+
+
+add
+
+Independent-Channels.html
+file
+
+
+
+add
+
+Asynchronous-I_002fO.html
+file
+
+
+
+add
+
+Formatted-Output-Functions.html
+file
+
+
+
+add
+
+Freeing-Obstack-Objects.html
+file
+
+
+
+add
+
+Function-Index.html
+file
+
+
+
+add
+
+Cleanups-on-Exit.html
+file
+
+
+
+add
+
+Memory-Allocation.html
+file
+
+
+
+add
+
+Process-Creation-Concepts.html
+file
+
+
+
+add
+
+Operating-Modes.html
+file
+
+
+
+add
+
+Language-Features.html
+file
+
+
+
+add
+
+File-System-Interface.html
+file
+
+
+
+add
+
+Host-Identification.html
+file
+
+
+
+add
+
+String-Input-Conversions.html
+file
+
+
+
+add
+
+ISO-C.html
+file
+
+
+
+add
+
+Opening-Streams.html
+file
+
+
+
+add
+
+General-Time-String-Parsing.html
+file
+
+
+
+add
+
+Allocation-Debugging.html
+file
+
+
+
+add
+
+File-Positioning.html
+file
+
+
+
+add
+
+User-Database.html
+file
+
+
+
+add
+
+Error-Codes.html
+file
+
+
+
+add
+
+Limits-for-Files.html
+file
+
+
+
+add
+
+Open_002fClose-Sockets.html
+file
+
+
+
+add
+
+Setting-the-Locale.html
+file
+
+
+
+add
+
+Sending-Datagrams.html
+file
+
+
+
+add
+
+Actions-in-the-NSS-configuration.html
+file
+
+
+
+add
+
+Formatted-Messages.html
+file
+
+
+
+add
+
+Streams-and-I18N.html
+file
+
+
+
+add
+
+File-Name-Portability.html
+file
+
+
+
+add
+
+fstab.html
+file
+
+
+
+add
+
+Summary-of-Obstacks.html
+file
+
+
+
+add
+
+Restartable-multibyte-conversion.html
+file
+
+
+
+add
+
+File-Name-Errors.html
+file
+
+
+
+add
+
+String-Parameters.html
+file
+
+
+
+add
+
+Variadic-Prototypes.html
+file
+
+
+
+add
+
+Efficiency-and-Malloc.html
+file
+
+
+
+add
+
+Allocation-in-an-Obstack.html
+file
+
+
+
+add
+
+Running-a-Command.html
+file
+
+
+
+add
+
+Parsing-of-Numbers.html
+file
+
+
+
+add
+
+Integers.html
+file
+
+
+
+add
+
+Job-Control-is-Optional.html
+file
+
+
+
+add
+
+Other-Input-Conversions.html
+file
+
+
+
+add
+
+Line-Speed.html
+file
+
+
+
+add
+
+Low_002dLevel-Terminal-Interface.html
+file
+
+
+
+add
+
+Permission-Bits.html
+file
+
+
+
+add
+
+Exponents-and-Logarithms.html
+file
+
+
+
+add
+
+Using-the-Memory-Debugger.html
+file
+
+
+
+add
+
+Netgroup-Membership.html
+file
+
+
+
+add
+
+IOCTLs.html
+file
+
+
+
+add
+
+Getopt-Long-Option-Example.html
+file
+
+
+
+add
+
+Sending-Data.html
+file
+
+
+
+add
+
+Linked-Channels.html
+file
+
+
+
+add
+
+Out_002dof_002dBand-Data.html
+file
+
+
+
+add
+
+Lookup-Group.html
+file
+
+
+
+add
+
+Copying.html
+file
+
+
+
+add
+
+Sysconf-Definition.html
+file
+
+
+
+add
+
+Standard-Streams.html
+file
+
+
+
+add
+
+Formatting-Calendar-Time.html
+file
+
+
+
+add
+
+Argp-Help.html
+file
+
+
+
+add
+
+Syslog.html
+file
+
+
+
+add
+
+Pipe-to-a-Subprocess.html
+file
+
+
+
+add
+
+Locking-Pages.html
+file
+
+
+
+add
+
+Extending-NSS.html
+file
+
+
+
+add
+
+Variable-Arguments-Output.html
+file
+
+
+
+add
+
+Character-Input.html
+file
+
+
+
+add
+
+Copying-and-Concatenation.html
+file
+
+
+
+add
+
+Opening-and-Closing-Files.html
+file
+
+
+
+add
+
+Setuid-Program-Example.html
+file
+
+
+
+add
+
+Advanced-gettext-functions.html
+file
+
+
+
+add
+
+Time-Functions-Example.html
+file
+
+
+
+add
+
+Group-Database.html
+file
+
+
+
+add
+
+Linux.html
+file
+
+
+
+add
+
+Local-Namespace-Concepts.html
+file
+
+
+
+add
+
+Error-Reporting.html
+file
+
+
+
+add
+
+Floating-Type-Macros.html
+file
+
+
+
+add
+
+Input-Modes.html
+file
+
+
+
+add
+
+Array-Search-Function.html
+file
+
+
+
+add
+
+Hyperbolic-Functions.html
+file
+
+
+
+add
+
+closelog.html
+file
+
+
+
+add
+
+Memory.html
+file
+
+
+
+add
+
+Date-and-Time.html
+file
+
+
+
+add
+
+Name-Service-Switch.html
+file
+
+
+
+add
+
+Missing-Pieces.html
+file
+
+
+
+add
+
+Waiting-for-I_002fO.html
+file
+
+
+
+add
+
+Locale-Categories.html
+file
+
+
+
+add
+
+FP-Comparison-Functions.html
+file
+
+
+
+add
+
+Byte-Stream-Example.html
+file
+
+
+
+add
+
+Realtime-Scheduling.html
+file
+
+
+
+add
+
+Rounding.html
+file
+
+
+
+add
+
+Traditional-Scheduling-Intro.html
+file
+
+
+
+add
+
+Math-Error-Reporting.html
+file
+
+
+
+add
+
+Collation-Functions.html
+file
+
+
+
+add
+
+String-and-Array-Utilities.html
+file
+
+
+
+add
+
+System-Management.html
+file
+
+
+
+add
+
+Input-Conversion-Syntax.html
+file
+
+
+
+add
+
+Interpreting-the-traces.html
+file
+
+
+
+add
+
+Version-Supported.html
+file
+
+
+
+add
+
+Floating_002dPoint-Conversions.html
+file
+
+
+
+add
+
+Checking-for-Errors.html
+file
+
+
+
+add
+
+Program-Arguments.html
+file
+
+
+
+add
+
+Calling-Variadics.html
+file
+
+
+
+add
+
+Status-of-AIO-Operations.html
+file
+
+
+
+add
+
+The-Uniforum-approach.html
+file
+
+
+
+add
+
+Effects-of-Locale.html
+file
+
+
+
+add
+
+Networks-Database.html
+file
+
+
+
+add
+
+Changing-Block-Size.html
+file
+
+
+
+add
+
+Working-Directory.html
+file
+
+
+
+add
+
+Formatting-Numbers.html
+file
+
+
+
+add
+
+EOF-and-Errors.html
+file
+
+
+
+add
+
+Regexp-Subexpressions.html
+file
+
+
+
+add
+
+Dynamic-String-Input.html
+file
+
+
+
+add
+
+Services-Database.html
+file
+
+
+
+add
+
+Generic-Charset-Conversion.html
+file
+
+
+
+add
+
+Foreground-and-Background.html
+file
+
+
+
+add
+
+Arithmetic.html
+file
+
+
+
+add
+
+System-V-contexts.html
+file
+
+
+
+add
+
+Search_002fSort-Example.html
+file
+
+
+
+add
+
+Suboptions-Example.html
+file
+
+
+
+add
+
+Minimums.html
+file
+
+
+
+add
+
+Why-Block.html
+file
+
+
+
+add
+
+High-Accuracy-Clock.html
+file
+
+
+
+add
+
+Tools-for-Compilation.html
+file
+
+
+
+add
+
+Argp-Examples.html
+file
+
+
+
+add
+
+Charset-Function-Overview.html
+file
+
+
+
+add
+
+Status-bit-operations.html
+file
+
+
+
+add
+
+Variable-Size-Automatic.html
+file
+
+
+
+add
+
+Signaling-Yourself.html
+file
+
+
+
+add
+
+Regular-Expressions.html
+file
+
+
+
+add
+
+Receiving-Data.html
+file
+
+
+
+add
+
+Buffering-Concepts.html
+file
+
+
+
+add
+
+Porting-to-Unix.html
+file
+
+
+
+add
+
+Globbing.html
+file
+
+
+
+add
+
+Control-Modes.html
+file
+
+
+
+add
+
+System-Parameters.html
+file
+
+
+
+add
+
+Mount-Information.html
+file
+
+
+
+add
+
+Termination-Signals.html
+file
+
+
+
+add
+
+Example.html
+file
+
+
+
+add
+
+Obstack-Functions.html
+file
+
+
+
+add
+
+Why-Change-Persona.html
+file
+
+
+
+add
+
+Calling-Wordexp.html
+file
+
+
+
+add
+
+Running-make-install.html
+file
+
+
+
+add
+
+FIFO-Special-Files.html
+file
+
+
+
+add
+
+Integer-Conversions.html
+file
+
+
+
+add
+
+Inetd.html
+file
+
+
+
+add
+
+Pseudo_002dTerminals.html
+file
+
+
+
+add
+
+Other-iconv-Implementations.html
+file
+
+
+
+add
+
+Using-the-Library.html
+file
+
+
+
+add
+
+Hook-Functions.html
+file
+
+
+
+add
+
+Character-Set-Handling.html
+file
+
+
+
+add
+
+Termination-in-Handler.html
+file
+
+
+
+add
+
+Implementing-a-Shell.html
+file
+
+
+
+add
+
+Directories.html
+file
+
+
+
+add
+
+Null-Pointer-Constant.html
+file
+
+
+
+add
+
+Complex-Numbers.html
+file
+
+
+
+add
+
+Signal-Stack.html
+file
+
+
+
+add
+
+Reading_002fClosing-Directory.html
+file
+
+
+
+add
+
+Sysconf.html
+file
+
+
+
+add
+
+How-Change-Persona.html
+file
+
+
+
+add
+
+Protocols-Database.html
+file
+
+
+
+add
+
+Extra-Fast-Growing.html
+file
+
+
+
+add
+
+Streams-and-File-Descriptors.html
+file
+
+
+
+add
+
+Signal-Handling.html
+file
+
+
+
+add
+
+Standard-Environment.html
+file
+
+
+
+add
+
+Access-to-the-Terminal.html
+file
+
+
+
+add
+
+Syslog-Example.html
+file
+
+
+
+add
+
+Parsing-Date-and-Time.html
+file
+
+
+
+add
+
+Classification-of-Characters.html
+file
+
+
+
+add
+
+GNU-C-Variable_002dSize-Arrays.html
+file
+
+
+
+add
+
+Initializing-the-Shell.html
+file
+
+
+
+add
+
+Reserved-Names.html
+file
+
+
+
+add
+
+Argp-Flags.html
+file
+
+
+
+add
+
+Memory-Concepts.html
+file
+
+
+
+add
+
+FP-Exceptions.html
+file
+
+
+
+add
+
+Conversion-Specifier-Options.html
+file
+
+
+
+add
+
+BSD-Terminal-Modes.html
+file
+
+
+
+add
+
+Resource-Usage.html
+file
+
+
+
+add
+
+Obstacks-Data-Alignment.html
+file
+
+
+
+add
+
+Tracing-malloc.html
+file
+
+
+
+add
+
+Contributors.html
+file
+
+
+
+add
+
+Case-Conversion.html
+file
+
+
+
+add
+
+Other-Special.html
+file
+
+
+
+add
+
+Environment-Access.html
+file
+
+
+
+add
+
+Creating-Directories.html
+file
+
+
+
+add
+
+Lookup-Netgroup.html
+file
+
+
+
+add
+
+Directory-Entries.html
+file
+
+
+
+add
+
+Receiving-Datagrams.html
+file
+
+
+
+add
+
+Non_002dreentrant-Character-Conversion.html
+file
+
+
+
+add
+
+Free-Manuals.html
+file
+
+
+
+add
+
+Registering-New-Conversions.html
+file
+
+
+
+add
+
+Signal-Messages.html
+file
+
+
+
+add
+
+Process-Signal-Mask.html
+file
+
+
+
+add
+
+Testing-for-Delivery.html
+file
+
+
+
+add
+
+Formatted-Output.html
+file
+
+
+
+add
+
+BSD-Handler.html
+file
+
+
+
+add
+
+File-Index.html
+file
+
+
+
+add
+
+I_002fO-Primitives.html
+file
+
+
+
+add
+
+NSS-Module-Names.html
+file
+
+
+
+add
+
+File-Status-Flags.html
+file
+
+
+
+add
+
+Data-Type-Measurements.html
+file
+
+
+
+add
+
+Setting-Address.html
+file
+
+
+
+add
+
+Utility-Limits.html
+file
+
+
+
+add
+
+Infinity-and-NaN.html
+file
+
+
+
+add
+
+Debugging-Support.html
+file
+
+
+
+add
+
+Non_002datomic-Example.html
+file
+
+
+
+add
+
+getpass.html
+file
+
+
+
+add
+
+Argp-Help-Filter-Keys.html
+file
+
+
+
+add
+
+Signal-Actions.html
+file
+
+
+
+add
+
+Is-It-a-Terminal.html
+file
+
+
+
+add
+
+The-Lame-Way-to-Locale-Data.html
+file
+
+
+
+add
+
+Configuration-of-AIO.html
+file
+
+
+
+add
+
+Functions-for-Job-Control.html
+file
+
+
+
+add
+
+Argp-Option-Vectors.html
+file
+
+
+
+add
+
+Parsing-of-Integers.html
+file
+
+
+
+add
+
+Header-Files.html
+file
+
+
+
+add
+
+Argp-Parser-Functions.html
+file
+
+
+
+add
+
+Signal-Characters.html
+file
+
+
+
+add
+
+Common-Usage.html
+file
+
+
+
+add
+
+Synchronizing-AIO-Operations.html
+file
+
+
+
+add
+
+Example-Receiver.html
+file
+
+
+
+add
+
+Program-Termination.html
+file
+
+
+
+add
+
+File-Times.html
+file
+
+
+
+add
+
+Editing-Characters.html
+file
+
+
+
+add
+
+Renaming-Files.html
+file
+
+
+
+add
+
+Classification-of-Wide-Characters.html
+file
+
+
+
+add
+
+Time-Basics.html
+file
+
+
+
+add
+
+Calendar-Time.html
+file
+
+
+
+add
+
+Host-Address-Functions.html
+file
+
+
+
+add
+
+NSS-Module-Function-Internals.html
+file
+
+
+
+add
+
+index.html
+file
+
+
+
+add
+
+Elapsed-Time.html
+file
+
+
+
+add
+
+Memory-Allocation-and-C.html
+file
+
+
+
+add
+
+Asynchronous-Reads_002fWrites.html
+file
+
+
+
+add
+
+Wide-Character-Case-Conversion.html
+file
+
+
+
+add
+
+Integer-Division.html
+file
+
+
+
+add
+
+Low_002dLevel-Time-String-Parsing.html
+file
+
+
+
+add
+
+Normal-Termination.html
+file
+
+
+
+add
+
+Message-Translation.html
+file
+
+
+
+add
+
+Defining-Handlers.html
+file
+
+
+
+add
+
+Locales.html
+file
+
+
+
+add
+
+Locale-Information.html
+file
+
+
+
+add
+
+Kill-Example.html
+file
+
+
+
+add
+
+Tree-Search-Function.html
+file
+
+
+
+add
+
+Socket-Data-Options.html
+file
+
+
+
+add
+
+Example-of-Getopt.html
+file
+
+
+
+add
+
+Noncanonical-Input.html
+file
+
+
+
+add
+
+Noncanon-Example.html
+file
+
+
+
+add
+
+Argument-Macros.html
+file
+
+
+
+add
+
+Argument-Syntax.html
+file
+
+
+
+add
+
+File-Minimums.html
+file
+
+
+
+add
+
+System-Calls.html
+file
+
+
+
+add
+
+Argp-Example-1.html
+file
+
+
+
+add
+
+Scanning-All-Groups.html
+file
+
+
+
+add
+
+Alloca-Example.html
+file
+
+
+
+add
+
+Process-Completion.html
+file
+
+
+
+add
+
+Allocation.html
+file
+
+
+
+add
+
+Searching-and-Sorting.html
+file
+
+
+
+add
+
+Encode-Binary-Data.html
+file
+
+
+
+add
+
+Getting-File-Status-Flags.html
+file
+
+
+
+add
+
+Deleting-Files.html
+file
+
+
+
+add
+
+Program-Error-Signals.html
+file
+
+
+
+add
+
+Local-Modes.html
+file
+
+
+
+add
+
+Delivery-of-Signal.html
+file
+
+
+
+add
+
+More-Flags-for-Globbing.html
+file
+
+
+
+add
+
+Miscellaneous-Signals.html
+file
+
+
+
+add
+
+Datagrams.html
+file
+
+
+
+add
+
+Legal-Problems.html
+file
+
+
+
+add
+
+SVID.html
+file
+
+
+
+add
+
+Who-is-Connected.html
+file
+
+
+
+add
+
+Output-Conversion-Syntax.html
+file
+
+
+
+add
+
+GUI-program-problems.html
+file
+
+
+
+add
+
+Parsing-Program-Arguments.html
+file
+
+
+
+add
+
+Remainder-Functions.html
+file
+
+
+
+add
+
+Time-Zone-Functions.html
+file
+
+
+
+add
+
+Priority.html
+file
+
+
+
+add
+
+Printing-Formatted-Messages.html
+file
+
+
+
+add
+
+Scatter_002dGather.html
+file
+
+
+
+add
+
+Longjmp-in-Handler.html
+file
+
+
+
+add
+
+Formatted-Output-Basics.html
+file
+
+
+
+add
+
+Special-Functions.html
+file
+
+
+
+add
+
+Formatted-Input-Functions.html
+file
+
+
+
+add
+
+Pipe-Atomicity.html
+file
+
+
+
+add
+
+Unconstrained-Allocation.html
+file
+
+
+
+add
+
+How-Many-Arguments.html
+file
+
+
+
+add
+
+Blocking-in-BSD.html
+file
+
+
+
+add
+
+Trivial-Encryption.html
+file
+
+
+
+add
+
+File-Attributes.html
+file
+
+
+
+add
+
+Platform-Type.html
+file
+
+
+
+add
+
+Datagram-Example.html
+file
+
+
+
+add
+
+Services-in-the-NSS-configuration.html
+file
+
+
+
+add
+
+Customizing-Printf.html
+file
+
+
+
+add
+
+Unreading-Idea.html
+file
+
+
+
+add
+
+Checking-for-Pending-Signals.html
+file
+
+
+
+add
+
+Old-Varargs.html
+file
+
+
+
+add
+
+SVID-Random.html
+file
+
+
+
+add
+
+Continuing-Stopped-Jobs.html
+file
+
+
+
+add
+
+Non_002dreentrant-Conversion.html
+file
+
+
+
+add
+
+Type-Index.html
+file
+
+
+
+add
+
+Array-Sort-Function.html
+file
+
+
+
+add
+
+Getopt-Long-Options.html
+file
+
+
+
+add
+
+Variadic-Functions.html
+file
+
+
+
+add
+
+System-Configuration.html
+file
+
+
+
+add
+
+Interrupt-Input.html
+file
+
+
+
+add
+
+Locked-Memory-Details.html
+file
+
+
+
+add
+
+Argp-Global-Variables.html
+file
+
+
+
+add
+
+Installation.html
+file
+
+
+
+add
+
+Pathconf.html
+file
+
+
+
+add
+
+POSIX.html
+file
+
+
+
+add
+
+Creating-Obstacks.html
+file
+
+
+
+add
+
+Summary-of-Malloc.html
+file
+
+
+
+add
+
+Creating-a-Pipe.html
+file
+
+
+
+add
+
+Local-Namespace-Details.html
+file
+
+
+
+add
+
+syslog_003b-vsyslog.html
+file
+
+
+
+add
+
+Portable-Positioning.html
+file
+
+
+
+add
+
+Submitting-Syslog-Messages.html
+file
+
+
+
+add
+
+Closing-Streams.html
+file
+
+
+
+add
+
+Consistency-Checking.html
+file
+
+
+
+add
+
+Subexpression-Complications.html
+file
+
+
+
+add
+
+Mount_002dUnmount_002dRemount.html
+file
+
+
+
+add
+
+Temporary-Files.html
+file
+
+
+
+add
+
+The-gencat-program.html
+file
+
+
+
+add
+
+Inverse-Trig-Functions.html
+file
+
+
+
+add
+
+Converting-a-Character.html
+file
+
+
+
+add
+
+Processor-Resources.html
+file
+
+
+
+add
+
+Job-Control.html
+file
+
+
+
+add
+
+Rounding-Functions.html
+file
+
+
+
+add
+
+Logging-In-and-Out.html
+file
+
+
+
+add
+
+Utility-Minimums.html
+file
+
+
+
+add
+
+Processor-And-CPU-Time.html
+file
+
+
+
+add
+
+Using-Pause.html
+file
+
+
+
+add
+
+Initial-Signal-Actions.html
+file
+
+
+
+add
+
+DES-Encryption.html
+file
+
+
+
+add
+
+Predefined-Printf-Handlers.html
+file
+
+
+
+add
+
+Numeric-Input-Conversions.html
+file
+
+
+
+add
+
+Access-Modes.html
+file
+
+
+
+add
+
+File-Owner.html
+file
+
+
+
+add
+
+Misc-Namespaces.html
+file
+
+
+
+add
+
+Page-Lock-Functions.html
+file
+
+
+
+add
+
+Flushing-Buffers.html
+file
+
+
+
+add
+
+Transferring-Data.html
+file
+
+
+
+add
+
+Search-Functions.html
+file
+
+
+
+add
+
+Atomic-Usage.html
+file
+
+
+
+add
+
+glibc-iconv-Implementation.html
+file
+
+
+
+add
+
+Waiting-for-a-Signal.html
+file
+
+
+
+add
+
+Wildcard-Matching.html
+file
+
+
+
+add
+
+I_002fO-on-Streams.html
+file
+
+
+
+add
+
+Using-Getopt.html
+file
+
+
+
+add
+
+Heap-Consistency-Checking.html
+file
+
+
+
+add
+
+Creating-a-Process.html
+file
+
+
+
+add
+
+Host-Address-Data-Type.html
+file
+
+
+
+add
+
+Aborting-a-Program.html
+file
+
+
+
+add
+
+File-Locks.html
+file
+
+
+
+add
+
+Signal-Sets.html
+file
+
+
+
+add
+
+Multibyte-Conversion-Example.html
+file
+
+
+
+add
+
+Argp-Help-Filtering.html
+file
+
+
+
+add
+
+Resource-Usage-And-Limitation.html
+file
+
+
+
+add
+
+Who-Logged-In.html
+file
+
+
+
+add
+
+Backtraces.html
+file
+
+
+
+add
+
+Tilde-Expansion.html
+file
+
+
+
+add
+
+Other-Mount-Information.html
+file
+
+
+
+add
+
+Manipulating-the-Database.html
+file
+
+
+
+add
+
+Streams-and-Cookies.html
+file
+
+
+
+add
+
+Non_002dLocal-Details.html
+file
+
+
+
+add
+
+Using-Wide-Char-Classes.html
+file
+
+
+
+add
+
+Argp-Example-2.html
+file
+
+
+
+add
+
+Executing-a-File.html
+file
+
+
+
+add
+
+Envz-Functions.html
+file
+
+
+
+add
+
+Adding-Severity-Classes.html
+file
+
+
+
+add
+
+strfry.html
+file
+
+
+
+add
+
+Table-of-Output-Conversions.html
+file
+
+
+
+add
+
+Mathematics.html
+file
+
+
+
+add
+
+Yes_002dor_002dNo-Questions.html
+file
+
+
+
+add
+
+Controlling-Terminal.html
+file
+
+
+
+add
+
+openlog.html
+file
+
+
+
+add
+
+Socket-Pairs.html
+file
+
+
+
+add
+
+Permission-for-kill.html
+file
+
+
+
+add
+
+Process-Identification.html
+file
+
+
+
+add
+
+Signal-Generation.html
+file
+
+
+
+add
+
+Accessing-Directories.html
+file
+
+
+
+add
+
+Message-catalogs-with-gettext.html
+file
+
+
+
+add
+
+Sockets.html
+file
+
+
+
+add
+
+Writing-a-User-Entry.html
+file
+
+
+
+add
+
+Query-Memory-Parameters.html
+file
+
+
+
+add
+
+Word-Expansion.html
+file
+
+
+
+add
+
+General-Numeric.html
+file
+
+
+
+add
+
+Descriptors-and-Streams.html
+file
+
+
+
+add
+
+Process-Group-Functions.html
+file
+
+
+
+add
+
+Memory_002dmapped-I_002fO.html
+file
+
+
+
+add
+
+Terminal-Access-Functions.html
+file
+
+
+
+add
+
+Malloc-Examples.html
+file
+
+
+
+add
+
+Setting-User-ID.html
+file
+
+
+
+add
+
+Simple-Output.html
+file
+
+
+
+add
+
+File-Size.html
+file
+
+
+
+add
+
+Absolute-Value.html
+file
+
+
+
+add
+
+Reading-Address.html
+file
+
+
+
+add
+
+Database-Example.html
+file
+
+
+
+add
+
+FP-Function-Optimizations.html
+file
+
+
+
+add
+
+Binary-Streams.html
+file
+
+
+
+add
+
+Charset-conversion-in-gettext.html
+file
+
+
+
+add
+
+I_002fO-Overview.html
+file
+
+
+
+add
+
+Examples-of-Sysconf.html
+file
+
+
+
+add
+
+Adding-another-Service-to-NSS.html
+file
+
+
+
+add
+
+Pattern-Matching.html
+file
+
+
+
+add
+
+Floating-Point-Concepts.html
+file
+
+
+
+add
+
+Streams-and-Threads.html
+file
+
+
+
+add
+
+Local-Socket-Example.html
+file
+
+
+
+add
+
+Low_002dLevel-I_002fO.html
+file
+
+
+
+add
+

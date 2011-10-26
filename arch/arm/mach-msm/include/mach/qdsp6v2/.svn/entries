@@ -1,0 +1,91 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/arm/mach-msm/include/mach/qdsp6v2
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+snddev_icodec.h
+file
+
+
+
+add
+
+q6voice.h
+file
+
+
+
+add
+
+audio_dev_ctl.h
+file
+
+
+
+add
+
+apr.h
+file
+
+
+
+add
+
+q6afe.h
+file
+
+
+
+add
+
+apr_audio.h
+file
+
+
+
+add
+
+snddev_hdmi.h
+file
+
+
+
+add
+
+snddev_ecodec.h
+file
+
+
+
+add
+
+q6asm.h
+file
+
+
+
+add
+

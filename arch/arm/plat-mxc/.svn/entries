@@ -1,0 +1,175 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/arm/plat-mxc
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+time.c
+file
+
+
+
+add
+
+gpio.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+include
+dir
+
+
+
+add
+
+pwm.c
+file
+
+
+
+add
+
+ehci.c
+file
+
+
+
+add
+
+dma-mx1-mx2.c
+file
+
+
+
+add
+
+tzic.c
+file
+
+
+
+add
+
+ulpi.c
+file
+
+
+
+add
+
+devices.c
+file
+
+
+
+add
+
+system.c
+file
+
+
+
+add
+
+iomux-v1.c
+file
+
+
+
+add
+
+cpu.c
+file
+
+
+
+add
+
+iomux-v3.c
+file
+
+
+
+add
+
+audmux-v1.c
+file
+
+
+
+add
+
+audmux-v2.c
+file
+
+
+
+add
+
+irq.c
+file
+
+
+
+add
+
+ssi-fiq.S
+file
+
+
+
+add
+
+clock.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+ssi-fiq-ksym.c
+file
+
+
+
+add
+

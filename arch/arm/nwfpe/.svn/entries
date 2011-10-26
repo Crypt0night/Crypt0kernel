@@ -1,0 +1,196 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/arm/nwfpe
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+fpopcode.c
+file
+
+
+
+add
+
+fpa11_cprt.c
+file
+
+
+
+add
+
+softfloat.c
+file
+
+
+
+add
+
+softfloat-macros
+file
+
+
+
+add
+
+fpopcode.h
+file
+
+
+
+add
+
+extended_cpdo.c
+file
+
+
+
+add
+
+softfloat.h
+file
+
+
+
+add
+
+ChangeLog
+file
+
+
+
+add
+
+softfloat-specialize
+file
+
+
+
+add
+
+fpa11.c
+file
+
+
+
+add
+
+fpa11.inl
+file
+
+
+
+add
+
+fpmodule.inl
+file
+
+
+
+add
+
+fpmodule.c
+file
+
+
+
+add
+
+fpa11_cpdo.c
+file
+
+
+
+add
+
+fpa11.h
+file
+
+
+
+add
+
+ARM-gcc.h
+file
+
+
+
+add
+
+double_cpdo.c
+file
+
+
+
+add
+
+fpsr.h
+file
+
+
+
+add
+
+fpmodule.h
+file
+
+
+
+add
+
+entry.S
+file
+
+
+
+add
+
+fpa11_cpdt.c
+file
+
+
+
+add
+
+single_cpdo.c
+file
+
+
+
+add
+
+milieu.h
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

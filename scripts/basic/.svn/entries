@@ -1,0 +1,133 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/scripts/basic
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+.fixdep.cmd
+file
+
+
+
+add
+
+fixdep
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+fixdep.c
+file
+
+
+
+add
+
+modules.order
+file
+
+
+
+add
+
+hash
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+.hash.cmd
+file
+
+
+
+add
+
+hash.c
+file
+
+
+
+add
+
+.gitignore
+file
+
+
+
+add
+
+.docproc.cmd
+file
+
+
+
+add
+
+docproc
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+docproc.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

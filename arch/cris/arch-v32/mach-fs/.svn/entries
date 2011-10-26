@@ -1,0 +1,105 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/cris/arch-v32/mach-fs
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+hw_settings.S
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+pinmux.c
+file
+
+
+
+add
+
+vcs_hook.h
+file
+
+
+
+add
+
+dma.c
+file
+
+
+
+add
+
+cpufreq.c
+file
+
+
+
+add
+
+dram_init.S
+file
+
+
+
+add
+
+io.c
+file
+
+
+
+add
+
+arbiter.c
+file
+
+
+
+add
+
+vcs_hook.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

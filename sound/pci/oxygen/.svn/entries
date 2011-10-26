@@ -1,0 +1,224 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/sound/pci/oxygen
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+oxygen_regs.h
+file
+
+
+
+add
+
+oxygen_lib.c
+file
+
+
+
+add
+
+oxygen_io.c
+file
+
+
+
+add
+
+modules.order
+file
+
+
+
+add
+
+cs4398.h
+file
+
+
+
+add
+
+xonar_cs43xx.c
+file
+
+
+
+add
+
+hifier.c
+file
+
+
+
+add
+
+oxygen_pcm.c
+file
+
+
+
+add
+
+oxygen.c
+file
+
+
+
+add
+
+pcm1796.h
+file
+
+
+
+add
+
+cs2000.h
+file
+
+
+
+add
+
+xonar_lib.c
+file
+
+
+
+add
+
+oxygen_mixer.c
+file
+
+
+
+add
+
+oxygen.h
+file
+
+
+
+add
+
+xonar_pcm179x.c
+file
+
+
+
+add
+
+.built-in.o.cmd
+file
+
+
+
+add
+
+wm8766.h
+file
+
+
+
+add
+
+wm8776.h
+file
+
+
+
+add
+
+wm8785.h
+file
+
+
+
+add
+
+ak4396.h
+file
+
+
+
+add
+
+xonar_wm87x6.c
+file
+
+
+
+add
+
+xonar_hdmi.c
+file
+
+
+
+add
+
+virtuoso.c
+file
+
+
+
+add
+
+cs4362a.h
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+cm9780.h
+file
+
+
+
+add
+
+xonar.h
+file
+
+
+
+add
+
+modules.builtin
+file
+
+
+
+add
+

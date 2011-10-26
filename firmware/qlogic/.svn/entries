@@ -1,0 +1,63 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/firmware/qlogic
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+isp1000.bin.ihex
+file
+
+
+
+add
+
+1040.bin.ihex
+file
+
+
+
+add
+
+sd7220.fw.ihex
+file
+
+
+
+add
+
+12160.bin.ihex
+file
+
+
+
+add
+
+1280.bin.ihex
+file
+
+
+
+add
+

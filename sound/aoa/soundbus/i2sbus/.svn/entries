@@ -1,0 +1,70 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/sound/aoa/soundbus/i2sbus
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+pcm.c
+file
+
+
+
+add
+
+control.c
+file
+
+
+
+add
+
+interface.h
+file
+
+
+
+add
+
+core.c
+file
+
+
+
+add
+
+i2sbus.h
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

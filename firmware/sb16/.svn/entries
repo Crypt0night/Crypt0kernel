@@ -1,0 +1,63 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/firmware/sb16
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+ima_adpcm_playback.csp.ihex
+file
+
+
+
+add
+
+alaw_main.csp.ihex
+file
+
+
+
+add
+
+mulaw_main.csp.ihex
+file
+
+
+
+add
+
+ima_adpcm_capture.csp.ihex
+file
+
+
+
+add
+
+ima_adpcm_init.csp.ihex
+file
+
+
+
+add
+

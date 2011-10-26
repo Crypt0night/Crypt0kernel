@@ -1,0 +1,182 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/net/dccp
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+input.c
+file
+
+
+
+add
+
+minisocks.c
+file
+
+
+
+add
+
+output.c
+file
+
+
+
+add
+
+ackvec.h
+file
+
+
+
+add
+
+ccid.c
+file
+
+
+
+add
+
+proto.c
+file
+
+
+
+add
+
+ccids
+dir
+
+
+
+add
+
+diag.c
+file
+
+
+
+add
+
+probe.c
+file
+
+
+
+add
+
+ccid.h
+file
+
+
+
+add
+
+dccp.h
+file
+
+
+
+add
+
+feat.c
+file
+
+
+
+add
+
+timer.c
+file
+
+
+
+add
+
+sysctl.c
+file
+
+
+
+add
+
+ipv4.c
+file
+
+
+
+add
+
+feat.h
+file
+
+
+
+add
+
+ipv6.c
+file
+
+
+
+add
+
+ipv6.h
+file
+
+
+
+add
+
+options.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+ackvec.c
+file
+
+
+
+add
+

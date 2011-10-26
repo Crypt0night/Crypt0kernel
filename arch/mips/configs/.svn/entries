@@ -1,0 +1,357 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/mips/configs
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+ip32_defconfig
+file
+
+
+
+add
+
+lemote2f_defconfig
+file
+
+
+
+add
+
+jazz_defconfig
+file
+
+
+
+add
+
+tb0219_defconfig
+file
+
+
+
+add
+
+ar7_defconfig
+file
+
+
+
+add
+
+bigsur_defconfig
+file
+
+
+
+add
+
+rb532_defconfig
+file
+
+
+
+add
+
+yosemite_defconfig
+file
+
+
+
+add
+
+db1550_defconfig
+file
+
+
+
+add
+
+rm200_defconfig
+file
+
+
+
+add
+
+fuloong2e_defconfig
+file
+
+
+
+add
+
+sb1250-swarm_defconfig
+file
+
+
+
+add
+
+pnx8550-jbs_defconfig
+file
+
+
+
+add
+
+cobalt_defconfig
+file
+
+
+
+add
+
+lasat_defconfig
+file
+
+
+
+add
+
+powertv_defconfig
+file
+
+
+
+add
+
+pnx8550-stb810_defconfig
+file
+
+
+
+add
+
+workpad_defconfig
+file
+
+
+
+add
+
+pnx8335-stb225_defconfig
+file
+
+
+
+add
+
+wrppmc_defconfig
+file
+
+
+
+add
+
+cavium-octeon_defconfig
+file
+
+
+
+add
+
+markeins_defconfig
+file
+
+
+
+add
+
+mpc30x_defconfig
+file
+
+
+
+add
+
+ip22_defconfig
+file
+
+
+
+add
+
+pb1550_defconfig
+file
+
+
+
+add
+
+rbtx49xx_defconfig
+file
+
+
+
+add
+
+jmr3927_defconfig
+file
+
+
+
+add
+
+tb0226_defconfig
+file
+
+
+
+add
+
+mipssim_defconfig
+file
+
+
+
+add
+
+ip27_defconfig
+file
+
+
+
+add
+
+ip28_defconfig
+file
+
+
+
+add
+
+tb0287_defconfig
+file
+
+
+
+add
+
+db1000_defconfig
+file
+
+
+
+add
+
+msp71xx_defconfig
+file
+
+
+
+add
+
+db1100_defconfig
+file
+
+
+
+add
+
+db1200_defconfig
+file
+
+
+
+add
+
+mtx1_defconfig
+file
+
+
+
+add
+
+bcm63xx_defconfig
+file
+
+
+
+add
+
+db1500_defconfig
+file
+
+
+
+add
+
+bcm47xx_defconfig
+file
+
+
+
+add
+
+decstation_defconfig
+file
+
+
+
+add
+
+malta_defconfig
+file
+
+
+
+add
+
+e55_defconfig
+file
+
+
+
+add
+
+pb1100_defconfig
+file
+
+
+
+add
+
+pb1200_defconfig
+file
+
+
+
+add
+
+capcella_defconfig
+file
+
+
+
+add
+
+pb1500_defconfig
+file
+
+
+
+add
+

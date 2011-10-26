@@ -1,0 +1,203 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+powerpc
+dir
+
+
+
+add
+
+arm
+dir
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+um
+dir
+
+
+
+add
+
+parisc
+dir
+
+
+
+add
+
+m32r
+dir
+
+
+
+add
+
+x86
+dir
+
+
+
+add
+
+alpha
+dir
+
+
+
+add
+
+m68k
+dir
+
+
+
+add
+
+microblaze
+dir
+
+
+
+add
+
+frv
+dir
+
+
+
+add
+
+avr32
+dir
+
+
+
+add
+
+s390
+dir
+
+
+
+add
+
+mn10300
+dir
+
+
+
+add
+
+cris
+dir
+
+
+
+add
+
+m68knommu
+dir
+
+
+
+add
+
+xtensa
+dir
+
+
+
+add
+
+h8300
+dir
+
+
+
+add
+
+ia64
+dir
+
+
+
+add
+
+.gitignore
+file
+
+
+
+add
+
+mips
+dir
+
+
+
+add
+
+sparc
+dir
+
+
+
+add
+
+blackfin
+dir
+
+
+
+add
+
+sh
+dir
+
+
+
+add
+
+score
+dir
+
+
+
+add
+

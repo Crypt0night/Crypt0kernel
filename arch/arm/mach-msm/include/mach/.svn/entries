@@ -1,0 +1,728 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/arm/mach-msm/include/mach
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+msm72k_otg.h
+file
+
+
+
+add
+
+oem_rapi_client.h
+file
+
+
+
+add
+
+htc_battery_8x60.h
+file
+
+
+
+add
+
+gpio.h
+file
+
+
+
+add
+
+htc_sleep_clk.h
+file
+
+
+
+add
+
+smp.h
+file
+
+
+
+add
+
+msm_serial_hs_lite.h
+file
+
+
+
+add
+
+smem_log-8x60.h
+file
+
+
+
+add
+
+irqs-7x00.h
+file
+
+
+
+add
+
+debug_display.h
+file
+
+
+
+add
+
+msm_rotator_imem.h
+file
+
+
+
+add
+
+debug_mm.h
+file
+
+
+
+add
+
+qdsp6v2
+dir
+
+
+
+add
+
+htc_headset_mgr.h
+file
+
+
+
+add
+
+mhl.h
+file
+
+
+
+add
+
+msm_iomap-7x30.h
+file
+
+
+
+add
+
+irqs-8x50.h
+file
+
+
+
+add
+
+tpa2051d3.h
+file
+
+
+
+add
+
+msm_sdcc.h
+file
+
+
+
+add
+
+pmic.h
+file
+
+
+
+add
+
+htc_pwrsink.h
+file
+
+
+
+add
+
+camera-8x60.h
+file
+
+
+
+add
+
+mpp.h
+file
+
+
+
+add
+
+dal_axi.h
+file
+
+
+
+add
+
+msm_rpcrouter.h
+file
+
+
+
+add
+
+dma.h
+file
+
+
+
+add
+
+msm_smd-8x60.h
+file
+
+
+
+add
+
+peripheral-loader-8x60.h
+file
+
+
+
+add
+
+msm_adsp.h
+file
+
+
+
+add
+
+msm_rpcrouter-8x60.h
+file
+
+
+
+add
+
+msm_bus.h
+file
+
+
+
+add
+
+drv_callback.h
+file
+
+
+
+add
+
+memory.h
+file
+
+
+
+add
+
+clkdev.h
+file
+
+
+
+add
+
+usb_gadget_fserial.h
+file
+
+
+
+add
+
+sdio_al.h
+file
+
+
+
+add
+
+mmc.h
+file
+
+
+
+add
+
+irqs-7x30.h
+file
+
+
+
+add
+
+htc_battery_core.h
+file
+
+
+
+add
+
+camera-liteon.h
+file
+
+
+
+add
+
+restart.h
+file
+
+
+
+add
+
+board_htc.h
+file
+
+
+
+add
+
+msm_serial_hs.h
+file
+
+
+
+add
+
+msm_dsps.h
+file
+
+
+
+add
+
+scm-io.h
+file
+
+
+
+add
+
+camera.h
+file
+
+
+
+add
+
+rpc_hsusb.h
+file
+
+
+
+add
+
+htc_headset_gpio.h
+file
+
+
+
+add
+
+vmalloc.h
+file
+
+
+
+add
+
+hardware.h
+file
+
+
+
+add
+
+htc_acoustic_8x60.h
+file
+
+
+
+add
+
+cable_detect.h
+file
+
+
+
+add
+
+msm_hsusb_hw.h
+file
+
+
+
+add
+
+debug-macro.S
+file
+
+
+
+add
+
+socinfo.h
+file
+
+
+
+add
+
+msm_fb.h
+file
+
+
+
+add
+
+perflock.h
+file
+
+
+
+add
+
+msm_otg.h
+file
+
+
+
+add
+
+msm_spi.h
+file
+
+
+
+add
+
+io.h
+file
+
+
+
+add
+
+clk.h
+file
+
+
+
+add
+
+msm_bus_board.h
+file
+
+
+
+add
+
+msm_ssbi.h
+file
+
+
+
+add
+
+mdm.h
+file
+
+
+
+add
+
+irqs.h
+file
+
+
+
+add
+
+qdsp5v2
+dir
+
+
+
+add
+
+htc_battery_common.h
+file
+
+
+
+add
+
+msm_iomap.h
+file
+
+
+
+add
+
+htc_headset_pmic.h
+file
+
+
+
+add
+
+msm_iomap-8x60.h
+file
+
+
+
+add
+
+system.h
+file
+
+
+
+add
+
+msm_reqs.h
+file
+
+
+
+add
+
+htc_bdaddress.h
+file
+
+
+
+add
+
+entry-macro-qgic.S
+file
+
+
+
+add
+
+remote_spinlock.h
+file
+
+
+
+add
+
+7x30-lte
+dir
+
+
+
+add
+
+uncompress.h
+file
+
+
+
+add
+
+msm_smd.h
+file
+
+
+
+add
+
+peripheral-loader.h
+file
+
+
+
+add
+
+internal_power_rail.h
+file
+
+
+
+add
+
+sirc.h
+file
+
+
+
+add
+
+dal.h
+file
+
+
+
+add
+
+msm_hsusb.h
+file
+
+
+
+add
+
+htc_headset_8x60.h
+file
+
+
+
+add
+
+scm-log.h
+file
+
+
+
+add
+
+msm_flashlight.h
+file
+
+
+
+add
+
+msm_xo.h
+file
+
+
+
+add
+
+smem_log.h
+file
+
+
+
+add
+
+vreg.h
+file
+
+
+
+add
+
+msm_adsp-8x60.h
+file
+
+
+
+add
+
+panel_id.h
+file
+
+
+
+add
+
+entry-macro.S
+file
+
+
+
+add
+
+msm_iomap-7x00.h
+file
+
+
+
+add
+
+usbdiag.h
+file
+
+
+
+add
+
+irqs-8x60.h
+file
+
+
+
+add
+
+scm.h
+file
+
+
+
+add
+
+msm_iomap-8x50.h
+file
+
+
+
+add
+
+timex.h
+file
+
+
+
+add
+
+board.h
+file
+
+
+
+add
+
+htc_usb.h
+file
+
+
+
+add
+

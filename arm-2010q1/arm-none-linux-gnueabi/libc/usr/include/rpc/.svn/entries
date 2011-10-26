@@ -1,0 +1,147 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arm-2010q1/arm-none-linux-gnueabi/libc/usr/include/rpc
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+rpc_msg.h
+file
+
+
+
+add
+
+svc.h
+file
+
+
+
+add
+
+key_prot.h
+file
+
+
+
+add
+
+auth_des.h
+file
+
+
+
+add
+
+des_crypt.h
+file
+
+
+
+add
+
+netdb.h
+file
+
+
+
+add
+
+xdr.h
+file
+
+
+
+add
+
+clnt.h
+file
+
+
+
+add
+
+pmap_prot.h
+file
+
+
+
+add
+
+auth.h
+file
+
+
+
+add
+
+auth_unix.h
+file
+
+
+
+add
+
+types.h
+file
+
+
+
+add
+
+svc_auth.h
+file
+
+
+
+add
+
+pmap_clnt.h
+file
+
+
+
+add
+
+pmap_rmt.h
+file
+
+
+
+add
+
+rpc_des.h
+file
+
+
+
+add
+
+rpc.h
+file
+
+
+
+add
+

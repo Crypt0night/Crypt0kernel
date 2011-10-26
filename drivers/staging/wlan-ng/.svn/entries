@@ -1,0 +1,217 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/staging/wlan-ng
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+p80211hdr.h
+file
+
+
+
+add
+
+hfa384x_usb.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+p80211netdev.c
+file
+
+
+
+add
+
+prism2mgmt.c
+file
+
+
+
+add
+
+p80211req.c
+file
+
+
+
+add
+
+p80211wext.c
+file
+
+
+
+add
+
+prism2mib.c
+file
+
+
+
+add
+
+prism2mgmt.h
+file
+
+
+
+add
+
+p80211netdev.h
+file
+
+
+
+add
+
+p80211meta.h
+file
+
+
+
+add
+
+p80211wep.c
+file
+
+
+
+add
+
+p80211msg.h
+file
+
+
+
+add
+
+p80211req.h
+file
+
+
+
+add
+
+prism2fw.c
+file
+
+
+
+add
+
+README
+file
+
+
+
+add
+
+p80211metastruct.h
+file
+
+
+
+add
+
+p80211conv.c
+file
+
+
+
+add
+
+prism2sta.c
+file
+
+
+
+add
+
+p80211mgmt.h
+file
+
+
+
+add
+
+p80211types.h
+file
+
+
+
+add
+
+p80211metadef.h
+file
+
+
+
+add
+
+p80211conv.h
+file
+
+
+
+add
+
+prism2usb.c
+file
+
+
+
+add
+
+hfa384x.h
+file
+
+
+
+add
+
+p80211ioctl.h
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

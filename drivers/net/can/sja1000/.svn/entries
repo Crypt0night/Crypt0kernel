@@ -1,0 +1,98 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/net/can/sja1000
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+plx_pci.c
+file
+
+
+
+add
+
+sja1000.c
+file
+
+
+
+add
+
+ems_pci.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+sja1000_platform.c
+file
+
+
+
+add
+
+sja1000.h
+file
+
+
+
+add
+
+kvaser_pci.c
+file
+
+
+
+add
+
+sja1000_of_platform.c
+file
+
+
+
+add
+
+sja1000_isa.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

@@ -1,0 +1,84 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/tools/perf/scripts/python/bin
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+syscall-counts-record
+file
+
+
+
+add
+
+sctop-report
+file
+
+
+
+add
+
+syscall-counts-by-pid-record
+file
+
+
+
+add
+
+sctop-record
+file
+
+
+
+add
+
+failed-syscalls-by-pid-report
+file
+
+
+
+add
+
+syscall-counts-report
+file
+
+
+
+add
+
+failed-syscalls-by-pid-record
+file
+
+
+
+add
+
+syscall-counts-by-pid-report
+file
+
+
+
+add
+

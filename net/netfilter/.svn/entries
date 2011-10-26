@@ -1,0 +1,1162 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/net/netfilter
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+nf_conntrack_proto_tcp.c
+file
+
+
+
+add
+
+.nf_conntrack_h323.o.cmd
+file
+
+
+
+add
+
+xt_quota.c
+file
+
+
+
+add
+
+xt_TCPOPTSTRIP.c
+file
+
+
+
+add
+
+nf_queue.c
+file
+
+
+
+add
+
+.nf_conntrack_sane.o.cmd
+file
+
+
+
+add
+
+.nf_conntrack_proto_udplite.o.cmd
+file
+
+
+
+add
+
+nf_conntrack_sane.c
+file
+
+
+
+add
+
+.xt_string.o.cmd
+file
+
+
+
+add
+
+.xt_NFQUEUE.o.cmd
+file
+
+
+
+add
+
+nf_conntrack_sip.c
+file
+
+
+
+add
+
+xt_string.c
+file
+
+
+
+add
+
+.nf_conntrack_proto_gre.o.cmd
+file
+
+
+
+add
+
+xt_rateest.c
+file
+
+
+
+add
+
+nf_conntrack_l3proto_generic.c
+file
+
+
+
+add
+
+xt_TCPMSS.c
+file
+
+
+
+add
+
+xt_dccp.c
+file
+
+
+
+add
+
+.core.o.cmd
+file
+
+
+
+add
+
+.xt_state.o.cmd
+file
+
+
+
+add
+
+nf_internals.h
+file
+
+
+
+add
+
+.xt_length.o.cmd
+file
+
+
+
+add
+
+.nf_conntrack_proto_udp.o.cmd
+file
+
+
+
+add
+
+nf_conntrack_ecache.c
+file
+
+
+
+add
+
+.xt_owner.o.cmd
+file
+
+
+
+add
+
+.nf_conntrack_amanda.o.cmd
+file
+
+
+
+add
+
+nf_conntrack_irc.c
+file
+
+
+
+add
+
+xt_dscp.c
+file
+
+
+
+add
+
+xt_mark.c
+file
+
+
+
+add
+
+nf_conntrack_amanda.c
+file
+
+
+
+add
+
+.xt_pkttype.o.cmd
+file
+
+
+
+add
+
+xt_time.c
+file
+
+
+
+add
+
+xt_repldata.h
+file
+
+
+
+add
+
+xt_comment.c
+file
+
+
+
+add
+
+xt_HL.c
+file
+
+
+
+add
+
+.xt_u32.o.cmd
+file
+
+
+
+add
+
+nf_conntrack_proto_sctp.c
+file
+
+
+
+add
+
+xt_RATEEST.c
+file
+
+
+
+add
+
+.nfnetlink.o.cmd
+file
+
+
+
+add
+
+nf_conntrack_h323_types.c
+file
+
+
+
+add
+
+.nf_conntrack_proto_tcp.o.cmd
+file
+
+
+
+add
+
+xt_helper.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+xt_SECMARK.c
+file
+
+
+
+add
+
+nf_tproxy_core.c
+file
+
+
+
+add
+
+modules.order
+file
+
+
+
+add
+
+nf_conntrack_tftp.c
+file
+
+
+
+add
+
+.nf_queue.o.cmd
+file
+
+
+
+add
+
+nf_log.c
+file
+
+
+
+add
+
+.nf_conntrack_pptp.o.cmd
+file
+
+
+
+add
+
+xt_TRACE.c
+file
+
+
+
+add
+
+xt_policy.c
+file
+
+
+
+add
+
+xt_NOTRACK.c
+file
+
+
+
+add
+
+nf_conntrack_expect.c
+file
+
+
+
+add
+
+xt_CONNSECMARK.c
+file
+
+
+
+add
+
+.xt_statistic.o.cmd
+file
+
+
+
+add
+
+.nf_conntrack_l3proto_generic.o.cmd
+file
+
+
+
+add
+
+.xt_tcpmss.o.cmd
+file
+
+
+
+add
+
+xt_CT.c
+file
+
+
+
+add
+
+nf_conntrack_proto_dccp.c
+file
+
+
+
+add
+
+xt_NFQUEUE.c
+file
+
+
+
+add
+
+nf_conntrack_proto_gre.c
+file
+
+
+
+add
+
+nf_conntrack_h323_asn1.c
+file
+
+
+
+add
+
+nf_conntrack_proto.c
+file
+
+
+
+add
+
+core.c
+file
+
+
+
+add
+
+xt_limit.c
+file
+
+
+
+add
+
+.nf_conntrack_acct.o.cmd
+file
+
+
+
+add
+
+nf_conntrack_acct.c
+file
+
+
+
+add
+
+xt_iprange.c
+file
+
+
+
+add
+
+.nf_conntrack.o.cmd
+file
+
+
+
+add
+
+xt_osf.c
+file
+
+
+
+add
+
+xt_connlimit.c
+file
+
+
+
+add
+
+nf_conntrack_h323_main.c
+file
+
+
+
+add
+
+xt_tcpudp.c
+file
+
+
+
+add
+
+.nf_conntrack_ftp.o.cmd
+file
+
+
+
+add
+
+xt_pkttype.c
+file
+
+
+
+add
+
+nf_conntrack_standalone.c
+file
+
+
+
+add
+
+xt_hl.c
+file
+
+
+
+add
+
+xt_connmark.c
+file
+
+
+
+add
+
+xt_physdev.c
+file
+
+
+
+add
+
+xt_conntrack.c
+file
+
+
+
+add
+
+.nf_log.o.cmd
+file
+
+
+
+add
+
+.xt_mac.o.cmd
+file
+
+
+
+add
+
+.nf_conntrack_core.o.cmd
+file
+
+
+
+add
+
+xt_multiport.c
+file
+
+
+
+add
+
+nf_conntrack_core.c
+file
+
+
+
+add
+
+.xt_TCPMSS.o.cmd
+file
+
+
+
+add
+
+xt_TPROXY.c
+file
+
+
+
+add
+
+xt_statistic.c
+file
+
+
+
+add
+
+.nf_conntrack_h323_asn1.o.cmd
+file
+
+
+
+add
+
+.nf_conntrack_proto.o.cmd
+file
+
+
+
+add
+
+.xt_CLASSIFY.o.cmd
+file
+
+
+
+add
+
+nf_conntrack_proto_generic.c
+file
+
+
+
+add
+
+.nfnetlink_log.o.cmd
+file
+
+
+
+add
+
+.xt_limit.o.cmd
+file
+
+
+
+add
+
+.nfnetlink_queue.o.cmd
+file
+
+
+
+add
+
+xt_CLASSIFY.c
+file
+
+
+
+add
+
+.netfilter.o.cmd
+file
+
+
+
+add
+
+nfnetlink_log.c
+file
+
+
+
+add
+
+.nf_conntrack_ecache.o.cmd
+file
+
+
+
+add
+
+.xt_iprange.o.cmd
+file
+
+
+
+add
+
+xt_length.c
+file
+
+
+
+add
+
+nfnetlink_queue.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+xt_hashlimit.c
+file
+
+
+
+add
+
+.nf_sockopt.o.cmd
+file
+
+
+
+add
+
+.xt_mark.o.cmd
+file
+
+
+
+add
+
+.xt_connlimit.o.cmd
+file
+
+
+
+add
+
+.nf_conntrack_h323_main.o.cmd
+file
+
+
+
+add
+
+xt_DSCP.c
+file
+
+
+
+add
+
+.xt_time.o.cmd
+file
+
+
+
+add
+
+xt_realm.c
+file
+
+
+
+add
+
+.nf_conntrack_proto_sctp.o.cmd
+file
+
+
+
+add
+
+nf_conntrack_ftp.c
+file
+
+
+
+add
+
+.built-in.o.cmd
+file
+
+
+
+add
+
+xt_connbytes.c
+file
+
+
+
+add
+
+xt_LED.c
+file
+
+
+
+add
+
+.xt_helper.o.cmd
+file
+
+
+
+add
+
+nfnetlink.c
+file
+
+
+
+add
+
+.xt_conntrack.o.cmd
+file
+
+
+
+add
+
+nf_conntrack_netlink.c
+file
+
+
+
+add
+
+xt_recent.c
+file
+
+
+
+add
+
+modules.builtin
+file
+
+
+
+add
+
+.nf_conntrack_tftp.o.cmd
+file
+
+
+
+add
+
+.xt_quota.o.cmd
+file
+
+
+
+add
+
+x_tables.c
+file
+
+
+
+add
+
+xt_socket.c
+file
+
+
+
+add
+
+.xt_policy.o.cmd
+file
+
+
+
+add
+
+nf_conntrack_pptp.c
+file
+
+
+
+add
+
+.nf_conntrack_expect.o.cmd
+file
+
+
+
+add
+
+xt_mac.c
+file
+
+
+
+add
+
+.nf_conntrack_sip.o.cmd
+file
+
+
+
+add
+
+.nf_conntrack_proto_dccp.o.cmd
+file
+
+
+
+add
+
+nf_conntrack_proto_udplite.c
+file
+
+
+
+add
+
+xt_NFLOG.c
+file
+
+
+
+add
+
+.nf_conntrack_proto_generic.o.cmd
+file
+
+
+
+add
+
+xt_tcpmss.c
+file
+
+
+
+add
+
+.xt_hashlimit.o.cmd
+file
+
+
+
+add
+
+xt_state.c
+file
+
+
+
+add
+
+.nf_conntrack_irc.o.cmd
+file
+
+
+
+add
+
+ipvs
+dir
+
+
+
+add
+
+.nf_conntrack_helper.o.cmd
+file
+
+
+
+add
+
+nf_conntrack_proto_udp.c
+file
+
+
+
+add
+
+xt_esp.c
+file
+
+
+
+add
+
+nf_conntrack_helper.c
+file
+
+
+
+add
+
+nf_sockopt.c
+file
+
+
+
+add
+
+xt_owner.c
+file
+
+
+
+add
+
+.xt_tcpudp.o.cmd
+file
+
+
+
+add
+
+.nf_conntrack_extend.o.cmd
+file
+
+
+
+add
+
+.xt_comment.o.cmd
+file
+
+
+
+add
+
+.nf_conntrack_standalone.o.cmd
+file
+
+
+
+add
+
+.xt_hl.o.cmd
+file
+
+
+
+add
+
+.xt_connbytes.o.cmd
+file
+
+
+
+add
+
+nf_conntrack_extend.c
+file
+
+
+
+add
+
+.xt_connmark.o.cmd
+file
+
+
+
+add
+
+.nf_conntrack_netbios_ns.o.cmd
+file
+
+
+
+add
+
+xt_u32.c
+file
+
+
+
+add
+
+xt_sctp.c
+file
+
+
+
+add
+
+.nf_conntrack_netlink.o.cmd
+file
+
+
+
+add
+
+nf_conntrack_netbios_ns.c
+file
+
+
+
+add
+
+xt_TEE.c
+file
+
+
+
+add
+
+xt_cluster.c
+file
+
+
+
+add
+
+.x_tables.o.cmd
+file
+
+
+
+add
+

@@ -1,0 +1,896 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/Documentation/DocBook/v4l
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+vidioc-g-priority.xml
+file
+
+
+
+add
+
+remote_controllers.xml
+file
+
+
+
+add
+
+pixfmt-uyvy.xml
+file
+
+
+
+add
+
+vidioc-g-ext-ctrls.xml
+file
+
+
+
+add
+
+capture.c.xml
+file
+
+
+
+add
+
+vidioc-enum-framesizes.xml
+file
+
+
+
+add
+
+vbi_625.pdf
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+func-munmap.xml
+file
+
+
+
+add
+
+vidioc-query-dv-preset.xml
+file
+
+
+
+add
+
+dev-codec.xml
+file
+
+
+
+add
+
+vidioc-g-std.xml
+file
+
+
+
+add
+
+fieldseq_bt.pdf
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+vidioc-encoder-cmd.xml
+file
+
+
+
+add
+
+vidioc-querystd.xml
+file
+
+
+
+add
+
+vidioc-g-parm.xml
+file
+
+
+
+add
+
+vidioc-enum-frameintervals.xml
+file
+
+
+
+add
+
+vidioc-enumoutput.xml
+file
+
+
+
+add
+
+pixfmt-y41p.xml
+file
+
+
+
+add
+
+vidioc-cropcap.xml
+file
+
+
+
+add
+
+vidioc-g-crop.xml
+file
+
+
+
+add
+
+vidioc-g-jpegcomp.xml
+file
+
+
+
+add
+
+func-ioctl.xml
+file
+
+
+
+add
+
+pixfmt-packed-rgb.xml
+file
+
+
+
+add
+
+dev-rds.xml
+file
+
+
+
+add
+
+v4l2grab.c.xml
+file
+
+
+
+add
+
+vidioc-querycap.xml
+file
+
+
+
+add
+
+vidioc-g-modulator.xml
+file
+
+
+
+add
+
+pixfmt.xml
+file
+
+
+
+add
+
+vidioc-g-dv-preset.xml
+file
+
+
+
+add
+
+fdl-appendix.xml
+file
+
+
+
+add
+
+vidioc-dbg-g-register.xml
+file
+
+
+
+add
+
+vidioc-dbg-g-chip-ident.xml
+file
+
+
+
+add
+
+pixfmt-yuv420.xml
+file
+
+
+
+add
+
+dev-capture.xml
+file
+
+
+
+add
+
+vbi_525.gif
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+pixfmt-yvyu.xml
+file
+
+
+
+add
+
+vidioc-dqevent.xml
+file
+
+
+
+add
+
+keytable.c.xml
+file
+
+
+
+add
+
+vidioc-reqbufs.xml
+file
+
+
+
+add
+
+fieldseq_tb.gif
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+vidioc-overlay.xml
+file
+
+
+
+add
+
+dev-overlay.xml
+file
+
+
+
+add
+
+dev-event.xml
+file
+
+
+
+add
+
+pixfmt-yuv422p.xml
+file
+
+
+
+add
+
+dev-osd.xml
+file
+
+
+
+add
+
+func-read.xml
+file
+
+
+
+add
+
+vidioc-queryctrl.xml
+file
+
+
+
+add
+
+dev-effect.xml
+file
+
+
+
+add
+
+func-select.xml
+file
+
+
+
+add
+
+crop.gif
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+vidioc-g-enc-index.xml
+file
+
+
+
+add
+
+dev-teletext.xml
+file
+
+
+
+add
+
+pixfmt-grey.xml
+file
+
+
+
+add
+
+vidioc-subscribe-event.xml
+file
+
+
+
+add
+
+pixfmt-packed-yuv.xml
+file
+
+
+
+add
+
+vidioc-log-status.xml
+file
+
+
+
+add
+
+videodev2.h.xml
+file
+
+
+
+add
+
+pixfmt-vyuy.xml
+file
+
+
+
+add
+
+compat.xml
+file
+
+
+
+add
+
+dev-raw-vbi.xml
+file
+
+
+
+add
+
+func-write.xml
+file
+
+
+
+add
+
+vbi_525.pdf
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+common.xml
+file
+
+
+
+add
+
+vbi_hsync.gif
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+fieldseq_tb.pdf
+file
+
+
+
+add
+
+func-close.xml
+file
+
+
+
+add
+
+vidioc-g-input.xml
+file
+
+
+
+add
+
+pixfmt-yuv411p.xml
+file
+
+
+
+add
+
+vidioc-g-output.xml
+file
+
+
+
+add
+
+vidioc-g-audio.xml
+file
+
+
+
+add
+
+pixfmt-sbggr8.xml
+file
+
+
+
+add
+
+pixfmt-sgbrg8.xml
+file
+
+
+
+add
+
+pixfmt-sgrbg8.xml
+file
+
+
+
+add
+
+vidioc-enum-fmt.xml
+file
+
+
+
+add
+
+io.xml
+file
+
+
+
+add
+
+vidioc-qbuf.xml
+file
+
+
+
+add
+
+vidioc-enum-dv-presets.xml
+file
+
+
+
+add
+
+dev-radio.xml
+file
+
+
+
+add
+
+crop.pdf
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+vidioc-querybuf.xml
+file
+
+
+
+add
+
+pixfmt-sbggr16.xml
+file
+
+
+
+add
+
+vidioc-g-dv-timings.xml
+file
+
+
+
+add
+
+pixfmt-yuyv.xml
+file
+
+
+
+add
+
+vidioc-g-sliced-vbi-cap.xml
+file
+
+
+
+add
+
+vbi_625.gif
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+vidioc-g-fbuf.xml
+file
+
+
+
+add
+
+func-mmap.xml
+file
+
+
+
+add
+
+pixfmt-y16.xml
+file
+
+
+
+add
+
+vidioc-g-fmt.xml
+file
+
+
+
+add
+
+fieldseq_bt.gif
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+v4l2.xml
+file
+
+
+
+add
+
+vidioc-g-audioout.xml
+file
+
+
+
+add
+
+vidioc-enumaudioout.xml
+file
+
+
+
+add
+
+func-open.xml
+file
+
+
+
+add
+
+vidioc-enumstd.xml
+file
+
+
+
+add
+
+pixfmt-nv12.xml
+file
+
+
+
+add
+
+driver.xml
+file
+
+
+
+add
+
+vidioc-g-tuner.xml
+file
+
+
+
+add
+
+libv4l.xml
+file
+
+
+
+add
+
+vbi_hsync.pdf
+file
+
+
+
+add
+
+dev-sliced-vbi.xml
+file
+
+
+
+add
+
+func-poll.xml
+file
+
+
+
+add
+
+vidioc-enuminput.xml
+file
+
+
+
+add
+
+pixfmt-nv16.xml
+file
+
+
+
+add
+
+biblio.xml
+file
+
+
+
+add
+
+vidioc-g-frequency.xml
+file
+
+
+
+add
+
+vidioc-enumaudio.xml
+file
+
+
+
+add
+
+controls.xml
+file
+
+
+
+add
+
+vidioc-g-ctrl.xml
+file
+
+
+
+add
+
+vidioc-streamon.xml
+file
+
+
+
+add
+
+.gitignore
+file
+
+
+
+add
+
+vidioc-s-hw-freq-seek.xml
+file
+
+
+
+add
+
+dev-output.xml
+file
+
+
+
+add
+
+pixfmt-yuv410.xml
+file
+
+
+
+add
+

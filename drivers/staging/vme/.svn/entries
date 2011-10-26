@@ -1,0 +1,98 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/staging/vme
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+bridges
+dir
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+devices
+dir
+
+
+
+add
+
+TODO
+file
+
+
+
+add
+
+vme.c
+file
+
+
+
+add
+
+vme_bridge.h
+file
+
+
+
+add
+
+boards
+dir
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+vme.h
+file
+
+
+
+add
+
+vme_api.txt
+file
+
+
+
+add
+

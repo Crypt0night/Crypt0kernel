@@ -1,0 +1,217 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/char/agp
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+sis-agp.c
+file
+
+
+
+add
+
+isoch.c
+file
+
+
+
+add
+
+intel-gtt.c
+file
+
+
+
+add
+
+ali-agp.c
+file
+
+
+
+add
+
+uninorth-agp.c
+file
+
+
+
+add
+
+hp-agp.c
+file
+
+
+
+add
+
+agp.h
+file
+
+
+
+add
+
+generic.c
+file
+
+
+
+add
+
+compat_ioctl.c
+file
+
+
+
+add
+
+frontend.c
+file
+
+
+
+add
+
+nvidia-agp.c
+file
+
+
+
+add
+
+intel-agp.c
+file
+
+
+
+add
+
+amd64-agp.c
+file
+
+
+
+add
+
+compat_ioctl.h
+file
+
+
+
+add
+
+ati-agp.c
+file
+
+
+
+add
+
+efficeon-agp.c
+file
+
+
+
+add
+
+via-agp.c
+file
+
+
+
+add
+
+amd-k7-agp.c
+file
+
+
+
+add
+
+intel-agp.h
+file
+
+
+
+add
+
+parisc-agp.c
+file
+
+
+
+add
+
+backend.c
+file
+
+
+
+add
+
+sgi-agp.c
+file
+
+
+
+add
+
+i460-agp.c
+file
+
+
+
+add
+
+alpha-agp.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+sworks-agp.c
+file
+
+
+
+add
+

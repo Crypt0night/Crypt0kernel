@@ -1,0 +1,168 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/avr32/mach-at32ap
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+hsmc.h
+file
+
+
+
+add
+
+clock.h
+file
+
+
+
+add
+
+include
+dir
+
+
+
+add
+
+intc.h
+file
+
+
+
+add
+
+pm-at32ap700x.S
+file
+
+
+
+add
+
+cpufreq.c
+file
+
+
+
+add
+
+pdc.c
+file
+
+
+
+add
+
+at32ap700x.c
+file
+
+
+
+add
+
+extint.c
+file
+
+
+
+add
+
+pm.c
+file
+
+
+
+add
+
+hmatrix.c
+file
+
+
+
+add
+
+sdramc.h
+file
+
+
+
+add
+
+pm.h
+file
+
+
+
+add
+
+pio.c
+file
+
+
+
+add
+
+hsmc.c
+file
+
+
+
+add
+
+clock.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+pio.h
+file
+
+
+
+add
+
+intc.c
+file
+
+
+
+add
+

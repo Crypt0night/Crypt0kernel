@@ -1,0 +1,154 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/usb/wusbcore
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+wa-hc.c
+file
+
+
+
+add
+
+wusbhc.h
+file
+
+
+
+add
+
+reservation.c
+file
+
+
+
+add
+
+wa-hc.h
+file
+
+
+
+add
+
+security.c
+file
+
+
+
+add
+
+rh.c
+file
+
+
+
+add
+
+wa-xfer.c
+file
+
+
+
+add
+
+mmc.c
+file
+
+
+
+add
+
+pal.c
+file
+
+
+
+add
+
+crypto.c
+file
+
+
+
+add
+
+dev-sysfs.c
+file
+
+
+
+add
+
+wa-rpipe.c
+file
+
+
+
+add
+
+wa-nep.c
+file
+
+
+
+add
+
+devconnect.c
+file
+
+
+
+add
+
+wusbhc.c
+file
+
+
+
+add
+
+cbaf.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

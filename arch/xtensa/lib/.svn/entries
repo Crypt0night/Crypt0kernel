@@ -1,0 +1,84 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/xtensa/lib
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+strncpy_user.S
+file
+
+
+
+add
+
+pci-auto.c
+file
+
+
+
+add
+
+checksum.S
+file
+
+
+
+add
+
+strnlen_user.S
+file
+
+
+
+add
+
+memcopy.S
+file
+
+
+
+add
+
+usercopy.S
+file
+
+
+
+add
+
+memset.S
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

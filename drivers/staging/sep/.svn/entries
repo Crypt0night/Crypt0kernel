@@ -1,0 +1,84 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/staging/sep
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+sep_driver_api.h
+file
+
+
+
+add
+
+sep_driver.c
+file
+
+
+
+add
+
+TODO
+file
+
+
+
+add
+
+sep_driver_hw_defs.h
+file
+
+
+
+add
+
+sep_dev.h
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+sep_driver_config.h
+file
+
+
+
+add
+

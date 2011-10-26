@@ -1,0 +1,105 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/net/wireless/bcm4329/include/proto
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+802.11.h
+file
+
+
+
+add
+
+bcmip.h
+file
+
+
+
+add
+
+802.1d.h
+file
+
+
+
+add
+
+ethernet.h
+file
+
+
+
+add
+
+802.11e.h
+file
+
+
+
+add
+
+vlan.h
+file
+
+
+
+add
+
+eapol.h
+file
+
+
+
+add
+
+bcmeth.h
+file
+
+
+
+add
+
+sdspi.h
+file
+
+
+
+add
+
+bcmevent.h
+file
+
+
+
+add
+
+wpa.h
+file
+
+
+
+add
+

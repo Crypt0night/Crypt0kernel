@@ -1,0 +1,84 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/usb/atm
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+speedtch.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+usbatm.h
+file
+
+
+
+add
+
+ueagle-atm.c
+file
+
+
+
+add
+
+xusbatm.c
+file
+
+
+
+add
+
+cxacru.c
+file
+
+
+
+add
+
+usbatm.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

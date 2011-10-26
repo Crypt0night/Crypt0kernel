@@ -1,0 +1,168 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/powerpc/platforms/83xx
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+sbc834x.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+mpc837x_rdb.c
+file
+
+
+
+add
+
+mpc832x_mds.c
+file
+
+
+
+add
+
+mpc836x_rdk.c
+file
+
+
+
+add
+
+kmeter1.c
+file
+
+
+
+add
+
+mpc834x_mds.c
+file
+
+
+
+add
+
+asp834x.c
+file
+
+
+
+add
+
+mpc836x_mds.c
+file
+
+
+
+add
+
+mpc837x_mds.c
+file
+
+
+
+add
+
+mpc83xx.h
+file
+
+
+
+add
+
+suspend-asm.S
+file
+
+
+
+add
+
+suspend.c
+file
+
+
+
+add
+
+mcu_mpc8349emitx.c
+file
+
+
+
+add
+
+usb.c
+file
+
+
+
+add
+
+mpc831x_rdb.c
+file
+
+
+
+add
+
+mpc834x_itx.c
+file
+
+
+
+add
+
+mpc832x_rdb.c
+file
+
+
+
+add
+
+misc.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

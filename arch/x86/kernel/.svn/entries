@@ -1,0 +1,1015 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/x86/kernel
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+vsmp_64.c
+file
+
+
+
+add
+
+smp.c
+file
+
+
+
+add
+
+trampoline_64.S
+file
+
+
+
+add
+
+syscall_table_32.S
+file
+
+
+
+add
+
+cpu
+dir
+
+
+
+add
+
+doublefault_32.c
+file
+
+
+
+add
+
+quirks.c
+file
+
+
+
+add
+
+alternative.c
+file
+
+
+
+add
+
+k8.c
+file
+
+
+
+add
+
+process_32.c
+file
+
+
+
+add
+
+ldt.c
+file
+
+
+
+add
+
+smpboot.c
+file
+
+
+
+add
+
+amd_iommu_init.c
+file
+
+
+
+add
+
+apic
+dir
+
+
+
+add
+
+paravirt-spinlocks.c
+file
+
+
+
+add
+
+irq.c
+file
+
+
+
+add
+
+olpc.c
+file
+
+
+
+add
+
+time.c
+file
+
+
+
+add
+
+crash_dump_64.c
+file
+
+
+
+add
+
+vmi_32.c
+file
+
+
+
+add
+
+asm-offsets_64.c
+file
+
+
+
+add
+
+mmconf-fam10h_64.c
+file
+
+
+
+add
+
+vmlinux.lds.S
+file
+
+
+
+add
+
+ftrace.c
+file
+
+
+
+add
+
+irq_64.c
+file
+
+
+
+add
+
+pci-nommu.c
+file
+
+
+
+add
+
+bios_uv.c
+file
+
+
+
+add
+
+visws_quirks.c
+file
+
+
+
+add
+
+paravirt_patch_32.c
+file
+
+
+
+add
+
+i8237.c
+file
+
+
+
+add
+
+e820.c
+file
+
+
+
+add
+
+test_nx.c
+file
+
+
+
+add
+
+module.c
+file
+
+
+
+add
+
+paravirt.c
+file
+
+
+
+add
+
+entry_64.S
+file
+
+
+
+add
+
+i387.c
+file
+
+
+
+add
+
+hw_breakpoint.c
+file
+
+
+
+add
+
+microcode_intel.c
+file
+
+
+
+add
+
+dumpstack_32.c
+file
+
+
+
+add
+
+aperture_64.c
+file
+
+
+
+add
+
+early_printk.c
+file
+
+
+
+add
+
+head32.c
+file
+
+
+
+add
+
+kgdb.c
+file
+
+
+
+add
+
+mpparse.c
+file
+
+
+
+add
+
+vmiclock_32.c
+file
+
+
+
+add
+
+microcode_core.c
+file
+
+
+
+add
+
+ioport.c
+file
+
+
+
+add
+
+setup_percpu.c
+file
+
+
+
+add
+
+i386_ksyms_32.c
+file
+
+
+
+add
+
+head_32.S
+file
+
+
+
+add
+
+microcode_amd.c
+file
+
+
+
+add
+
+mrst.c
+file
+
+
+
+add
+
+xsave.c
+file
+
+
+
+add
+
+relocate_kernel_64.S
+file
+
+
+
+add
+
+trampoline_32.S
+file
+
+
+
+add
+
+verify_cpu_64.S
+file
+
+
+
+add
+
+pci-calgary_64.c
+file
+
+
+
+add
+
+vsyscall_64.c
+file
+
+
+
+add
+
+trampoline.c
+file
+
+
+
+add
+
+topology.c
+file
+
+
+
+add
+
+i8259.c
+file
+
+
+
+add
+
+apm_32.c
+file
+
+
+
+add
+
+stacktrace.c
+file
+
+
+
+add
+
+tsc_sync.c
+file
+
+
+
+add
+
+tsc.c
+file
+
+
+
+add
+
+efi_stub_64.S
+file
+
+
+
+add
+
+crash_dump_32.c
+file
+
+
+
+add
+
+kdebugfs.c
+file
+
+
+
+add
+
+asm-offsets_32.c
+file
+
+
+
+add
+
+tlb_uv.c
+file
+
+
+
+add
+
+irq_32.c
+file
+
+
+
+add
+
+crash.c
+file
+
+
+
+add
+
+efi.c
+file
+
+
+
+add
+
+cpuid.c
+file
+
+
+
+add
+
+kvmclock.c
+file
+
+
+
+add
+
+pci-dma.c
+file
+
+
+
+add
+
+efi_64.c
+file
+
+
+
+add
+
+process.c
+file
+
+
+
+add
+
+sfi.c
+file
+
+
+
+add
+
+entry_32.S
+file
+
+
+
+add
+
+io_delay.c
+file
+
+
+
+add
+
+asm-offsets.c
+file
+
+
+
+add
+
+machine_kexec_64.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+kvm.c
+file
+
+
+
+add
+
+x8664_ksyms_64.c
+file
+
+
+
+add
+
+pvclock.c
+file
+
+
+
+add
+
+vm86_32.c
+file
+
+
+
+add
+
+mca_32.c
+file
+
+
+
+add
+
+uv_irq.c
+file
+
+
+
+add
+
+pcspeaker.c
+file
+
+
+
+add
+
+relocate_kernel_32.S
+file
+
+
+
+add
+
+init_task.c
+file
+
+
+
+add
+
+process_64.c
+file
+
+
+
+add
+
+reboot.c
+file
+
+
+
+add
+
+acpi
+dir
+
+
+
+add
+
+setup.c
+file
+
+
+
+add
+
+head.c
+file
+
+
+
+add
+
+msr.c
+file
+
+
+
+add
+
+kprobes.c
+file
+
+
+
+add
+
+amd_iommu.c
+file
+
+
+
+add
+
+x86_init.c
+file
+
+
+
+add
+
+test_rodata.c
+file
+
+
+
+add
+
+probe_roms_32.c
+file
+
+
+
+add
+
+step.c
+file
+
+
+
+add
+
+pci-gart_64.c
+file
+
+
+
+add
+
+audit_64.c
+file
+
+
+
+add
+
+irqinit.c
+file
+
+
+
+add
+
+paravirt_patch_64.c
+file
+
+
+
+add
+
+efi_stub_32.S
+file
+
+
+
+add
+
+tboot.c
+file
+
+
+
+add
+
+early-quirks.c
+file
+
+
+
+add
+
+rtc.c
+file
+
+
+
+add
+
+sys_i386_32.c
+file
+
+
+
+add
+
+dumpstack.c
+file
+
+
+
+add
+
+reboot_fixups_32.c
+file
+
+
+
+add
+
+bootflag.c
+file
+
+
+
+add
+
+dumpstack.h
+file
+
+
+
+add
+
+hpet.c
+file
+
+
+
+add
+
+apb_timer.c
+file
+
+
+
+add
+
+tls.c
+file
+
+
+
+add
+
+dumpstack_64.c
+file
+
+
+
+add
+
+tls.h
+file
+
+
+
+add
+
+efi_32.c
+file
+
+
+
+add
+
+uv_time.c
+file
+
+
+
+add
+
+i8253.c
+file
+
+
+
+add
+
+head64.c
+file
+
+
+
+add
+
+signal.c
+file
+
+
+
+add
+
+check.c
+file
+
+
+
+add
+
+ptrace.c
+file
+
+
+
+add
+
+uv_sysfs.c
+file
+
+
+
+add
+
+scx200_32.c
+file
+
+
+
+add
+
+syscall_64.c
+file
+
+
+
+add
+
+.gitignore
+file
+
+
+
+add
+
+tce_64.c
+file
+
+
+
+add
+
+pmtimer_64.c
+file
+
+
+
+add
+
+machine_kexec_32.c
+file
+
+
+
+add
+
+traps.c
+file
+
+
+
+add
+
+head_64.S
+file
+
+
+
+add
+
+pci-swiotlb.c
+file
+
+
+
+add
+
+sys_x86_64.c
+file
+
+
+
+add
+

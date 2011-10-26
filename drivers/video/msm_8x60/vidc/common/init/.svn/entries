@@ -1,0 +1,56 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/video/msm_8x60/vidc/common/init
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+.vidc_init.o.cmd
+file
+
+
+
+add
+
+vidc_init.c
+file
+
+
+
+add
+
+vidc_init_internal.h
+file
+
+
+
+add
+
+vidc_init.h
+file
+
+
+
+add
+

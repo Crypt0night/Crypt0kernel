@@ -1,0 +1,140 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/isdn/sc
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+hardware.h
+file
+
+
+
+add
+
+init.c
+file
+
+
+
+add
+
+scioc.h
+file
+
+
+
+add
+
+packet.c
+file
+
+
+
+add
+
+shmem.c
+file
+
+
+
+add
+
+ioctl.c
+file
+
+
+
+add
+
+includes.h
+file
+
+
+
+add
+
+card.h
+file
+
+
+
+add
+
+command.c
+file
+
+
+
+add
+
+timer.c
+file
+
+
+
+add
+
+event.c
+file
+
+
+
+add
+
+message.c
+file
+
+
+
+add
+
+message.h
+file
+
+
+
+add
+
+interrupt.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

@@ -1,0 +1,70 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/video/intelfb
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+intelfbdrv.c
+file
+
+
+
+add
+
+intelfb_i2c.c
+file
+
+
+
+add
+
+intelfbhw.c
+file
+
+
+
+add
+
+intelfbhw.h
+file
+
+
+
+add
+
+intelfb.h
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

@@ -1,0 +1,63 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/Documentation/powerpc/dts-bindings/fsl/cpm_qe/qe
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+pincfg.txt
+file
+
+
+
+add
+
+par_io.txt
+file
+
+
+
+add
+
+usb.txt
+file
+
+
+
+add
+
+ucc.txt
+file
+
+
+
+add
+
+firmware.txt
+file
+
+
+
+add
+

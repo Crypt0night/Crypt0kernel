@@ -1,0 +1,84 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/media/video/usbvision
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+usbvision-cards.h
+file
+
+
+
+add
+
+usbvision-video.c
+file
+
+
+
+add
+
+usbvision.h
+file
+
+
+
+add
+
+usbvision-core.c
+file
+
+
+
+add
+
+usbvision-cards.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+usbvision-i2c.c
+file
+
+
+
+add
+

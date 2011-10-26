@@ -1,0 +1,84 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/x86/include/asm/xen
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+interface_64.h
+file
+
+
+
+add
+
+hypervisor.h
+file
+
+
+
+add
+
+page.h
+file
+
+
+
+add
+
+interface.h
+file
+
+
+
+add
+
+grant_table.h
+file
+
+
+
+add
+
+hypercall.h
+file
+
+
+
+add
+
+interface_32.h
+file
+
+
+
+add
+
+events.h
+file
+
+
+
+add
+

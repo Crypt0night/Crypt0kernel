@@ -1,0 +1,98 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/Documentation/spi
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+butterfly
+file
+
+
+
+add
+
+spi-lm70llp
+file
+
+
+
+add
+
+.gitignore
+file
+
+
+
+add
+
+spi-summary
+file
+
+
+
+add
+
+spidev
+file
+
+
+
+add
+
+spidev_test.c
+file
+
+
+
+add
+
+pxa2xx
+file
+
+
+
+add
+
+ep93xx_spi
+file
+
+
+
+add
+
+spidev_fdx.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

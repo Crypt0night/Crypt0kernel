@@ -1,0 +1,182 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/sparc/prom
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+misc_32.c
+file
+
+
+
+add
+
+bootstr_32.c
+file
+
+
+
+add
+
+printf.c
+file
+
+
+
+add
+
+segment.c
+file
+
+
+
+add
+
+tree_32.c
+file
+
+
+
+add
+
+devops_32.c
+file
+
+
+
+add
+
+misc_64.c
+file
+
+
+
+add
+
+bootstr_64.c
+file
+
+
+
+add
+
+console_32.c
+file
+
+
+
+add
+
+init_32.c
+file
+
+
+
+add
+
+memory.c
+file
+
+
+
+add
+
+tree_64.c
+file
+
+
+
+add
+
+devops_64.c
+file
+
+
+
+add
+
+palloc.c
+file
+
+
+
+add
+
+console_64.c
+file
+
+
+
+add
+
+mp.c
+file
+
+
+
+add
+
+devmap.c
+file
+
+
+
+add
+
+init_64.c
+file
+
+
+
+add
+
+p1275.c
+file
+
+
+
+add
+
+ranges.c
+file
+
+
+
+add
+
+cif.S
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

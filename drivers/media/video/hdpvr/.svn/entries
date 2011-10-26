@@ -1,0 +1,77 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/media/video/hdpvr
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+hdpvr-i2c.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+hdpvr-control.c
+file
+
+
+
+add
+
+hdpvr-video.c
+file
+
+
+
+add
+
+hdpvr.h
+file
+
+
+
+add
+
+hdpvr-core.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

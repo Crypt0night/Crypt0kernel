@@ -1,0 +1,2009 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arm-2010q1/arm-none-linux-gnueabi/libc/thumb2/usr/share/i18n/locales
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+ts_ZA
+file
+
+
+
+add
+
+fa_IR
+file
+
+
+
+add
+
+ber_MA
+file
+
+
+
+add
+
+hi_IN
+file
+
+
+
+add
+
+translit_small
+file
+
+
+
+add
+
+ar_JO
+file
+
+
+
+add
+
+br_FR
+file
+
+
+
+add
+
+nl_NL@euro
+file
+
+
+
+add
+
+fr_FR
+file
+
+
+
+add
+
+so_KE
+file
+
+
+
+add
+
+gu_IN
+file
+
+
+
+add
+
+es_GT
+file
+
+
+
+add
+
+csb_PL
+file
+
+
+
+add
+
+ko_KR
+file
+
+
+
+add
+
+ht_HT
+file
+
+
+
+add
+
+pl_PL
+file
+
+
+
+add
+
+sv_FI
+file
+
+
+
+add
+
+tl_PH
+file
+
+
+
+add
+
+fi_FI@euro
+file
+
+
+
+add
+
+en_GB
+file
+
+
+
+add
+
+ca_FR
+file
+
+
+
+add
+
+tn_ZA
+file
+
+
+
+add
+
+et_EE
+file
+
+
+
+add
+
+ja_JP
+file
+
+
+
+add
+
+gv_GB
+file
+
+
+
+add
+
+yi_US
+file
+
+
+
+add
+
+sr_RS
+file
+
+
+
+add
+
+fur_IT
+file
+
+
+
+add
+
+gl_ES
+file
+
+
+
+add
+
+zh_TW
+file
+
+
+
+add
+
+es_HN
+file
+
+
+
+add
+
+ne_NP
+file
+
+
+
+add
+
+ar_KW
+file
+
+
+
+add
+
+ca_ES@euro
+file
+
+
+
+add
+
+ka_GE
+file
+
+
+
+add
+
+be_BY@latin
+file
+
+
+
+add
+
+tig_ER
+file
+
+
+
+add
+
+ast_ES
+file
+
+
+
+add
+
+tk_TM
+file
+
+
+
+add
+
+ar_LB
+file
+
+
+
+add
+
+iu_CA
+file
+
+
+
+add
+
+en_HK
+file
+
+
+
+add
+
+br_FR@euro
+file
+
+
+
+add
+
+mg_MG
+file
+
+
+
+add
+
+as_IN
+file
+
+
+
+add
+
+de_BE@euro
+file
+
+
+
+add
+
+nds_DE
+file
+
+
+
+add
+
+da_DK
+file
+
+
+
+add
+
+is_IS
+file
+
+
+
+add
+
+ar_LY
+file
+
+
+
+add
+
+ar_MA
+file
+
+
+
+add
+
+en_IE
+file
+
+
+
+add
+
+el_GR@euro
+file
+
+
+
+add
+
+aa_ER@saaho
+file
+
+
+
+add
+
+ig_NG
+file
+
+
+
+add
+
+translit_combining
+file
+
+
+
+add
+
+fy_DE
+file
+
+
+
+add
+
+kl_GL
+file
+
+
+
+add
+
+en_IN
+file
+
+
+
+add
+
+crh_UA
+file
+
+
+
+add
+
+ga_IE
+file
+
+
+
+add
+
+ik_CA
+file
+
+
+
+add
+
+sid_ET
+file
+
+
+
+add
+
+hu_HU
+file
+
+
+
+add
+
+ca_IT
+file
+
+
+
+add
+
+bo_CN
+file
+
+
+
+add
+
+ro_RO
+file
+
+
+
+add
+
+he_IL
+file
+
+
+
+add
+
+sa_IN
+file
+
+
+
+add
+
+kw_GB
+file
+
+
+
+add
+
+es_ES@euro
+file
+
+
+
+add
+
+translit_cjk_compat
+file
+
+
+
+add
+
+eu_ES@euro
+file
+
+
+
+add
+
+en_ZA
+file
+
+
+
+add
+
+pap_AN
+file
+
+
+
+add
+
+te_IN
+file
+
+
+
+add
+
+eu_ES
+file
+
+
+
+add
+
+cs_CZ
+file
+
+
+
+add
+
+zh_HK
+file
+
+
+
+add
+
+om_ET
+file
+
+
+
+add
+
+uz_UZ@cyrillic
+file
+
+
+
+add
+
+id_ID
+file
+
+
+
+add
+
+nr_ZA
+file
+
+
+
+add
+
+kk_KZ
+file
+
+
+
+add
+
+nl_BE@euro
+file
+
+
+
+add
+
+uz_UZ
+file
+
+
+
+add
+
+fi_FI
+file
+
+
+
+add
+
+lt_LT
+file
+
+
+
+add
+
+be_BY
+file
+
+
+
+add
+
+en_ZW
+file
+
+
+
+add
+
+lo_LA
+file
+
+
+
+add
+
+li_NL
+file
+
+
+
+add
+
+ar_OM
+file
+
+
+
+add
+
+fil_PH
+file
+
+
+
+add
+
+se_NO
+file
+
+
+
+add
+
+translit_compat
+file
+
+
+
+add
+
+tg_TJ
+file
+
+
+
+add
+
+it_IT
+file
+
+
+
+add
+
+tr_CY
+file
+
+
+
+add
+
+vi_VN
+file
+
+
+
+add
+
+translit_narrow
+file
+
+
+
+add
+
+ps_AF
+file
+
+
+
+add
+
+fr_FR@euro
+file
+
+
+
+add
+
+ru_RU
+file
+
+
+
+add
+
+lg_UG
+file
+
+
+
+add
+
+aa_DJ
+file
+
+
+
+add
+
+nl_NL
+file
+
+
+
+add
+
+uk_UA
+file
+
+
+
+add
+
+ar_AE
+file
+
+
+
+add
+
+fr_LU
+file
+
+
+
+add
+
+translit_wide
+file
+
+
+
+add
+
+es_MX
+file
+
+
+
+add
+
+ur_PK
+file
+
+
+
+add
+
+pt_PT@euro
+file
+
+
+
+add
+
+ar_QA
+file
+
+
+
+add
+
+ms_MY
+file
+
+
+
+add
+
+bn_IN
+file
+
+
+
+add
+
+fo_FO
+file
+
+
+
+add
+
+de_LU
+file
+
+
+
+add
+
+oc_FR
+file
+
+
+
+add
+
+tr_TR
+file
+
+
+
+add
+
+el_CY
+file
+
+
+
+add
+
+es_NI
+file
+
+
+
+add
+
+translit_cjk_variants
+file
+
+
+
+add
+
+ga_IE@euro
+file
+
+
+
+add
+
+hne_IN
+file
+
+
+
+add
+
+mn_MN
+file
+
+
+
+add
+
+ber_DZ
+file
+
+
+
+add
+
+or_IN
+file
+
+
+
+add
+
+de_AT@euro
+file
+
+
+
+add
+
+aa_ER
+file
+
+
+
+add
+
+aa_ET
+file
+
+
+
+add
+
+ar_BH
+file
+
+
+
+add
+
+ks_IN@devanagari
+file
+
+
+
+add
+
+iso14651_t1_pinyin
+file
+
+
+
+add
+
+pa_IN
+file
+
+
+
+add
+
+en_NG
+file
+
+
+
+add
+
+ta_IN
+file
+
+
+
+add
+
+translit_neutral
+file
+
+
+
+add
+
+nb_NO
+file
+
+
+
+add
+
+ug_CN
+file
+
+
+
+add
+
+mai_IN
+file
+
+
+
+add
+
+hy_AM
+file
+
+
+
+add
+
+POSIX
+file
+
+
+
+add
+
+th_TH
+file
+
+
+
+add
+
+gez_ER@abegede
+file
+
+
+
+add
+
+en_NZ
+file
+
+
+
+add
+
+li_BE
+file
+
+
+
+add
+
+gez_ET@abegede
+file
+
+
+
+add
+
+ru_UA
+file
+
+
+
+add
+
+my_MM
+file
+
+
+
+add
+
+nan_TW@latin
+file
+
+
+
+add
+
+so_SO
+file
+
+
+
+add
+
+wo_SN
+file
+
+
+
+add
+
+ar_SA
+file
+
+
+
+add
+
+pt_PT
+file
+
+
+
+add
+
+es_PA
+file
+
+
+
+add
+
+ar_SD
+file
+
+
+
+add
+
+nso_ZA
+file
+
+
+
+add
+
+es_PE
+file
+
+
+
+add
+
+so_DJ
+file
+
+
+
+add
+
+nl_AW
+file
+
+
+
+add
+
+fr_LU@euro
+file
+
+
+
+add
+
+iso14651_t1_common
+file
+
+
+
+add
+
+es_PR
+file
+
+
+
+add
+
+gez_ER
+file
+
+
+
+add
+
+mi_NZ
+file
+
+
+
+add
+
+gez_ET
+file
+
+
+
+add
+
+ar_SY
+file
+
+
+
+add
+
+es_PY
+file
+
+
+
+add
+
+nl_BE
+file
+
+
+
+add
+
+mt_MT
+file
+
+
+
+add
+
+cy_GB
+file
+
+
+
+add
+
+bo_IN
+file
+
+
+
+add
+
+translit_font
+file
+
+
+
+add
+
+en_PH
+file
+
+
+
+add
+
+es_AR
+file
+
+
+
+add
+
+km_KH
+file
+
+
+
+add
+
+om_KE
+file
+
+
+
+add
+
+ar_DZ
+file
+
+
+
+add
+
+bg_BG
+file
+
+
+
+add
+
+shs_CA
+file
+
+
+
+add
+
+sc_IT
+file
+
+
+
+add
+
+gd_GB
+file
+
+
+
+add
+
+hr_HR
+file
+
+
+
+add
+
+ks_IN
+file
+
+
+
+add
+
+ar_TN
+file
+
+
+
+add
+
+pt_BR
+file
+
+
+
+add
+
+en_AG
+file
+
+
+
+add
+
+so_ET
+file
+
+
+
+add
+
+ar_EG
+file
+
+
+
+add
+
+lv_LV
+file
+
+
+
+add
+
+ca_AD
+file
+
+
+
+add
+
+es_BO
+file
+
+
+
+add
+
+en_AU
+file
+
+
+
+add
+
+el_GR
+file
+
+
+
+add
+
+tt_RU
+file
+
+
+
+add
+
+kn_IN
+file
+
+
+
+add
+
+translit_hangul
+file
+
+
+
+add
+
+sr_ME
+file
+
+
+
+add
+
+dv_MV
+file
+
+
+
+add
+
+yo_NG
+file
+
+
+
+add
+
+de_AT
+file
+
+
+
+add
+
+fr_BE
+file
+
+
+
+add
+
+ss_ZA
+file
+
+
+
+add
+
+af_ZA
+file
+
+
+
+add
+
+ku_TR
+file
+
+
+
+add
+
+am_ET
+file
+
+
+
+add
+
+es_CL
+file
+
+
+
+add
+
+es_CO
+file
+
+
+
+add
+
+en_BW
+file
+
+
+
+add
+
+es_CR
+file
+
+
+
+add
+
+de_BE
+file
+
+
+
+add
+
+sq_AL
+file
+
+
+
+add
+
+rw_RW
+file
+
+
+
+add
+
+ti_ER
+file
+
+
+
+add
+
+dz_BT
+file
+
+
+
+add
+
+ti_ET
+file
+
+
+
+add
+
+en_CA
+file
+
+
+
+add
+
+nn_NO
+file
+
+
+
+add
+
+fr_BE@euro
+file
+
+
+
+add
+
+sk_SK
+file
+
+
+
+add
+
+fr_CA
+file
+
+
+
+add
+
+ha_NG
+file
+
+
+
+add
+
+nds_NL
+file
+
+
+
+add
+
+wa_BE
+file
+
+
+
+add
+
+byn_ER
+file
+
+
+
+add
+
+es_SV
+file
+
+
+
+add
+
+translit_circle
+file
+
+
+
+add
+
+fr_CH
+file
+
+
+
+add
+
+hsb_DE
+file
+
+
+
+add
+
+translit_fraction
+file
+
+
+
+add
+
+es_DO
+file
+
+
+
+add
+
+en_SG
+file
+
+
+
+add
+
+sd_IN
+file
+
+
+
+add
+
+ml_IN
+file
+
+
+
+add
+
+iso14651_t1
+file
+
+
+
+add
+
+de_CH
+file
+
+
+
+add
+
+it_IT@euro
+file
+
+
+
+add
+
+ve_ZA
+file
+
+
+
+add
+
+fy_NL
+file
+
+
+
+add
+
+wa_BE@euro
+file
+
+
+
+add
+
+en_IE@euro
+file
+
+
+
+add
+
+es_EC
+file
+
+
+
+add
+
+sd_IN@devanagari
+file
+
+
+
+add
+
+sv_SE
+file
+
+
+
+add
+
+sr_RS@latin
+file
+
+
+
+add
+
+en_DK
+file
+
+
+
+add
+
+gl_ES@euro
+file
+
+
+
+add
+
+zu_ZA
+file
+
+
+
+add
+
+de_DE@euro
+file
+
+
+
+add
+
+mk_MK
+file
+
+
+
+add
+
+es_ES
+file
+
+
+
+add
+
+de_DE
+file
+
+
+
+add
+
+sv_FI@euro
+file
+
+
+
+add
+
+iw_IL
+file
+
+
+
+add
+
+ky_KG
+file
+
+
+
+add
+
+bs_BA
+file
+
+
+
+add
+
+xh_ZA
+file
+
+
+
+add
+
+es_US
+file
+
+
+
+add
+
+i18n
+file
+
+
+
+add
+
+st_ZA
+file
+
+
+
+add
+
+de_LU@euro
+file
+
+
+
+add
+
+es_UY
+file
+
+
+
+add
+
+an_ES
+file
+
+
+
+add
+
+it_CH
+file
+
+
+
+add
+
+ar_IN
+file
+
+
+
+add
+
+pa_PK
+file
+
+
+
+add
+
+ar_IQ
+file
+
+
+
+add
+
+ar_YE
+file
+
+
+
+add
+
+zh_CN
+file
+
+
+
+add
+
+es_VE
+file
+
+
+
+add
+
+si_LK
+file
+
+
+
+add
+
+bn_BD
+file
+
+
+
+add
+
+az_AZ
+file
+
+
+
+add
+
+mr_IN
+file
+
+
+
+add
+
+sl_SI
+file
+
+
+
+add
+
+en_US
+file
+
+
+
+add
+
+zh_SG
+file
+
+
+
+add
+
+ca_ES
+file
+
+
+
+add
+
+wal_ET
+file
+
+
+
+add
+
+tt_RU@iqtelif
+file
+
+
+
+add
+
+ur_IN
+file
+
+
+
+add
+

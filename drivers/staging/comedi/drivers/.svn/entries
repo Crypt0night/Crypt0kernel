@@ -1,0 +1,1064 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/staging/comedi/drivers
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+s526.c
+file
+
+
+
+add
+
+aio_iiro_16.c
+file
+
+
+
+add
+
+adv_pci_dio.c
+file
+
+
+
+add
+
+addi_apci_3001.c
+file
+
+
+
+add
+
+contec_pci_dio.c
+file
+
+
+
+add
+
+addi_apci_1500.c
+file
+
+
+
+add
+
+addi_apci_3120.c
+file
+
+
+
+add
+
+addi_apci_2016.c
+file
+
+
+
+add
+
+cb_pcimdda.c
+file
+
+
+
+add
+
+pcl711.c
+file
+
+
+
+add
+
+comedi_fc.c
+file
+
+
+
+add
+
+amplc_pc263.c
+file
+
+
+
+add
+
+amplc_pci230.c
+file
+
+
+
+add
+
+ssv_dnp.c
+file
+
+
+
+add
+
+c6xdigio.c
+file
+
+
+
+add
+
+comedi_fc.h
+file
+
+
+
+add
+
+das08.c
+file
+
+
+
+add
+
+daqboard2000.c
+file
+
+
+
+add
+
+gsc_hpdi.c
+file
+
+
+
+add
+
+das1800.c
+file
+
+
+
+add
+
+ni_tio_internal.h
+file
+
+
+
+add
+
+addi_apci_16xx.c
+file
+
+
+
+add
+
+pcmad.c
+file
+
+
+
+add
+
+das08.h
+file
+
+
+
+add
+
+dt2814.c
+file
+
+
+
+add
+
+rti802.c
+file
+
+
+
+add
+
+fl512.c
+file
+
+
+
+add
+
+comedi_test.c
+file
+
+
+
+add
+
+addi_apci_2200.c
+file
+
+
+
+add
+
+addi_apci_1032.c
+file
+
+
+
+add
+
+ni_pcimio.c
+file
+
+
+
+add
+
+dmm32at.c
+file
+
+
+
+add
+
+adl_pci7432.c
+file
+
+
+
+add
+
+mpc624.c
+file
+
+
+
+add
+
+pcl724.c
+file
+
+
+
+add
+
+adv_pci1710.c
+file
+
+
+
+add
+
+acl7225b.c
+file
+
+
+
+add
+
+addi-data
+dir
+
+
+
+add
+
+usbduxfast.c
+file
+
+
+
+add
+
+ni_6527.c
+file
+
+
+
+add
+
+pcm3730.c
+file
+
+
+
+add
+
+skel.c
+file
+
+
+
+add
+
+das800.c
+file
+
+
+
+add
+
+ni_65xx.c
+file
+
+
+
+add
+
+addi_apci_3300.c
+file
+
+
+
+add
+
+8255.c
+file
+
+
+
+add
+
+cb_das16_cs.c
+file
+
+
+
+add
+
+8255.h
+file
+
+
+
+add
+
+ni_at_ao.c
+file
+
+
+
+add
+
+dt3000.c
+file
+
+
+
+add
+
+addi_apci_1564.c
+file
+
+
+
+add
+
+pcl818.c
+file
+
+
+
+add
+
+ni_tio.c
+file
+
+
+
+add
+
+adv_pci1723.c
+file
+
+
+
+add
+
+dt2811.c
+file
+
+
+
+add
+
+ni_tio.h
+file
+
+
+
+add
+
+dt2815.c
+file
+
+
+
+add
+
+ni_labpc_cs.c
+file
+
+
+
+add
+
+mite.c
+file
+
+
+
+add
+
+ni_atmio.c
+file
+
+
+
+add
+
+mite.h
+file
+
+
+
+add
+
+addi_apci_1710.c
+file
+
+
+
+add
+
+pcl725.c
+file
+
+
+
+add
+
+das16m1.c
+file
+
+
+
+add
+
+amcc_s5933.h
+file
+
+
+
+add
+
+adl_pci7296.c
+file
+
+
+
+add
+
+cb_pcimdas.c
+file
+
+
+
+add
+
+addi_apci_035.c
+file
+
+
+
+add
+
+icp_multi.c
+file
+
+
+
+add
+
+pcm_common.c
+file
+
+
+
+add
+
+cb_pcidda.c
+file
+
+
+
+add
+
+ni_660x.c
+file
+
+
+
+add
+
+icp_multi.h
+file
+
+
+
+add
+
+pcm_common.h
+file
+
+
+
+add
+
+ni_mio_cs.c
+file
+
+
+
+add
+
+s626.c
+file
+
+
+
+add
+
+me4000.c
+file
+
+
+
+add
+
+s626.h
+file
+
+
+
+add
+
+addi_apci_3501.c
+file
+
+
+
+add
+
+pcl730.c
+file
+
+
+
+add
+
+me4000.h
+file
+
+
+
+add
+
+adq12b.c
+file
+
+
+
+add
+
+ni_daq_700.c
+file
+
+
+
+add
+
+cb_pcidas64.c
+file
+
+
+
+add
+
+quatech_daqp_cs.c
+file
+
+
+
+add
+
+vmk80xx.c
+file
+
+
+
+add
+
+rti800.c
+file
+
+
+
+add
+
+addi_apci_3xxx.c
+file
+
+
+
+add
+
+plx9080.h
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+ni_pcidio.c
+file
+
+
+
+add
+
+multiq3.c
+file
+
+
+
+add
+
+ni_at_a2150.c
+file
+
+
+
+add
+
+das08_cs.c
+file
+
+
+
+add
+
+ni_tiocmd.c
+file
+
+
+
+add
+
+adl_pci7230.c
+file
+
+
+
+add
+
+amplc_pc236.c
+file
+
+
+
+add
+
+amplc_dio200.c
+file
+
+
+
+add
+
+usbdux.c
+file
+
+
+
+add
+
+pcl726.c
+file
+
+
+
+add
+
+adl_pci9118.c
+file
+
+
+
+add
+
+amplc_pci224.c
+file
+
+
+
+add
+
+rtd520.c
+file
+
+
+
+add
+
+das6402.c
+file
+
+
+
+add
+
+rtd520.h
+file
+
+
+
+add
+
+addi_apci_all.c
+file
+
+
+
+add
+
+jr3_pci.c
+file
+
+
+
+add
+
+dt282x.c
+file
+
+
+
+add
+
+ni_daq_dio24.c
+file
+
+
+
+add
+
+jr3_pci.h
+file
+
+
+
+add
+
+ke_counter.c
+file
+
+
+
+add
+
+addi_apci_3200.c
+file
+
+
+
+add
+
+addi_apci_2032.c
+file
+
+
+
+add
+
+8253.h
+file
+
+
+
+add
+
+ni_labpc.c
+file
+
+
+
+add
+
+pcl812.c
+file
+
+
+
+add
+
+ni_labpc.h
+file
+
+
+
+add
+
+pcl816.c
+file
+
+
+
+add
+
+unioxx5.c
+file
+
+
+
+add
+
+serial2002.c
+file
+
+
+
+add
+
+pcmmio.c
+file
+
+
+
+add
+
+am9513.h
+file
+
+
+
+add
+
+me_daq.c
+file
+
+
+
+add
+
+dt2817.c
+file
+
+
+
+add
+
+pcmuio.c
+file
+
+
+
+add
+
+mpc8260cpm.c
+file
+
+
+
+add
+
+pcm3724.c
+file
+
+
+
+add
+
+comedi_pci.h
+file
+
+
+
+add
+
+comedi_bond.c
+file
+
+
+
+add
+
+comedi_parport.c
+file
+
+
+
+add
+
+cb_pcidas.c
+file
+
+
+
+add
+
+adl_pci9111.c
+file
+
+
+
+add
+
+addi_apci_1516.c
+file
+
+
+
+add
+
+ni_atmio16d.c
+file
+
+
+
+add
+
+adl_pci6208.c
+file
+
+
+
+add
+
+cb_pcidio.c
+file
+
+
+
+add
+
+ii_pci20kc.c
+file
+
+
+
+add
+
+das16.c
+file
+
+
+
+add
+
+adl_pci8164.c
+file
+
+
+
+add
+
+poc.c
+file
+
+
+
+add
+
+ni_mio_common.c
+file
+
+
+
+add
+
+dt2801.c
+file
+
+
+
+add
+
+ni_stc.h
+file
+
+
+
+add
+
+pcmda12.c
+file
+
+
+
+add
+
+plx9052.h
+file
+
+
+
+add
+
+aio_aio12_8.c
+file
+
+
+
+add
+
+ni_670x.c
+file
+
+
+
+add
+
+dt9812.c
+file
+
+
+
+add
+

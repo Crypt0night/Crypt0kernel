@@ -1,0 +1,77 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/cris/include/arch-v32/mach-a3/mach/hwregs/asm
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+reg_map_asm.h
+file
+
+
+
+add
+
+ddr2_defs_asm.h
+file
+
+
+
+add
+
+gio_defs_asm.h
+file
+
+
+
+add
+
+timer_defs_asm.h
+file
+
+
+
+add
+
+pinmux_defs_asm.h
+file
+
+
+
+add
+
+clkgen_defs_asm.h
+file
+
+
+
+add
+
+pio_defs_asm.h
+file
+
+
+
+add
+

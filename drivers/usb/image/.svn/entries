@@ -1,0 +1,63 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/usb/image
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+microtek.h
+file
+
+
+
+add
+
+mdc800.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+microtek.c
+file
+
+
+
+add
+

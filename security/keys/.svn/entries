@@ -1,0 +1,126 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/security/keys
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+request_key.c
+file
+
+
+
+add
+
+sysctl.c
+file
+
+
+
+add
+
+request_key_auth.c
+file
+
+
+
+add
+
+internal.h
+file
+
+
+
+add
+
+compat.c
+file
+
+
+
+add
+
+proc.c
+file
+
+
+
+add
+
+key.c
+file
+
+
+
+add
+
+permission.c
+file
+
+
+
+add
+
+keyring.c
+file
+
+
+
+add
+
+process_keys.c
+file
+
+
+
+add
+
+gc.c
+file
+
+
+
+add
+
+keyctl.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+user_defined.c
+file
+
+
+
+add
+

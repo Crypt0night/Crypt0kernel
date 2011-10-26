@@ -1,0 +1,140 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/fs/freevxfs
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+vxfs_fshead.c
+file
+
+
+
+add
+
+vxfs_immed.c
+file
+
+
+
+add
+
+vxfs_olt.c
+file
+
+
+
+add
+
+vxfs_super.c
+file
+
+
+
+add
+
+vxfs_inode.c
+file
+
+
+
+add
+
+vxfs_fshead.h
+file
+
+
+
+add
+
+vxfs_inode.h
+file
+
+
+
+add
+
+vxfs_olt.h
+file
+
+
+
+add
+
+vxfs_lookup.c
+file
+
+
+
+add
+
+vxfs_extern.h
+file
+
+
+
+add
+
+vxfs_subr.c
+file
+
+
+
+add
+
+vxfs_bmap.c
+file
+
+
+
+add
+
+vxfs_dir.h
+file
+
+
+
+add
+
+vxfs.h
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

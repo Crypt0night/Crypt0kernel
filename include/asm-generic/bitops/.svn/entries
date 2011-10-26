@@ -1,0 +1,161 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/include/asm-generic/bitops
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+ext2-atomic.h
+file
+
+
+
+add
+
+arch_hweight.h
+file
+
+
+
+add
+
+fls64.h
+file
+
+
+
+add
+
+hweight.h
+file
+
+
+
+add
+
+le.h
+file
+
+
+
+add
+
+non-atomic.h
+file
+
+
+
+add
+
+const_hweight.h
+file
+
+
+
+add
+
+atomic.h
+file
+
+
+
+add
+
+__ffs.h
+file
+
+
+
+add
+
+ffs.h
+file
+
+
+
+add
+
+find.h
+file
+
+
+
+add
+
+__fls.h
+file
+
+
+
+add
+
+minix-le.h
+file
+
+
+
+add
+
+fls.h
+file
+
+
+
+add
+
+minix.h
+file
+
+
+
+add
+
+ext2-non-atomic.h
+file
+
+
+
+add
+
+ffz.h
+file
+
+
+
+add
+
+sched.h
+file
+
+
+
+add
+
+lock.h
+file
+
+
+
+add
+

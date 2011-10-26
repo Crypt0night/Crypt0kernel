@@ -1,0 +1,70 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/mips/include/asm/mach-ar7
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+ar7.h
+file
+
+
+
+add
+
+war.h
+file
+
+
+
+add
+
+irq.h
+file
+
+
+
+add
+
+prom.h
+file
+
+
+
+add
+
+spaces.h
+file
+
+
+
+add
+
+gpio.h
+file
+
+
+
+add
+

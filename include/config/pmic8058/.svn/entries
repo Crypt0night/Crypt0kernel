@@ -1,0 +1,84 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/include/config/pmic8058
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+misc.h
+file
+
+
+
+add
+
+othc.h
+file
+
+
+
+add
+
+xoadc.h
+file
+
+
+
+add
+
+upl.h
+file
+
+
+
+add
+
+pwm.h
+file
+
+
+
+add
+
+nfc.h
+file
+
+
+
+add
+
+battalarm.h
+file
+
+
+
+add
+
+vibrator.h
+file
+
+
+
+add
+

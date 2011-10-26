@@ -1,0 +1,140 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/sh/include
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+mach-ecovec24
+dir
+
+
+
+add
+
+asm
+dir
+
+
+
+add
+
+cpu-sh2
+dir
+
+
+
+add
+
+cpu-sh3
+dir
+
+
+
+add
+
+cpu-sh2a
+dir
+
+
+
+add
+
+mach-sh03
+dir
+
+
+
+add
+
+mach-migor
+dir
+
+
+
+add
+
+mach-sdk7786
+dir
+
+
+
+add
+
+cpu-sh4
+dir
+
+
+
+add
+
+cpu-sh5
+dir
+
+
+
+add
+
+mach-landisk
+dir
+
+
+
+add
+
+mach-common
+dir
+
+
+
+add
+
+mach-kfr2r09
+dir
+
+
+
+add
+
+mach-dreamcast
+dir
+
+
+
+add
+
+cpu-common
+dir
+
+
+
+add
+
+mach-se
+dir
+
+
+
+add
+

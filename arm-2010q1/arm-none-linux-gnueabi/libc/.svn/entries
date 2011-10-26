@@ -1,0 +1,70 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arm-2010q1/arm-none-linux-gnueabi/libc
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+thumb2
+dir
+
+
+
+add
+
+lib
+dir
+
+
+
+add
+
+usr
+dir
+
+
+
+add
+
+etc
+dir
+
+
+
+add
+
+sbin
+dir
+
+
+
+add
+
+armv4t
+dir
+
+
+
+add
+

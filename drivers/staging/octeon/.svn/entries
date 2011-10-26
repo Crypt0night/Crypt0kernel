@@ -1,0 +1,518 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/staging/octeon
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+cvmx-helper-xaui.c
+file
+
+
+
+add
+
+ethernet-defines.h
+file
+
+
+
+add
+
+cvmx-helper-sgmii.c
+file
+
+
+
+add
+
+cvmx-helper-loop.c
+file
+
+
+
+add
+
+cvmx-spxx-defs.h
+file
+
+
+
+add
+
+cvmx-helper-xaui.h
+file
+
+
+
+add
+
+cvmx-helper-sgmii.h
+file
+
+
+
+add
+
+cvmx-stxx-defs.h
+file
+
+
+
+add
+
+cvmx-helper-loop.h
+file
+
+
+
+add
+
+ethernet-spi.c
+file
+
+
+
+add
+
+cvmx-wqe.h
+file
+
+
+
+add
+
+cvmx-pcsx-defs.h
+file
+
+
+
+add
+
+cvmx-smix-defs.h
+file
+
+
+
+add
+
+cvmx-fpa.c
+file
+
+
+
+add
+
+cvmx-gmxx-defs.h
+file
+
+
+
+add
+
+ethernet-rgmii.c
+file
+
+
+
+add
+
+cvmx-fpa.h
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+cvmx-helper-fpa.c
+file
+
+
+
+add
+
+cvmx-cmd-queue.c
+file
+
+
+
+add
+
+cvmx-helper-fpa.h
+file
+
+
+
+add
+
+cvmx-pcsxx-defs.h
+file
+
+
+
+add
+
+cvmx-interrupt-rsl.c
+file
+
+
+
+add
+
+cvmx-cmd-queue.h
+file
+
+
+
+add
+
+cvmx-address.h
+file
+
+
+
+add
+
+ethernet-rx.c
+file
+
+
+
+add
+
+cvmx-spi.c
+file
+
+
+
+add
+
+octeon-ethernet.h
+file
+
+
+
+add
+
+ethernet-rx.h
+file
+
+
+
+add
+
+cvmx-interrupt-decodes.c
+file
+
+
+
+add
+
+cvmx-spi.h
+file
+
+
+
+add
+
+ethernet.c
+file
+
+
+
+add
+
+cvmx-helper-npi.c
+file
+
+
+
+add
+
+cvmx-helper-npi.h
+file
+
+
+
+add
+
+cvmx-helper-spi.c
+file
+
+
+
+add
+
+cvmx-packet.h
+file
+
+
+
+add
+
+cvmx-helper-spi.h
+file
+
+
+
+add
+
+ethernet-util.h
+file
+
+
+
+add
+
+cvmx-helper-rgmii.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+cvmx-srxx-defs.h
+file
+
+
+
+add
+
+cvmx-pko.c
+file
+
+
+
+add
+
+cvmx-helper-rgmii.h
+file
+
+
+
+add
+
+cvmx-pip.h
+file
+
+
+
+add
+
+cvmx-pko.h
+file
+
+
+
+add
+
+cvmx-helper-board.c
+file
+
+
+
+add
+
+cvmx-asxx-defs.h
+file
+
+
+
+add
+
+ethernet-xaui.c
+file
+
+
+
+add
+
+ethernet-sgmii.c
+file
+
+
+
+add
+
+cvmx-helper-board.h
+file
+
+
+
+add
+
+cvmx-pow.h
+file
+
+
+
+add
+
+cvmx-pip-defs.h
+file
+
+
+
+add
+
+ethernet-mem.c
+file
+
+
+
+add
+
+cvmx-helper.c
+file
+
+
+
+add
+
+cvmx-dbg-defs.h
+file
+
+
+
+add
+
+cvmx-ipd.h
+file
+
+
+
+add
+
+ethernet-mem.h
+file
+
+
+
+add
+
+cvmx-helper.h
+file
+
+
+
+add
+
+ethernet-mdio.c
+file
+
+
+
+add
+
+cvmx-helper-util.c
+file
+
+
+
+add
+
+cvmx-fpa-defs.h
+file
+
+
+
+add
+
+ethernet-tx.c
+file
+
+
+
+add
+
+cvmx-scratch.h
+file
+
+
+
+add
+
+cvmx-mdio.h
+file
+
+
+
+add
+
+ethernet-mdio.h
+file
+
+
+
+add
+
+cvmx-helper-util.h
+file
+
+
+
+add
+
+ethernet-tx.h
+file
+
+
+
+add
+
+cvmx-config.h
+file
+
+
+
+add
+
+cvmx-pko-defs.h
+file
+
+
+
+add
+
+cvmx-fau.h
+file
+
+
+
+add
+

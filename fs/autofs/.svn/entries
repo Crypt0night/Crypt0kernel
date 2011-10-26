@@ -1,0 +1,91 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/fs/autofs
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+inode.c
+file
+
+
+
+add
+
+autofs_i.h
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+dirhash.c
+file
+
+
+
+add
+
+root.c
+file
+
+
+
+add
+
+init.c
+file
+
+
+
+add
+
+waitq.c
+file
+
+
+
+add
+
+symlink.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

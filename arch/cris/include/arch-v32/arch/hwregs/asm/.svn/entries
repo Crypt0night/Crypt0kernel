@@ -1,0 +1,189 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/cris/include/arch-v32/arch/hwregs/asm
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+ser_defs_asm.h
+file
+
+
+
+add
+
+bif_slave_defs_asm.h
+file
+
+
+
+add
+
+intr_vect.h
+file
+
+
+
+add
+
+intr_vect_defs_asm.h
+file
+
+
+
+add
+
+irq_nmi_defs_asm.h
+file
+
+
+
+add
+
+mmu_defs_asm.h
+file
+
+
+
+add
+
+cris_defs_asm.h
+file
+
+
+
+add
+
+dma_defs_asm.h
+file
+
+
+
+add
+
+mmu_supp_reg.h
+file
+
+
+
+add
+
+strmux_defs_asm.h
+file
+
+
+
+add
+
+rt_trace_defs_asm.h
+file
+
+
+
+add
+
+cris_supp_reg.h
+file
+
+
+
+add
+
+config_defs_asm.h
+file
+
+
+
+add
+
+ata_defs_asm.h
+file
+
+
+
+add
+
+cpu_vect.h
+file
+
+
+
+add
+
+bif_core_defs_asm.h
+file
+
+
+
+add
+
+strcop_defs_asm.h
+file
+
+
+
+add
+
+sser_defs_asm.h
+file
+
+
+
+add
+
+gio_defs_asm.h
+file
+
+
+
+add
+
+eth_defs_asm.h
+file
+
+
+
+add
+
+timer_defs_asm.h
+file
+
+
+
+add
+
+marb_defs_asm.h
+file
+
+
+
+add
+
+bif_dma_defs_asm.h
+file
+
+
+
+add
+

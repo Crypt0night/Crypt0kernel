@@ -1,0 +1,84 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/block/aoe
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+aoechr.c
+file
+
+
+
+add
+
+aoedev.c
+file
+
+
+
+add
+
+aoecmd.c
+file
+
+
+
+add
+
+aoe.h
+file
+
+
+
+add
+
+aoemain.c
+file
+
+
+
+add
+
+aoenet.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+aoeblk.c
+file
+
+
+
+add
+

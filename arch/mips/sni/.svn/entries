@@ -1,0 +1,98 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/mips/sni
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+time.c
+file
+
+
+
+add
+
+pcit.c
+file
+
+
+
+add
+
+setup.c
+file
+
+
+
+add
+
+rm200.c
+file
+
+
+
+add
+
+eisa.c
+file
+
+
+
+add
+
+reset.c
+file
+
+
+
+add
+
+a20r.c
+file
+
+
+
+add
+
+irq.c
+file
+
+
+
+add
+
+pcimt.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

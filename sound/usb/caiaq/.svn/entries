@@ -1,0 +1,126 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/sound/usb/caiaq
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+device.c
+file
+
+
+
+add
+
+input.c
+file
+
+
+
+add
+
+.built-in.o.cmd
+file
+
+
+
+add
+
+control.c
+file
+
+
+
+add
+
+modules.order
+file
+
+
+
+add
+
+audio.c
+file
+
+
+
+add
+
+midi.c
+file
+
+
+
+add
+
+input.h
+file
+
+
+
+add
+
+device.h
+file
+
+
+
+add
+
+control.h
+file
+
+
+
+add
+
+audio.h
+file
+
+
+
+add
+
+midi.h
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+modules.builtin
+file
+
+
+
+add
+

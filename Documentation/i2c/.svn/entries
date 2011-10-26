@@ -1,0 +1,119 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/Documentation/i2c
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+upgrading-clients
+file
+
+
+
+add
+
+writing-clients
+file
+
+
+
+add
+
+old-module-parameters
+file
+
+
+
+add
+
+busses
+dir
+
+
+
+add
+
+fault-codes
+file
+
+
+
+add
+
+functionality
+file
+
+
+
+add
+
+i2c-stub
+file
+
+
+
+add
+
+smbus-protocol
+file
+
+
+
+add
+
+dev-interface
+file
+
+
+
+add
+
+instantiating-devices
+file
+
+
+
+add
+
+i2c-protocol
+file
+
+
+
+add
+
+summary
+file
+
+
+
+add
+
+ten-bit-addresses
+file
+
+
+
+add
+

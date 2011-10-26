@@ -1,0 +1,266 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/video/via
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+via_utility.c
+file
+
+
+
+add
+
+tblDPASetting.c
+file
+
+
+
+add
+
+accel.c
+file
+
+
+
+add
+
+via_utility.h
+file
+
+
+
+add
+
+vt1636.c
+file
+
+
+
+add
+
+lcdtbl.h
+file
+
+
+
+add
+
+tblDPASetting.h
+file
+
+
+
+add
+
+ioctl.c
+file
+
+
+
+add
+
+via-gpio.c
+file
+
+
+
+add
+
+accel.h
+file
+
+
+
+add
+
+vt1636.h
+file
+
+
+
+add
+
+ioctl.h
+file
+
+
+
+add
+
+dvi.c
+file
+
+
+
+add
+
+viafbdev.c
+file
+
+
+
+add
+
+dvi.h
+file
+
+
+
+add
+
+debug.h
+file
+
+
+
+add
+
+viafbdev.h
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+global.c
+file
+
+
+
+add
+
+tbl1636.c
+file
+
+
+
+add
+
+lcd.c
+file
+
+
+
+add
+
+via-core.c
+file
+
+
+
+add
+
+global.h
+file
+
+
+
+add
+
+tbl1636.h
+file
+
+
+
+add
+
+lcd.h
+file
+
+
+
+add
+
+share.h
+file
+
+
+
+add
+
+via_i2c.c
+file
+
+
+
+add
+
+hw.c
+file
+
+
+
+add
+
+via_modesetting.c
+file
+
+
+
+add
+
+hw.h
+file
+
+
+
+add
+
+viamode.c
+file
+
+
+
+add
+
+via_modesetting.h
+file
+
+
+
+add
+
+chip.h
+file
+
+
+
+add
+
+viamode.h
+file
+
+
+
+add
+

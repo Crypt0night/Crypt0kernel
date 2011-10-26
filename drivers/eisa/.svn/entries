@@ -1,0 +1,77 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/eisa
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+eisa.ids
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+.gitignore
+file
+
+
+
+add
+
+eisa-bus.c
+file
+
+
+
+add
+
+virtual_root.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+pci_eisa.c
+file
+
+
+
+add
+

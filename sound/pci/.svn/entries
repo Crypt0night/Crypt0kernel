@@ -1,0 +1,427 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/sound/pci
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+es1968.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+modules.order
+file
+
+
+
+add
+
+vx222
+dir
+
+
+
+add
+
+rme96.c
+file
+
+
+
+add
+
+pcxhr
+dir
+
+
+
+add
+
+ali5451
+dir
+
+
+
+add
+
+sonicvibes.c
+file
+
+
+
+add
+
+ymfpci
+dir
+
+
+
+add
+
+via82xx.c
+file
+
+
+
+add
+
+au88x0
+dir
+
+
+
+add
+
+azt3328.c
+file
+
+
+
+add
+
+cs46xx
+dir
+
+
+
+add
+
+sis7019.c
+file
+
+
+
+add
+
+riptide
+dir
+
+
+
+add
+
+cs5530.c
+file
+
+
+
+add
+
+als4000.c
+file
+
+
+
+add
+
+azt3328.h
+file
+
+
+
+add
+
+cs4281.c
+file
+
+
+
+add
+
+sis7019.h
+file
+
+
+
+add
+
+korg1212
+dir
+
+
+
+add
+
+cs5535audio
+dir
+
+
+
+add
+
+intel8x0m.c
+file
+
+
+
+add
+
+ice1712
+dir
+
+
+
+add
+
+via82xx_modem.c
+file
+
+
+
+add
+
+fm801.c
+file
+
+
+
+add
+
+es1938.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+ctxfi
+dir
+
+
+
+add
+
+maestro3.c
+file
+
+
+
+add
+
+atiixp.c
+file
+
+
+
+add
+
+ens1370.c
+file
+
+
+
+add
+
+ens1371.c
+file
+
+
+
+add
+
+als300.c
+file
+
+
+
+add
+
+emu10k1
+dir
+
+
+
+add
+
+cmipci.c
+file
+
+
+
+add
+
+ak4531_codec.c
+file
+
+
+
+add
+
+aw2
+dir
+
+
+
+add
+
+ca0106
+dir
+
+
+
+add
+
+hda
+dir
+
+
+
+add
+
+intel8x0.c
+file
+
+
+
+add
+
+bt87x.c
+file
+
+
+
+add
+
+lx6464es
+dir
+
+
+
+add
+
+ad1889.c
+file
+
+
+
+add
+
+atiixp_modem.c
+file
+
+
+
+add
+
+.built-in.o.cmd
+file
+
+
+
+add
+
+echoaudio
+dir
+
+
+
+add
+
+ac97
+dir
+
+
+
+add
+
+mixart
+dir
+
+
+
+add
+
+ad1889.h
+file
+
+
+
+add
+
+nm256
+dir
+
+
+
+add
+
+trident
+dir
+
+
+
+add
+
+oxygen
+dir
+
+
+
+add
+
+rme32.c
+file
+
+
+
+add
+
+rme9652
+dir
+
+
+
+add
+
+asihpi
+dir
+
+
+
+add
+
+modules.builtin
+file
+
+
+
+add
+

@@ -1,0 +1,161 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/blackfin
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+oprofile
+dir
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+kernel
+dir
+
+
+
+add
+
+include
+dir
+
+
+
+add
+
+mach-bf533
+dir
+
+
+
+add
+
+configs
+dir
+
+
+
+add
+
+mach-bf561
+dir
+
+
+
+add
+
+mach-bf527
+dir
+
+
+
+add
+
+mach-bf518
+dir
+
+
+
+add
+
+mach-bf537
+dir
+
+
+
+add
+
+mach-bf538
+dir
+
+
+
+add
+
+mach-bf548
+dir
+
+
+
+add
+
+mach-common
+dir
+
+
+
+add
+
+boot
+dir
+
+
+
+add
+
+ADI_BSD.txt
+file
+
+
+
+add
+
+Kconfig.debug
+file
+
+
+
+add
+
+lib
+dir
+
+
+
+add
+
+mm
+dir
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

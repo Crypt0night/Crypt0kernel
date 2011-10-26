@@ -1,0 +1,119 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/media/dvb/siano
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+smsdvb.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+smssdio.c
+file
+
+
+
+add
+
+smsendian.c
+file
+
+
+
+add
+
+sms-cards.h
+file
+
+
+
+add
+
+smsir.h
+file
+
+
+
+add
+
+smscoreapi.c
+file
+
+
+
+add
+
+smsendian.h
+file
+
+
+
+add
+
+smscoreapi.h
+file
+
+
+
+add
+
+sms-cards.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+smsusb.c
+file
+
+
+
+add
+
+smsir.c
+file
+
+
+
+add
+

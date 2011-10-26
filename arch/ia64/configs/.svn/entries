@@ -1,0 +1,77 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/ia64/configs
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+bigsur_defconfig
+file
+
+
+
+add
+
+generic_defconfig
+file
+
+
+
+add
+
+xen_domu_defconfig
+file
+
+
+
+add
+
+zx1_defconfig
+file
+
+
+
+add
+
+gensparse_defconfig
+file
+
+
+
+add
+
+sim_defconfig
+file
+
+
+
+add
+
+tiger_defconfig
+file
+
+
+
+add
+

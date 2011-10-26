@@ -1,0 +1,147 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/media/video/gspca/m5602
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+m5602_ov7660.c
+file
+
+
+
+add
+
+m5602_ov9650.c
+file
+
+
+
+add
+
+m5602_mt9m111.c
+file
+
+
+
+add
+
+m5602_ov7660.h
+file
+
+
+
+add
+
+m5602_ov9650.h
+file
+
+
+
+add
+
+m5602_sensor.h
+file
+
+
+
+add
+
+m5602_mt9m111.h
+file
+
+
+
+add
+
+m5602_s5k83a.c
+file
+
+
+
+add
+
+m5602_po1030.c
+file
+
+
+
+add
+
+m5602_s5k83a.h
+file
+
+
+
+add
+
+m5602_po1030.h
+file
+
+
+
+add
+
+m5602_core.c
+file
+
+
+
+add
+
+m5602_s5k4aa.c
+file
+
+
+
+add
+
+m5602_s5k4aa.h
+file
+
+
+
+add
+
+m5602_bridge.h
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

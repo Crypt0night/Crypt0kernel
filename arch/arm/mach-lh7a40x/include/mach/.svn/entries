@@ -1,0 +1,133 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/arm/mach-lh7a40x/include/mach
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+vmalloc.h
+file
+
+
+
+add
+
+hardware.h
+file
+
+
+
+add
+
+uncompress.h
+file
+
+
+
+add
+
+debug-macro.S
+file
+
+
+
+add
+
+dma.h
+file
+
+
+
+add
+
+ssp.h
+file
+
+
+
+add
+
+io.h
+file
+
+
+
+add
+
+registers.h
+file
+
+
+
+add
+
+memory.h
+file
+
+
+
+add
+
+entry-macro.S
+file
+
+
+
+add
+
+constants.h
+file
+
+
+
+add
+
+irqs.h
+file
+
+
+
+add
+
+clocks.h
+file
+
+
+
+add
+
+system.h
+file
+
+
+
+add
+
+timex.h
+file
+
+
+
+add
+

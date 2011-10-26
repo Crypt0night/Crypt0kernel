@@ -1,0 +1,84 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/media/video/cpia2
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+cpia2dev.h
+file
+
+
+
+add
+
+cpia2_v4l.c
+file
+
+
+
+add
+
+cpia2.h
+file
+
+
+
+add
+
+cpia2_core.c
+file
+
+
+
+add
+
+cpia2_usb.c
+file
+
+
+
+add
+
+cpia2_registers.h
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

@@ -1,0 +1,112 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/include/config/generic
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+find
+dir
+
+
+
+add
+
+clockevents
+dir
+
+
+
+add
+
+hardirqs.h
+file
+
+
+
+add
+
+lockbreak.h
+file
+
+
+
+add
+
+time.h
+file
+
+
+
+add
+
+gpio.h
+file
+
+
+
+add
+
+hweight.h
+file
+
+
+
+add
+
+calibrate
+dir
+
+
+
+add
+
+clockevents.h
+file
+
+
+
+add
+
+allocator.h
+file
+
+
+
+add
+
+irq
+dir
+
+
+
+add
+
+hardirqs
+dir
+
+
+
+add
+

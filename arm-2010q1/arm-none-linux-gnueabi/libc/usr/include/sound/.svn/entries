@@ -1,0 +1,105 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arm-2010q1/arm-none-linux-gnueabi/libc/usr/include/sound
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+asound.h
+file
+
+
+
+add
+
+asound_fm.h
+file
+
+
+
+add
+
+hdspm.h
+file
+
+
+
+add
+
+asequencer.h
+file
+
+
+
+add
+
+hdsp.h
+file
+
+
+
+add
+
+.install
+file
+
+
+
+add
+
+..install.cmd
+file
+
+
+
+add
+
+sb16_csp.h
+file
+
+
+
+add
+
+emu10k1.h
+file
+
+
+
+add
+
+sfnt_info.h
+file
+
+
+
+add
+
+sscape_ioctl.h
+file
+
+
+
+add
+

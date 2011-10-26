@@ -1,0 +1,49 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/sh/include/mach-kfr2r09/mach
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+kfr2r09.h
+file
+
+
+
+add
+
+romimage.h
+file
+
+
+
+add
+
+partner-jet-setup.txt
+file
+
+
+
+add
+

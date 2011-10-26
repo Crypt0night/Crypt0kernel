@@ -1,0 +1,91 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/rapidio
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+rio.h
+file
+
+
+
+add
+
+rio-sysfs.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+rio-driver.c
+file
+
+
+
+add
+
+rio-access.c
+file
+
+
+
+add
+
+switches
+dir
+
+
+
+add
+
+rio.c
+file
+
+
+
+add
+
+rio-scan.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

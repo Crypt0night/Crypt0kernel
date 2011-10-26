@@ -1,0 +1,189 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/usb
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+serial
+dir
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+atm
+dir
+
+
+
+add
+
+modules.order
+file
+
+
+
+add
+
+image
+dir
+
+
+
+add
+
+function
+dir
+
+
+
+add
+
+c67x00
+dir
+
+
+
+add
+
+core
+dir
+
+
+
+add
+
+mon
+dir
+
+
+
+add
+
+otg
+dir
+
+
+
+add
+
+wusbcore
+dir
+
+
+
+add
+
+misc
+dir
+
+
+
+add
+
+gadget
+dir
+
+
+
+add
+
+usb-skeleton.c
+file
+
+
+
+add
+
+README
+file
+
+
+
+add
+
+.built-in.o.cmd
+file
+
+
+
+add
+
+storage
+dir
+
+
+
+add
+
+class
+dir
+
+
+
+add
+
+musb
+dir
+
+
+
+add
+
+early
+dir
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+host
+dir
+
+
+
+add
+
+modules.builtin
+file
+
+
+
+add
+

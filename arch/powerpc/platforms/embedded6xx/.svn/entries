@@ -1,0 +1,154 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/powerpc/platforms/embedded6xx
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+linkstation.c
+file
+
+
+
+add
+
+usbgecko_udbg.c
+file
+
+
+
+add
+
+hlwd-pic.c
+file
+
+
+
+add
+
+gamecube.c
+file
+
+
+
+add
+
+usbgecko_udbg.h
+file
+
+
+
+add
+
+ls_uart.c
+file
+
+
+
+add
+
+flipper-pic.c
+file
+
+
+
+add
+
+hlwd-pic.h
+file
+
+
+
+add
+
+mpc10x.h
+file
+
+
+
+add
+
+c2k.c
+file
+
+
+
+add
+
+flipper-pic.h
+file
+
+
+
+add
+
+mpc7448_hpc2.c
+file
+
+
+
+add
+
+holly.c
+file
+
+
+
+add
+
+wii.c
+file
+
+
+
+add
+
+storcenter.c
+file
+
+
+
+add
+
+prpmc2800.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

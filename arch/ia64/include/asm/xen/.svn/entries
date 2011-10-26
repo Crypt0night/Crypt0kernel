@@ -1,0 +1,119 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/ia64/include/asm/xen
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+xcom_hcall.h
+file
+
+
+
+add
+
+hypervisor.h
+file
+
+
+
+add
+
+irq.h
+file
+
+
+
+add
+
+patchlist.h
+file
+
+
+
+add
+
+page.h
+file
+
+
+
+add
+
+inst.h
+file
+
+
+
+add
+
+privop.h
+file
+
+
+
+add
+
+interface.h
+file
+
+
+
+add
+
+grant_table.h
+file
+
+
+
+add
+
+hypercall.h
+file
+
+
+
+add
+
+minstate.h
+file
+
+
+
+add
+
+events.h
+file
+
+
+
+add
+
+xencomm.h
+file
+
+
+
+add
+

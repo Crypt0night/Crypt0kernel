@@ -1,0 +1,126 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/cris/include/arch-v32/mach-fs/mach/hwregs
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+bif_core_defs.h
+file
+
+
+
+add
+
+asm
+dir
+
+
+
+add
+
+reg_map.h
+file
+
+
+
+add
+
+bif_slave_defs.h
+file
+
+
+
+add
+
+intr_vect.h
+file
+
+
+
+add
+
+intr_vect_defs.h
+file
+
+
+
+add
+
+gio_defs.h
+file
+
+
+
+add
+
+pinmux_defs.h
+file
+
+
+
+add
+
+timer_defs.h
+file
+
+
+
+add
+
+marb_defs.h
+file
+
+
+
+add
+
+bif_dma_defs.h
+file
+
+
+
+add
+
+strmux_defs.h
+file
+
+
+
+add
+
+marb_bp_defs.h
+file
+
+
+
+add
+
+config_defs.h
+file
+
+
+
+add
+

@@ -1,0 +1,126 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/infiniband/hw/nes
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+nes_context.h
+file
+
+
+
+add
+
+nes_nic.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+nes_hw.c
+file
+
+
+
+add
+
+nes_cm.c
+file
+
+
+
+add
+
+nes.c
+file
+
+
+
+add
+
+nes_utils.c
+file
+
+
+
+add
+
+nes_verbs.c
+file
+
+
+
+add
+
+nes_hw.h
+file
+
+
+
+add
+
+nes_user.h
+file
+
+
+
+add
+
+nes_cm.h
+file
+
+
+
+add
+
+nes.h
+file
+
+
+
+add
+
+nes_verbs.h
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

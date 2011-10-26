@@ -1,0 +1,105 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/powerpc/sysdev/qe_lib
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+ucc_slow.c
+file
+
+
+
+add
+
+gpio.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+qe_ic.c
+file
+
+
+
+add
+
+qe_ic.h
+file
+
+
+
+add
+
+qe.c
+file
+
+
+
+add
+
+ucc_fast.c
+file
+
+
+
+add
+
+usb.c
+file
+
+
+
+add
+
+ucc.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+qe_io.c
+file
+
+
+
+add
+

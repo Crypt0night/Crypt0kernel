@@ -1,0 +1,175 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/arm/mach-mx2
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Makefile.boot
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+pcm970-baseboard.c
+file
+
+
+
+add
+
+eukrea_mbimx27-baseboard.c
+file
+
+
+
+add
+
+mm-imx21.c
+file
+
+
+
+add
+
+clock_imx21.c
+file
+
+
+
+add
+
+mach-mxt_td60.c
+file
+
+
+
+add
+
+mach-mx27_3ds.c
+file
+
+
+
+add
+
+cpu_imx27.c
+file
+
+
+
+add
+
+mm-imx27.c
+file
+
+
+
+add
+
+serial.c
+file
+
+
+
+add
+
+mach-pcm038.c
+file
+
+
+
+add
+
+clock_imx27.c
+file
+
+
+
+add
+
+devices.c
+file
+
+
+
+add
+
+mach-cpuimx27.c
+file
+
+
+
+add
+
+mach-mx21ads.c
+file
+
+
+
+add
+
+devices.h
+file
+
+
+
+add
+
+mach-pca100.c
+file
+
+
+
+add
+
+mach-imx27lite.c
+file
+
+
+
+add
+
+mach-mx27ads.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

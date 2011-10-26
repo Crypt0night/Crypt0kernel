@@ -1,0 +1,343 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/fs/nfs
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+cache_lib.h
+file
+
+
+
+add
+
+nfs4proc.c
+file
+
+
+
+add
+
+super.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+unlink.c
+file
+
+
+
+add
+
+callback.h
+file
+
+
+
+add
+
+nfs4_fs.h
+file
+
+
+
+add
+
+iostat.h
+file
+
+
+
+add
+
+callback_xdr.c
+file
+
+
+
+add
+
+read.c
+file
+
+
+
+add
+
+client.c
+file
+
+
+
+add
+
+nfs4renewd.c
+file
+
+
+
+add
+
+callback_proc.c
+file
+
+
+
+add
+
+getroot.c
+file
+
+
+
+add
+
+dns_resolve.c
+file
+
+
+
+add
+
+nfs2xdr.c
+file
+
+
+
+add
+
+nfs4namespace.c
+file
+
+
+
+add
+
+nfs4xdr.c
+file
+
+
+
+add
+
+dns_resolve.h
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+fscache.c
+file
+
+
+
+add
+
+namespace.c
+file
+
+
+
+add
+
+inode.c
+file
+
+
+
+add
+
+fscache.h
+file
+
+
+
+add
+
+fscache-index.c
+file
+
+
+
+add
+
+proc.c
+file
+
+
+
+add
+
+pagelist.c
+file
+
+
+
+add
+
+direct.c
+file
+
+
+
+add
+
+delegation.c
+file
+
+
+
+add
+
+nfs4state.c
+file
+
+
+
+add
+
+dir.c
+file
+
+
+
+add
+
+file.c
+file
+
+
+
+add
+
+delegation.h
+file
+
+
+
+add
+
+sysctl.c
+file
+
+
+
+add
+
+internal.h
+file
+
+
+
+add
+
+mount_clnt.c
+file
+
+
+
+add
+
+symlink.c
+file
+
+
+
+add
+
+nfs3xdr.c
+file
+
+
+
+add
+
+cache_lib.c
+file
+
+
+
+add
+
+nfs3acl.c
+file
+
+
+
+add
+
+nfsroot.c
+file
+
+
+
+add
+
+idmap.c
+file
+
+
+
+add
+
+write.c
+file
+
+
+
+add
+
+callback.c
+file
+
+
+
+add
+
+nfs3proc.c
+file
+
+
+
+add
+

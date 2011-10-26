@@ -1,0 +1,119 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/powerpc/include/asm/iseries
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+hv_call_event.h
+file
+
+
+
+add
+
+hv_lp_event.h
+file
+
+
+
+add
+
+lpar_map.h
+file
+
+
+
+add
+
+it_lp_queue.h
+file
+
+
+
+add
+
+hv_call_xm.h
+file
+
+
+
+add
+
+hv_lp_config.h
+file
+
+
+
+add
+
+hv_call_sc.h
+file
+
+
+
+add
+
+vio.h
+file
+
+
+
+add
+
+hv_types.h
+file
+
+
+
+add
+
+alpaca.h
+file
+
+
+
+add
+
+mf.h
+file
+
+
+
+add
+
+iommu.h
+file
+
+
+
+add
+
+hv_call.h
+file
+
+
+
+add
+

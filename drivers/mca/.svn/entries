@@ -1,0 +1,77 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/mca
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+mca-proc.c
+file
+
+
+
+add
+
+mca-legacy.c
+file
+
+
+
+add
+
+mca-bus.c
+file
+
+
+
+add
+
+mca-driver.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+mca-device.c
+file
+
+
+
+add
+

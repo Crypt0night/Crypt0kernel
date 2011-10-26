@@ -1,0 +1,63 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/mips/loongson
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+common
+dir
+
+
+
+add
+
+lemote-2f
+dir
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+fuloong-2e
+dir
+
+
+
+add
+

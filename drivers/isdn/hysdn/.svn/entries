@@ -1,0 +1,126 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/isdn/hysdn
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+hysdn_pof.h
+file
+
+
+
+add
+
+hysdn_procconf.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+boardergo.c
+file
+
+
+
+add
+
+ince1pc.h
+file
+
+
+
+add
+
+hysdn_boot.c
+file
+
+
+
+add
+
+hysdn_init.c
+file
+
+
+
+add
+
+boardergo.h
+file
+
+
+
+add
+
+hysdn_proclog.c
+file
+
+
+
+add
+
+hysdn_net.c
+file
+
+
+
+add
+
+hysdn_defs.h
+file
+
+
+
+add
+
+hysdn_sched.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+hycapi.c
+file
+
+
+
+add
+

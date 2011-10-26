@@ -1,0 +1,126 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/fs/coda
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+inode.c
+file
+
+
+
+add
+
+dir.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+file.c
+file
+
+
+
+add
+
+upcall.c
+file
+
+
+
+add
+
+sysctl.c
+file
+
+
+
+add
+
+psdev.c
+file
+
+
+
+add
+
+cache.c
+file
+
+
+
+add
+
+coda_linux.c
+file
+
+
+
+add
+
+coda_int.h
+file
+
+
+
+add
+
+symlink.c
+file
+
+
+
+add
+
+cnode.c
+file
+
+
+
+add
+
+pioctl.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

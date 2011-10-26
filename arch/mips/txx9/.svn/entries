@@ -1,0 +1,70 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/mips/txx9
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+rbtx4927
+dir
+
+
+
+add
+
+rbtx4938
+dir
+
+
+
+add
+
+rbtx4939
+dir
+
+
+
+add
+
+generic
+dir
+
+
+
+add
+
+jmr3927
+dir
+
+
+
+add
+

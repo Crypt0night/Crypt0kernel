@@ -1,0 +1,994 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/acpi/acpica
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+nsutils.c
+file
+
+
+
+add
+
+exconfig.c
+file
+
+
+
+add
+
+aclocal.h
+file
+
+
+
+add
+
+psutils.c
+file
+
+
+
+add
+
+rsutils.c
+file
+
+
+
+add
+
+acevents.h
+file
+
+
+
+add
+
+rslist.c
+file
+
+
+
+add
+
+evxface.c
+file
+
+
+
+add
+
+evrgnini.c
+file
+
+
+
+add
+
+exresop.c
+file
+
+
+
+add
+
+tbutils.c
+file
+
+
+
+add
+
+acmacros.h
+file
+
+
+
+add
+
+exmutex.c
+file
+
+
+
+add
+
+psargs.c
+file
+
+
+
+add
+
+utlock.c
+file
+
+
+
+add
+
+exdump.c
+file
+
+
+
+add
+
+exprep.c
+file
+
+
+
+add
+
+nsnames.c
+file
+
+
+
+add
+
+tbxfroot.c
+file
+
+
+
+add
+
+utglobal.c
+file
+
+
+
+add
+
+acobject.h
+file
+
+
+
+add
+
+evmisc.c
+file
+
+
+
+add
+
+dswscope.c
+file
+
+
+
+add
+
+exoparg3.c
+file
+
+
+
+add
+
+acdispat.h
+file
+
+
+
+add
+
+hwregs.c
+file
+
+
+
+add
+
+pswalk.c
+file
+
+
+
+add
+
+evxfevnt.c
+file
+
+
+
+add
+
+nsdump.c
+file
+
+
+
+add
+
+tbfind.c
+file
+
+
+
+add
+
+exresolv.c
+file
+
+
+
+add
+
+utdelete.c
+file
+
+
+
+add
+
+utinit.c
+file
+
+
+
+add
+
+nsxfname.c
+file
+
+
+
+add
+
+exfield.c
+file
+
+
+
+add
+
+nsrepair.c
+file
+
+
+
+add
+
+exfldio.c
+file
+
+
+
+add
+
+acstruct.h
+file
+
+
+
+add
+
+exutils.c
+file
+
+
+
+add
+
+dswstate.c
+file
+
+
+
+add
+
+utxface.c
+file
+
+
+
+add
+
+rsmisc.c
+file
+
+
+
+add
+
+dsopcode.c
+file
+
+
+
+add
+
+rsirq.c
+file
+
+
+
+add
+
+accommon.h
+file
+
+
+
+add
+
+utmath.c
+file
+
+
+
+add
+
+utalloc.c
+file
+
+
+
+add
+
+nsinit.c
+file
+
+
+
+add
+
+evgpeutil.c
+file
+
+
+
+add
+
+nspredef.c
+file
+
+
+
+add
+
+dsmethod.c
+file
+
+
+
+add
+
+rscalc.c
+file
+
+
+
+add
+
+rscreate.c
+file
+
+
+
+add
+
+nsxfobj.c
+file
+
+
+
+add
+
+hwacpi.c
+file
+
+
+
+add
+
+acconfig.h
+file
+
+
+
+add
+
+rsaddr.c
+file
+
+
+
+add
+
+nsxfeval.c
+file
+
+
+
+add
+
+utresrc.c
+file
+
+
+
+add
+
+acresrc.h
+file
+
+
+
+add
+
+utids.c
+file
+
+
+
+add
+
+psxface.c
+file
+
+
+
+add
+
+rsxface.c
+file
+
+
+
+add
+
+nsalloc.c
+file
+
+
+
+add
+
+acnamesp.h
+file
+
+
+
+add
+
+exresnte.c
+file
+
+
+
+add
+
+dswload.c
+file
+
+
+
+add
+
+acdebug.h
+file
+
+
+
+add
+
+utdebug.c
+file
+
+
+
+add
+
+nswalk.c
+file
+
+
+
+add
+
+rsinfo.c
+file
+
+
+
+add
+
+exnames.c
+file
+
+
+
+add
+
+tbfadt.c
+file
+
+
+
+add
+
+exstorob.c
+file
+
+
+
+add
+
+nsrepair2.c
+file
+
+
+
+add
+
+nssearch.c
+file
+
+
+
+add
+
+hwsleep.c
+file
+
+
+
+add
+
+acglobal.h
+file
+
+
+
+add
+
+hwgpe.c
+file
+
+
+
+add
+
+tbxface.c
+file
+
+
+
+add
+
+exstore.c
+file
+
+
+
+add
+
+dsinit.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+dsobject.c
+file
+
+
+
+add
+
+acparser.h
+file
+
+
+
+add
+
+evgpe.c
+file
+
+
+
+add
+
+amlcode.h
+file
+
+
+
+add
+
+utmutex.c
+file
+
+
+
+add
+
+acpredef.h
+file
+
+
+
+add
+
+achware.h
+file
+
+
+
+add
+
+nsload.c
+file
+
+
+
+add
+
+evxfregn.c
+file
+
+
+
+add
+
+exoparg1.c
+file
+
+
+
+add
+
+exmisc.c
+file
+
+
+
+add
+
+evgpeblk.c
+file
+
+
+
+add
+
+uteval.c
+file
+
+
+
+add
+
+excreate.c
+file
+
+
+
+add
+
+nsaccess.c
+file
+
+
+
+add
+
+pstree.c
+file
+
+
+
+add
+
+utmisc.c
+file
+
+
+
+add
+
+exstoren.c
+file
+
+
+
+add
+
+exconvrt.c
+file
+
+
+
+add
+
+evsci.c
+file
+
+
+
+add
+
+rsdump.c
+file
+
+
+
+add
+
+psloop.c
+file
+
+
+
+add
+
+evevent.c
+file
+
+
+
+add
+
+psscope.c
+file
+
+
+
+add
+
+rsmemory.c
+file
+
+
+
+add
+
+evregion.c
+file
+
+
+
+add
+
+utobject.c
+file
+
+
+
+add
+
+exregion.c
+file
+
+
+
+add
+
+tbinstal.c
+file
+
+
+
+add
+
+exsystem.c
+file
+
+
+
+add
+
+actables.h
+file
+
+
+
+add
+
+nseval.c
+file
+
+
+
+add
+
+utstate.c
+file
+
+
+
+add
+
+evgpeinit.c
+file
+
+
+
+add
+
+hwvalid.c
+file
+
+
+
+add
+
+nsdumpdv.c
+file
+
+
+
+add
+
+dswexec.c
+file
+
+
+
+add
+
+nsobject.c
+file
+
+
+
+add
+
+dsmthdat.c
+file
+
+
+
+add
+
+acutils.h
+file
+
+
+
+add
+
+dsfield.c
+file
+
+
+
+add
+
+acinterp.h
+file
+
+
+
+add
+
+nsparse.c
+file
+
+
+
+add
+
+rsio.c
+file
+
+
+
+add
+
+psopcode.c
+file
+
+
+
+add
+
+amlresrc.h
+file
+
+
+
+add
+
+psparse.c
+file
+
+
+
+add
+
+hwtimer.c
+file
+
+
+
+add
+
+acopcode.h
+file
+
+
+
+add
+
+exdebug.c
+file
+
+
+
+add
+
+utcopy.c
+file
+
+
+
+add
+
+hwxface.c
+file
+
+
+
+add
+
+dsutils.c
+file
+
+
+
+add
+
+exoparg2.c
+file
+
+
+
+add
+
+exoparg6.c
+file
+
+
+
+add
+

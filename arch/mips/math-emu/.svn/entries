@@ -1,0 +1,350 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/mips/math-emu
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+sp_mul.c
+file
+
+
+
+add
+
+ieee754dp.h
+file
+
+
+
+add
+
+dp_tint.c
+file
+
+
+
+add
+
+dp_cmp.c
+file
+
+
+
+add
+
+sp_fint.c
+file
+
+
+
+add
+
+dp_div.c
+file
+
+
+
+add
+
+dp_tlong.c
+file
+
+
+
+add
+
+dp_logb.c
+file
+
+
+
+add
+
+dp_scalb.c
+file
+
+
+
+add
+
+dp_frexp.c
+file
+
+
+
+add
+
+dp_modf.c
+file
+
+
+
+add
+
+kernel_linkage.c
+file
+
+
+
+add
+
+ieee754d.c
+file
+
+
+
+add
+
+dp_fsp.c
+file
+
+
+
+add
+
+dp_add.c
+file
+
+
+
+add
+
+sp_fdp.c
+file
+
+
+
+add
+
+dp_simple.c
+file
+
+
+
+add
+
+dp_sub.c
+file
+
+
+
+add
+
+sp_tint.c
+file
+
+
+
+add
+
+dp_mul.c
+file
+
+
+
+add
+
+ieee754m.c
+file
+
+
+
+add
+
+sp_logb.c
+file
+
+
+
+add
+
+sp_modf.c
+file
+
+
+
+add
+
+dsemul.c
+file
+
+
+
+add
+
+sp_simple.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+ieee754xcpt.c
+file
+
+
+
+add
+
+sp_flong.c
+file
+
+
+
+add
+
+ieee754.c
+file
+
+
+
+add
+
+ieee754sp.c
+file
+
+
+
+add
+
+dp_sqrt.c
+file
+
+
+
+add
+
+ieee754.h
+file
+
+
+
+add
+
+ieee754sp.h
+file
+
+
+
+add
+
+sp_cmp.c
+file
+
+
+
+add
+
+dp_fint.c
+file
+
+
+
+add
+
+sp_div.c
+file
+
+
+
+add
+
+sp_tlong.c
+file
+
+
+
+add
+
+sp_scalb.c
+file
+
+
+
+add
+
+sp_frexp.c
+file
+
+
+
+add
+
+ieee754int.h
+file
+
+
+
+add
+
+dp_flong.c
+file
+
+
+
+add
+
+sp_add.c
+file
+
+
+
+add
+
+cp1emu.c
+file
+
+
+
+add
+
+sp_sqrt.c
+file
+
+
+
+add
+
+ieee754dp.c
+file
+
+
+
+add
+
+sp_sub.c
+file
+
+
+
+add
+

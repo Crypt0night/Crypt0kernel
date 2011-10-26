@@ -1,0 +1,91 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/infiniband/hw
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+ehca
+dir
+
+
+
+add
+
+amso1100
+dir
+
+
+
+add
+
+mlx4
+dir
+
+
+
+add
+
+nes
+dir
+
+
+
+add
+
+ipath
+dir
+
+
+
+add
+
+cxgb3
+dir
+
+
+
+add
+
+cxgb4
+dir
+
+
+
+add
+
+qib
+dir
+
+
+
+add
+
+mthca
+dir
+
+
+
+add
+

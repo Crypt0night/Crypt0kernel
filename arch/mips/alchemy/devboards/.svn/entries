@@ -1,0 +1,119 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/mips/alchemy/devboards
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+pb1000
+dir
+
+
+
+add
+
+pb1100
+dir
+
+
+
+add
+
+pb1200
+dir
+
+
+
+add
+
+platform.c
+file
+
+
+
+add
+
+pb1500
+dir
+
+
+
+add
+
+db1200
+dir
+
+
+
+add
+
+platform.h
+file
+
+
+
+add
+
+bcsr.c
+file
+
+
+
+add
+
+pb1550
+dir
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+pm.c
+file
+
+
+
+add
+
+prom.c
+file
+
+
+
+add
+
+db1x00
+dir
+
+
+
+add
+

@@ -1,0 +1,196 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/sound/isa/gus
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+gus_timer.c
+file
+
+
+
+add
+
+gusclassic.c
+file
+
+
+
+add
+
+gus_reset.c
+file
+
+
+
+add
+
+gus_dram.c
+file
+
+
+
+add
+
+modules.order
+file
+
+
+
+add
+
+gus_main.c
+file
+
+
+
+add
+
+gus_mixer.c
+file
+
+
+
+add
+
+gusmax.c
+file
+
+
+
+add
+
+interwave.c
+file
+
+
+
+add
+
+gus_irq.c
+file
+
+
+
+add
+
+gus_instr.c
+file
+
+
+
+add
+
+gus_dma.c
+file
+
+
+
+add
+
+gus_mem_proc.c
+file
+
+
+
+add
+
+.built-in.o.cmd
+file
+
+
+
+add
+
+gus_volume.c
+file
+
+
+
+add
+
+gus_io.c
+file
+
+
+
+add
+
+gusextreme.c
+file
+
+
+
+add
+
+gus_uart.c
+file
+
+
+
+add
+
+interwave-stb.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+gus_mem.c
+file
+
+
+
+add
+
+modules.builtin
+file
+
+
+
+add
+
+gus_tables.h
+file
+
+
+
+add
+
+gus_pcm.c
+file
+
+
+
+add
+

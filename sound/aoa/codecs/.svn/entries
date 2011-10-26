@@ -1,0 +1,91 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/sound/aoa/codecs
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+tas-basstreble.h
+file
+
+
+
+add
+
+onyx.h
+file
+
+
+
+add
+
+tas.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+tas.h
+file
+
+
+
+add
+
+tas-gain-table.h
+file
+
+
+
+add
+
+onyx.c
+file
+
+
+
+add
+
+toonie.c
+file
+
+
+
+add
+

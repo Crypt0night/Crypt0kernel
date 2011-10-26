@@ -1,0 +1,238 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/sound/soc
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+.soc-dapm.o.cmd
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+modules.order
+file
+
+
+
+add
+
+fsl
+dir
+
+
+
+add
+
+soc-dapm.c
+file
+
+
+
+add
+
+.soc-core.o.cmd
+file
+
+
+
+add
+
+pxa
+dir
+
+
+
+add
+
+soc-core.c
+file
+
+
+
+add
+
+omap
+dir
+
+
+
+add
+
+msm
+dir
+
+
+
+add
+
+imx
+dir
+
+
+
+add
+
+.soc-utils.o.cmd
+file
+
+
+
+add
+
+codecs
+dir
+
+
+
+add
+
+.built-in.o.cmd
+file
+
+
+
+add
+
+.soc-cache.o.cmd
+file
+
+
+
+add
+
+atmel
+dir
+
+
+
+add
+
+soc-utils.c
+file
+
+
+
+add
+
+soc-cache.c
+file
+
+
+
+add
+
+.soc-jack.o.cmd
+file
+
+
+
+add
+
+s6000
+dir
+
+
+
+add
+
+.snd-soc-core.o.cmd
+file
+
+
+
+add
+
+blackfin
+dir
+
+
+
+add
+
+sh
+dir
+
+
+
+add
+
+soc-jack.c
+file
+
+
+
+add
+
+txx9
+dir
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+davinci
+dir
+
+
+
+add
+
+modules.builtin
+file
+
+
+
+add
+
+au1x
+dir
+
+
+
+add
+
+s3c24xx
+dir
+
+
+
+add
+

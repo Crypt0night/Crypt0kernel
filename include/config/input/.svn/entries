@@ -1,0 +1,98 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/include/config/input
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+evdev.h
+file
+
+
+
+add
+
+keyreset.h
+file
+
+
+
+add
+
+misc.h
+file
+
+
+
+add
+
+isl29028.h
+file
+
+
+
+add
+
+isl29029.h
+file
+
+
+
+add
+
+gpio.h
+file
+
+
+
+add
+
+touchscreen.h
+file
+
+
+
+add
+
+uinput.h
+file
+
+
+
+add
+
+dummy
+dir
+
+
+
+add
+
+keychord.h
+file
+
+
+
+add
+

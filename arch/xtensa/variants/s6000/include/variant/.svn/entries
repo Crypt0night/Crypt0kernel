@@ -1,0 +1,77 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/xtensa/variants/s6000/include/variant
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+irq.h
+file
+
+
+
+add
+
+hardware.h
+file
+
+
+
+add
+
+gpio.h
+file
+
+
+
+add
+
+tie-asm.h
+file
+
+
+
+add
+
+tie.h
+file
+
+
+
+add
+
+dmac.h
+file
+
+
+
+add
+
+core.h
+file
+
+
+
+add
+

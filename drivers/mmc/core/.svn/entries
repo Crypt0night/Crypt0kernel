@@ -1,0 +1,322 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/mmc/core
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+sdio.c
+file
+
+
+
+add
+
+bus.h
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+modules.order
+file
+
+
+
+add
+
+.sd.o.cmd
+file
+
+
+
+add
+
+mmc_ops.h
+file
+
+
+
+add
+
+.sdio_irq.o.cmd
+file
+
+
+
+add
+
+sd.c
+file
+
+
+
+add
+
+sdio_irq.c
+file
+
+
+
+add
+
+.sdio_ops.o.cmd
+file
+
+
+
+add
+
+sdio_ops.c
+file
+
+
+
+add
+
+.sd_ops.o.cmd
+file
+
+
+
+add
+
+sdio_ops.h
+file
+
+
+
+add
+
+.core.o.cmd
+file
+
+
+
+add
+
+sd_ops.c
+file
+
+
+
+add
+
+.sdio_cis.o.cmd
+file
+
+
+
+add
+
+core.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+sdio_cis.c
+file
+
+
+
+add
+
+sd_ops.h
+file
+
+
+
+add
+
+core.h
+file
+
+
+
+add
+
+sdio_cis.h
+file
+
+
+
+add
+
+.sdio_bus.o.cmd
+file
+
+
+
+add
+
+sdio_bus.c
+file
+
+
+
+add
+
+.mmc.o.cmd
+file
+
+
+
+add
+
+.host.o.cmd
+file
+
+
+
+add
+
+.debugfs.o.cmd
+file
+
+
+
+add
+
+mmc.c
+file
+
+
+
+add
+
+sdio_bus.h
+file
+
+
+
+add
+
+host.c
+file
+
+
+
+add
+
+.built-in.o.cmd
+file
+
+
+
+add
+
+debugfs.c
+file
+
+
+
+add
+
+.mmc_core.o.cmd
+file
+
+
+
+add
+
+.sdio_io.o.cmd
+file
+
+
+
+add
+
+host.h
+file
+
+
+
+add
+
+sdio_io.c
+file
+
+
+
+add
+
+.bus.o.cmd
+file
+
+
+
+add
+
+.mmc_ops.o.cmd
+file
+
+
+
+add
+
+bus.c
+file
+
+
+
+add
+
+.sdio.o.cmd
+file
+
+
+
+add
+
+modules.builtin
+file
+
+
+
+add
+
+mmc_ops.c
+file
+
+
+
+add
+

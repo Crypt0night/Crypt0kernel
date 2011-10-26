@@ -1,0 +1,112 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/include/config/have
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+clk.h
+file
+
+
+
+add
+
+kernel
+dir
+
+
+
+add
+
+proc
+dir
+
+
+
+add
+
+oprofile.h
+file
+
+
+
+add
+
+function
+dir
+
+
+
+add
+
+kretprobes.h
+file
+
+
+
+add
+
+ide.h
+file
+
+
+
+add
+
+kprobes.h
+file
+
+
+
+add
+
+generic
+dir
+
+
+
+add
+
+perf
+dir
+
+
+
+add
+
+arch
+dir
+
+
+
+add
+
+aout.h
+file
+
+
+
+add
+

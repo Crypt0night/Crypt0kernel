@@ -1,0 +1,238 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/fs/afs
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+inode.c
+file
+
+
+
+add
+
+super.c
+file
+
+
+
+add
+
+flock.c
+file
+
+
+
+add
+
+rxrpc.c
+file
+
+
+
+add
+
+vlocation.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+mntpt.c
+file
+
+
+
+add
+
+cache.c
+file
+
+
+
+add
+
+proc.c
+file
+
+
+
+add
+
+server.c
+file
+
+
+
+add
+
+afs_fs.h
+file
+
+
+
+add
+
+security.c
+file
+
+
+
+add
+
+volume.c
+file
+
+
+
+add
+
+fsclient.c
+file
+
+
+
+add
+
+vnode.c
+file
+
+
+
+add
+
+dir.c
+file
+
+
+
+add
+
+afs.h
+file
+
+
+
+add
+
+afs_vl.h
+file
+
+
+
+add
+
+file.c
+file
+
+
+
+add
+
+cell.c
+file
+
+
+
+add
+
+cmservice.c
+file
+
+
+
+add
+
+vlclient.c
+file
+
+
+
+add
+
+internal.h
+file
+
+
+
+add
+
+main.c
+file
+
+
+
+add
+
+netdevices.c
+file
+
+
+
+add
+
+write.c
+file
+
+
+
+add
+
+misc.c
+file
+
+
+
+add
+
+callback.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+afs_cm.h
+file
+
+
+
+add
+

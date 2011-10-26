@@ -1,0 +1,77 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/Documentation/pcmcia
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+driver-changes.txt
+file
+
+
+
+add
+
+crc32hash.c
+file
+
+
+
+add
+
+locking.txt
+file
+
+
+
+add
+
+.gitignore
+file
+
+
+
+add
+
+devicetable.txt
+file
+
+
+
+add
+
+driver.txt
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

@@ -1,0 +1,70 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/include/linux/mfd/pcf50633
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+gpio.h
+file
+
+
+
+add
+
+mbc.h
+file
+
+
+
+add
+
+adc.h
+file
+
+
+
+add
+
+backlight.h
+file
+
+
+
+add
+
+pmic.h
+file
+
+
+
+add
+
+core.h
+file
+
+
+
+add
+

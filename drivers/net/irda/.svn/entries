@@ -1,0 +1,378 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/net/irda
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+w83977af_ir.h
+file
+
+
+
+add
+
+sa1100_ir.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+bfin_sir.h
+file
+
+
+
+add
+
+nsc-ircc.c
+file
+
+
+
+add
+
+via-ircc.h
+file
+
+
+
+add
+
+smsc-sio.h
+file
+
+
+
+add
+
+girbil-sir.c
+file
+
+
+
+add
+
+smsc-ircc2.c
+file
+
+
+
+add
+
+irda-usb.c
+file
+
+
+
+add
+
+irtty-sir.c
+file
+
+
+
+add
+
+nsc-ircc.h
+file
+
+
+
+add
+
+vlsi_ir.c
+file
+
+
+
+add
+
+sh_irda.c
+file
+
+
+
+add
+
+ep7211-sir.c
+file
+
+
+
+add
+
+smsc-ircc2.h
+file
+
+
+
+add
+
+irda-usb.h
+file
+
+
+
+add
+
+au1000_ircc.h
+file
+
+
+
+add
+
+irtty-sir.h
+file
+
+
+
+add
+
+vlsi_ir.h
+file
+
+
+
+add
+
+ma600-sir.c
+file
+
+
+
+add
+
+tekram-sir.c
+file
+
+
+
+add
+
+ks959-sir.c
+file
+
+
+
+add
+
+ksdazzle-sir.c
+file
+
+
+
+add
+
+ali-ircc.c
+file
+
+
+
+add
+
+pxaficp_ir.c
+file
+
+
+
+add
+
+sir_dongle.c
+file
+
+
+
+add
+
+stir4200.c
+file
+
+
+
+add
+
+ali-ircc.h
+file
+
+
+
+add
+
+sir_dev.c
+file
+
+
+
+add
+
+au1k_ir.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+donauboe.c
+file
+
+
+
+add
+
+old_belkin-sir.c
+file
+
+
+
+add
+
+act200l-sir.c
+file
+
+
+
+add
+
+donauboe.h
+file
+
+
+
+add
+
+w83977af.h
+file
+
+
+
+add
+
+litelink-sir.c
+file
+
+
+
+add
+
+mcs7780.c
+file
+
+
+
+add
+
+kingsun-sir.c
+file
+
+
+
+add
+
+actisys-sir.c
+file
+
+
+
+add
+
+esi-sir.c
+file
+
+
+
+add
+
+toim3232-sir.c
+file
+
+
+
+add
+
+mcs7780.h
+file
+
+
+
+add
+
+sir-dev.h
+file
+
+
+
+add
+
+mcp2120-sir.c
+file
+
+
+
+add
+
+sh_sir.c
+file
+
+
+
+add
+
+w83977af_ir.c
+file
+
+
+
+add
+
+bfin_sir.c
+file
+
+
+
+add
+
+via-ircc.c
+file
+
+
+
+add
+

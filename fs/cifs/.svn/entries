@@ -1,0 +1,630 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/fs/cifs
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+cifsencrypt.h
+file
+
+
+
+add
+
+.cifsacl.o.cmd
+file
+
+
+
+add
+
+AUTHORS
+file
+
+
+
+add
+
+cifsacl.c
+file
+
+
+
+add
+
+.ioctl.o.cmd
+file
+
+
+
+add
+
+cifsacl.h
+file
+
+
+
+add
+
+.sess.o.cmd
+file
+
+
+
+add
+
+cn_cifs.h
+file
+
+
+
+add
+
+ioctl.c
+file
+
+
+
+add
+
+cifs.ko
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+smbdes.c
+file
+
+
+
+add
+
+.cifs.o.cmd
+file
+
+
+
+add
+
+export.c
+file
+
+
+
+add
+
+.md5.o.cmd
+file
+
+
+
+add
+
+md5.c
+file
+
+
+
+add
+
+.cifs_debug.o.cmd
+file
+
+
+
+add
+
+cifs_unicode.c
+file
+
+
+
+add
+
+md5.h
+file
+
+
+
+add
+
+.inode.o.cmd
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+.netmisc.o.cmd
+file
+
+
+
+add
+
+.xattr.o.cmd
+file
+
+
+
+add
+
+inode.c
+file
+
+
+
+add
+
+.asn1.o.cmd
+file
+
+
+
+add
+
+cifs_unicode.h
+file
+
+
+
+add
+
+xattr.c
+file
+
+
+
+add
+
+cifs.mod.c
+file
+
+
+
+add
+
+netmisc.c
+file
+
+
+
+add
+
+ntlmssp.h
+file
+
+
+
+add
+
+cifs_fs_sb.h
+file
+
+
+
+add
+
+.readdir.o.cmd
+file
+
+
+
+add
+
+.cifsfs.o.cmd
+file
+
+
+
+add
+
+readdir.c
+file
+
+
+
+add
+
+.file.o.cmd
+file
+
+
+
+add
+
+cifs_dfs_ref.c
+file
+
+
+
+add
+
+cifsproto.h
+file
+
+
+
+add
+
+.built-in.o.cmd
+file
+
+
+
+add
+
+smbfsctl.h
+file
+
+
+
+add
+
+.smbencrypt.o.cmd
+file
+
+
+
+add
+
+.connect.o.cmd
+file
+
+
+
+add
+
+.nterr.o.cmd
+file
+
+
+
+add
+
+.misc.o.cmd
+file
+
+
+
+add
+
+.transport.o.cmd
+file
+
+
+
+add
+
+.link.o.cmd
+file
+
+
+
+add
+
+connect.c
+file
+
+
+
+add
+
+nterr.c
+file
+
+
+
+add
+
+cifs_uniupr.h
+file
+
+
+
+add
+
+rfc1002pdu.h
+file
+
+
+
+add
+
+transport.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+smberr.h
+file
+
+
+
+add
+
+nterr.h
+file
+
+
+
+add
+
+modules.order
+file
+
+
+
+add
+
+cifspdu.h
+file
+
+
+
+add
+
+.smbdes.o.cmd
+file
+
+
+
+add
+
+sess.c
+file
+
+
+
+add
+
+.export.o.cmd
+file
+
+
+
+add
+
+.md4.o.cmd
+file
+
+
+
+add
+
+.cifssmb.o.cmd
+file
+
+
+
+add
+
+dns_resolve.c
+file
+
+
+
+add
+
+md4.c
+file
+
+
+
+add
+
+.cifs_unicode.o.cmd
+file
+
+
+
+add
+
+cifssmb.c
+file
+
+
+
+add
+
+CHANGES
+file
+
+
+
+add
+
+dns_resolve.h
+file
+
+
+
+add
+
+cifs_debug.c
+file
+
+
+
+add
+
+.cifs.mod.o.cmd
+file
+
+
+
+add
+
+cifs_debug.h
+file
+
+
+
+add
+
+cifs_spnego.c
+file
+
+
+
+add
+
+asn1.c
+file
+
+
+
+add
+
+cifs_spnego.h
+file
+
+
+
+add
+
+.dir.o.cmd
+file
+
+
+
+add
+
+README
+file
+
+
+
+add
+
+cifsfs.c
+file
+
+
+
+add
+
+dir.c
+file
+
+
+
+add
+
+file.c
+file
+
+
+
+add
+
+cifsfs.h
+file
+
+
+
+add
+
+TODO
+file
+
+
+
+add
+
+.cifsencrypt.o.cmd
+file
+
+
+
+add
+
+smbencrypt.c
+file
+
+
+
+add
+
+cifsencrypt.c
+file
+
+
+
+add
+
+.cifs.ko.cmd
+file
+
+
+
+add
+
+misc.c
+file
+
+
+
+add
+
+cifsglob.h
+file
+
+
+
+add
+
+link.c
+file
+
+
+
+add
+

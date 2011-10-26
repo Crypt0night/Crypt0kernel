@@ -1,0 +1,84 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/Documentation/x86/x86_64
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+cpu-hotplug-spec
+file
+
+
+
+add
+
+machinecheck
+file
+
+
+
+add
+
+00-INDEX
+file
+
+
+
+add
+
+uefi.txt
+file
+
+
+
+add
+
+kernel-stacks
+file
+
+
+
+add
+
+mm.txt
+file
+
+
+
+add
+
+boot-options.txt
+file
+
+
+
+add
+
+fake-numa-for-cpusets
+file
+
+
+
+add
+

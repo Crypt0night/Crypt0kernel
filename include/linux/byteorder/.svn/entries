@@ -1,0 +1,56 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/include/linux/byteorder
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+little_endian.h
+file
+
+
+
+add
+
+generic.h
+file
+
+
+
+add
+
+big_endian.h
+file
+
+
+
+add
+
+Kbuild
+file
+
+
+
+add
+

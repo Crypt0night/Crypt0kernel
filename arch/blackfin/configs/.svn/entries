@@ -1,0 +1,196 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/blackfin/configs
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+H8606_defconfig
+file
+
+
+
+add
+
+BF538-EZKIT_defconfig
+file
+
+
+
+add
+
+BF548-EZKIT_defconfig
+file
+
+
+
+add
+
+BF561-ACVILON_defconfig
+file
+
+
+
+add
+
+CM-BF533_defconfig
+file
+
+
+
+add
+
+IP0X_defconfig
+file
+
+
+
+add
+
+CM-BF561_defconfig
+file
+
+
+
+add
+
+BlackStamp_defconfig
+file
+
+
+
+add
+
+CM-BF527_defconfig
+file
+
+
+
+add
+
+PNAV-10_defconfig
+file
+
+
+
+add
+
+CM-BF548_defconfig
+file
+
+
+
+add
+
+CM-BF537E_defconfig
+file
+
+
+
+add
+
+BF526-EZBRD_defconfig
+file
+
+
+
+add
+
+SRV1_defconfig
+file
+
+
+
+add
+
+BF527-EZKIT-V2_defconfig
+file
+
+
+
+add
+
+BF518F-EZBRD_defconfig
+file
+
+
+
+add
+
+BF533-STAMP_defconfig
+file
+
+
+
+add
+
+BF533-EZKIT_defconfig
+file
+
+
+
+add
+
+TCM-BF518_defconfig
+file
+
+
+
+add
+
+BF561-EZKIT_defconfig
+file
+
+
+
+add
+
+TCM-BF537_defconfig
+file
+
+
+
+add
+
+BF537-STAMP_defconfig
+file
+
+
+
+add
+
+CM-BF537U_defconfig
+file
+
+
+
+add
+
+BF527-EZKIT_defconfig
+file
+
+
+
+add
+

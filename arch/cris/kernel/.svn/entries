@@ -1,0 +1,119 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/cris/kernel
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+time.c
+file
+
+
+
+add
+
+process.c
+file
+
+
+
+add
+
+sys_cris.c
+file
+
+
+
+add
+
+ptrace.c
+file
+
+
+
+add
+
+profile.c
+file
+
+
+
+add
+
+setup.c
+file
+
+
+
+add
+
+vmlinux.lds.S
+file
+
+
+
+add
+
+module.c
+file
+
+
+
+add
+
+asm-offsets.c
+file
+
+
+
+add
+
+crisksyms.c
+file
+
+
+
+add
+
+traps.c
+file
+
+
+
+add
+
+irq.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

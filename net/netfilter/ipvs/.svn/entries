@@ -1,0 +1,210 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/net/netfilter/ipvs
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+ip_vs_lblcr.c
+file
+
+
+
+add
+
+ip_vs_lc.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+ip_vs_proto.c
+file
+
+
+
+add
+
+ip_vs_proto_tcp.c
+file
+
+
+
+add
+
+ip_vs_sh.c
+file
+
+
+
+add
+
+ip_vs_wrr.c
+file
+
+
+
+add
+
+ip_vs_sed.c
+file
+
+
+
+add
+
+ip_vs_proto_udp.c
+file
+
+
+
+add
+
+ip_vs_sync.c
+file
+
+
+
+add
+
+ip_vs_lblc.c
+file
+
+
+
+add
+
+ip_vs_nq.c
+file
+
+
+
+add
+
+ip_vs_app.c
+file
+
+
+
+add
+
+ip_vs_xmit.c
+file
+
+
+
+add
+
+ip_vs_ctl.c
+file
+
+
+
+add
+
+ip_vs_proto_ah_esp.c
+file
+
+
+
+add
+
+ip_vs_rr.c
+file
+
+
+
+add
+
+ip_vs_wlc.c
+file
+
+
+
+add
+
+ip_vs_sched.c
+file
+
+
+
+add
+
+ip_vs_core.c
+file
+
+
+
+add
+
+ip_vs_ftp.c
+file
+
+
+
+add
+
+ip_vs_est.c
+file
+
+
+
+add
+
+ip_vs_dh.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+ip_vs_proto_sctp.c
+file
+
+
+
+add
+
+ip_vs_conn.c
+file
+
+
+
+add
+

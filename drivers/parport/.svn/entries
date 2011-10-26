@@ -1,0 +1,182 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/parport
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+parport_mfc3.c
+file
+
+
+
+add
+
+share.c
+file
+
+
+
+add
+
+BUGS-parport
+file
+
+
+
+add
+
+parport_ax88796.c
+file
+
+
+
+add
+
+ieee1284_ops.c
+file
+
+
+
+add
+
+probe.c
+file
+
+
+
+add
+
+parport_atari.c
+file
+
+
+
+add
+
+daisy.c
+file
+
+
+
+add
+
+TODO-parport
+file
+
+
+
+add
+
+parport_pc.c
+file
+
+
+
+add
+
+parport_cs.c
+file
+
+
+
+add
+
+parport_sunbpp.c
+file
+
+
+
+add
+
+multiface.h
+file
+
+
+
+add
+
+parport_gsc.c
+file
+
+
+
+add
+
+parport_ip32.c
+file
+
+
+
+add
+
+parport_amiga.c
+file
+
+
+
+add
+
+ieee1284.c
+file
+
+
+
+add
+
+parport_serial.c
+file
+
+
+
+add
+
+parport_gsc.h
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+procfs.c
+file
+
+
+
+add
+

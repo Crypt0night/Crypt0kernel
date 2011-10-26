@@ -1,0 +1,133 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/arm/mach-ks8695
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+gpio.c
+file
+
+
+
+add
+
+Makefile.boot
+file
+
+
+
+add
+
+time.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+board-micrel.c
+file
+
+
+
+add
+
+include
+dir
+
+
+
+add
+
+pci.c
+file
+
+
+
+add
+
+generic.h
+file
+
+
+
+add
+
+devices.c
+file
+
+
+
+add
+
+cpu.c
+file
+
+
+
+add
+
+leds.c
+file
+
+
+
+add
+
+board-acs5k.c
+file
+
+
+
+add
+
+irq.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+board-dsm320.c
+file
+
+
+
+add
+

@@ -1,0 +1,63 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/include/config/i2c
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+helper
+dir
+
+
+
+add
+
+ssbi.h
+file
+
+
+
+add
+
+compat.h
+file
+
+
+
+add
+
+boardinfo.h
+file
+
+
+
+add
+
+qup.h
+file
+
+
+
+add
+

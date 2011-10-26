@@ -1,0 +1,294 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/staging/cx25821
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+cx25821-video0.c
+file
+
+
+
+add
+
+cx25821-medusa-video.h
+file
+
+
+
+add
+
+cx25821-video1.c
+file
+
+
+
+add
+
+cx25821-video2.c
+file
+
+
+
+add
+
+cx25821-video3.c
+file
+
+
+
+add
+
+cx25821-video4.c
+file
+
+
+
+add
+
+cx25821-video5.c
+file
+
+
+
+add
+
+cx25821-video6.c
+file
+
+
+
+add
+
+cx25821-cards.c
+file
+
+
+
+add
+
+cx25821-video7.c
+file
+
+
+
+add
+
+cx25821-gpio.c
+file
+
+
+
+add
+
+cx25821-medusa-reg.h
+file
+
+
+
+add
+
+cx25821-videoioctl.c
+file
+
+
+
+add
+
+cx25821-gpio.h
+file
+
+
+
+add
+
+cx25821-audups11.c
+file
+
+
+
+add
+
+cx25821-vidups9.c
+file
+
+
+
+add
+
+cx25821-video-upstream.c
+file
+
+
+
+add
+
+cx25821-sram.h
+file
+
+
+
+add
+
+cx25821.h
+file
+
+
+
+add
+
+cx25821-video-upstream.h
+file
+
+
+
+add
+
+cx25821-i2c.c
+file
+
+
+
+add
+
+cx25821-video-upstream-ch2.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+cx25821-video-upstream-ch2.h
+file
+
+
+
+add
+
+cx25821-core.c
+file
+
+
+
+add
+
+cx25821-medusa-defines.h
+file
+
+
+
+add
+
+cx25821-audio-upstream.c
+file
+
+
+
+add
+
+README
+file
+
+
+
+add
+
+cx25821-biffuncs.h
+file
+
+
+
+add
+
+cx25821-audio-upstream.h
+file
+
+
+
+add
+
+cx25821-audio.h
+file
+
+
+
+add
+
+cx25821-video.c
+file
+
+
+
+add
+
+cx25821-video.h
+file
+
+
+
+add
+
+cx25821-vidups10.c
+file
+
+
+
+add
+
+cx25821-alsa.c
+file
+
+
+
+add
+
+cx25821-reg.h
+file
+
+
+
+add
+
+cx25821-medusa-video.c
+file
+
+
+
+add
+

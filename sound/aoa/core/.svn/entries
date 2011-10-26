@@ -1,0 +1,70 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/sound/aoa/core
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+gpio-pmf.c
+file
+
+
+
+add
+
+alsa.c
+file
+
+
+
+add
+
+alsa.h
+file
+
+
+
+add
+
+gpio-feature.c
+file
+
+
+
+add
+
+core.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

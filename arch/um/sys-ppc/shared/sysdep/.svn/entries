@@ -1,0 +1,56 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/um/sys-ppc/shared/sysdep
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+syscalls.h
+file
+
+
+
+add
+
+ptrace.h
+file
+
+
+
+add
+
+skas_ptrace.h
+file
+
+
+
+add
+
+sigcontext.h
+file
+
+
+
+add
+

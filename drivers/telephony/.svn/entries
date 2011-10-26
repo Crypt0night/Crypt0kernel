@@ -1,0 +1,77 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/telephony
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Kconfig
+file
+
+
+
+add
+
+ixj.h
+file
+
+
+
+add
+
+ixj_pcmcia.c
+file
+
+
+
+add
+
+phonedev.c
+file
+
+
+
+add
+
+ixj-ver.h
+file
+
+
+
+add
+
+ixj.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

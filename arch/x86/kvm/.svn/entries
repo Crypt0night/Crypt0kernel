@@ -1,0 +1,189 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/x86/kvm
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+mmu.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+irq.h
+file
+
+
+
+add
+
+kvm_timer.h
+file
+
+
+
+add
+
+trace.h
+file
+
+
+
+add
+
+mmu.h
+file
+
+
+
+add
+
+svm.c
+file
+
+
+
+add
+
+kvm_cache_regs.h
+file
+
+
+
+add
+
+paging_tmpl.h
+file
+
+
+
+add
+
+vmx.c
+file
+
+
+
+add
+
+i8254.c
+file
+
+
+
+add
+
+tss.h
+file
+
+
+
+add
+
+i8259.c
+file
+
+
+
+add
+
+i8254.h
+file
+
+
+
+add
+
+timer.c
+file
+
+
+
+add
+
+mmutrace.h
+file
+
+
+
+add
+
+x86.c
+file
+
+
+
+add
+
+lapic.c
+file
+
+
+
+add
+
+x86.h
+file
+
+
+
+add
+
+irq.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+emulate.c
+file
+
+
+
+add
+
+lapic.h
+file
+
+
+
+add
+

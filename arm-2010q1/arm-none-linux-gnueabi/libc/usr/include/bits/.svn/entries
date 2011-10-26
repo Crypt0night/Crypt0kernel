@@ -1,0 +1,749 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arm-2010q1/arm-none-linux-gnueabi/libc/usr/include/bits
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+xtitypes.h
+file
+
+
+
+add
+
+sockaddr.h
+file
+
+
+
+add
+
+syslog-ldbl.h
+file
+
+
+
+add
+
+netdb.h
+file
+
+
+
+add
+
+initspin.h
+file
+
+
+
+add
+
+link.h
+file
+
+
+
+add
+
+stdio-ldbl.h
+file
+
+
+
+add
+
+siginfo.h
+file
+
+
+
+add
+
+endian.h
+file
+
+
+
+add
+
+byteswap.h
+file
+
+
+
+add
+
+fenv.h
+file
+
+
+
+add
+
+sigset.h
+file
+
+
+
+add
+
+msq.h
+file
+
+
+
+add
+
+ustat.h
+file
+
+
+
+add
+
+huge_valf.h
+file
+
+
+
+add
+
+in.h
+file
+
+
+
+add
+
+poll.h
+file
+
+
+
+add
+
+huge_vall.h
+file
+
+
+
+add
+
+mathcalls.h
+file
+
+
+
+add
+
+waitstatus.h
+file
+
+
+
+add
+
+monetary-ldbl.h
+file
+
+
+
+add
+
+sigthread.h
+file
+
+
+
+add
+
+cmathcalls.h
+file
+
+
+
+add
+
+stropts.h
+file
+
+
+
+add
+
+syslog.h
+file
+
+
+
+add
+
+dirent.h
+file
+
+
+
+add
+
+utmp.h
+file
+
+
+
+add
+
+a.out.h
+file
+
+
+
+add
+
+confname.h
+file
+
+
+
+add
+
+error.h
+file
+
+
+
+add
+
+string3.h
+file
+
+
+
+add
+
+statvfs.h
+file
+
+
+
+add
+
+elfclass.h
+file
+
+
+
+add
+
+fenvinline.h
+file
+
+
+
+add
+
+ioctls.h
+file
+
+
+
+add
+
+time.h
+file
+
+
+
+add
+
+libc-lock.h
+file
+
+
+
+add
+
+locale.h
+file
+
+
+
+add
+
+stab.def
+file
+
+
+
+add
+
+setjmp.h
+file
+
+
+
+add
+
+statfs.h
+file
+
+
+
+add
+
+stdio-lock.h
+file
+
+
+
+add
+
+printf-ldbl.h
+file
+
+
+
+add
+
+sigaction.h
+file
+
+
+
+add
+
+termios.h
+file
+
+
+
+add
+
+mqueue2.h
+file
+
+
+
+add
+
+posix1_lim.h
+file
+
+
+
+add
+
+setjmp2.h
+file
+
+
+
+add
+
+sem.h
+file
+
+
+
+add
+
+wchar2.h
+file
+
+
+
+add
+
+environments.h
+file
+
+
+
+add
+
+predefs.h
+file
+
+
+
+add
+
+huge_val.h
+file
+
+
+
+add
+
+local_lim.h
+file
+
+
+
+add
+
+uio.h
+file
+
+
+
+add
+
+typesizes.h
+file
+
+
+
+add
+
+ipctypes.h
+file
+
+
+
+add
+
+mqueue.h
+file
+
+
+
+add
+
+signum.h
+file
+
+
+
+add
+
+types.h
+file
+
+
+
+add
+
+wordsize.h
+file
+
+
+
+add
+
+fcntl.h
+file
+
+
+
+add
+
+string.h
+file
+
+
+
+add
+
+sigstack.h
+file
+
+
+
+add
+
+libio-ldbl.h
+file
+
+
+
+add
+
+syslog-path.h
+file
+
+
+
+add
+
+syscall.h
+file
+
+
+
+add
+
+socket2.h
+file
+
+
+
+add
+
+stat.h
+file
+
+
+
+add
+
+ipc.h
+file
+
+
+
+add
+
+ioctl-types.h
+file
+
+
+
+add
+
+inf.h
+file
+
+
+
+add
+
+pthreadtypes.h
+file
+
+
+
+add
+
+utmpx.h
+file
+
+
+
+add
+
+wchar-ldbl.h
+file
+
+
+
+add
+
+select.h
+file
+
+
+
+add
+
+waitflags.h
+file
+
+
+
+add
+
+stdlib.h
+file
+
+
+
+add
+
+stdio.h
+file
+
+
+
+add
+
+semaphore.h
+file
+
+
+
+add
+
+posix_opt.h
+file
+
+
+
+add
+
+sched.h
+file
+
+
+
+add
+
+shm.h
+file
+
+
+
+add
+
+resource.h
+file
+
+
+
+add
+
+string2.h
+file
+
+
+
+add
+
+fcntl2.h
+file
+
+
+
+add
+
+xopen_lim.h
+file
+
+
+
+add
+
+stdlib-ldbl.h
+file
+
+
+
+add
+
+stdio2.h
+file
+
+
+
+add
+
+wchar.h
+file
+
+
+
+add
+
+unistd.h
+file
+
+
+
+add
+
+mathdef.h
+file
+
+
+
+add
+
+utsname.h
+file
+
+
+
+add
+
+nan.h
+file
+
+
+
+add
+
+sys_errlist.h
+file
+
+
+
+add
+
+stdio_lim.h
+file
+
+
+
+add
+
+posix2_lim.h
+file
+
+
+
+add
+
+errno.h
+file
+
+
+
+add
+
+dlfcn.h
+file
+
+
+
+add
+
+sigcontext.h
+file
+
+
+
+add
+
+socket.h
+file
+
+
+
+add
+
+mman.h
+file
+
+
+
+add
+
+mathinline.h
+file
+
+
+
+add
+

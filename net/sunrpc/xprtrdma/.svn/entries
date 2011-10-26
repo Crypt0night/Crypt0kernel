@@ -1,0 +1,98 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/net/sunrpc/xprtrdma
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+svc_rdma.c
+file
+
+
+
+add
+
+verbs.c
+file
+
+
+
+add
+
+svc_rdma_recvfrom.c
+file
+
+
+
+add
+
+xprt_rdma.h
+file
+
+
+
+add
+
+svc_rdma_marshal.c
+file
+
+
+
+add
+
+rpc_rdma.c
+file
+
+
+
+add
+
+svc_rdma_transport.c
+file
+
+
+
+add
+
+svc_rdma_sendto.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+transport.c
+file
+
+
+
+add
+

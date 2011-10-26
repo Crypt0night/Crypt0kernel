@@ -1,0 +1,147 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/arch/arm/mach-clps711x
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+Makefile.boot
+file
+
+
+
+add
+
+time.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+clep7312.c
+file
+
+
+
+add
+
+p720t-leds.c
+file
+
+
+
+add
+
+include
+dir
+
+
+
+add
+
+cdb89712.c
+file
+
+
+
+add
+
+autcpu12.c
+file
+
+
+
+add
+
+fortunet.c
+file
+
+
+
+add
+
+mm.c
+file
+
+
+
+add
+
+edb7211-mm.c
+file
+
+
+
+add
+
+p720t.c
+file
+
+
+
+add
+
+edb7211-arch.c
+file
+
+
+
+add
+
+ceiva.c
+file
+
+
+
+add
+
+irq.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+common.h
+file
+
+
+
+add
+

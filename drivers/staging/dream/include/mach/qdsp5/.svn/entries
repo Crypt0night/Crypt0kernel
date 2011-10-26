@@ -1,0 +1,147 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/drivers/staging/dream/include/mach/qdsp5
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+qdsp5vfecmdi.h
+file
+
+
+
+add
+
+qdsp5vdeccmdi.h
+file
+
+
+
+add
+
+qdsp5audppmsg.h
+file
+
+
+
+add
+
+qdsp5jpegcmdi.h
+file
+
+
+
+add
+
+qdsp5lpmcmdi.h
+file
+
+
+
+add
+
+qdsp5vfemsg.h
+file
+
+
+
+add
+
+qdsp5venccmdi.h
+file
+
+
+
+add
+
+qdsp5vdecmsg.h
+file
+
+
+
+add
+
+qdsp5audplaycmdi.h
+file
+
+
+
+add
+
+qdsp5jpegmsg.h
+file
+
+
+
+add
+
+qdsp5lpmmsg.h
+file
+
+
+
+add
+
+qdsp5audreccmdi.h
+file
+
+
+
+add
+
+qdsp5audpreproccmdi.h
+file
+
+
+
+add
+
+qdsp5audppcmdi.h
+file
+
+
+
+add
+
+qdsp5audplaymsg.h
+file
+
+
+
+add
+
+qdsp5audrecmsg.h
+file
+
+
+
+add
+
+qdsp5audpreprocmsg.h
+file
+
+
+
+add
+

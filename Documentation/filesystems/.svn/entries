@@ -1,0 +1,560 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/Documentation/filesystems
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+00-INDEX
+file
+
+
+
+add
+
+nfs
+dir
+
+
+
+add
+
+afs.txt
+file
+
+
+
+add
+
+smbfs.txt
+file
+
+
+
+add
+
+ntfs.txt
+file
+
+
+
+add
+
+logfs.txt
+file
+
+
+
+add
+
+cramfs.txt
+file
+
+
+
+add
+
+dnotify.txt
+file
+
+
+
+add
+
+ramfs-rootfs-initramfs.txt
+file
+
+
+
+add
+
+adfs.txt
+file
+
+
+
+add
+
+affs.txt
+file
+
+
+
+add
+
+sysfs-pci.txt
+file
+
+
+
+add
+
+gfs2-glocks.txt
+file
+
+
+
+add
+
+isofs.txt
+file
+
+
+
+add
+
+cifs.txt
+file
+
+
+
+add
+
+sysfs-tagging.txt
+file
+
+
+
+add
+
+romfs.txt
+file
+
+
+
+add
+
+seq_file.txt
+file
+
+
+
+add
+
+gfs2-uevents.txt
+file
+
+
+
+add
+
+9p.txt
+file
+
+
+
+add
+
+quota.txt
+file
+
+
+
+add
+
+tmpfs.txt
+file
+
+
+
+add
+
+ufs.txt
+file
+
+
+
+add
+
+squashfs.txt
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+autofs4-mount-control.txt
+file
+
+
+
+add
+
+omfs.txt
+file
+
+
+
+add
+
+automount-support.txt
+file
+
+
+
+add
+
+devpts.txt
+file
+
+
+
+add
+
+ubifs.txt
+file
+
+
+
+add
+
+locks.txt
+file
+
+
+
+add
+
+ocfs2.txt
+file
+
+
+
+add
+
+caching
+dir
+
+
+
+add
+
+befs.txt
+file
+
+
+
+add
+
+debugfs.txt
+file
+
+
+
+add
+
+btrfs.txt
+file
+
+
+
+add
+
+ext2.txt
+file
+
+
+
+add
+
+ext3.txt
+file
+
+
+
+add
+
+hfsplus.txt
+file
+
+
+
+add
+
+ext4.txt
+file
+
+
+
+add
+
+nilfs2.txt
+file
+
+
+
+add
+
+pohmelfs
+dir
+
+
+
+add
+
+xip.txt
+file
+
+
+
+add
+
+hpfs.txt
+file
+
+
+
+add
+
+sharedsubtree.txt
+file
+
+
+
+add
+
+fiemap.txt
+file
+
+
+
+add
+
+gfs2.txt
+file
+
+
+
+add
+
+coda.txt
+file
+
+
+
+add
+
+Locking
+file
+
+
+
+add
+
+ncpfs.txt
+file
+
+
+
+add
+
+directory-locking
+file
+
+
+
+add
+
+sysv-fs.txt
+file
+
+
+
+add
+
+bfs.txt
+file
+
+
+
+add
+
+udf.txt
+file
+
+
+
+add
+
+ceph.txt
+file
+
+
+
+add
+
+configfs
+dir
+
+
+
+add
+
+hfs.txt
+file
+
+
+
+add
+
+inotify.txt
+file
+
+
+
+add
+
+jfs.txt
+file
+
+
+
+add
+
+dentry-locking.txt
+file
+
+
+
+add
+
+vfs.txt
+file
+
+
+
+add
+
+ecryptfs.txt
+file
+
+
+
+add
+
+vfat.txt
+file
+
+
+
+add
+
+xfs.txt
+file
+
+
+
+add
+
+fuse.txt
+file
+
+
+
+add
+
+files.txt
+file
+
+
+
+add
+
+proc.txt
+file
+
+
+
+add
+
+porting
+file
+
+
+
+add
+
+dlmfs.txt
+file
+
+
+
+add
+
+sysfs.txt
+file
+
+
+
+add
+
+relay.txt
+file
+
+
+
+add
+
+dnotify_test.c
+file
+
+
+
+add
+
+mandatory-locking.txt
+file
+
+
+
+add
+
+exofs.txt
+file
+
+
+
+add
+
+xfs-delayed-logging-design.txt
+file
+
+
+
+add
+
+spufs.txt
+file
+
+
+
+add
+

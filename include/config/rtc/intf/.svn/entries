@@ -1,0 +1,63 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/include/config/rtc/intf
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+alarm.h
+file
+
+
+
+add
+
+dev.h
+file
+
+
+
+add
+
+proc.h
+file
+
+
+
+add
+
+alarm
+dir
+
+
+
+add
+
+sysfs.h
+file
+
+
+
+add
+

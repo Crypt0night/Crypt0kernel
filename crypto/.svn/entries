@@ -1,0 +1,875 @@
+10
+
+dir
+0
+https://crypt0kernel.googlecode.com/svn/trunk/crypto
+https://crypt0kernel.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9436574-edd1-cb81-6aa3-2313f7e74a8f
+
+sha512_generic.c
+file
+
+
+
+add
+
+fips.c
+file
+
+
+
+add
+
+salsa20_generic.c
+file
+
+
+
+add
+
+sha256_generic.c
+file
+
+
+
+add
+
+ghash-generic.c
+file
+
+
+
+add
+
+ablkcipher.c
+file
+
+
+
+add
+
+.pcompress.o.cmd
+file
+
+
+
+add
+
+async_tx
+dir
+
+
+
+add
+
+hmac.c
+file
+
+
+
+add
+
+cipher.c
+file
+
+
+
+add
+
+pcompress.c
+file
+
+
+
+add
+
+.crc32c.o.cmd
+file
+
+
+
+add
+
+rmd256.c
+file
+
+
+
+add
+
+.twofish.o.cmd
+file
+
+
+
+add
+
+cast6.c
+file
+
+
+
+add
+
+.md5.o.cmd
+file
+
+
+
+add
+
+.testmgr.o.cmd
+file
+
+
+
+add
+
+.rng.o.cmd
+file
+
+
+
+add
+
+ansi_cprng.c
+file
+
+
+
+add
+
+twofish.c
+file
+
+
+
+add
+
+.authenc.o.cmd
+file
+
+
+
+add
+
+md5.c
+file
+
+
+
+add
+
+.ecb.o.cmd
+file
+
+
+
+add
+
+testmgr.c
+file
+
+
+
+add
+
+.aead.o.cmd
+file
+
+
+
+add
+
+.algboss.o.cmd
+file
+
+
+
+add
+
+rng.c
+file
+
+
+
+add
+
+authenc.c
+file
+
+
+
+add
+
+tgr192.c
+file
+
+
+
+add
+
+ctr.c
+file
+
+
+
+add
+
+ecb.c
+file
+
+
+
+add
+
+.crypto_algapi.o.cmd
+file
+
+
+
+add
+
+algboss.c
+file
+
+
+
+add
+
+testmgr.h
+file
+
+
+
+add
+
+compress.c
+file
+
+
+
+add
+
+twofish_common.c
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+.krng.o.cmd
+file
+
+
+
+add
+
+.proc.o.cmd
+file
+
+
+
+add
+
+zlib.c
+file
+
+
+
+add
+
+lrw.c
+file
+
+
+
+add
+
+lzo.c
+file
+
+
+
+add
+
+gf128mul.c
+file
+
+
+
+add
+
+cryptd.c
+file
+
+
+
+add
+
+camellia.c
+file
+
+
+
+add
+
+fcrypt.c
+file
+
+
+
+add
+
+tea.c
+file
+
+
+
+add
+
+crypto_null.c
+file
+
+
+
+add
+
+.crypto.o.cmd
+file
+
+
+
+add
+
+blowfish.c
+file
+
+
+
+add
+
+.built-in.o.cmd
+file
+
+
+
+add
+
+seed.c
+file
+
+
+
+add
+
+.ahash.o.cmd
+file
+
+
+
+add
+
+internal.h
+file
+
+
+
+add
+
+.cryptomgr.o.cmd
+file
+
+
+
+add
+
+ahash.c
+file
+
+
+
+add
+
+.sha1_generic.o.cmd
+file
+
+
+
+add
+
+.arc4.o.cmd
+file
+
+
+
+add
+
+ripemd.h
+file
+
+
+
+add
+
+seqiv.c
+file
+
+
+
+add
+
+.eseqiv.o.cmd
+file
+
+
+
+add
+
+michael_mic.c
+file
+
+
+
+add
+
+modules.builtin
+file
+
+
+
+add
+
+algapi.c
+file
+
+
+
+add
+
+Kconfig
+file
+
+
+
+add
+
+.blkcipher.o.cmd
+file
+
+
+
+add
+
+.deflate.o.cmd
+file
+
+
+
+add
+
+.ablkcipher.o.cmd
+file
+
+
+
+add
+
+modules.order
+file
+
+
+
+add
+
+.shash.o.cmd
+file
+
+
+
+add
+
+blkcipher.c
+file
+
+
+
+add
+
+.hmac.o.cmd
+file
+
+
+
+add
+
+deflate.c
+file
+
+
+
+add
+
+.api.o.cmd
+file
+
+
+
+add
+
+shash.c
+file
+
+
+
+add
+
+.cipher.o.cmd
+file
+
+
+
+add
+
+xor.c
+file
+
+
+
+add
+
+api.c
+file
+
+
+
+add
+
+crc32c.c
+file
+
+
+
+add
+
+cast5.c
+file
+
+
+
+add
+
+.scatterwalk.o.cmd
+file
+
+
+
+add
+
+scatterwalk.c
+file
+
+
+
+add
+
+md4.c
+file
+
+
+
+add
+
+vmac.c
+file
+
+
+
+add
+
+.compress.o.cmd
+file
+
+
+
+add
+
+.twofish_common.o.cmd
+file
+
+
+
+add
+
+cts.c
+file
+
+
+
+add
+
+aead.c
+file
+
+
+
+add
+
+.crypto_blkcipher.o.cmd
+file
+
+
+
+add
+
+.aes_generic.o.cmd
+file
+
+
+
+add
+
+krng.c
+file
+
+
+
+add
+
+ccm.c
+file
+
+
+
+add
+
+khazad.c
+file
+
+
+
+add
+
+.des_generic.o.cmd
+file
+
+
+
+add
+
+proc.c
+file
+
+
+
+add
+
+aes_generic.c
+file
+
+
+
+add
+
+gcm.c
+file
+
+
+
+add
+
+des_generic.c
+file
+
+
+
+add
+
+pcbc.c
+file
+
+
+
+add
+
+rmd320.c
+file
+
+
+
+add
+
+rmd160.c
+file
+
+
+
+add
+
+rmd128.c
+file
+
+
+
+add
+
+.chainiv.o.cmd
+file
+
+
+
+add
+
+wp512.c
+file
+
+
+
+add
+
+xts.c
+file
+
+
+
+add
+
+.crypto_hash.o.cmd
+file
+
+
+
+add
+
+xcbc.c
+file
+
+
+
+add
+
+serpent.c
+file
+
+
+
+add
+
+pcrypt.c
+file
+
+
+
+add
+
+anubis.c
+file
+
+
+
+add
+
+chainiv.c
+file
+
+
+
+add
+
+.cbc.o.cmd
+file
+
+
+
+add
+
+.crypto_wq.o.cmd
+file
+
+
+
+add
+
+tcrypt.c
+file
+
+
+
+add
+
+cbc.c
+file
+
+
+
+add
+
+crypto_wq.c
+file
+
+
+
+add
+
+sha1_generic.c
+file
+
+
+
+add
+
+.algapi.o.cmd
+file
+
+
+
+add
+
+arc4.c
+file
+
+
+
+add
+
+tcrypt.h
+file
+
+
+
+add
+
+eseqiv.c
+file
+
+
+
+add
+
